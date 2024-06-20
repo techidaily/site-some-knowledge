@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Grasping the Glossary of Virtual Worlds"
-date: 2024-05-26T15:29:55.023Z
-updated: 2024-05-27T15:29:55.023Z
+date: 2024-06-10T08:39:11.527Z
+updated: 2024-06-11T08:39:11.527Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Grasping the Glossary of Virtual Worlds"
 excerpt: "This Article Describes [Updated] Grasping the Glossary of Virtual Worlds"
 keywords: "Virtual World Vocabulary,Glossary Online Realms,Digital Universe Words,VR World Lexicon,Interactive Space Terms,Virtual Landglossaries,Multiplayer Language Guide"
-thumbnail: https://www.lifewire.com/thmb/2EtxtL_zUqwF4iv_es3eOcMixqI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1167680364-b87ba0c2ad964ac9bd4371c7007e178b.jpg
+thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445d25a553d85696ff0b2a85a2.jpg
 ---
 
 ## Grasping the Glossary of Virtual Worlds

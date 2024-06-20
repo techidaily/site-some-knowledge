@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fading Fast with Premiere Pro"
-date: 2024-05-26T15:04:58.707Z
-updated: 2024-05-27T15:04:58.707Z
+date: 2024-06-10T08:39:09.479Z
+updated: 2024-06-11T08:39:09.479Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Fading Fast with Premiere Pro"
 excerpt: "This Article Describes In 2024, Fading Fast with Premiere Pro"
 keywords: "Fade in Premiere,Quick Fades Pro,Advanced Transitions,Premiere SpeedTrim,Fast Fading Techniques,Efficient Color Grading,Optimal Editing Flows"
-thumbnail: https://www.lifewire.com/thmb/7R2Moj5hOalde8xgQLHdzQ-9RRE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-apple-watch-gps-vs-cellular-apple-watch-4774783-760199d53cce4ed2a5849a6104b87c07.jpg
+thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a13c44fac0ae0c8584b8720e.jpg
 ---
 
 ## Fading Fast with Premiere Pro

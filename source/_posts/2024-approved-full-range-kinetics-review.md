@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full Range Kinetics Review\""
-date: 2024-05-26T13:12:04.913Z
-updated: 2024-05-27T13:12:04.913Z
+date: 2024-06-10T08:39:13.074Z
+updated: 2024-06-11T08:39:13.074Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Full Range Kinetics Review\""
 excerpt: "\"This Article Describes 2024 Approved: Full Range Kinetics Review\""
 keywords: "\"Kinetic Analysis,Full-Range Assessment,Dynamic Motion Study,Movement Spectrum Evaluation,Physical System Review,Kinetics Overview,Momentum Insight\""
-thumbnail: https://www.lifewire.com/thmb/rFjBjbgG4dAis3lB2Bmfagm_oyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/a-knot-on-a-flex-to-a-portable-computer-close-up--88162993-596506423df78cdc68c20116.jpg
+thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b261fbe4ba782432860cba0bd7.jpg
 ---
 
 ## Full Range Kinetics Review

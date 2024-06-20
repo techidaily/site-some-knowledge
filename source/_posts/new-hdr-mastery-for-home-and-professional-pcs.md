@@ -1,7 +1,7 @@
 ---
 title: "[New] HDR Mastery for Home and Professional PCs"
-date: 2024-05-26T12:58:19.294Z
-updated: 2024-05-27T12:58:19.294Z
+date: 2024-06-10T08:39:08.446Z
+updated: 2024-06-11T08:39:08.446Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] HDR Mastery for Home and Professional PCs"
 excerpt: "This Article Describes [New] HDR Mastery for Home and Professional PCs"
 keywords: "HDR Photography,HD RGB,Pro PC HDR,Home HDR Tech,Digital Cinematics,Professional PCs HDR,PC HDR Mastery"
-thumbnail: https://www.lifewire.com/thmb/3zX1wSLUgOOUtfE8_n3UOx3eeL8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Amazon-Fire-Tablet-vs-iPad-c7412c25c83b4ac5b393596789f0e716.jpg
+thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491ec4b7484688140a5b3e77f5.jpg
 ---
 
 ## HDR Mastery for Home and Professional PCs

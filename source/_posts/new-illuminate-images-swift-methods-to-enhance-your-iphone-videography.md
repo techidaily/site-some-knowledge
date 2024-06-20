@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminate Images  Swift Methods to Enhance Your iPhone Videography\""
-date: 2024-05-26T13:57:21.104Z
-updated: 2024-05-27T13:57:21.104Z
+date: 2024-06-10T08:39:08.408Z
+updated: 2024-06-11T08:39:08.408Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Illuminate Images: Swift Methods to Enhance Your iPhone Videography\""
 excerpt: "\"This Article Describes [New] Illuminate Images: Swift Methods to Enhance Your iPhone Videography\""
 keywords: "IPhone Videography Tips,Swifter iPhone Shots,Mobile Photography Enhance,Quick iPhone Video Guide,Light up iPhone Pics,Enhance iPhones Vid,Swift Mobile Image Methods"
-thumbnail: https://www.lifewire.com/thmb/frTlewJlnbhuKPhXLCQHtTkjRKw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Nintendo-Switch-Home-5114442-25bf44243afc4997adbcbb5b7db8587e.jpg
+thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282754802f441bb66f0c3a3719.jpg
 ---
 
 ## Illuminate Images: Swift Methods to Enhance Your iPhone Videography

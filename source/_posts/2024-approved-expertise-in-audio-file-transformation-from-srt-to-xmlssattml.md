@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expertise in Audio File Transformation  From SRT to XML/SSA/TTML\""
-date: 2024-05-26T14:38:27.937Z
-updated: 2024-05-27T14:38:27.937Z
+date: 2024-06-10T08:39:09.243Z
+updated: 2024-06-11T08:39:09.243Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expertise in Audio File Transformation: From SRT to XML/SSA/TTML\""
 excerpt: "\"This Article Describes 2024 Approved: Expertise in Audio File Transformation: From SRT to XML/SSA/TTML\""
 keywords: "Audio Transform SRT,XML SSA TTML Conversion,SRT to XML/SSA/TTML,SRT File to XML,XML/SSA/TTML Audio Files,Audio Format SRT,SRT to SSA Transformation"
-thumbnail: https://www.lifewire.com/thmb/k634jL7WWQtyro9CdwkyFmFzEGA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Neo-QLED-vs-OLED-8eb18283c4fe49f3a8c583443f2b89b6.jpg
+thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a720808faf7dee8c99a861a3.jpg
 ---
 
 ## Expertise in Audio File Transformation: From SRT to XML/SSA/TTML

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IMovie Rhythms  Crafting Audio-Visual Symphony\""
-date: 2024-05-26T13:19:30.211Z
-updated: 2024-05-27T13:19:30.211Z
+date: 2024-06-10T08:39:05.819Z
+updated: 2024-06-11T08:39:05.819Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] IMovie Rhythms: Crafting Audio-Visual Symphony\""
 excerpt: "\"This Article Describes [Updated] IMovie Rhythms: Crafting Audio-Visual Symphony\""
 keywords: "IMovie Audio Blend,Rhythmic Video Sound,Visual Music Mix,IMovie Sync Harmony,Audio Visual Symphony,Rhythm in Video Audio,IMovie Beat Crafting"
-thumbnail: https://www.lifewire.com/thmb/ahjGgPBNVXhPGoYIxS7OxgZ4vuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-200544475-001-a23be5e7b0f24905873ef477e09dbbd3.jpg
+thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa228337347cb369c95ebc26efcbbaf5.jpg
 ---
 
 ## IMovie Rhythms: Crafting Audio-Visual Symphony

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Camera to Canvas  Getting Started with LunaPic\""
-date: 2024-05-26T13:14:13.975Z
-updated: 2024-05-27T13:14:13.975Z
+date: 2024-06-10T08:39:06.861Z
+updated: 2024-06-11T08:39:06.861Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Camera to Canvas: Getting Started with LunaPic\""
 excerpt: "\"This Article Describes In 2024, From Camera to Canvas: Getting Started with LunaPic\""
 keywords: "\"LunaPic Beginner Guide,Photography to Art (LunaPic),From Photo Canvas LunaPic,LunaPic Painting Tutorial,Transforming Photos with LunaPic,LunaPic Image Editing Basics,Pic-to-Canvas Creation LunaPic\""
-thumbnail: https://www.lifewire.com/thmb/FLPV-V33ODfbs7exiKK9jgooL9Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Centurylinkdown-fea3180ee2cd4b53afcf04cd67391cc7.JPG
+thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b815690abddeb6c6ade1d7933.JPG
 ---
 
 ## From Camera to Canvas: Getting Started with LunaPic

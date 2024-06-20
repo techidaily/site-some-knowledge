@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Run a Giveaway Facebook Post"
-date: 2024-05-26T13:02:58.092Z
-updated: 2024-05-27T13:02:58.092Z
+date: 2024-06-10T08:39:04.210Z
+updated: 2024-06-11T08:39:04.210Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How to Run a Giveaway Facebook Post"
 excerpt: "This Article Describes [Updated] How to Run a Giveaway Facebook Post"
 keywords: "FB Giving Strategies,Social Media Giveaways,Effective FB Promos,Hosting FB Giveaway,Winning on FB Events,Shareable FB Giveaway,Engaging FB Giveaway Posts"
-thumbnail: https://www.lifewire.com/thmb/4rrIDG7880IVGiEmcN8e0zeGrqQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b57f16e2feb19e964db9e9c8.jpg
 ---
 
 ## How to Run a Giveaway Facebook Post

@@ -1,7 +1,7 @@
 ---
 title: "\"Free C-Span Video Downloads - How To Do It Right for 2024\""
-date: 2024-05-26T15:35:54.934Z
-updated: 2024-05-27T15:35:54.934Z
+date: 2024-06-10T08:39:06.913Z
+updated: 2024-06-11T08:39:06.913Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Free C-Span Video Downloads - How To Do It Right for 2024\""
 excerpt: "\"This Article Describes Free C-Span Video Downloads - How To Do It Right for 2024\""
 keywords: "\"Free C-Span Videos,Download C-Span Content,C-Span Video Streaming,Legal C-Span Downloads,Access C-Span Recordings,Proper C-Span File Grabs,Right Way to C-Span Save\""
-thumbnail: https://www.lifewire.com/thmb/M_X1ma-kuwmeQ-kg-ITiIY4tMQQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2023-03-14at12.27.14PM-07cb4c0039e84004a9918ecb5dee60ec.jpg
+thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
 ---
 
 ## Free C-Span Video Downloads - How To Do It Right

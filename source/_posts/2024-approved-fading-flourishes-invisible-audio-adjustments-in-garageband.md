@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fading Flourishes  Invisible Audio Adjustments in Garageband\""
-date: 2024-05-26T13:43:44.774Z
-updated: 2024-05-27T13:43:44.774Z
+date: 2024-06-10T08:39:05.650Z
+updated: 2024-06-11T08:39:05.650Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Fading Flourishes: Invisible Audio Adjustments in Garageband\""
 excerpt: "\"This Article Describes 2024 Approved: Fading Flourishes: Invisible Audio Adjustments in Garageband\""
 keywords: "Garageband Audio Tweaks,Fading Effects Music,Garageband Sound Enhance,Invisible Mixing Techniques,Flourish Adjustment Tools,Audible Fades Garage,Subtle Sound Mixes"
-thumbnail: https://www.lifewire.com/thmb/14pyHdoLRnBjbbJ0t61rtBhGLpY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-946931092-2-5c50f6694cedfd0001f911e0.jpg
+thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c728b4bc630fa21c8db2efdc.jpg
 ---
 
 ## Fading Flourishes: Invisible Audio Adjustments in Garageband

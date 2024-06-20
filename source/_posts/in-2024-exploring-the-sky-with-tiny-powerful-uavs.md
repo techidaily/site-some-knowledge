@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Sky with Tiny, Powerful UAVs"
-date: 2024-05-26T13:17:29.142Z
-updated: 2024-05-27T13:17:29.142Z
+date: 2024-06-10T08:39:14.985Z
+updated: 2024-06-11T08:39:14.985Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Exploring the Sky with Tiny, Powerful UAVs"
 excerpt: "This Article Describes In 2024, Exploring the Sky with Tiny, Powerful UAVs"
 keywords: "\"UAV Sky Exploration,Mini Drones Aerial,Power UAV Flight,Airborne Drone Vision,Tiny UAV Observation,High-Tech Drone Skies,Micro UAV Surveying\""
-thumbnail: https://www.lifewire.com/thmb/mo3PVltV9cij2dihrE4RjLuVh3k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-tell-how-old-your-computer-is-5212230-6-5689d0e2960347bdb8ef419191d713f2.jpg
+thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be85f232f57f9da3d1c3125e2.jpg
 ---
 
 ## Exploring the Sky with Tiny, Powerful UAVs

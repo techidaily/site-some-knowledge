@@ -1,7 +1,7 @@
 ---
 title: "[New] Fundamentals of Digital Tale Construction"
-date: 2024-05-26T14:11:47.233Z
-updated: 2024-05-27T14:11:47.233Z
+date: 2024-06-10T08:39:10.023Z
+updated: 2024-06-11T08:39:10.023Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Fundamentals of Digital Tale Construction"
 excerpt: "This Article Describes [New] Fundamentals of Digital Tale Construction"
 keywords: "\"Digital Storytelling Basics,Digital Narrative Fundamentals,Essence of E-Tales Creation,Core Digitally Written Stories,Principles of Online Tale Making,Digital Fable Foundation,Basic Tale Construction in Digital Era\""
-thumbnail: https://www.lifewire.com/thmb/7R2Moj5hOalde8xgQLHdzQ-9RRE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-apple-watch-gps-vs-cellular-apple-watch-4774783-760199d53cce4ed2a5849a6104b87c07.jpg
+thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a13c44fac0ae0c8584b8720e.jpg
 ---
 
 ## Fundamentals of Digital Tale Construction

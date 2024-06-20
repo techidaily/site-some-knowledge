@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Green Canvas  Essential Templates to Enhance Your Cinematographic Journey\""
-date: 2024-05-26T13:12:28.702Z
-updated: 2024-05-27T13:12:28.702Z
+date: 2024-06-10T08:39:13.195Z
+updated: 2024-06-11T08:39:13.195Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Green Canvas: Essential Templates to Enhance Your Cinematographic Journey\""
 excerpt: "\"This Article Describes [New] Green Canvas: Essential Templates to Enhance Your Cinematographic Journey\""
 keywords: "\"Cinematic Journey Keywords:,Green Canvas Themes:,Essential Templates Uses:,Enhancing Film Production:,Green Canvas Concept:,Template Creation:,Cinematographic Journey Planning:\""
-thumbnail: https://www.lifewire.com/thmb/mBA1egTXIET625ohpIH5CHav6UM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/minecraft-logo-02e2cc677b49477a966142b0850f0a38.jpg
+thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3cb906b121a8d1c61752ad28b.jpg
 ---
 
 ## Green Canvas: Essential Templates to Enhance Your Cinematographic Journey

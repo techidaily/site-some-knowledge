@@ -1,7 +1,7 @@
 ---
 title: "Fabricate Jocular Images, Share via Giphy for 2024"
-date: 2024-05-26T13:51:33.403Z
-updated: 2024-05-27T13:51:33.403Z
+date: 2024-06-10T08:39:10.958Z
+updated: 2024-06-11T08:39:10.958Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Fabricate Jocular Images, Share via Giphy for 2024"
 excerpt: "This Article Describes Fabricate Jocular Images, Share via Giphy for 2024"
 keywords: "\"Gif Sharing Humor,Giggle Graphics Share,Funny Image Distribution,Jocular Image Exchange,Laughter-Inducing Images,Whimsical Visuals Share,Playful Picture Links\""
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## Fabricate Jocular Images, Share via Giphy

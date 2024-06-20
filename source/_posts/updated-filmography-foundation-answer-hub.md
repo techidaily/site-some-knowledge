@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Filmography Foundation  Answer Hub\""
-date: 2024-05-26T14:10:07.778Z
-updated: 2024-05-27T14:10:07.778Z
+date: 2024-06-10T08:39:14.945Z
+updated: 2024-06-11T08:39:14.945Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Filmography Foundation: Answer Hub\""
 excerpt: "\"This Article Describes [Updated] Filmography Foundation: Answer Hub\""
 keywords: "FilmHub SEO,AnswersForFilms,CinemagraphyList,FilmmakerIndex,MediaWorksHUB,FilmographyDB,CinemaKeywords"
-thumbnail: https://www.lifewire.com/thmb/S9DL5y6jdL8LZYRsDVu5U20GF1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc05322a198ecbbd0ad48fbaf8.jpg
 ---
 
 ## Filmography Foundation: Answer Hub

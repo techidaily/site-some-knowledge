@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring Intensified Illumination for Advanced HDR Video\""
-date: 2024-05-26T14:19:14.350Z
-updated: 2024-05-27T14:19:14.350Z
+date: 2024-06-10T08:39:13.876Z
+updated: 2024-06-11T08:39:13.876Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Exploring Intensified Illumination for Advanced HDR Video\""
 excerpt: "\"This Article Describes 2024 Approved: Exploring Intensified Illumination for Advanced HDR Video\""
 keywords: "HDR Video Enhancement,High Dynamic Range,Advanced Brightness Tech,Intensified Lighting HDR,Exploring HDR Techniques,Advanced Illumination Methods,HDR Video Clarity Boost"
-thumbnail: https://www.lifewire.com/thmb/AdJw0Uo65Rvhz4XSH8SUHKWY3YQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/podcasts-safeforkids-5b2f3dd4eb97de0036d9f87b.jpg
+thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb6f2fa2e2f0075e18f87eaf2.jpg
 ---
 
 ## Exploring Intensified Illumination for Advanced HDR Video

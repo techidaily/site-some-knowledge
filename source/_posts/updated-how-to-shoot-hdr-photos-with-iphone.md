@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Shoot HDR Photos with iPhone"
-date: 2024-05-26T13:20:44.840Z
-updated: 2024-05-27T13:20:44.840Z
+date: 2024-06-10T08:39:14.698Z
+updated: 2024-06-11T08:39:14.698Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How to Shoot HDR Photos with iPhone"
 excerpt: "This Article Describes [Updated] How to Shoot HDR Photos with iPhone"
 keywords: "IPhone HDR Photography Tips,Capture Perfect HDR on iPhone,HDR Techniques for iPhone Users,IPhone Shooting High Dynamic Range,DIY iPhone HDR Imaging,Enhance iPhone Photos with HDR,IPhone HDR Image Processing Guide"
-thumbnail: https://www.lifewire.com/thmb/RGDsbt708xWy-bclsFwdv7llVks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamingamazonondiscord-a9c34243e5924d5f95a6e11db738646d.jpg
+thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd934a3e89af40244a078e590d9.jpg
 ---
 
 ## How to Shoot HDR Photos with iPhone

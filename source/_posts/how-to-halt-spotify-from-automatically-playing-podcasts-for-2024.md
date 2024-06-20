@@ -1,7 +1,7 @@
 ---
 title: "How to Halt Spotify From Automatically Playing Podcasts for 2024"
-date: 2024-05-26T13:35:23.287Z
-updated: 2024-05-27T13:35:23.287Z
+date: 2024-06-10T08:39:14.206Z
+updated: 2024-06-11T08:39:14.206Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Halt Spotify From Automatically Playing Podcasts for 2024"
 excerpt: "This Article Describes How to Halt Spotify From Automatically Playing Podcasts for 2024"
 keywords: "\"Stop Spotify Auto-Play,Podcast Autoplay End,Cease Spotify Shuffle,No More Auto-Play,Halt Podcast Playback,Turn Off Spotify Sync,Prevent Spotify Shuffling\""
-thumbnail: https://www.lifewire.com/thmb/KER6l7ReycmbEYNNb6GNg7KUr1U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JackLi1-79e49ca2f15e4cd2ac31fc87afcf7eac.jpeg
+thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241996fcf78b83d8a047d570ec.jpeg
 ---
 
 ## How to Halt Spotify From Automatically Playing Podcasts

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fading Audio Dynamics  A Logic Pro Approach\""
-date: 2024-05-26T13:03:28.160Z
-updated: 2024-05-27T13:03:28.160Z
+date: 2024-06-10T08:39:06.240Z
+updated: 2024-06-11T08:39:06.240Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Fading Audio Dynamics: A Logic Pro Approach\""
 excerpt: "\"This Article Describes [New] Fading Audio Dynamics: A Logic Pro Approach\""
 keywords: "Pro Audio Fades,Logic Pro Tricks,Dynamic Sound Editing,Music Production Techniques,Audio Effects Management,Logic Mix Dynamics,Professional Music Editing"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Fading Audio Dynamics: A Logic Pro Approach

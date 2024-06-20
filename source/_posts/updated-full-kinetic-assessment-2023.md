@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Full Kinetic Assessment 2023"
-date: 2024-05-26T14:06:26.494Z
-updated: 2024-05-27T14:06:26.494Z
+date: 2024-06-10T08:39:14.472Z
+updated: 2024-06-11T08:39:14.472Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Full Kinetic Assessment 2023"
 excerpt: "This Article Describes [Updated] Full Kinetic Assessment 2023"
 keywords: "Full Knee Evaluation 2023,Kinetic Exam 2023,Knee Motion Analysis 2023,Physical Assessment 2023,Mobility Testing 2023,Dynamic Joint Review 2023,Active Movement Diagnosis 2023"
-thumbnail: https://www.lifewire.com/thmb/BaEJ6e3lDpxXhe3UKqZ9XZoO1wM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/amazon-freevee-logo-b464d480290b4ab28dba71206fea4786.png
+thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca83f80b9023766807a5bb6dc8.png
 ---
 
 ## Full Kinetic Assessment 2023

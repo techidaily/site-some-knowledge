@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Free-Football Filmmaking Basics  From Screen to Studio\""
-date: 2024-05-26T13:08:45.168Z
-updated: 2024-05-27T13:08:45.168Z
+date: 2024-06-10T08:39:13.727Z
+updated: 2024-06-11T08:39:13.727Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Free-Football Filmmaking Basics: From Screen to Studio\""
 excerpt: "\"This Article Describes [New] Free-Football Filmmaking Basics: From Screen to Studio\""
 keywords: "\"Free Filmmaking Football,Basic Footwork Shooting,Cinematic Soccer Starts,Stadium Movie Basics,Unpaid Football Filmmaking,Amateur Football Directing,No-Cost Screen Sports\""
-thumbnail: https://www.lifewire.com/thmb/p9IaplJL54ugOQSdVcCq05XRd54=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_0755-5be60f4146e0fb002616c5f4.jpg
+thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
 ---
 
 ## Free-Football Filmmaking Basics: From Screen to Studio

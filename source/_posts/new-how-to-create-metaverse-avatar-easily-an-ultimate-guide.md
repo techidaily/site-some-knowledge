@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Create Metaverse Avatar Easily  An Ultimate Guide\""
-date: 2024-05-26T15:16:19.156Z
-updated: 2024-05-27T15:16:19.156Z
+date: 2024-06-10T08:39:14.452Z
+updated: 2024-06-11T08:39:14.452Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] How to Create Metaverse Avatar Easily: An Ultimate Guide\""
 excerpt: "\"This Article Describes [New] How to Create Metaverse Avatar Easily: An Ultimate Guide\""
 keywords: "Avatar Creation Simplified,Metaverse Identity Basics,Quick Avatar Design Guide,Easy Metaverse Gaming Lookup,Ultimate Avatar Guidebook,Metaverse User Personalization,Simple Avatar Building Tips"
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## How to Create Metaverse Avatar Easily: An Ultimate Guide

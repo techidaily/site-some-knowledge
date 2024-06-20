@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  GiggleGraphs  Designing Delightful Memes\""
-date: 2024-05-26T15:46:32.610Z
-updated: 2024-05-27T15:46:32.610Z
+date: 2024-06-10T08:39:15.077Z
+updated: 2024-06-11T08:39:15.077Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: GiggleGraphs: Designing Delightful Memes\""
 excerpt: "\"This Article Describes 2024 Approved: GiggleGraphs: Designing Delightful Memes\""
 keywords: "Meme Creation Graphs,GiggleMeme Designs,Joyful Graph Memes,Delightful Meme Art,Humorous Data Visuals,Engaging Meme Diagrams,Funny Infographic Patterns"
-thumbnail: https://www.lifewire.com/thmb/sPXzCSZ7OsfyIg4VwzEwTRNYrhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-558946397-594822905f9b58d58ac71444.jpg
+thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37963b2732e636693601b56f7.jpg
 ---
 
 ## GiggleGraphs: Designing Delightful Memes

@@ -1,7 +1,7 @@
 ---
 title: "[New] Identifying Optimal Frame Rate in Slow Motion Film Production"
-date: 2024-05-26T14:14:30.361Z
-updated: 2024-05-27T14:14:30.361Z
+date: 2024-06-10T08:39:07.789Z
+updated: 2024-06-11T08:39:07.789Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Identifying Optimal Frame Rate in Slow Motion Film Production"
 excerpt: "This Article Describes [New] Identifying Optimal Frame Rate in Slow Motion Film Production"
 keywords: "\"Slow-Mo Frames Peak,Best Mo Film Rate,Optimal Mo-Shoot Rate,Max Mo Frame Speed,Prime Mo Frame Quality,Ideal Mo Rate Limit,Top Mo Rate Setting\""
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Identifying Optimal Frame Rate in Slow Motion Film Production

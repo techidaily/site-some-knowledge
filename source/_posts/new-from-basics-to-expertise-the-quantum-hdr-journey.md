@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Basics to Expertise  The Quantum HDR Journey\""
-date: 2024-05-26T14:39:56.337Z
-updated: 2024-05-27T14:39:56.337Z
+date: 2024-06-10T08:39:06.124Z
+updated: 2024-06-11T08:39:06.124Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Basics to Expertise: The Quantum HDR Journey\""
 excerpt: "\"This Article Describes [New] From Basics to Expertise: The Quantum HDR Journey\""
 keywords: "Quantum HDR Essentials,Advanced Quantum HDR,Quantum HDR Mastery,Quantum HDR Progression,Basic to Expertise in HDR,Quantum Techniques for HDR,Becoming an HDR Virtuoso"
-thumbnail: https://www.lifewire.com/thmb/MlwaJMBkgv5AdUUFqmutbxLipO8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1224786282-2d9033313a164d34a921f3bbf068ae50.jpg
+thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3f2637bf212870351e0edf0f.jpg
 ---
 
 ## From Basics to Expertise: The Quantum HDR Journey

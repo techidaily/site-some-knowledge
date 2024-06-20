@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Get More Than Just Images at Pexels.com\""
-date: 2024-05-26T14:41:34.221Z
-updated: 2024-05-27T14:41:34.221Z
+date: 2024-06-10T08:39:06.767Z
+updated: 2024-06-11T08:39:06.767Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Get More Than Just Images at Pexels.com\""
 excerpt: "\"This Article Describes 2024 Approved: Get More Than Just Images at Pexels.com\""
 keywords: "\"Pexels Image Download,High-Quality Stock Photos,Free Photography Resources,Online Photography Repository,Shareable Images Sources,Accessible Creative Content,Diverse Image Library Access\""
-thumbnail: https://www.lifewire.com/thmb/e34U4Sz8Eu2kehlu7lsMEta8saI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-578188655-5859a6685f9b586e028a9c96.jpg
+thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f6fee4b10bf3f28b3b2740fa.jpg
 ---
 
 ## Get More Than Just Images at Pexels.com
