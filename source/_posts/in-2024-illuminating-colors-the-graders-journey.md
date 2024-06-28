@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Illuminating Colors  The Grader's Journey\""
-date: 2024-05-26T14:40:09.378Z
-updated: 2024-05-27T14:40:09.378Z
+date: 2024-06-19T12:31:37.633Z
+updated: 2024-06-20T12:31:37.633Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Illuminating Colors: The Grader's Journey\""
 excerpt: "\"This Article Describes In 2024, Illuminating Colors: The Grader's Journey\""
 keywords: "Color Grading Tales,Illuminate Shot Design,Journey Through Coloring,Graders' Spectrum Guide,Artistic Light Balance,Vision in Film Editing,Hue Craftsman Insight"
-thumbnail: https://www.lifewire.com/thmb/jbamhywtXiyGSlJ3P3Gh1VQ_dkA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/FaceTime-Conference-Call-d68241b6f5914009a7eb2486fddab0e1.jpg
+thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a4452deb2b08eaf2b9d1e47c0a1.jpg
 ---
 
 ## Illuminating Colors: The Grader's Journey

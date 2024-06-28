@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Farm to Feast  Shooting Gourmet Films with Grace\""
-date: 2024-05-26T13:22:00.181Z
-updated: 2024-05-27T13:22:00.181Z
+date: 2024-06-19T12:31:38.926Z
+updated: 2024-06-20T12:31:38.926Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Farm to Feast: Shooting Gourmet Films with Grace\""
 excerpt: "\"This Article Describes In 2024, From Farm to Feast: Shooting Gourmet Films with Grace\""
 keywords: "\"Farm-to-Table Film Making,Gourmet Food Shots,Culinary Movie Production,Organic Cooking Filmmaking,Epicurean Cinematic Experience,Fresh Ingredients in Films,Fine Dining on Screen\""
-thumbnail: https://www.lifewire.com/thmb/BEn9gJhiUjAsdBphFaT7K625CFU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/YouTubeTVsigninbutton-29a18f0a1a5d429eb4dee97254cd5afd.jpg
+thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb38a9de890519fca2ccb2732.jpg
 ---
 
 ## From Farm to Feast: Shooting Gourmet Films with Grace

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Raw Files to Artwork  Beginner’s Guide to LunaPic\""
-date: 2024-05-26T15:13:57.617Z
-updated: 2024-05-27T15:13:57.617Z
+date: 2024-06-19T12:31:36.275Z
+updated: 2024-06-20T12:31:36.275Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Raw Files to Artwork: Beginner’s Guide to LunaPic\""
 excerpt: "\"This Article Describes [New] From Raw Files to Artwork: Beginner’s Guide to LunaPic\""
 keywords: "LunaPic Basics,Artwork Transformation,Photo to Art Start,LunaPic Tutorial,Digital Painting Guide,Raw File Editing,PicArt Creation Steps"
-thumbnail: https://www.lifewire.com/thmb/2UWIgqbr75rmWly-a-xGhza73uU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/AyChristene-b8de2a027d1f42d882b220e439204882.png
+thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a32cd1145e8a4d708fb6bf52.png
 ---
 
 ## From Raw Files to Artwork: Beginner’s Guide to LunaPic

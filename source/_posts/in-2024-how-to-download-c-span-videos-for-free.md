@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Download C-Span Videos for Free\""
-date: 2024-05-26T13:27:46.977Z
-updated: 2024-05-27T13:27:46.977Z
+date: 2024-06-19T12:31:38.381Z
+updated: 2024-06-20T12:31:38.381Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, How to Download C-Span Videos for Free\""
 excerpt: "\"This Article Describes In 2024, How to Download C-Span Videos for Free\""
 keywords: "\"Free C-Span Video Downloads,Legal C-Span Video Access,Streaming C-Span Content,C-Span Video Download Tips,C-Span Videos Offline,Access C-Span Programs,C-Span Live Streaming Guide\""
-thumbnail: https://www.lifewire.com/thmb/W5SdHvmRm1AkZ_3S___KYhBKNBA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/linksys-classic-micro-router-pro-6-8b16a5f340964425bdb89a3cc2f42e5d.jpg
+thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg
 ---
 
 ## How to Download C-Span Videos for Free

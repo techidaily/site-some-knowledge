@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Innovative Prime Lenses for Top-Tier Film Projects\""
-date: 2024-05-26T14:23:19.737Z
-updated: 2024-05-27T14:23:19.737Z
+date: 2024-06-19T12:31:40.822Z
+updated: 2024-06-20T12:31:40.822Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Innovative Prime Lenses for Top-Tier Film Projects\""
 excerpt: "\"This Article Describes [Updated] Innovative Prime Lenses for Top-Tier Film Projects\""
 keywords: "TopFilmLensPrime,PrimeFilmGear,InnovativeTopLenses,PrimeFineFilmmaking,EliteFilmLenses,LensInnovations,FilmPrimeSharp"
-thumbnail: https://www.lifewire.com/thmb/qlDKEhC1s0qpKxfQoJg-LZEy24M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/weather-apps-5b57415246e0fb00370b7d6e.jpg
+thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e468a1fcf01b032cc2430ea00.jpg
 ---
 
 ## Innovative Prime Lenses for Top-Tier Film Projects

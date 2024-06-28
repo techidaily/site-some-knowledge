@@ -1,7 +1,7 @@
 ---
 title: "\"Incorporating Personal Flair  Fonts for AE Projects for 2024\""
-date: 2024-05-26T14:26:58.267Z
-updated: 2024-05-27T14:26:58.267Z
+date: 2024-06-19T12:31:42.050Z
+updated: 2024-06-20T12:31:42.050Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Incorporating Personal Flair: Fonts for AE Projects for 2024\""
 excerpt: "\"This Article Describes Incorporating Personal Flair: Fonts for AE Projects for 2024\""
 keywords: "AE Project Fonts,Personalized Design Fonts,Unique Font Choices,Creative Typography in AE,Flair Font Selection,Individual Style Fonts,Artistic Font Usage"
-thumbnail: https://www.lifewire.com/thmb/_hc9DtkCKDph1kORMUlipe3yJ4g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pixel-8-pro-ad72b900095f485fa5eb09f9525f7448.jpg
+thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b667c623d0ec997b65a2b06877.jpg
 ---
 
 ## Incorporating Personal Flair: Fonts for AE Projects

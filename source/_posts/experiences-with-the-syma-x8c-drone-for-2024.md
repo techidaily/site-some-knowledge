@@ -1,7 +1,7 @@
 ---
 title: "Experiences with the Syma X8C Drone for 2024"
-date: 2024-05-26T15:33:33.542Z
-updated: 2024-05-27T15:33:33.542Z
+date: 2024-06-19T12:31:46.064Z
+updated: 2024-06-20T12:31:46.064Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Experiences with the Syma X8C Drone for 2024"
 excerpt: "This Article Describes Experiences with the Syma X8C Drone for 2024"
 keywords: "Syma X8C Fly Experience,Drone Flight Adventures,Syma Drones Review,X8C Drone Usage Tips,Aerial Photography with Syma X8C,Pro Drone Techniques,Exploring Sky via Syma X8C"
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Experiences with the Syma X8C Drone

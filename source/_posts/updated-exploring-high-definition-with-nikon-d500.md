@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Exploring High-Definition with Nikon D500\""
-date: 2024-05-26T13:54:46.068Z
-updated: 2024-05-27T13:54:46.068Z
+date: 2024-06-19T12:31:46.534Z
+updated: 2024-06-20T12:31:46.534Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Exploring High-Definition with Nikon D500\""
 excerpt: "\"This Article Describes [Updated] Exploring High-Definition with Nikon D500\""
 keywords: "HD Nikon D500,Nikon D500 HD,Digital Nikon D500,Nikon HighResD500,UltraHD Nikon D500,Premium D500 HD,Advanced D500 Shot"
-thumbnail: https://www.lifewire.com/thmb/NbdHSQAycy6SClhRHsj3CQyiEGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeShuna-Spencer-78f0319607be48ec97dcc6ce1b0d1c75.png
+thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9acdb56f193b79911b70ed6c.png
 ---
 
 ## Exploring High-Definition with Nikon D500

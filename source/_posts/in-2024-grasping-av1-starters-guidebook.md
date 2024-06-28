@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Grasping AV1  Starter's Guidebook\""
-date: 2024-05-26T13:56:54.768Z
-updated: 2024-05-27T13:56:54.768Z
+date: 2024-06-19T12:31:41.025Z
+updated: 2024-06-20T12:31:41.025Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Grasping AV1: Starter's Guidebook\""
 excerpt: "\"This Article Describes In 2024, Grasping AV1: Starter's Guidebook\""
 keywords: "AV1 Basics,AV1 Overview,AV1 Introduction,AV1 QuickStart,AV1 Essentials,Beginner's AV1 Guide,Understanding AV1"
-thumbnail: https://www.lifewire.com/thmb/c_W-bqkUFLIKTo_i61jk41BN8k0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2024-01-17at12.08.28PM-45f8005316274053872dbaa7c76fd474.png
+thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad507615fc36a561cee9ad50600.png
 ---
 
 ## Grasping AV1: Starter's Guidebook

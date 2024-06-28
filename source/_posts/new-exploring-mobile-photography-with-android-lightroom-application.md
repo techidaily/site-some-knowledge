@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Mobile Photography with Android Lightroom Application"
-date: 2024-05-26T13:20:42.343Z
-updated: 2024-05-27T13:20:42.343Z
+date: 2024-06-19T12:31:44.581Z
+updated: 2024-06-20T12:31:44.581Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Exploring Mobile Photography with Android Lightroom Application"
 excerpt: "This Article Describes [New] Exploring Mobile Photography with Android Lightroom Application"
 keywords: "\"Mobile Photo Editing,Android Camera Apps,Lightroom for Smartphones,Mobile Adobe Lightroom,On-the-Go Photography Tools,Compact Photo Manipulation,Lightroom on Android Devices\""
-thumbnail: https://www.lifewire.com/thmb/nbqgLnPpUPiuvThF3CkLGTo8XnU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-174750928-58a48cc35f9b58819cc45552-5bd8c2274cedfd00264695bd.jpg
+thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021abfc1f3482b428b18a9e6d1.jpg
 ---
 
 ## Exploring Mobile Photography with Android Lightroom Application

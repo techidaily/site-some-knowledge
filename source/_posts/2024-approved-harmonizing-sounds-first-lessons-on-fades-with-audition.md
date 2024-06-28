@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Harmonizing Sounds  First Lessons on Fades with Audition\""
-date: 2024-05-26T14:22:23.173Z
-updated: 2024-05-27T14:22:23.173Z
+date: 2024-06-19T12:31:44.258Z
+updated: 2024-06-20T12:31:44.258Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Harmonizing Sounds: First Lessons on Fades with Audition\""
 excerpt: "\"This Article Describes 2024 Approved: Harmonizing Sounds: First Lessons on Fades with Audition\""
 keywords: "Music Fade Techniques,Audition Sound Transitions,Learning Audio Editing,Basic Sound Design,Mastering Mixing Basics,Audio Fades Lesson,Sounds Harmony Guide"
-thumbnail: https://www.lifewire.com/thmb/svXLJxawYMhz7TKJ6OUoS2rOSKY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e504c943e408d092d2c07266c8.jpg
 ---
 
 ## Harmonizing Sounds: First Lessons on Fades with Audition
@@ -65,7 +65,7 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
+### **Steps to use Filmora
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.
@@ -100,7 +100,7 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
+### **Steps to use Filmora
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Essentials in AV1 Compression for 2024"
-date: 2024-05-26T13:48:55.496Z
-updated: 2024-05-27T13:48:55.496Z
+date: 2024-06-19T12:31:32.399Z
+updated: 2024-06-20T12:31:32.399Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring the Essentials in AV1 Compression for 2024"
 excerpt: "This Article Describes Exploring the Essentials in AV1 Compression for 2024"
 keywords: "AV1 Basics,AV1 Fundamentals,AV1 Core Concepts,AV1 Key Features,AV1 Essentials Guide,Understanding AV1,Learn AV1 Compression"
-thumbnail: https://www.lifewire.com/thmb/bxA2-eyTR0niNBJVXdpk_ffLlPw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/wise-care-365-registry-cleaner-96cf06b1854146f187ff0879263adc4b.png
+thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c153534fece429948183b0ad342f.png
 ---
 
 ## Exploring the Essentials in AV1 Compression

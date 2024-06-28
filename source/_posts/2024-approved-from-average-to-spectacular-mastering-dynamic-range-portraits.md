@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Average to Spectacular  Mastering Dynamic Range Portraits\""
-date: 2024-05-26T12:50:04.924Z
-updated: 2024-05-27T12:50:04.924Z
+date: 2024-06-19T12:31:32.513Z
+updated: 2024-06-20T12:31:32.513Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Average to Spectacular: Mastering Dynamic Range Portraits\""
 excerpt: "\"This Article Describes 2024 Approved: From Average to Spectacular: Mastering Dynamic Range Portraits\""
 keywords: "Dynamic Portrait Range,Spectacular Highlights,Dynamic Exposure Techniques,Portraits with Contrast,Improve Photo Range,Mastering Shadows/Highlights,Enhanced Image Dynamics"
-thumbnail: https://www.lifewire.com/thmb/FVfCZ83Vqj5qSvSjY9PwbDH64WA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-the-fortnite-split-screen-e1bea3d8dee841af841e417a2778bbfc.jpg
+thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15c9d92c3f00bf91d9310afa1.jpg
 ---
 
 ## From Average to Spectacular: Mastering Dynamic Range Portraits

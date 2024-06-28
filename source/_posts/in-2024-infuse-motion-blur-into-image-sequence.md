@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Infuse Motion Blur Into Image Sequence"
-date: 2024-05-26T13:25:55.765Z
-updated: 2024-05-27T13:25:55.765Z
+date: 2024-06-19T12:31:43.538Z
+updated: 2024-06-20T12:31:43.538Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Infuse Motion Blur Into Image Sequence"
 excerpt: "This Article Describes In 2024, Infuse Motion Blur Into Image Sequence"
 keywords: "Image Blur Infusion,Motion Sequence Enhance,Dynamic Blur Effects,Frame Transition Blur,Time Lapse Soft Edges,Sequential Motion Smoothing,Visual Stutter Reduction"
-thumbnail: https://www.lifewire.com/thmb/Mmi2kpOhijnlQEr-pFGOvs-ub1E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-mobility-as-a-service-3310c605b3414d70bdbc8917f999f703.jpg
+thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668667f50f1987a428d6465f16.jpg
 ---
 
 ## Infuse Motion Blur Into Image Sequence

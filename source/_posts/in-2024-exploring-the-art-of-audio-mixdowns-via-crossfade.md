@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Art of Audio Mixdowns via Crossfade"
-date: 2024-05-26T14:12:14.016Z
-updated: 2024-05-27T14:12:14.016Z
+date: 2024-06-19T12:31:44.851Z
+updated: 2024-06-20T12:31:44.851Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Exploring the Art of Audio Mixdowns via Crossfade"
 excerpt: "This Article Describes In 2024, Exploring the Art of Audio Mixdowns via Crossfade"
 keywords: "Crossfade Techniques,Audio Mixing Basics,Sound Engineering,Fade Effect in Music,Mastering Audio,Crossfading Tips,Beat Blending Methods"
-thumbnail: https://www.lifewire.com/thmb/uGmnDyKyM5PkCqjc-VoDNR9geX8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-share-liked-songs-on-spotify-5200847-f4f39ccd5ec84965bd94ef86f0f93a94.jpg
+thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406cf2fae44c9a446c53d02efdc.jpg
 ---
 
 ## Exploring the Art of Audio Mixdowns via Crossfade

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expertise in iPhone's High-Dynamic Range Photography\""
-date: 2024-05-26T13:12:59.615Z
-updated: 2024-05-27T13:12:59.615Z
+date: 2024-06-19T12:31:37.468Z
+updated: 2024-06-20T12:31:37.468Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Expertise in iPhone's High-Dynamic Range Photography\""
 excerpt: "\"This Article Describes [New] Expertise in iPhone's High-Dynamic Range Photography\""
 keywords: "\"HDR iPhone Shots,Pro iPhone Photo,IPhone Dynamic HDR,Expert iPhone Imaging,Advanced iPhone Photography,High-Quality iPhone Pics,Professional iPhone Camera Tech\""
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## Expertise in iPhone's High-Dynamic Range Photography

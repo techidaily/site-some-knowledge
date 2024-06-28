@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Full Disclosure  Inside DJI's Next Gen Drone - Inspire 2\""
-date: 2024-05-26T14:44:09.678Z
-updated: 2024-05-27T14:44:09.678Z
+date: 2024-06-19T12:31:44.519Z
+updated: 2024-06-20T12:31:44.519Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Full Disclosure: Inside DJI's Next Gen Drone - Inspire 2\""
 excerpt: "\"This Article Describes [New] Full Disclosure: Inside DJI's Next Gen Drone - Inspire 2\""
 keywords: "\"Drone Inspire 2,DJI Next-Gen Drones,Advanced DJI Drones,DJI Drone Upgrade,DJI's New Tech Drones,High-Res DJI Drones,DJI Inspire 2 Reveal\""
-thumbnail: https://www.lifewire.com/thmb/ZBqFoENbbRmDTcsnIlj_6leL_Bg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/screenburnin01-5bdc37e9c9e77c00269c4545.jpg
+thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044596db757054a8f03e6ab91e.jpg
 ---
 
 ## Full Disclosure: Inside DJI's Next Gen Drone - Inspire 2

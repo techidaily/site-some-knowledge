@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Do Time Lapse on Samsung Phones\""
-date: 2024-05-26T12:56:34.584Z
-updated: 2024-05-27T12:56:34.584Z
+date: 2024-06-19T12:31:41.225Z
+updated: 2024-06-20T12:31:41.225Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Do Time Lapse on Samsung Phones\""
 excerpt: "\"This Article Describes 2024 Approved: How to Do Time Lapse on Samsung Phones\""
 keywords: "\"Time-Lapse Samsung Guide,Samsung Time Lapse Tips,Laptime Samsung Camera,Create Time-Lapse Samsung,Samsung Phone Time-Lapse,Short Video on Samsung,PhotoTime with Samsung\""
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## How to Do Time Lapse on Samsung Phones

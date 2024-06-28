@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Static to Swirling  Implementing Motion Blur in AI Designs\""
-date: 2024-05-26T12:51:22.394Z
-updated: 2024-05-27T12:51:22.394Z
+date: 2024-06-19T12:31:42.919Z
+updated: 2024-06-20T12:31:42.919Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Static to Swirling: Implementing Motion Blur in AI Designs\""
 excerpt: "\"This Article Describes In 2024, From Static to Swirling: Implementing Motion Blur in AI Designs\""
 keywords: "MotionBlurAIDesign,DynamicDesignAIDesign,ArtificialMotionEffect,SwirlingStylizedArt,AISwirlGraphics,DesignTransformation,StaticToDynamicArt"
-thumbnail: https://www.lifewire.com/thmb/IzJJ6f5wPlEWwj8YojgqF7p1oB4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/windows10wifinetwork-5c66ba284cedfd00014aa385.jpg
+thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4ad65f2c158ff8f924f60868.jpg
 ---
 
 ## From Static to Swirling: Implementing Motion Blur in AI Designs

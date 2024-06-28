@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fiendish Freshman Filmmaker"
-date: 2024-05-26T15:04:08.150Z
-updated: 2024-05-27T15:04:08.150Z
+date: 2024-06-19T12:31:32.255Z
+updated: 2024-06-20T12:31:32.255Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Fiendish Freshman Filmmaker"
 excerpt: "This Article Describes [Updated] Fiendish Freshman Filmmaker"
 keywords: "\"Freshman Film Art,New Filmmaker Tricks,Fiendish Cinematic,First-Year Movie Making,Innovative Freshner,Rookie Filmmakers' Secrets,Fresh Talent in Cinema\""
-thumbnail: https://www.lifewire.com/thmb/atmgcLi8nNaTPfUc4O0_D2t6Mng=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dash-camera-57d5ca313df78c58335c4402.jpg
+thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a164216256186200a3f57210ef49bd6287bae1.jpg
 ---
 
 ## Fiendish Freshman Filmmaker

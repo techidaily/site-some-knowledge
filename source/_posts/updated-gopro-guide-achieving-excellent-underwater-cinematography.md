@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] GoPro Guide  Achieving Excellent Underwater Cinematography\""
-date: 2024-05-26T14:47:15.091Z
-updated: 2024-05-27T14:47:15.091Z
+date: 2024-06-19T12:31:40.886Z
+updated: 2024-06-20T12:31:40.886Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] GoPro Guide: Achieving Excellent Underwater Cinematography\""
 excerpt: "\"This Article Describes [Updated] GoPro Guide: Achieving Excellent Underwater Cinematography\""
 keywords: "\"Underwater Filming Tips,GoPro Water Shots,Pro Cameras for Dives,Aquatic Cinematography Guide,Excellent Underwater Video,Diving Camera Techniques,High-Quality Marine Shoot\""
-thumbnail: https://www.lifewire.com/thmb/9XoHJzt8ZnNyam3jHqzXVgxBSfs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-02-11at1.22.45PM-02505fa8dc964c87bedbbce2c59bfd32.png
+thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f3b23f8677650a8fb00dc7f5.png
 ---
 
 ## GoPro Guide: Achieving Excellent Underwater Cinematography
@@ -53,11 +53,11 @@ Fogging on the lenses occur due to the condensation of moisture inside the camer
 
 You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
 
-#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
+#### 4. Use the Filter
 
 If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
 
-#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 5.Choose the Right Mounting Support
 
 It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
 
@@ -101,7 +101,7 @@ Your housing and accessories contact salt residue underwater. Such remnants can 
 
 Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
 
-#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3.Video editing software – Wondershare Filmora
 
 Do you want easy editing solution to give your videos a documentary style?
 
@@ -154,11 +154,11 @@ Fogging on the lenses occur due to the condensation of moisture inside the camer
 
 You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
 
-#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
+#### 4. Use the Filter
 
 If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
 
-#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 5.Choose the Right Mounting Support
 
 It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
 
@@ -202,7 +202,7 @@ Your housing and accessories contact salt residue underwater. Such remnants can 
 
 Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
 
-#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3.Video editing software – Wondershare Filmora
 
 Do you want easy editing solution to give your videos a documentary style?
 
@@ -255,11 +255,11 @@ Fogging on the lenses occur due to the condensation of moisture inside the camer
 
 You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
 
-#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
+#### 4. Use the Filter
 
 If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
 
-#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 5.Choose the Right Mounting Support
 
 It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
 
@@ -303,7 +303,7 @@ Your housing and accessories contact salt residue underwater. Such remnants can 
 
 Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
 
-#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3.Video editing software – Wondershare Filmora
 
 Do you want easy editing solution to give your videos a documentary style?
 
@@ -356,11 +356,11 @@ Fogging on the lenses occur due to the condensation of moisture inside the camer
 
 You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
 
-#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
+#### 4. Use the Filter
 
 If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
 
-#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 5.Choose the Right Mounting Support
 
 It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
 
@@ -404,7 +404,7 @@ Your housing and accessories contact salt residue underwater. Such remnants can 
 
 Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
 
-#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3.Video editing software – Wondershare Filmora
 
 Do you want easy editing solution to give your videos a documentary style?
 

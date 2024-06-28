@@ -1,7 +1,7 @@
 ---
 title: "\"From Concept to Reality  The Artisan's Guide to LUT Crafting for 2024\""
-date: 2024-05-26T13:49:18.501Z
-updated: 2024-05-27T13:49:18.501Z
+date: 2024-06-19T12:31:31.886Z
+updated: 2024-06-20T12:31:31.886Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Concept to Reality: The Artisan's Guide to LUT Crafting for 2024\""
 excerpt: "\"This Article Describes From Concept to Reality: The Artisan's Guide to LUT Crafting for 2024\""
 keywords: "LUT Crafting Essentials,Artisan LUT Creation,From Idea To LUT,Reality in LUT Design,Mastering LUT Techniques,LUT Design for Artisans,Conceptualizing LUTs"
-thumbnail: https://www.lifewire.com/thmb/ykAUFSZjtnCD_V_gdulTcJzd-5w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1367281424-4cada22b6aa04ceabd3a3af00609dac0.jpg
+thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca1da2ad6fefe640eb56756a6.jpg
 ---
 
 ## From Concept to Reality: The Artisan's Guide to LUT Crafting

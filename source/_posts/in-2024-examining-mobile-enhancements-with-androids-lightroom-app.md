@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Examining Mobile Enhancements with Android's Lightroom App"
-date: 2024-05-26T15:05:52.132Z
-updated: 2024-05-27T15:05:52.132Z
+date: 2024-06-19T12:31:37.544Z
+updated: 2024-06-20T12:31:37.544Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Examining Mobile Enhancements with Android's Lightroom App"
 excerpt: "This Article Describes In 2024, Examining Mobile Enhancements with Android's Lightroom App"
 keywords: "Android Lightroom,Mobile Camera App,Lightroom Mobile,Enhanced Android Photos,Photography on Devices,Lightroom for Smartphones,Photo Editing on Go"
-thumbnail: https://www.lifewire.com/thmb/yrYqQYaeFXkSwlUGx_VUklWUySE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/batteryelectrolytewateracid-56ad078f3df78cf772b6676a.jpg
+thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3cd3e6dc3d81f2870623c2d81.jpg
 ---
 
 ## Examining Mobile Enhancements with Android's Lightroom App

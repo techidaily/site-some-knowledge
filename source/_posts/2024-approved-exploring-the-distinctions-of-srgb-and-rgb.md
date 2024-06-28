@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring the Distinctions of Srgb and Rgb\""
-date: 2024-05-26T14:06:09.227Z
-updated: 2024-05-27T14:06:09.227Z
+date: 2024-06-19T12:31:42.392Z
+updated: 2024-06-20T12:31:42.392Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Exploring the Distinctions of Srgb and Rgb\""
 excerpt: "\"This Article Describes 2024 Approved: Exploring the Distinctions of Srgb and Rgb\""
 keywords: "Metaverse Insight,Virtual Realms,Metaverse Analysis,Omniverse Breakdown,Metaverse Explained,Omniverse Clarity,VR Worlds Unfolded"
-thumbnail: https://www.lifewire.com/thmb/68FRwXnL6TRBKTZVHrIzMzZ_v6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/403-forbidden-error-explained-2617989-2d79b84333b84a669430fd18f60dc9c9.png
+thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a20f9cd77a73d4dd6ae5bf66d.png
 ---
 
 ## Exploring the Distinctions of Srgb and Rgb

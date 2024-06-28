@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expertly Handling Timecodes in SRT Using macOS Tools"
-date: 2024-05-26T14:55:13.884Z
-updated: 2024-05-27T14:55:13.884Z
+date: 2024-06-19T12:31:44.439Z
+updated: 2024-06-20T12:31:44.439Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Expertly Handling Timecodes in SRT Using macOS Tools"
 excerpt: "This Article Describes [Updated] Expertly Handling Timecodes in SRT Using macOS Tools"
 keywords: "MacOS SRT Timecode Editing,SRT Timecode Tools macOS,Expertise macOS SRT Editing,Timecode Management macOS,SRT Editing with macOS,Mastering SRT in macOS,SRT Timecodes on Mac"
-thumbnail: https://www.lifewire.com/thmb/IzJJ6f5wPlEWwj8YojgqF7p1oB4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/windows10wifinetwork-5c66ba284cedfd00014aa385.jpg
+thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4ad65f2c158ff8f924f60868.jpg
 ---
 
 ## Expertly Handling Timecodes in SRT Using macOS Tools

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, HDR Review  Luminance's Creation Capability\""
-date: 2024-05-26T15:03:21.901Z
-updated: 2024-05-27T15:03:21.901Z
+date: 2024-06-19T12:31:38.632Z
+updated: 2024-06-20T12:31:38.632Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, HDR Review: Luminance's Creation Capability\""
 excerpt: "\"This Article Describes In 2024, HDR Review: Luminance's Creation Capability\""
 keywords: "HDR Creation Review,Luminance Capabilities,High Dynamic Range Testing,Creation Techniques in HDR,Luminance Innovations,Dynamic Range Improvement,Advanced HDR Technology"
-thumbnail: https://www.lifewire.com/thmb/9HAUFDkv-DVotldzmaBl6FCkZ9Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/TMooutagemaplargefromdowndetector-cc2267925f494b228f64522d47eb4992.JPG
+thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3ca7d54eab5f1d4007ba674c0.JPG
 ---
 
 ## HDR Review: Luminance's Creation Capability

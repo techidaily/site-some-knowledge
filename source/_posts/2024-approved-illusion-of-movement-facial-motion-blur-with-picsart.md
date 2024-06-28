@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Illusion of Movement  Facial Motion Blur with Picsart\""
-date: 2024-05-26T15:15:25.339Z
-updated: 2024-05-27T15:15:25.339Z
+date: 2024-06-19T12:31:41.749Z
+updated: 2024-06-20T12:31:41.749Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Illusion of Movement: Facial Motion Blur with Picsart\""
 excerpt: "\"This Article Describes 2024 Approved: Illusion of Movement: Facial Motion Blur with Picsart\""
 keywords: "Motion Blur Effects,Picsart Face Blur,Dynamic Facial Editing,Video Illusion Tech,Smooth Transition Edits,Realistic Motion Art,Picsart Blur Features"
-thumbnail: https://www.lifewire.com/thmb/WFvU4ZL5NviLm9GFYkEUQ5kjayU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/02LW4149830-HeroSquare-d2335ae2774942c09bf723276ea1a609.jpg
+thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc9941bc7a8515fe1dd62e1cd32c.jpg
 ---
 
 ## Illusion of Movement: Facial Motion Blur with Picsart

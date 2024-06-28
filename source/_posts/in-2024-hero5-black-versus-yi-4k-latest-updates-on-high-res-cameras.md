@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Hero5 Black Versus Yi 4K  Latest Updates on High-Res Cameras\""
-date: 2024-05-26T14:34:35.363Z
-updated: 2024-05-27T14:34:35.363Z
+date: 2024-06-19T12:31:39.229Z
+updated: 2024-06-20T12:31:39.229Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Hero5 Black Versus Yi 4K: Latest Updates on High-Res Cameras\""
 excerpt: "\"This Article Describes In 2024, Hero5 Black Versus Yi 4K: Latest Updates on High-Res Cameras\""
 keywords: "Hero5 Vs. Yi 4K Update,Black HERO5 Camera,YI 4K Resolution,High Res Cam Latest,HERO5 Vs. YI Compare,Ultra HD Cam Tech,4K Photography Advances"
-thumbnail: https://www.lifewire.com/thmb/oM1F6FMEMZ0Riy1ckp-E8xI__eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Signal-vs-WhatsApp-511d663c232b4478bbf7c44e7d7e5641.jpg
+thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f000417effd74e9124ff9dff3.jpg
 ---
 
 ## Hero5 Black Versus Yi 4K: Latest Updates on High-Res Cameras

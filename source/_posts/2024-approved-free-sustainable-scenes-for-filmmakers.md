@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free Sustainable Scenes for Filmmakers\""
-date: 2024-05-26T14:14:26.117Z
-updated: 2024-05-27T14:14:26.117Z
+date: 2024-06-19T12:31:34.848Z
+updated: 2024-06-20T12:31:34.848Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Free Sustainable Scenes for Filmmakers\""
 excerpt: "\"This Article Describes 2024 Approved: Free Sustainable Scenes for Filmmakers\""
 keywords: "\"Free Eco-Films,Green Movie Scenes,Sustainable Film Content,Ethical Cinema Graphics,No-Cost Eco Filmmaking,Eco-Friendly Cinematics,Affordable Green Scene Shoots\""
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Free Sustainable Scenes for Filmmakers

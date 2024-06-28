@@ -1,7 +1,7 @@
 ---
 title: "\"Hue Harmony  Translating Theory Into Artistry for 2024\""
-date: 2024-05-26T13:30:30.533Z
-updated: 2024-05-27T13:30:30.533Z
+date: 2024-06-19T12:31:36.882Z
+updated: 2024-06-20T12:31:36.882Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hue Harmony: Translating Theory Into Artistry for 2024\""
 excerpt: "\"This Article Describes Hue Harmony: Translating Theory Into Artistry for 2024\""
 keywords: "Hue Artistry,Color Theories,Creative Hues,Artistic Palette,Hue Balance,Harmony in Colors,Translating Arts"
-thumbnail: https://www.lifewire.com/thmb/udhMg_hbDpTJUjI1c6-5_oDBXNQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c767371cdaf8ce5e5162404d28c7d.jpg
 ---
 
 ## Hue Harmony: Translating Theory Into Artistry
