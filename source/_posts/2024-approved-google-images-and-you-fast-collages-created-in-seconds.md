@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Google Images & You  Fast Collages Created in Seconds\""
-date: 2024-05-26T15:01:29.856Z
-updated: 2024-05-27T15:01:29.856Z
+date: 2024-06-27T06:26:02.520Z
+updated: 2024-06-28T06:26:02.520Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Google Images & You: Fast Collages Created in Seconds\""
 excerpt: "\"This Article Describes 2024 Approved: Google Images & You: Fast Collages Created in Seconds\""
 keywords: "Quick Google Collage Maker,Instant Image Compilation,Speedy Image Fusions,Google Photo Merge Haste,Fast Visual Assemblies,Seconds to Create Art,Rapid Imagery Collages"
-thumbnail: https://www.lifewire.com/thmb/Wey1hmvaFNXkpGULggG7yXOy4ro=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-525956536-f1c8a23b12e2480cad7b8a4544b1c0d2.jpg
+thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69cf5a5eaeee681f0ad029756.jpg
 ---
 
 ## Google Images & You: Fast Collages Created in Seconds
@@ -48,11 +48,13 @@ First up is our tutorial on how to **make a collage in Google Photos** (web vers
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
+
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
+
 
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
@@ -60,11 +62,13 @@ Next up, in order to be able to make a **Google collage photo**, you need to hea
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
 
+
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
+
 
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
@@ -72,17 +76,20 @@ For the next part, you’ll be prompted to choose the photos you want to make a 
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
+
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
+
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
+
 
 ![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
 
@@ -102,11 +109,13 @@ First of all, in order to have **Google Photos make collage**s for you, you need
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
 
+
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
 
 ### 03**Step 3\. Go to the Library Page**
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
+
 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
@@ -114,11 +123,13 @@ Unlike the web version of Google Photos, the app version has the **make collage 
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
 
+
 ![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
 
 ### 05**Step 5\. Create Google Photos Collage**
 
 Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
+
 
 ![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
 
@@ -126,11 +137,13 @@ Again, just like before, you must first select the images that you want for your
 
 The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
 
+
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
+
 
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
@@ -178,11 +191,13 @@ First up is our tutorial on how to **make a collage in Google Photos** (web vers
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
+
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
+
 
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
@@ -190,11 +205,13 @@ Next up, in order to be able to make a **Google collage photo**, you need to hea
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
 
+
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
+
 
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
@@ -202,17 +219,20 @@ For the next part, you’ll be prompted to choose the photos you want to make a 
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
+
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
+
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
+
 
 ![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
 
@@ -232,11 +252,13 @@ First of all, in order to have **Google Photos make collage**s for you, you need
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
 
+
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
 
 ### 03**Step 3\. Go to the Library Page**
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
+
 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
@@ -244,11 +266,13 @@ Unlike the web version of Google Photos, the app version has the **make collage 
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
 
+
 ![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
 
 ### 05**Step 5\. Create Google Photos Collage**
 
 Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
+
 
 ![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
 
@@ -256,11 +280,13 @@ Again, just like before, you must first select the images that you want for your
 
 The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
 
+
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
+
 
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
@@ -308,11 +334,13 @@ First up is our tutorial on how to **make a collage in Google Photos** (web vers
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
+
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
+
 
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
@@ -320,11 +348,13 @@ Next up, in order to be able to make a **Google collage photo**, you need to hea
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
 
+
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
+
 
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
@@ -332,17 +362,20 @@ For the next part, you’ll be prompted to choose the photos you want to make a 
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
+
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
+
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
+
 
 ![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
 
@@ -362,11 +395,13 @@ First of all, in order to have **Google Photos make collage**s for you, you need
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
 
+
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
 
 ### 03**Step 3\. Go to the Library Page**
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
+
 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
@@ -374,11 +409,13 @@ Unlike the web version of Google Photos, the app version has the **make collage 
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
 
+
 ![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
 
 ### 05**Step 5\. Create Google Photos Collage**
 
 Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
+
 
 ![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
 
@@ -386,11 +423,13 @@ Again, just like before, you must first select the images that you want for your
 
 The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
 
+
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
+
 
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
@@ -438,11 +477,13 @@ First up is our tutorial on how to **make a collage in Google Photos** (web vers
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
+
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
+
 
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
@@ -450,11 +491,13 @@ Next up, in order to be able to make a **Google collage photo**, you need to hea
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
 
+
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
+
 
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
@@ -462,17 +505,20 @@ For the next part, you’ll be prompted to choose the photos you want to make a 
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
+
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
+
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
+
 
 ![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
 
@@ -492,11 +538,13 @@ First of all, in order to have **Google Photos make collage**s for you, you need
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
 
+
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
 
 ### 03**Step 3\. Go to the Library Page**
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
+
 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
@@ -504,11 +552,13 @@ Unlike the web version of Google Photos, the app version has the **make collage 
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
 
+
 ![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
 
 ### 05**Step 5\. Create Google Photos Collage**
 
 Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
+
 
 ![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
 
@@ -516,11 +566,13 @@ Again, just like before, you must first select the images that you want for your
 
 The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
 
+
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
+
 
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 

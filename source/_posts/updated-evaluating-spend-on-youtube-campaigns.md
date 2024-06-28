@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Evaluating Spend on YouTube Campaigns"
-date: 2024-05-26T13:14:57.466Z
-updated: 2024-05-27T13:14:57.466Z
+date: 2024-06-27T06:26:01.759Z
+updated: 2024-06-28T06:26:01.759Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,7 @@ Think about all the advertisements you see during the lead up to holiday weekend
 
 Compared to text-based flyers, articles or posters, promotional videos allow you to tell as well as shown the product you offer in an engaging manner.
 
+
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
 ## Types of Promo Videos
@@ -53,6 +54,7 @@ When it comes to the kinds of promo videos you can create, you have a world of o
 ### Product demo videos
 
 A product demo video shows users how they will go through the process using the entire product or some of its core features. it gives your potential customers an opportunity to see your product used in everyday life, which ultimately leads to conversion. But it’s just a short video and you only put the important details.
+
 
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
@@ -69,6 +71,7 @@ The explainer video is a short video that business use to quickly introduce them
 ### Product Review video
 
 A product review video features a reviewer, typically an influential person in your niche, who shows the product in action and gives his unbiased opinion about it or your own creation product review video. A short but very informative video about the product pros and cons.
+
 
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
@@ -104,13 +107,16 @@ I’d recommend you to pick an online video editor software that is user friendl
 
 Cut or trim your video to select the part that’s relevant.
 
+
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
 Add filters to enhance the video and set the desired mood
 
+
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
+
 
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
 
@@ -136,6 +142,7 @@ Think about all the advertisements you see during the lead up to holiday weekend
 
 Compared to text-based flyers, articles or posters, promotional videos allow you to tell as well as shown the product you offer in an engaging manner.
 
+
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
 ## Types of Promo Videos
@@ -145,6 +152,7 @@ When it comes to the kinds of promo videos you can create, you have a world of o
 ### Product demo videos
 
 A product demo video shows users how they will go through the process using the entire product or some of its core features. it gives your potential customers an opportunity to see your product used in everyday life, which ultimately leads to conversion. But it’s just a short video and you only put the important details.
+
 
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
@@ -161,6 +169,7 @@ The explainer video is a short video that business use to quickly introduce them
 ### Product Review video
 
 A product review video features a reviewer, typically an influential person in your niche, who shows the product in action and gives his unbiased opinion about it or your own creation product review video. A short but very informative video about the product pros and cons.
+
 
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
@@ -196,13 +205,16 @@ I’d recommend you to pick an online video editor software that is user friendl
 
 Cut or trim your video to select the part that’s relevant.
 
+
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
 Add filters to enhance the video and set the desired mood
 
+
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
+
 
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Film Timeframe  Determining GB Storage Requirement\""
-date: 2024-05-26T13:42:51.061Z
-updated: 2024-05-27T13:42:51.061Z
+date: 2024-06-27T06:26:07.727Z
+updated: 2024-06-28T06:26:07.727Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Film Timeframe: Determining GB Storage Requirement\""
 excerpt: "\"This Article Describes [New] Film Timeframe: Determining GB Storage Requirement\""
 keywords: "Film Data Space,GB Film Storage,Storage for Films,Timeframe GB Allocation,Determining Film GB Size,Calculating Film Storage GB,Assessing Film Space Requirements"
-thumbnail: https://www.lifewire.com/thmb/JOn9ZaAtHY0vioyW7JgnoHOtnRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-849772598-f1a9d4c9d1b742cdbc38acd6d12ede55.jpg
+thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884ba16ea4dee8b131acea9d9aa.jpg
 ---
 
 ## Film Timeframe: Determining GB Storage Requirement
@@ -29,6 +29,7 @@ The Format = HDV 720
 In this case, the total space occupied by this 24- hour video file is 263.67 GB.
 
 The most important factor in measuring the file size is the bit rate. **The Bitrate is the measure of the amount of information transmitted every second**. It is measured in Mbps or Kbps. Following is the table, you can use to adjust the file size with different bit rates and frame rates.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-1.jpg)
 
@@ -46,6 +47,7 @@ When you export large video files, it would take hours to upload. Alternatively,
 
 I would share some examples of I have been working with a client. One of the things he asked me is to make a large video, edit it and send me within a day. However, it was really difficult for me to put such a large video file, upload it into a hard drive and then ship it. Since the video is too long and I need to compress the video footage. Therefore, I compressed my file using file compression tool and timely sent my task to the client. In this article, you would learn how to how to compress a large video file into a smaller one without compromising the quality of the video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-2.jpg)
 
 ## **Can I Reduce the File Size for a Long Video?**
@@ -73,6 +75,7 @@ Compressing a video file seems really complicated but today I will show you how 
 * Here is the video and I will show you, how to compress the file and change its parameters.
 * After you are done with the editing process, hit the **Export** tab to share or download.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-3.jpg)
 
 When you press the Export button, you will be jumped to this window shown below.
@@ -80,23 +83,28 @@ When you press the Export button, you will be jumped to this window shown below.
 * First check the **size** of the file, it is **6MB**.
 * Hit the **settings** tab to apply compression.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-4.jpg)
 
 * In the settings menu hit the **Bit Rate** and select the minimum of **2000kbps** from the drop-down list.
 * Hit the **ok**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-5.jpg)
 
 * Now check the size of the video file reduced to **4MB**.
 * Hit the **Export tab** to share or download your video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-6.jpg)
 
 **Original video**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-7.jpg)
 
 **Compressed video**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-8.jpg)
 
@@ -106,6 +114,7 @@ Compressing a file for the desktop, we need to have a program. For this, we are 
 
 * Select the video file, you want to compress.
 * The file size is **42GB** size and it is **30 min** long.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-9.jpg)
 
@@ -117,12 +126,14 @@ It is really a huge compression!
 
 It has the same duration and dimension.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-10.jpg)
 
 Now let us compare the video quality.
 
 * The first one is the compressed video file and the second is the uncompressed video file.
 * There is a slight difference in the quality of the video. The first video is slightly sharper and the other is not sharper but still, it is pretty good.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-11.jpg)
 
@@ -135,6 +146,7 @@ Install the Video Compressor app on your phone from the google play store. Open 
 * Change the **Bit Rate** to around **8000 Kbit/s.**
 * Hit the **Compress Video** tab
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-12.jpg)
 
 You can compress your videos either from Android or iPhone, the result would be the same. But if you have a good phone, your video would compress fast.
@@ -143,9 +155,11 @@ Here the video is compressed and you can see the difference down below.
 
 **Original video.**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-13.jpg)
 
 **Compressed video.**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-14.jpg)
 
@@ -158,10 +172,12 @@ You can also compress your video online without finding and downloading any soft
 * You would find interphase as down below.
 * Hit the Choose the **File**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-15.jpg)
 
 * Select the video from your device that you want to compress.
 * Within a few minutes the video would be compressed and here we get the video ready to download.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-16.jpg)
 
@@ -179,6 +195,7 @@ When you export large video files, it would take hours to upload. Alternatively,
 
 I would share some examples of I have been working with a client. One of the things he asked me is to make a large video, edit it and send me within a day. However, it was really difficult for me to put such a large video file, upload it into a hard drive and then ship it. Since the video is too long and I need to compress the video footage. Therefore, I compressed my file using file compression tool and timely sent my task to the client. In this article, you would learn how to how to compress a large video file into a smaller one without compromising the quality of the video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-2.jpg)
 
 ## **Can I Reduce the File Size for a Long Video?**
@@ -206,6 +223,7 @@ Compressing a video file seems really complicated but today I will show you how 
 * Here is the video and I will show you, how to compress the file and change its parameters.
 * After you are done with the editing process, hit the **Export** tab to share or download.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-3.jpg)
 
 When you press the Export button, you will be jumped to this window shown below.
@@ -213,23 +231,28 @@ When you press the Export button, you will be jumped to this window shown below.
 * First check the **size** of the file, it is **6MB**.
 * Hit the **settings** tab to apply compression.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-4.jpg)
 
 * In the settings menu hit the **Bit Rate** and select the minimum of **2000kbps** from the drop-down list.
 * Hit the **ok**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-5.jpg)
 
 * Now check the size of the video file reduced to **4MB**.
 * Hit the **Export tab** to share or download your video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-6.jpg)
 
 **Original video**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-7.jpg)
 
 **Compressed video**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-8.jpg)
 
@@ -239,6 +262,7 @@ Compressing a file for the desktop, we need to have a program. For this, we are 
 
 * Select the video file, you want to compress.
 * The file size is **42GB** size and it is **30 min** long.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-9.jpg)
 
@@ -250,12 +274,14 @@ It is really a huge compression!
 
 It has the same duration and dimension.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-10.jpg)
 
 Now let us compare the video quality.
 
 * The first one is the compressed video file and the second is the uncompressed video file.
 * There is a slight difference in the quality of the video. The first video is slightly sharper and the other is not sharper but still, it is pretty good.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-11.jpg)
 
@@ -268,6 +294,7 @@ Install the Video Compressor app on your phone from the google play store. Open 
 * Change the **Bit Rate** to around **8000 Kbit/s.**
 * Hit the **Compress Video** tab
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-12.jpg)
 
 You can compress your videos either from Android or iPhone, the result would be the same. But if you have a good phone, your video would compress fast.
@@ -276,9 +303,11 @@ Here the video is compressed and you can see the difference down below.
 
 **Original video.**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-13.jpg)
 
 **Compressed video.**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-14.jpg)
 
@@ -291,10 +320,12 @@ You can also compress your video online without finding and downloading any soft
 * You would find interphase as down below.
 * Hit the Choose the **File**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-15.jpg)
 
 * Select the video from your device that you want to compress.
 * Within a few minutes the video would be compressed and here we get the video ready to download.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-16.jpg)
 
@@ -312,6 +343,7 @@ When you export large video files, it would take hours to upload. Alternatively,
 
 I would share some examples of I have been working with a client. One of the things he asked me is to make a large video, edit it and send me within a day. However, it was really difficult for me to put such a large video file, upload it into a hard drive and then ship it. Since the video is too long and I need to compress the video footage. Therefore, I compressed my file using file compression tool and timely sent my task to the client. In this article, you would learn how to how to compress a large video file into a smaller one without compromising the quality of the video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-2.jpg)
 
 ## **Can I Reduce the File Size for a Long Video?**
@@ -339,6 +371,7 @@ Compressing a video file seems really complicated but today I will show you how 
 * Here is the video and I will show you, how to compress the file and change its parameters.
 * After you are done with the editing process, hit the **Export** tab to share or download.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-3.jpg)
 
 When you press the Export button, you will be jumped to this window shown below.
@@ -346,23 +379,28 @@ When you press the Export button, you will be jumped to this window shown below.
 * First check the **size** of the file, it is **6MB**.
 * Hit the **settings** tab to apply compression.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-4.jpg)
 
 * In the settings menu hit the **Bit Rate** and select the minimum of **2000kbps** from the drop-down list.
 * Hit the **ok**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-5.jpg)
 
 * Now check the size of the video file reduced to **4MB**.
 * Hit the **Export tab** to share or download your video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-6.jpg)
 
 **Original video**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-7.jpg)
 
 **Compressed video**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-8.jpg)
 
@@ -372,6 +410,7 @@ Compressing a file for the desktop, we need to have a program. For this, we are 
 
 * Select the video file, you want to compress.
 * The file size is **42GB** size and it is **30 min** long.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-9.jpg)
 
@@ -383,12 +422,14 @@ It is really a huge compression!
 
 It has the same duration and dimension.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-10.jpg)
 
 Now let us compare the video quality.
 
 * The first one is the compressed video file and the second is the uncompressed video file.
 * There is a slight difference in the quality of the video. The first video is slightly sharper and the other is not sharper but still, it is pretty good.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-11.jpg)
 
@@ -401,6 +442,7 @@ Install the Video Compressor app on your phone from the google play store. Open 
 * Change the **Bit Rate** to around **8000 Kbit/s.**
 * Hit the **Compress Video** tab
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-12.jpg)
 
 You can compress your videos either from Android or iPhone, the result would be the same. But if you have a good phone, your video would compress fast.
@@ -409,9 +451,11 @@ Here the video is compressed and you can see the difference down below.
 
 **Original video.**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-13.jpg)
 
 **Compressed video.**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-14.jpg)
 
@@ -424,10 +468,12 @@ You can also compress your video online without finding and downloading any soft
 * You would find interphase as down below.
 * Hit the Choose the **File**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-15.jpg)
 
 * Select the video from your device that you want to compress.
 * Within a few minutes the video would be compressed and here we get the video ready to download.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-16.jpg)
 
@@ -445,6 +491,7 @@ When you export large video files, it would take hours to upload. Alternatively,
 
 I would share some examples of I have been working with a client. One of the things he asked me is to make a large video, edit it and send me within a day. However, it was really difficult for me to put such a large video file, upload it into a hard drive and then ship it. Since the video is too long and I need to compress the video footage. Therefore, I compressed my file using file compression tool and timely sent my task to the client. In this article, you would learn how to how to compress a large video file into a smaller one without compromising the quality of the video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-2.jpg)
 
 ## **Can I Reduce the File Size for a Long Video?**
@@ -472,6 +519,7 @@ Compressing a video file seems really complicated but today I will show you how 
 * Here is the video and I will show you, how to compress the file and change its parameters.
 * After you are done with the editing process, hit the **Export** tab to share or download.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-3.jpg)
 
 When you press the Export button, you will be jumped to this window shown below.
@@ -479,23 +527,28 @@ When you press the Export button, you will be jumped to this window shown below.
 * First check the **size** of the file, it is **6MB**.
 * Hit the **settings** tab to apply compression.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-4.jpg)
 
 * In the settings menu hit the **Bit Rate** and select the minimum of **2000kbps** from the drop-down list.
 * Hit the **ok**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-5.jpg)
 
 * Now check the size of the video file reduced to **4MB**.
 * Hit the **Export tab** to share or download your video.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-6.jpg)
 
 **Original video**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-7.jpg)
 
 **Compressed video**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-8.jpg)
 
@@ -505,6 +558,7 @@ Compressing a file for the desktop, we need to have a program. For this, we are 
 
 * Select the video file, you want to compress.
 * The file size is **42GB** size and it is **30 min** long.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-9.jpg)
 
@@ -516,12 +570,14 @@ It is really a huge compression!
 
 It has the same duration and dimension.
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-10.jpg)
 
 Now let us compare the video quality.
 
 * The first one is the compressed video file and the second is the uncompressed video file.
 * There is a slight difference in the quality of the video. The first video is slightly sharper and the other is not sharper but still, it is pretty good.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-11.jpg)
 
@@ -534,6 +590,7 @@ Install the Video Compressor app on your phone from the google play store. Open 
 * Change the **Bit Rate** to around **8000 Kbit/s.**
 * Hit the **Compress Video** tab
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-12.jpg)
 
 You can compress your videos either from Android or iPhone, the result would be the same. But if you have a good phone, your video would compress fast.
@@ -542,9 +599,11 @@ Here the video is compressed and you can see the difference down below.
 
 **Original video.**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-13.jpg)
 
 **Compressed video.**
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-14.jpg)
 
@@ -557,10 +616,12 @@ You can also compress your video online without finding and downloading any soft
 * You would find interphase as down below.
 * Hit the Choose the **File**
 
+
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-15.jpg)
 
 * Select the video from your device that you want to compress.
 * Within a few minutes the video would be compressed and here we get the video ready to download.
+
 
 ![video-file-size](https://images.wondershare.com/filmora/article-images/2022/06/video-file-size-16.jpg)
 

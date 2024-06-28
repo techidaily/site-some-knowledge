@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Infuse Your Reels with Dynamic Music Choices"
-date: 2024-05-26T14:24:17.324Z
-updated: 2024-05-27T14:24:17.324Z
+date: 2024-06-27T06:25:55.205Z
+updated: 2024-06-28T06:25:55.205Z
 tags: 
   - screen-recording
   - ai video
@@ -90,11 +90,13 @@ Adding music to your Instagram Reels can make your videos more engaging and enjo
 
 Almost all people have Instagram on their cell phones. If you don't have then install it first from your google store or play store. Open Instagram, create an account on it, and click on the plus “ + ” sign as you see in the below picture:
 
+
 ![tap add icon instagram](https://images.wondershare.com/filmora/article-images/2022/11/tap-add-icon-instagram.jpg)
 
 ##### Step2 Click on the Reels option
 
 You'll see several options (story, camera, live) but you have to select the Reel option. Just tap on the Reel after that bunch of features will appear on the right side of your screen.
+
 
 ![click reel option instagram](https://images.wondershare.com/filmora/article-images/2022/11/click-reel-option-instagram.jpg)
 
@@ -102,11 +104,13 @@ You'll see several options (story, camera, live) but you have to select the Reel
 
 Select the music symbol from the Right corner features. This click will move you to a new page where you'll find a variety of music. But the best thing is you can also use your saved music or you can search for it by typing the name of the artist or song in the search bar.
 
+
 ![search music on instagram reels](https://images.wondershare.com/filmora/article-images/2022/11/search-music-on-instagram-reels.jpg)
 
 ##### Step4 Trim the music according to the reel
 
 After selecting the music trim it according to the duration of your reel, otherwise, it will look weird. Mostly the maximum time of the reel is 30 sec or 1 min so that you can set your music. After all the procedures click on done and publish it in your account.
+
 
 ![trim music on instagram reels](https://images.wondershare.com/filmora/article-images/2022/11/trim-music-on-instagram-reels.jpg)
 

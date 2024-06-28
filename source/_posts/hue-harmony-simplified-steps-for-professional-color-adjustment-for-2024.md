@@ -1,7 +1,7 @@
 ---
 title: "\"Hue Harmony  Simplified Steps for Professional Color Adjustment for 2024\""
-date: 2024-05-26T13:30:47.998Z
-updated: 2024-05-27T13:30:47.998Z
+date: 2024-06-27T06:25:59.917Z
+updated: 2024-06-28T06:25:59.917Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hue Harmony: Simplified Steps for Professional Color Adjustment for 2024\""
 excerpt: "\"This Article Describes Hue Harmony: Simplified Steps for Professional Color Adjustment for 2024\""
 keywords: "Hue Harmony Tips,Col.Adj Pro Guide,Easy Color Balance,Hue Adjusting Simple,Professional Palette Fix,Simplify Hue Steps,Master Color Contrast"
-thumbnail: https://www.lifewire.com/thmb/5y0uW_yg0GdLca0kHhmWHwG-vsU=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-facebook-3486391-6d59fe19bf964da58ca4aa4573a13d80.png
+thumbnail: https://thmb.techidaily.com/02374ddd20d049e41c0d0fe41e4dbd023d73e596f3add5f5b8f6d266eddb08ec.png
 ---
 
 ## Hue Harmony: Simplified Steps for Professional Color Adjustment
@@ -68,6 +68,7 @@ Here are the steps on how to color balance using Levels in Photoshop
 
 First, open your Adobe Photoshop software. Add your image to the software, then drag and drop it to your timeline.
 
+
 ![color correction in photoshop - using levels](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-1.jpg)
 
 ### Step 2\. Set the Levels to default
@@ -80,11 +81,13 @@ Alternatively, you can use the command prompt “Command+L” in Mac or “CTRL+
 
 There are three eyedroppers on the bottom right corner of your screen. Double-click on the last one on the left, and color picker will appear. Set your RGB to a default of 245 and click “OK” to save the changes. Go back and click on the eyedropper on the furthest right. Set 10 to be its default from the displayed color picker and save it by clicking “OK.”
 
+
 ![color correction in photoshop - set levels to default](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-2.jpg)
 
 ### Step 3\. Add levels adjust layer
 
 Head over to the Layers panel and click on the “Snap Camera” option at the bottom right of your interface. From the drop-down menu, click on “Adjustments.” By doing so, you will have added your adjustment layer.
+
 
 ![color correction in photoshop - add levels adjust layer](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-3.jpg)
 
@@ -93,6 +96,7 @@ Head over to the Layers panel and click on the “Snap Camera” option at the b
 If you have your levels dialogue box, two target markers will be displayed on your image. Now, determine the parts you want to correct the color and tone. Then move one of your target markers to that area. Usually, the top target market adjusts the white levels in the image, whereas the bottom target marker adjusts the image’s black levels.
 
 Use the sliders to regulate the color and tone levels.
+
 
 ![color correction in photoshop - correct tone](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-5.jpg)
 
@@ -112,11 +116,13 @@ Here are the simple steps on how automatic color correction Photoshop works.
 
 First, open Photoshop editor and add your image to the software. To start working on it, drag and drop it to the timeline.
 
+
 ![automatic color correction in photoshop - add photo](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-6.jpg)
 
 ### Step 2\. Create a simple adjustment curve
 
 Click on the “adjustment layer” icon at the bottom right of your interface. From the displayed menu, select “Curves.”
+
 
 ![automatic color correction in photoshop - create adjust curve](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-7.jpg)
 
@@ -126,11 +132,13 @@ A histogram will be displayed near your image. Click on the “auto” option at
 
 A list of customizable functionalities will be displayed. Click on your preferred settings and hit the “save as default” option.
 
+
 ![automatic color correction in photoshop - set default setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-8.jpg)
 
 ### Step 4\. Adjust your settings
 
 Regulate the tone, color, and contrast levels by using the pointer. Move the pointer forward or backward to increase and reduce the adjustment levels.
+
 
 ![automatic color correction in photoshop - adjust setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-9.jpg)
 
@@ -152,17 +160,20 @@ Here are the simple steps to correct color in Photoshop using gradient tools.
 
 First, open Photoshop software. Select “Shape tool” from the left-hand side margin of your interface > “Custom Shapes.” Make a shape based on your preference, i.e., a square. Click and hold the shape tool to create other shapes.
 
+
 ![color correction in photoshop - gradient](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-10.jpg)
 
 ### Step 2\. Fill your Gradient Shape
 
 Hover over to the top of your screen and click on the “Fill” option. From the drop-down menu, select a gradient option.
 
+
 ![color correction in photoshop - fill gradient shape](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-11.jpg)
 
 ### Step 3\. Open the Gradient Tool Settings
 
 Here, click on the “Layers” option on the right-hand side of the screen—double-click on the layer thumbnail for your shape. A gradient settings box will open and display a wide range of functionalities.
+
 
 ![color correction in photoshop - open gradient tool setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-12.jpg)
 
@@ -172,6 +183,7 @@ Change your gradient color by double-clicking on “Gradient” and select a gra
 
 You can use your downloaded gradient colors by clicking on the “Import” button. Once you are sure of your color choice, hit the “OK” button to incorporate them.
 
+
 ![color correction in photoshop - select gradient color](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-13.jpg)
 
 ### Step 5\. Select a style for your gradient
@@ -179,6 +191,7 @@ You can use your downloaded gradient colors by clicking on the “Import” butt
 In the gradient fill, click on the style option. A menu list (radial, angle, reflected, and diamond) will be displayed. Double click on the circles on both sides of the gradient pick a color that will work for you to graduate.
 
 Apply the gradient by clicking within the shapes. Click “OK” to save your changes.
+
 
 ![color correction in photoshop - select a style](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-14.jpg)
 
@@ -228,6 +241,7 @@ Here are the steps on how to color balance using Levels in Photoshop
 
 First, open your Adobe Photoshop software. Add your image to the software, then drag and drop it to your timeline.
 
+
 ![color correction in photoshop - using levels](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-1.jpg)
 
 ### Step 2\. Set the Levels to default
@@ -240,11 +254,13 @@ Alternatively, you can use the command prompt “Command+L” in Mac or “CTRL+
 
 There are three eyedroppers on the bottom right corner of your screen. Double-click on the last one on the left, and color picker will appear. Set your RGB to a default of 245 and click “OK” to save the changes. Go back and click on the eyedropper on the furthest right. Set 10 to be its default from the displayed color picker and save it by clicking “OK.”
 
+
 ![color correction in photoshop - set levels to default](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-2.jpg)
 
 ### Step 3\. Add levels adjust layer
 
 Head over to the Layers panel and click on the “Snap Camera” option at the bottom right of your interface. From the drop-down menu, click on “Adjustments.” By doing so, you will have added your adjustment layer.
+
 
 ![color correction in photoshop - add levels adjust layer](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-3.jpg)
 
@@ -253,6 +269,7 @@ Head over to the Layers panel and click on the “Snap Camera” option at the b
 If you have your levels dialogue box, two target markers will be displayed on your image. Now, determine the parts you want to correct the color and tone. Then move one of your target markers to that area. Usually, the top target market adjusts the white levels in the image, whereas the bottom target marker adjusts the image’s black levels.
 
 Use the sliders to regulate the color and tone levels.
+
 
 ![color correction in photoshop - correct tone](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-5.jpg)
 
@@ -272,11 +289,13 @@ Here are the simple steps on how automatic color correction Photoshop works.
 
 First, open Photoshop editor and add your image to the software. To start working on it, drag and drop it to the timeline.
 
+
 ![automatic color correction in photoshop - add photo](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-6.jpg)
 
 ### Step 2\. Create a simple adjustment curve
 
 Click on the “adjustment layer” icon at the bottom right of your interface. From the displayed menu, select “Curves.”
+
 
 ![automatic color correction in photoshop - create adjust curve](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-7.jpg)
 
@@ -286,11 +305,13 @@ A histogram will be displayed near your image. Click on the “auto” option at
 
 A list of customizable functionalities will be displayed. Click on your preferred settings and hit the “save as default” option.
 
+
 ![automatic color correction in photoshop - set default setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-8.jpg)
 
 ### Step 4\. Adjust your settings
 
 Regulate the tone, color, and contrast levels by using the pointer. Move the pointer forward or backward to increase and reduce the adjustment levels.
+
 
 ![automatic color correction in photoshop - adjust setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-9.jpg)
 
@@ -312,17 +333,20 @@ Here are the simple steps to correct color in Photoshop using gradient tools.
 
 First, open Photoshop software. Select “Shape tool” from the left-hand side margin of your interface > “Custom Shapes.” Make a shape based on your preference, i.e., a square. Click and hold the shape tool to create other shapes.
 
+
 ![color correction in photoshop - gradient](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-10.jpg)
 
 ### Step 2\. Fill your Gradient Shape
 
 Hover over to the top of your screen and click on the “Fill” option. From the drop-down menu, select a gradient option.
 
+
 ![color correction in photoshop - fill gradient shape](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-11.jpg)
 
 ### Step 3\. Open the Gradient Tool Settings
 
 Here, click on the “Layers” option on the right-hand side of the screen—double-click on the layer thumbnail for your shape. A gradient settings box will open and display a wide range of functionalities.
+
 
 ![color correction in photoshop - open gradient tool setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-12.jpg)
 
@@ -332,6 +356,7 @@ Change your gradient color by double-clicking on “Gradient” and select a gra
 
 You can use your downloaded gradient colors by clicking on the “Import” button. Once you are sure of your color choice, hit the “OK” button to incorporate them.
 
+
 ![color correction in photoshop - select gradient color](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-13.jpg)
 
 ### Step 5\. Select a style for your gradient
@@ -339,6 +364,7 @@ You can use your downloaded gradient colors by clicking on the “Import” butt
 In the gradient fill, click on the style option. A menu list (radial, angle, reflected, and diamond) will be displayed. Double click on the circles on both sides of the gradient pick a color that will work for you to graduate.
 
 Apply the gradient by clicking within the shapes. Click “OK” to save your changes.
+
 
 ![color correction in photoshop - select a style](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-14.jpg)
 
@@ -388,6 +414,7 @@ Here are the steps on how to color balance using Levels in Photoshop
 
 First, open your Adobe Photoshop software. Add your image to the software, then drag and drop it to your timeline.
 
+
 ![color correction in photoshop - using levels](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-1.jpg)
 
 ### Step 2\. Set the Levels to default
@@ -400,11 +427,13 @@ Alternatively, you can use the command prompt “Command+L” in Mac or “CTRL+
 
 There are three eyedroppers on the bottom right corner of your screen. Double-click on the last one on the left, and color picker will appear. Set your RGB to a default of 245 and click “OK” to save the changes. Go back and click on the eyedropper on the furthest right. Set 10 to be its default from the displayed color picker and save it by clicking “OK.”
 
+
 ![color correction in photoshop - set levels to default](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-2.jpg)
 
 ### Step 3\. Add levels adjust layer
 
 Head over to the Layers panel and click on the “Snap Camera” option at the bottom right of your interface. From the drop-down menu, click on “Adjustments.” By doing so, you will have added your adjustment layer.
+
 
 ![color correction in photoshop - add levels adjust layer](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-3.jpg)
 
@@ -413,6 +442,7 @@ Head over to the Layers panel and click on the “Snap Camera” option at the b
 If you have your levels dialogue box, two target markers will be displayed on your image. Now, determine the parts you want to correct the color and tone. Then move one of your target markers to that area. Usually, the top target market adjusts the white levels in the image, whereas the bottom target marker adjusts the image’s black levels.
 
 Use the sliders to regulate the color and tone levels.
+
 
 ![color correction in photoshop - correct tone](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-5.jpg)
 
@@ -432,11 +462,13 @@ Here are the simple steps on how automatic color correction Photoshop works.
 
 First, open Photoshop editor and add your image to the software. To start working on it, drag and drop it to the timeline.
 
+
 ![automatic color correction in photoshop - add photo](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-6.jpg)
 
 ### Step 2\. Create a simple adjustment curve
 
 Click on the “adjustment layer” icon at the bottom right of your interface. From the displayed menu, select “Curves.”
+
 
 ![automatic color correction in photoshop - create adjust curve](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-7.jpg)
 
@@ -446,11 +478,13 @@ A histogram will be displayed near your image. Click on the “auto” option at
 
 A list of customizable functionalities will be displayed. Click on your preferred settings and hit the “save as default” option.
 
+
 ![automatic color correction in photoshop - set default setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-8.jpg)
 
 ### Step 4\. Adjust your settings
 
 Regulate the tone, color, and contrast levels by using the pointer. Move the pointer forward or backward to increase and reduce the adjustment levels.
+
 
 ![automatic color correction in photoshop - adjust setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-9.jpg)
 
@@ -472,17 +506,20 @@ Here are the simple steps to correct color in Photoshop using gradient tools.
 
 First, open Photoshop software. Select “Shape tool” from the left-hand side margin of your interface > “Custom Shapes.” Make a shape based on your preference, i.e., a square. Click and hold the shape tool to create other shapes.
 
+
 ![color correction in photoshop - gradient](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-10.jpg)
 
 ### Step 2\. Fill your Gradient Shape
 
 Hover over to the top of your screen and click on the “Fill” option. From the drop-down menu, select a gradient option.
 
+
 ![color correction in photoshop - fill gradient shape](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-11.jpg)
 
 ### Step 3\. Open the Gradient Tool Settings
 
 Here, click on the “Layers” option on the right-hand side of the screen—double-click on the layer thumbnail for your shape. A gradient settings box will open and display a wide range of functionalities.
+
 
 ![color correction in photoshop - open gradient tool setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-12.jpg)
 
@@ -492,6 +529,7 @@ Change your gradient color by double-clicking on “Gradient” and select a gra
 
 You can use your downloaded gradient colors by clicking on the “Import” button. Once you are sure of your color choice, hit the “OK” button to incorporate them.
 
+
 ![color correction in photoshop - select gradient color](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-13.jpg)
 
 ### Step 5\. Select a style for your gradient
@@ -499,6 +537,7 @@ You can use your downloaded gradient colors by clicking on the “Import” butt
 In the gradient fill, click on the style option. A menu list (radial, angle, reflected, and diamond) will be displayed. Double click on the circles on both sides of the gradient pick a color that will work for you to graduate.
 
 Apply the gradient by clicking within the shapes. Click “OK” to save your changes.
+
 
 ![color correction in photoshop - select a style](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-14.jpg)
 
@@ -548,6 +587,7 @@ Here are the steps on how to color balance using Levels in Photoshop
 
 First, open your Adobe Photoshop software. Add your image to the software, then drag and drop it to your timeline.
 
+
 ![color correction in photoshop - using levels](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-1.jpg)
 
 ### Step 2\. Set the Levels to default
@@ -560,11 +600,13 @@ Alternatively, you can use the command prompt “Command+L” in Mac or “CTRL+
 
 There are three eyedroppers on the bottom right corner of your screen. Double-click on the last one on the left, and color picker will appear. Set your RGB to a default of 245 and click “OK” to save the changes. Go back and click on the eyedropper on the furthest right. Set 10 to be its default from the displayed color picker and save it by clicking “OK.”
 
+
 ![color correction in photoshop - set levels to default](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-2.jpg)
 
 ### Step 3\. Add levels adjust layer
 
 Head over to the Layers panel and click on the “Snap Camera” option at the bottom right of your interface. From the drop-down menu, click on “Adjustments.” By doing so, you will have added your adjustment layer.
+
 
 ![color correction in photoshop - add levels adjust layer](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-3.jpg)
 
@@ -573,6 +615,7 @@ Head over to the Layers panel and click on the “Snap Camera” option at the b
 If you have your levels dialogue box, two target markers will be displayed on your image. Now, determine the parts you want to correct the color and tone. Then move one of your target markers to that area. Usually, the top target market adjusts the white levels in the image, whereas the bottom target marker adjusts the image’s black levels.
 
 Use the sliders to regulate the color and tone levels.
+
 
 ![color correction in photoshop - correct tone](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-5.jpg)
 
@@ -592,11 +635,13 @@ Here are the simple steps on how automatic color correction Photoshop works.
 
 First, open Photoshop editor and add your image to the software. To start working on it, drag and drop it to the timeline.
 
+
 ![automatic color correction in photoshop - add photo](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-6.jpg)
 
 ### Step 2\. Create a simple adjustment curve
 
 Click on the “adjustment layer” icon at the bottom right of your interface. From the displayed menu, select “Curves.”
+
 
 ![automatic color correction in photoshop - create adjust curve](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-7.jpg)
 
@@ -606,11 +651,13 @@ A histogram will be displayed near your image. Click on the “auto” option at
 
 A list of customizable functionalities will be displayed. Click on your preferred settings and hit the “save as default” option.
 
+
 ![automatic color correction in photoshop - set default setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-8.jpg)
 
 ### Step 4\. Adjust your settings
 
 Regulate the tone, color, and contrast levels by using the pointer. Move the pointer forward or backward to increase and reduce the adjustment levels.
+
 
 ![automatic color correction in photoshop - adjust setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-9.jpg)
 
@@ -632,17 +679,20 @@ Here are the simple steps to correct color in Photoshop using gradient tools.
 
 First, open Photoshop software. Select “Shape tool” from the left-hand side margin of your interface > “Custom Shapes.” Make a shape based on your preference, i.e., a square. Click and hold the shape tool to create other shapes.
 
+
 ![color correction in photoshop - gradient](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-10.jpg)
 
 ### Step 2\. Fill your Gradient Shape
 
 Hover over to the top of your screen and click on the “Fill” option. From the drop-down menu, select a gradient option.
 
+
 ![color correction in photoshop - fill gradient shape](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-11.jpg)
 
 ### Step 3\. Open the Gradient Tool Settings
 
 Here, click on the “Layers” option on the right-hand side of the screen—double-click on the layer thumbnail for your shape. A gradient settings box will open and display a wide range of functionalities.
+
 
 ![color correction in photoshop - open gradient tool setting](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-12.jpg)
 
@@ -652,6 +702,7 @@ Change your gradient color by double-clicking on “Gradient” and select a gra
 
 You can use your downloaded gradient colors by clicking on the “Import” button. Once you are sure of your color choice, hit the “OK” button to incorporate them.
 
+
 ![color correction in photoshop - select gradient color](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-13.jpg)
 
 ### Step 5\. Select a style for your gradient
@@ -659,6 +710,7 @@ You can use your downloaded gradient colors by clicking on the “Import” butt
 In the gradient fill, click on the style option. A menu list (radial, angle, reflected, and diamond) will be displayed. Double click on the circles on both sides of the gradient pick a color that will work for you to graduate.
 
 Apply the gradient by clicking within the shapes. Click “OK” to save your changes.
+
 
 ![color correction in photoshop - select a style](https://images.wondershare.com/filmora/article-images/2022/03/color-correction-photoshop-14.jpg)
 

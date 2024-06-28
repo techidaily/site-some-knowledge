@@ -1,7 +1,7 @@
 ---
 title: "\"From Static to Spinning  Mastering Photo Effects in Illustrator for 2024\""
-date: 2024-05-26T13:40:10.687Z
-updated: 2024-05-27T13:40:10.687Z
+date: 2024-06-27T06:25:53.768Z
+updated: 2024-06-28T06:25:53.768Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Static to Spinning: Mastering Photo Effects in Illustrator for 2024\""
 excerpt: "\"This Article Describes From Static to Spinning: Mastering Photo Effects in Illustrator for 2024\""
 keywords: "Illustrators Photo Effects Tutorial,Adobe Illustrator Photo Tricks,Dynamic Photos with AI,Illustrator Spin Photo Techniques,Mastering Illustration Photo Effects,Enhancing Images in Illustrator,Creating Motion Graphics in AI"
-thumbnail: https://www.lifewire.com/thmb/-KuBjE_aYHQLnZOwvudepWv8DCg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1298709235-a050b193bcc846d9b90a48fb875b492d.jpg
+thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc8bc7dbf15b341990bd1a4b9.jpg
 ---
 
 ## From Static to Spinning: Mastering Photo Effects in Illustrator
@@ -27,6 +27,7 @@ If you are embedding a Vimeo video on your website, you will want to play it on 
 Most online users watch videos on Vimeo directly through the web browser. This is specifically applicable to computer users. If you want Vimeo loop video for any desired video, the steps are simple. You have to make some adjustments and additions to the video URL on the address bar. You should change the URL accurately for looping a video. Here are the steps on how to loop a video on Vimeo directly.
 
 Step 1: On your device, launch the web browser. Open the official website of Vimeo Watch. Play any video of your liking.
+
 
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
 
@@ -46,17 +47,21 @@ You can embed a Vimeo video on your website so that the audience can watch it. T
 
 Step 1: Open the Vimeo video on your web browser. Click on Share icon present inside the player in the top-right corner.
 
+
 ![share vimeo browser](https://images.wondershare.com/filmora/article-images/click-share-vimeo-on-browser.jpg)
 
 Step 2: You will get to see several options, and you need to click on "Get Embed Code" option.
+
 
 ![get embed code vimeo](https://images.wondershare.com/filmora/article-images/get-embed-code-on-vimeo.jpg)
 
 Step 3: On the next screen, you will get the embed code in a pop-up box. Click on Show options.
 
+
 ![show options share vimeo video](https://images.wondershare.com/filmora/article-images/show-options-share-vimeo-video.jpg)
 
 Step 4: From the expanded section, go to Special Stuff section. Turn on "Loop this video" option.
+
 
 ![loop embed video on vimeo](https://images.wondershare.com/filmora/article-images/loop-embed-video-on-vimeo.jpg)
 
@@ -69,6 +74,7 @@ If you are a mobile user, you can use the Vimeo app. But you cannot loop a video
 Step 1: Open the Vimeo app on your mobile device. Play the video that you want in the loop.
 
 Step 2: Tap on the Share icon and tap on Copy URL option.
+
 
 ![loop a video on mobile](https://images.wondershare.com/filmora/article-images/loop-a-video-on-mobile.jpg)
 
@@ -90,17 +96,21 @@ Thereafter, you can import the downloaded video into Filmora. Then you can exten
 
 Step 1: Download and install Wondershare Filmora. Download the desired Vimeo video on your computer. Launch Filmora and click on New Project.
 
+
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
+
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
+
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
+
 
 ![export loop video from filmora](https://images.wondershare.com/filmora/article-images/export-loop-videos-from-filmora.jpg)
 
@@ -108,7 +118,9 @@ Step 4: You can play the video and watch it in loop. Finally, click on the Expor
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) 
+![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## Conclusion
 
@@ -118,17 +130,21 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
 
 Step 1: Download and install Wondershare Filmora. Download the desired Vimeo video on your computer. Launch Filmora and click on New Project.
 
+
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
+
 
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
+
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
+
 
 ![export loop video from filmora](https://images.wondershare.com/filmora/article-images/export-loop-videos-from-filmora.jpg)
 
@@ -136,7 +152,9 @@ Step 4: You can play the video and watch it in loop. Finally, click on the Expor
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) 
+![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## Conclusion
 

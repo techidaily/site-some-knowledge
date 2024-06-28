@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11\""
-date: 2024-05-26T13:18:48.922Z
-updated: 2024-05-27T13:18:48.922Z
+date: 2024-06-27T06:25:51.709Z
+updated: 2024-06-28T06:25:51.709Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11\""
 excerpt: "\"This Article Describes 2024 Approved: How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11\""
 keywords: "HighDynamicRangeWindows11,AutoHDRSetupWin11,Win11HDRAutoOnOff,HDRModeWindowsGuide,Windows11AutomaticHDR,EnableWindows11HDR,HighDynamicRangeControlWin11"
-thumbnail: https://www.lifewire.com/thmb/RfgcGTJL-PorhS2JNdG5O7AgNzg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/oneplus12splash-74d8e370f72543c0bef9d815cebbb6ec.jpg
+thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146ce98f4b0e1e21a62378c3d8.jpg
 ---
 
 ## How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11
@@ -23,6 +23,7 @@ _“When I import videos from my iPhone 12 Pro to PremierPro, they look washed o
 _Is there a workaround I can use to get the color back in my videos?_
 
 _Also, any ideas when Adobe will eventually provide support for Dolby HDR?” – A user asked from Adobe Support Community_
+
 
 ![solutions for iphone hdr](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-1.jpg)
 
@@ -66,15 +67,18 @@ One of the easiest methods to avoid issues with **iPhone HDR video** is to switc
 
 Step1On your iPhone, open the Settings menu from the list of apps.
 
+
 ![open the settings menu](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-2.jpg)
 
 Step2Access the Camera tab.
 
 Step3Under the HDR settings area, slide the toggle for Smart HDR to OFF.
 
+
 ![slide the toggle for smart hdr to off](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-3.jpg)
 
 Step4On the regular Camera app, the yellow HDR icon will appear if you switch off Smart HDR. Click on it to either activate/deactivate the HDR function or choose the Auto HDR mode.
+
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -96,6 +100,7 @@ Step1Install Filmora and launch the software on your Mac device.
 
 Step2Click on New Project > Click here to import media.
 
+
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-4.jpg)
 
 Choose the HDR video from the iPhone device that you transferred to the device in QuickTime Movie format (MOV).
@@ -104,11 +109,13 @@ Step3Drag and drop the video to the timeline section for editing the file.
 
 Step4Make the necessary edits like Color Matching and Chroma key-based background removal/editing.
 
+
 ![make edits](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-5.jpg)
 
 Step5Click on the Export button on top of the screen.
 
 Step6Go to the Device tab and choose iPhone. Rename the file and make format settings here. The video will export for your device in SDR-Rec 709 format.
+
 
 ![rename the file](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-6.jpg)
 
@@ -168,6 +175,7 @@ Step1Install Filmora and launch the software on your Mac device.
 
 Step2Click on New Project > Click here to import media.
 
+
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-4.jpg)
 
 Choose the HDR video from the iPhone device that you transferred to the device in QuickTime Movie format (MOV).
@@ -176,11 +184,13 @@ Step3Drag and drop the video to the timeline section for editing the file.
 
 Step4Make the necessary edits like Color Matching and Chroma key-based background removal/editing.
 
+
 ![make edits](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-5.jpg)
 
 Step5Click on the Export button on top of the screen.
 
 Step6Go to the Device tab and choose iPhone. Rename the file and make format settings here. The video will export for your device in SDR-Rec 709 format.
+
 
 ![rename the file](https://images.wondershare.com/filmora/article-images/2022/07/solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-6.jpg)
 

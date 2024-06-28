@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Illuminating Craftsmanship  Avoiding Common Film-Lighting Pitfalls\""
-date: 2024-05-26T15:18:00.696Z
-updated: 2024-05-27T15:18:00.696Z
+date: 2024-06-27T06:25:57.973Z
+updated: 2024-06-28T06:25:57.973Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Illuminating Craftsmanship: Avoiding Common Film-Lighting Pitfalls\""
 excerpt: "\"This Article Describes [Updated] Illuminating Craftsmanship: Avoiding Common Film-Lighting Pitfalls\""
 keywords: "\"Lighting Artistry Tips,Filmmaking Pitfall Guide,Pro Lighting Techniques,Craftsmanship in Cinematography,Avoiding Film-Light Fails,Masterful Lights Setup,Cinematic Shot Prep\""
-thumbnail: https://www.lifewire.com/thmb/E2gzS4D1Fsosj0zymmyQRpy1W7U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-650169899-59ebc988d088c00011559878.jpg
+thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c5999800100c8f4f1fd518b7be.jpg
 ---
 
 ## Illuminating Craftsmanship: Avoiding Common Film-Lighting Pitfalls
@@ -46,17 +46,20 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
+
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
+
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
+
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
@@ -66,13 +69,16 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
+
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
+
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
@@ -80,15 +86,18 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
+
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
+
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
+
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 

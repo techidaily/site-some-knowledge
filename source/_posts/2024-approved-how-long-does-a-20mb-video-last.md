@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How Long Does a 20MB Video Last?\""
-date: 2024-05-26T13:04:06.098Z
-updated: 2024-05-27T13:04:06.098Z
+date: 2024-06-27T06:26:04.116Z
+updated: 2024-06-28T06:26:04.116Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How Long Does a 20MB Video Last?\""
 excerpt: "\"This Article Describes 2024 Approved: How Long Does a 20MB Video Last?\""
 keywords: "\"Video Longevity,20MB Video Duration,Max Video Life Span,20Mb File Age Estimate,Short-Term Video Endurance,Long-Lasting MP4 Lifespan,Storage Time for 20MB HD\""
-thumbnail: https://www.lifewire.com/thmb/DUmN2Dmd5lnkrBUDS2H-a1OpNcY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/twitchdown-71287ccb41b64eb19a607868887d3e34.jpg
+thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf67bc5c9abb78e2279e38684.jpg
 ---
 
 ## How Long Does a 20MB Video Last?
@@ -72,6 +72,7 @@ Filmora can be used to change the bitrate of video files. It has a user-friendly
 
 * **Import Video -Bring the video files in.**
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -80,11 +81,13 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
@@ -94,7 +97,8 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 **Three Tools to edit video and make it longer or shorter (desktop, phone, online)**
 
-* Magisto ( Supports IOS, Android, Online )
+* Magisto (Supports IOS, Android, Online)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
@@ -102,13 +106,15 @@ Magisto, which is owned by Vimeo, allows you to create amazing videos in three s
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
 
-* ActivePresenter ( Supports Windows, Mac )
+* ActivePresenter (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
-* Openshot ( Supports Windows, Mac )
+* Openshot (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
@@ -144,6 +150,7 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -152,11 +159,13 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
@@ -166,7 +175,8 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 **Three Tools to edit video and make it longer or shorter (desktop, phone, online)**
 
-* Magisto ( Supports IOS, Android, Online )
+* Magisto (Supports IOS, Android, Online)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
@@ -174,13 +184,15 @@ Magisto, which is owned by Vimeo, allows you to create amazing videos in three s
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
 
-* ActivePresenter ( Supports Windows, Mac )
+* ActivePresenter (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
-* Openshot ( Supports Windows, Mac )
+* Openshot (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
@@ -216,6 +228,7 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -224,11 +237,13 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
@@ -238,7 +253,8 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 **Three Tools to edit video and make it longer or shorter (desktop, phone, online)**
 
-* Magisto ( Supports IOS, Android, Online )
+* Magisto (Supports IOS, Android, Online)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
@@ -246,13 +262,15 @@ Magisto, which is owned by Vimeo, allows you to create amazing videos in three s
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
 
-* ActivePresenter ( Supports Windows, Mac )
+* ActivePresenter (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
-* Openshot ( Supports Windows, Mac )
+* Openshot (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
@@ -288,6 +306,7 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -296,11 +315,13 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
@@ -310,7 +331,8 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 **Three Tools to edit video and make it longer or shorter (desktop, phone, online)**
 
-* Magisto ( Supports IOS, Android, Online )
+* Magisto (Supports IOS, Android, Online)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
@@ -318,13 +340,15 @@ Magisto, which is owned by Vimeo, allows you to create amazing videos in three s
 
 This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
 
-* ActivePresenter ( Supports Windows, Mac )
+* ActivePresenter (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
-* Openshot ( Supports Windows, Mac )
+* Openshot (Supports Windows, Mac)
+
 
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 

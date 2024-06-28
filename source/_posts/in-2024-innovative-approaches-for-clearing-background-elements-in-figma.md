@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Innovative Approaches for Clearing Background Elements in Figma"
-date: 2024-05-26T14:22:50.007Z
-updated: 2024-05-27T14:22:50.007Z
+date: 2024-06-27T06:25:54.328Z
+updated: 2024-06-28T06:25:54.328Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Innovative Approaches for Clearing Background Elements in Figma"
 excerpt: "This Article Describes In 2024, Innovative Approaches for Clearing Background Elements in Figma"
 keywords: "Video Bg Swap Tips,Seamless Video Bgs,Video Bgs Easy Switch,Swap Videobackdrops,Innovate Video Backdrop,Background Swapping Tricks,Streamline Video Bg Change"
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## Innovative Approaches for Clearing Background Elements in Figma
@@ -58,6 +58,7 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -67,6 +68,7 @@ Step2 Next, search for **"**[**PixCut Background Remover**](https://www.figma.co
 To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using your credentials or create a new one, and click on your **Profile** after signing in. Then, navigate to **"Account Center" > "My Appkey"** and click the **"Copy Appkey"** option to get the key.
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
+
 
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
@@ -103,6 +105,7 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 ### (3) Using Online Removers
@@ -132,6 +135,7 @@ Step1 Visit the **Figma website** and import your image.
 Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
+
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 

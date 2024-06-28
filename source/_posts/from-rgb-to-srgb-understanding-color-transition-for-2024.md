@@ -1,7 +1,7 @@
 ---
 title: "\"From Rgb to Srgb  Understanding Color Transition for 2024\""
-date: 2024-05-26T14:58:26.053Z
-updated: 2024-05-27T14:58:26.053Z
+date: 2024-06-27T06:26:02.808Z
+updated: 2024-06-28T06:26:02.808Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Rgb to Srgb: Understanding Color Transition for 2024\""
 excerpt: "\"This Article Describes From Rgb to Srgb: Understanding Color Transition for 2024\""
 keywords: "\"Zip to Srt Conversion,File Format Shift: Zip to SRT,ZIP to SRT Processing,Srt File Creation From Zip,Convert Zip to SRT Files,Understanding Zip to SRT,Transition: Zip to SRT Extraction\""
-thumbnail: https://www.lifewire.com/thmb/pNfoCtZg7_a02to8AWINzbhRAiA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2024-01-23at2.09.47PM-eeadb7b54ebc4ff7887719fec71f753a.png
+thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567ccf0cdebe9976885fce2e39.png
 ---
 
 ## From Rgb to Srgb: Understanding Color Transition

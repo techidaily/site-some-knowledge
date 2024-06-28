@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Extensive Physical Action Audit\""
-date: 2024-05-26T14:10:40.308Z
-updated: 2024-05-27T14:10:40.308Z
+date: 2024-06-27T06:25:56.641Z
+updated: 2024-06-28T06:25:56.641Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Extensive Physical Action Audit\""
 excerpt: "\"This Article Describes 2024 Approved: Extensive Physical Action Audit\""
 keywords: "\"Physical Audit Extent,Extensive Activity Review,Comprehensive Mobility Check,Full-Scale Movement Analysis,Complete Body Assessment,Thorough Motion Evaluation,Broad Exercise Appraisal\""
-thumbnail: https://www.lifewire.com/thmb/-NWk-W_H5F1ro-0ZncgiiCFpIqo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mahdis-mousavi-hJ5uMIRNg5k-unsplashcopy-dba942f7103a4791bd746ba0ff5334c0.jpg
+thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93ddb7e4b8427aaf47d96a723.jpg
 ---
 
 ## Extensive Physical Action Audit
@@ -35,6 +35,7 @@ Just as their motto says, "Be Part Of The Movement", Alight Motion has made quit
 ## Part 1\. What Is Alight Motion App
 
 Alright motion editing app is a motion graphics app that allows you to do video editing, high-standard animation, and motion graphics editing, all on your smartphone.
+
 
 ![what is alight motion app](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-1.jpg)
 
@@ -84,11 +85,13 @@ First things first, head straight to your Google play store app (for Android use
 
 Open it once you've finished downloading and installing it. It will open to a home page similar to the one in the image below.
 
+
 ![download](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-2.jpg)
 
 ### Import
 
 Once you have successfully gotten on the home page the next action is to import the image or graphics you want to edit. Click on the **plus (+)** button, it will take you to a page where you get to choose the resolution type, frame rate, and background color you want for your video. Click the **"Create Project"** button when you are done with your changes.
+
 
 ![import](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-3.jpg)
 
@@ -104,17 +107,20 @@ Users have the option to edit any point in a layer when you add the blend mode f
 
 You can also add slow motion and fast motion effects to your videos. This is one cool effect that is currently popular among video editors and social media content creators. If you like to see only the layer you are working on, Alight motion allows you to hide layers and also make them visible when you need them.
 
+
 ![editing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-4.jpg)
 
 ### Add Text
 
 You can add text to your videos, and graphics. Alight motion has over 2000 fonts for you to play with however if you have special fonts you did like to use that are not on the list, you can import them. Alight motion allows you to import customize fonts. You can also add colors to your text.
 
+
 ![add text](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
 ### Freehand and Vector Drawing
 
 You can draw amazing shapes using the alight motion freehand drawing tool. There is a color wheel, an adjustable brush, eraser, etc. available to you. The alight motion also supports vector drawing.
+
 
 ![freehand and vector drawing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
@@ -176,6 +182,7 @@ Just as their motto says, "Be Part Of The Movement", Alight Motion has made quit
 
 Alright motion editing app is a motion graphics app that allows you to do video editing, high-standard animation, and motion graphics editing, all on your smartphone.
 
+
 ![what is alight motion app](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-1.jpg)
 
 With over 100 basic effects building blocks, a robust list of visual effects, keyframe animation, grouping and masking, and many more amazing features. The Alight Motion App gives you edited a unique and professional look.
@@ -224,11 +231,13 @@ First things first, head straight to your Google play store app (for Android use
 
 Open it once you've finished downloading and installing it. It will open to a home page similar to the one in the image below.
 
+
 ![download](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-2.jpg)
 
 ### Import
 
 Once you have successfully gotten on the home page the next action is to import the image or graphics you want to edit. Click on the **plus (+)** button, it will take you to a page where you get to choose the resolution type, frame rate, and background color you want for your video. Click the **"Create Project"** button when you are done with your changes.
+
 
 ![import](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-3.jpg)
 
@@ -244,17 +253,20 @@ Users have the option to edit any point in a layer when you add the blend mode f
 
 You can also add slow motion and fast motion effects to your videos. This is one cool effect that is currently popular among video editors and social media content creators. If you like to see only the layer you are working on, Alight motion allows you to hide layers and also make them visible when you need them.
 
+
 ![editing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-4.jpg)
 
 ### Add Text
 
 You can add text to your videos, and graphics. Alight motion has over 2000 fonts for you to play with however if you have special fonts you did like to use that are not on the list, you can import them. Alight motion allows you to import customize fonts. You can also add colors to your text.
 
+
 ![add text](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
 ### Freehand and Vector Drawing
 
 You can draw amazing shapes using the alight motion freehand drawing tool. There is a color wheel, an adjustable brush, eraser, etc. available to you. The alight motion also supports vector drawing.
+
 
 ![freehand and vector drawing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 

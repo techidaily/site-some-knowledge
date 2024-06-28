@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Master Chrome’s PIP for Enhanced Productivity"
-date: 2024-05-26T15:42:30.549Z
-updated: 2024-05-27T15:42:30.549Z
+date: 2024-06-27T06:25:57.681Z
+updated: 2024-06-28T06:25:57.681Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,7 @@ Here is how to use picture-in-picture in both Mac and Windows platforms.
 1. Open a file from YouTube on Chrome
 2. **Right-Click** twice on the video. Or click on the trumpet icon and select **“Enter Picture in Picture”**.
 
+
 ![enter picture in picture](https://images.wondershare.com/filmora/article-images/2022/07/pip-on-chrome-on-all-platforms-1.jpg)
 
 1. Select picture in picture on the menu that appears, and the video will appear on a smaller window.
@@ -43,6 +44,7 @@ On Windows, specifically, you can enable Picture in Picture on Chrome in differe
 2. **Right-Click twice** on the video that is playing.
 3. On the menu that pops on the screen, select picture in picture.
 
+
 ![select picture in picture](https://images.wondershare.com/filmora/article-images/2022/07/pip-on-chrome-on-all-platforms-2.jpg)
 
 1. Resize the overlaid window that plays the video to your favorite size.
@@ -56,6 +58,7 @@ There is a general way to activate and enjoy the picture in picture mode on your
 3. Type **PIP by Google** in the search box to bring the extension [**Picture-in-Picture Extension (by Google)**](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) on the screen.
 4. Click **Add to Chrome** on the extension and further click on **Add extension** on the extension that pops up on the screen.
 5. Wait for some seconds for a confirmation extension to appear on top of the screen, and you are done.
+
 
 ![confirmation extension](https://images.wondershare.com/filmora/article-images/2022/07/pip-on-chrome-on-all-platforms-3.jpg)
 

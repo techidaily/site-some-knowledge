@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Novice to Expert  Your Path in Google Photos\""
-date: 2024-05-26T15:17:33.422Z
-updated: 2024-05-27T15:17:33.422Z
+date: 2024-06-27T06:25:52.934Z
+updated: 2024-06-28T06:25:52.934Z
 tags: 
   - screen-recording
   - ai video
@@ -69,17 +69,20 @@ After you’ve installed the app on your smartphone, it’s time to get started 
 
 **Photos** is the first tab on the left-hand side of the screen. Memories from the past and the most current images may be found here.
 
+
 ![google photos photos interface](https://images.wondershare.com/filmora/article-images/google-photos-photos-interface.jpg)
 
 **2\. The Search Tab**
 
 The **Search** tab appears next. You may use this search to find images of people, places, items on a map, or in a category. You may also see your own animations, collages, and movies in the gallery.
 
+
 ![google photos search interface](https://images.wondershare.com/filmora/article-images/google-photos-search-interface.jpg)
 
 **3\. The Sharing Tab**
 
 When you tap on the **Sharing** option, you have plenty of options. You can begin with the options of **Create Shared Album** and **Share with Partner**. You can _choose_ _to_ **_Share Some or All of Your Photos Automatically_**. Be it conversations or pictures. You have a good number of options here.
+
 
 ![google photos sharing interface](https://images.wondershare.com/filmora/article-images/google-photos-sharing-interface.jpg)
 
@@ -88,6 +91,7 @@ When you tap on the **Sharing** option, you have plenty of options. You can begi
 The **Library** tab is the third one on the left-hand side. Your **Albums**, **Favorites** and **Archive** are all here, as well as your Trash.
 
 The **Utilities** menu includes tools for animating, collaging, and creating movies. By tapping on a picture, you may see the photo in its entirety. You may also access the editing and sharing options for a picture in this manner.
+
 
 ![google photos library interface](https://images.wondershare.com/filmora/article-images/google-photos-library-interface.jpg)
 
@@ -117,6 +121,7 @@ Let’s take a deep look into how you can apply these effects to your video:
 
 Tap on the **Crop** option and select the different **Aspect Ratios** to start with. Click on the **Transform** or **Auto** option to choose your style of cropping the video.
 
+
 ![crop rotate video google photos](https://images.wondershare.com/filmora/article-images/crop-rotate-video-google-photos.jpg)
 
 Simply use the **Dial** option or select **Auto** to automatically straighten the video.
@@ -134,17 +139,20 @@ Select the video of your choice and press on the **Edit** option and then **Adju
 * Saturation
 * And many more a part of this feature.
 
+
 ![adjust color google photos](https://images.wondershare.com/filmora/article-images/adjust-color-google-photos.jpg)
 
 **3\. Add a Filter in Google Photos app**
 
 Open the Edit option and tap on Filters to select the kind of Filter you want to add to you video.
 
+
 ![add filters google photos](https://images.wondershare.com/filmora/article-images/add-filters-google-photos.jpg)
 
 **4\. Highlight or Draw on Google Photos app**
 
 Head over to the Markup section in the Edit option and tap on Highlighter or on Pen to draw or highlight according to your liking.
+
 
 ![google photos markup interface](https://images.wondershare.com/filmora/article-images/google-photos-markup-interface.jpg)
 
@@ -156,21 +164,26 @@ To follow along with this tutorial, you'll need a Google-enabled Android phone o
 
 **Step 2**: Select **Library** from the drop-down menu in the lower right corner of your mobile device's display. Scroll down to **Utilities** and click on it. **Animation**, **Collage,** and **Movie** are all included in the **Create New** section. As this instruction is about making a movie, the **Movie** button will be selected.
 
+
 ![create videos google photos library](https://images.wondershare.com/filmora/article-images/create-videos-google-photos-library.jpg)
 
 **Step 3:** Choosing a movie theme on the "Create Movie" tab or creating a new standard movie is the only option.
+
 
 ![create movie google photos](https://images.wondershare.com/filmora/article-images/create-movie-google-photos.jpg)
 
 **Step 4**: When making a video, now you may choose from up to 50 images and clips. Once you've chosen your material, just hit the "create" button, and Google will arrange your images and videos in chronological order for you.
 
+
 ![google photos select items](https://images.wondershare.com/filmora/article-images/google-photos-select-items.jpg)
 
 **Step 5**: Changing the sequence of the photos may be done by tapping and dragging on the film strip icon. The **slider** allows you to change the length of a picture in the movie. Theme songs and music from your computer's hard drive may be accessed by selecting the music button in the center-right corner.
 
+
 ![edit video google photos](https://images.wondershare.com/filmora/article-images/edit-video-google-photos.jpg)
 
 **Step 6:** In addition, you may alter the appearance of the video by applying styles and effects. Select a **title** for your film after seeing the finished video. When you're finished, click **Save,** and the completed image will display in your Google Photos album. To save a video to your device's storage, locate the video and choose Download Video from the video's options menu to begin the download process.
+
 
 ![save video google photos](https://images.wondershare.com/filmora/article-images/save-video-google-photos.jpg)
 
@@ -184,6 +197,7 @@ After editing your videos, now would be the time for you to share them with your
 
 **Step 2**: Choose a photograph, an album, or a video. To share, use the **Share** button. Select the individuals you want to share your photos with under **Send in Google Photos**.
 
+
 ![google photos video share option](https://images.wondershare.com/filmora/article-images/google-photos-video-share-option.jpg)
 
 **Note**: To share with a single individual, touch their name on the screen.
@@ -193,6 +207,7 @@ After editing your videos, now would be the time for you to share them with your
 * (Optional) Add a message to go along with the material you've contributed.
 
 **Step 3:** To send a picture or a video, use the **Send** button.
+
 
 ![share video from google photos app](https://images.wondershare.com/filmora/article-images/share-video-from-google-photos-app.jpg)
 
@@ -243,17 +258,20 @@ After you’ve installed the app on your smartphone, it’s time to get started 
 
 **Photos** is the first tab on the left-hand side of the screen. Memories from the past and the most current images may be found here.
 
+
 ![google photos photos interface](https://images.wondershare.com/filmora/article-images/google-photos-photos-interface.jpg)
 
 **2\. The Search Tab**
 
 The **Search** tab appears next. You may use this search to find images of people, places, items on a map, or in a category. You may also see your own animations, collages, and movies in the gallery.
 
+
 ![google photos search interface](https://images.wondershare.com/filmora/article-images/google-photos-search-interface.jpg)
 
 **3\. The Sharing Tab**
 
 When you tap on the **Sharing** option, you have plenty of options. You can begin with the options of **Create Shared Album** and **Share with Partner**. You can _choose_ _to_ **_Share Some or All of Your Photos Automatically_**. Be it conversations or pictures. You have a good number of options here.
+
 
 ![google photos sharing interface](https://images.wondershare.com/filmora/article-images/google-photos-sharing-interface.jpg)
 
@@ -262,6 +280,7 @@ When you tap on the **Sharing** option, you have plenty of options. You can begi
 The **Library** tab is the third one on the left-hand side. Your **Albums**, **Favorites** and **Archive** are all here, as well as your Trash.
 
 The **Utilities** menu includes tools for animating, collaging, and creating movies. By tapping on a picture, you may see the photo in its entirety. You may also access the editing and sharing options for a picture in this manner.
+
 
 ![google photos library interface](https://images.wondershare.com/filmora/article-images/google-photos-library-interface.jpg)
 
@@ -291,6 +310,7 @@ Let’s take a deep look into how you can apply these effects to your video:
 
 Tap on the **Crop** option and select the different **Aspect Ratios** to start with. Click on the **Transform** or **Auto** option to choose your style of cropping the video.
 
+
 ![crop rotate video google photos](https://images.wondershare.com/filmora/article-images/crop-rotate-video-google-photos.jpg)
 
 Simply use the **Dial** option or select **Auto** to automatically straighten the video.
@@ -308,17 +328,20 @@ Select the video of your choice and press on the **Edit** option and then **Adju
 * Saturation
 * And many more a part of this feature.
 
+
 ![adjust color google photos](https://images.wondershare.com/filmora/article-images/adjust-color-google-photos.jpg)
 
 **3\. Add a Filter in Google Photos app**
 
 Open the Edit option and tap on Filters to select the kind of Filter you want to add to you video.
 
+
 ![add filters google photos](https://images.wondershare.com/filmora/article-images/add-filters-google-photos.jpg)
 
 **4\. Highlight or Draw on Google Photos app**
 
 Head over to the Markup section in the Edit option and tap on Highlighter or on Pen to draw or highlight according to your liking.
+
 
 ![google photos markup interface](https://images.wondershare.com/filmora/article-images/google-photos-markup-interface.jpg)
 
@@ -330,21 +353,26 @@ To follow along with this tutorial, you'll need a Google-enabled Android phone o
 
 **Step 2**: Select **Library** from the drop-down menu in the lower right corner of your mobile device's display. Scroll down to **Utilities** and click on it. **Animation**, **Collage,** and **Movie** are all included in the **Create New** section. As this instruction is about making a movie, the **Movie** button will be selected.
 
+
 ![create videos google photos library](https://images.wondershare.com/filmora/article-images/create-videos-google-photos-library.jpg)
 
 **Step 3:** Choosing a movie theme on the "Create Movie" tab or creating a new standard movie is the only option.
+
 
 ![create movie google photos](https://images.wondershare.com/filmora/article-images/create-movie-google-photos.jpg)
 
 **Step 4**: When making a video, now you may choose from up to 50 images and clips. Once you've chosen your material, just hit the "create" button, and Google will arrange your images and videos in chronological order for you.
 
+
 ![google photos select items](https://images.wondershare.com/filmora/article-images/google-photos-select-items.jpg)
 
 **Step 5**: Changing the sequence of the photos may be done by tapping and dragging on the film strip icon. The **slider** allows you to change the length of a picture in the movie. Theme songs and music from your computer's hard drive may be accessed by selecting the music button in the center-right corner.
 
+
 ![edit video google photos](https://images.wondershare.com/filmora/article-images/edit-video-google-photos.jpg)
 
 **Step 6:** In addition, you may alter the appearance of the video by applying styles and effects. Select a **title** for your film after seeing the finished video. When you're finished, click **Save,** and the completed image will display in your Google Photos album. To save a video to your device's storage, locate the video and choose Download Video from the video's options menu to begin the download process.
+
 
 ![save video google photos](https://images.wondershare.com/filmora/article-images/save-video-google-photos.jpg)
 
@@ -358,6 +386,7 @@ After editing your videos, now would be the time for you to share them with your
 
 **Step 2**: Choose a photograph, an album, or a video. To share, use the **Share** button. Select the individuals you want to share your photos with under **Send in Google Photos**.
 
+
 ![google photos video share option](https://images.wondershare.com/filmora/article-images/google-photos-video-share-option.jpg)
 
 **Note**: To share with a single individual, touch their name on the screen.
@@ -367,6 +396,7 @@ After editing your videos, now would be the time for you to share them with your
 * (Optional) Add a message to go along with the material you've contributed.
 
 **Step 3:** To send a picture or a video, use the **Send** button.
+
 
 ![share video from google photos app](https://images.wondershare.com/filmora/article-images/share-video-from-google-photos-app.jpg)
 
@@ -417,17 +447,20 @@ After you’ve installed the app on your smartphone, it’s time to get started 
 
 **Photos** is the first tab on the left-hand side of the screen. Memories from the past and the most current images may be found here.
 
+
 ![google photos photos interface](https://images.wondershare.com/filmora/article-images/google-photos-photos-interface.jpg)
 
 **2\. The Search Tab**
 
 The **Search** tab appears next. You may use this search to find images of people, places, items on a map, or in a category. You may also see your own animations, collages, and movies in the gallery.
 
+
 ![google photos search interface](https://images.wondershare.com/filmora/article-images/google-photos-search-interface.jpg)
 
 **3\. The Sharing Tab**
 
 When you tap on the **Sharing** option, you have plenty of options. You can begin with the options of **Create Shared Album** and **Share with Partner**. You can _choose_ _to_ **_Share Some or All of Your Photos Automatically_**. Be it conversations or pictures. You have a good number of options here.
+
 
 ![google photos sharing interface](https://images.wondershare.com/filmora/article-images/google-photos-sharing-interface.jpg)
 
@@ -436,6 +469,7 @@ When you tap on the **Sharing** option, you have plenty of options. You can begi
 The **Library** tab is the third one on the left-hand side. Your **Albums**, **Favorites** and **Archive** are all here, as well as your Trash.
 
 The **Utilities** menu includes tools for animating, collaging, and creating movies. By tapping on a picture, you may see the photo in its entirety. You may also access the editing and sharing options for a picture in this manner.
+
 
 ![google photos library interface](https://images.wondershare.com/filmora/article-images/google-photos-library-interface.jpg)
 
@@ -465,6 +499,7 @@ Let’s take a deep look into how you can apply these effects to your video:
 
 Tap on the **Crop** option and select the different **Aspect Ratios** to start with. Click on the **Transform** or **Auto** option to choose your style of cropping the video.
 
+
 ![crop rotate video google photos](https://images.wondershare.com/filmora/article-images/crop-rotate-video-google-photos.jpg)
 
 Simply use the **Dial** option or select **Auto** to automatically straighten the video.
@@ -482,17 +517,20 @@ Select the video of your choice and press on the **Edit** option and then **Adju
 * Saturation
 * And many more a part of this feature.
 
+
 ![adjust color google photos](https://images.wondershare.com/filmora/article-images/adjust-color-google-photos.jpg)
 
 **3\. Add a Filter in Google Photos app**
 
 Open the Edit option and tap on Filters to select the kind of Filter you want to add to you video.
 
+
 ![add filters google photos](https://images.wondershare.com/filmora/article-images/add-filters-google-photos.jpg)
 
 **4\. Highlight or Draw on Google Photos app**
 
 Head over to the Markup section in the Edit option and tap on Highlighter or on Pen to draw or highlight according to your liking.
+
 
 ![google photos markup interface](https://images.wondershare.com/filmora/article-images/google-photos-markup-interface.jpg)
 
@@ -504,21 +542,26 @@ To follow along with this tutorial, you'll need a Google-enabled Android phone o
 
 **Step 2**: Select **Library** from the drop-down menu in the lower right corner of your mobile device's display. Scroll down to **Utilities** and click on it. **Animation**, **Collage,** and **Movie** are all included in the **Create New** section. As this instruction is about making a movie, the **Movie** button will be selected.
 
+
 ![create videos google photos library](https://images.wondershare.com/filmora/article-images/create-videos-google-photos-library.jpg)
 
 **Step 3:** Choosing a movie theme on the "Create Movie" tab or creating a new standard movie is the only option.
+
 
 ![create movie google photos](https://images.wondershare.com/filmora/article-images/create-movie-google-photos.jpg)
 
 **Step 4**: When making a video, now you may choose from up to 50 images and clips. Once you've chosen your material, just hit the "create" button, and Google will arrange your images and videos in chronological order for you.
 
+
 ![google photos select items](https://images.wondershare.com/filmora/article-images/google-photos-select-items.jpg)
 
 **Step 5**: Changing the sequence of the photos may be done by tapping and dragging on the film strip icon. The **slider** allows you to change the length of a picture in the movie. Theme songs and music from your computer's hard drive may be accessed by selecting the music button in the center-right corner.
 
+
 ![edit video google photos](https://images.wondershare.com/filmora/article-images/edit-video-google-photos.jpg)
 
 **Step 6:** In addition, you may alter the appearance of the video by applying styles and effects. Select a **title** for your film after seeing the finished video. When you're finished, click **Save,** and the completed image will display in your Google Photos album. To save a video to your device's storage, locate the video and choose Download Video from the video's options menu to begin the download process.
+
 
 ![save video google photos](https://images.wondershare.com/filmora/article-images/save-video-google-photos.jpg)
 
@@ -532,6 +575,7 @@ After editing your videos, now would be the time for you to share them with your
 
 **Step 2**: Choose a photograph, an album, or a video. To share, use the **Share** button. Select the individuals you want to share your photos with under **Send in Google Photos**.
 
+
 ![google photos video share option](https://images.wondershare.com/filmora/article-images/google-photos-video-share-option.jpg)
 
 **Note**: To share with a single individual, touch their name on the screen.
@@ -541,6 +585,7 @@ After editing your videos, now would be the time for you to share them with your
 * (Optional) Add a message to go along with the material you've contributed.
 
 **Step 3:** To send a picture or a video, use the **Send** button.
+
 
 ![share video from google photos app](https://images.wondershare.com/filmora/article-images/share-video-from-google-photos-app.jpg)
 
@@ -591,17 +636,20 @@ After you’ve installed the app on your smartphone, it’s time to get started 
 
 **Photos** is the first tab on the left-hand side of the screen. Memories from the past and the most current images may be found here.
 
+
 ![google photos photos interface](https://images.wondershare.com/filmora/article-images/google-photos-photos-interface.jpg)
 
 **2\. The Search Tab**
 
 The **Search** tab appears next. You may use this search to find images of people, places, items on a map, or in a category. You may also see your own animations, collages, and movies in the gallery.
 
+
 ![google photos search interface](https://images.wondershare.com/filmora/article-images/google-photos-search-interface.jpg)
 
 **3\. The Sharing Tab**
 
 When you tap on the **Sharing** option, you have plenty of options. You can begin with the options of **Create Shared Album** and **Share with Partner**. You can _choose_ _to_ **_Share Some or All of Your Photos Automatically_**. Be it conversations or pictures. You have a good number of options here.
+
 
 ![google photos sharing interface](https://images.wondershare.com/filmora/article-images/google-photos-sharing-interface.jpg)
 
@@ -610,6 +658,7 @@ When you tap on the **Sharing** option, you have plenty of options. You can begi
 The **Library** tab is the third one on the left-hand side. Your **Albums**, **Favorites** and **Archive** are all here, as well as your Trash.
 
 The **Utilities** menu includes tools for animating, collaging, and creating movies. By tapping on a picture, you may see the photo in its entirety. You may also access the editing and sharing options for a picture in this manner.
+
 
 ![google photos library interface](https://images.wondershare.com/filmora/article-images/google-photos-library-interface.jpg)
 
@@ -639,6 +688,7 @@ Let’s take a deep look into how you can apply these effects to your video:
 
 Tap on the **Crop** option and select the different **Aspect Ratios** to start with. Click on the **Transform** or **Auto** option to choose your style of cropping the video.
 
+
 ![crop rotate video google photos](https://images.wondershare.com/filmora/article-images/crop-rotate-video-google-photos.jpg)
 
 Simply use the **Dial** option or select **Auto** to automatically straighten the video.
@@ -656,17 +706,20 @@ Select the video of your choice and press on the **Edit** option and then **Adju
 * Saturation
 * And many more a part of this feature.
 
+
 ![adjust color google photos](https://images.wondershare.com/filmora/article-images/adjust-color-google-photos.jpg)
 
 **3\. Add a Filter in Google Photos app**
 
 Open the Edit option and tap on Filters to select the kind of Filter you want to add to you video.
 
+
 ![add filters google photos](https://images.wondershare.com/filmora/article-images/add-filters-google-photos.jpg)
 
 **4\. Highlight or Draw on Google Photos app**
 
 Head over to the Markup section in the Edit option and tap on Highlighter or on Pen to draw or highlight according to your liking.
+
 
 ![google photos markup interface](https://images.wondershare.com/filmora/article-images/google-photos-markup-interface.jpg)
 
@@ -678,21 +731,26 @@ To follow along with this tutorial, you'll need a Google-enabled Android phone o
 
 **Step 2**: Select **Library** from the drop-down menu in the lower right corner of your mobile device's display. Scroll down to **Utilities** and click on it. **Animation**, **Collage,** and **Movie** are all included in the **Create New** section. As this instruction is about making a movie, the **Movie** button will be selected.
 
+
 ![create videos google photos library](https://images.wondershare.com/filmora/article-images/create-videos-google-photos-library.jpg)
 
 **Step 3:** Choosing a movie theme on the "Create Movie" tab or creating a new standard movie is the only option.
+
 
 ![create movie google photos](https://images.wondershare.com/filmora/article-images/create-movie-google-photos.jpg)
 
 **Step 4**: When making a video, now you may choose from up to 50 images and clips. Once you've chosen your material, just hit the "create" button, and Google will arrange your images and videos in chronological order for you.
 
+
 ![google photos select items](https://images.wondershare.com/filmora/article-images/google-photos-select-items.jpg)
 
 **Step 5**: Changing the sequence of the photos may be done by tapping and dragging on the film strip icon. The **slider** allows you to change the length of a picture in the movie. Theme songs and music from your computer's hard drive may be accessed by selecting the music button in the center-right corner.
 
+
 ![edit video google photos](https://images.wondershare.com/filmora/article-images/edit-video-google-photos.jpg)
 
 **Step 6:** In addition, you may alter the appearance of the video by applying styles and effects. Select a **title** for your film after seeing the finished video. When you're finished, click **Save,** and the completed image will display in your Google Photos album. To save a video to your device's storage, locate the video and choose Download Video from the video's options menu to begin the download process.
+
 
 ![save video google photos](https://images.wondershare.com/filmora/article-images/save-video-google-photos.jpg)
 
@@ -706,6 +764,7 @@ After editing your videos, now would be the time for you to share them with your
 
 **Step 2**: Choose a photograph, an album, or a video. To share, use the **Share** button. Select the individuals you want to share your photos with under **Send in Google Photos**.
 
+
 ![google photos video share option](https://images.wondershare.com/filmora/article-images/google-photos-video-share-option.jpg)
 
 **Note**: To share with a single individual, touch their name on the screen.
@@ -715,6 +774,7 @@ After editing your videos, now would be the time for you to share them with your
 * (Optional) Add a message to go along with the material you've contributed.
 
 **Step 3:** To send a picture or a video, use the **Send** button.
+
 
 ![share video from google photos app](https://images.wondershare.com/filmora/article-images/share-video-from-google-photos-app.jpg)
 

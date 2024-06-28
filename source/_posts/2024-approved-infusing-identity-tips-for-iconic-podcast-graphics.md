@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infusing Identity  Tips for Iconic Podcast Graphics\""
-date: 2024-05-26T13:26:06.755Z
-updated: 2024-05-27T13:26:06.755Z
+date: 2024-06-27T06:25:58.060Z
+updated: 2024-06-28T06:25:58.060Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Infusing Identity: Tips for Iconic Podcast Graphics\""
 excerpt: "\"This Article Describes 2024 Approved: Infusing Identity: Tips for Iconic Podcast Graphics\""
 keywords: "Podcast Identity,Graphic Design Tips,Podcast Branding,Iconic Graphics,Podcast Aesthetics,Visual Identity,Creative Graphics"
-thumbnail: https://www.lifewire.com/thmb/WkwmryU-mysmu097V_UdLIizOp4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/getty-185234332-56c8b46c5f9b5879cc44921f.jpg
+thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06c40a2dc84de8d83be8e3fd3.jpg
 ---
 
 ## Infusing Identity: Tips for Iconic Podcast Graphics
@@ -29,6 +29,7 @@ We will start with the basics of podcast logos and move on to the best logo crea
 Before we get into how great podcast logos are made, let's look at the basics of a podcast logo. It's important not to get podcast logos mixed up with podcast artwork. Podcast artwork can warry for episodes or series and represents them individually.
 
 Podcast logos usually stay the same and are a visual representation of all your work. Your podcast logo depicts your content to the viewer, illustrating what your channel is all about.
+
 
 ![serial killers podcast logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-1.jpg)
 
@@ -65,6 +66,7 @@ The first method we will discuss is using online podcast logo makers available o
 
 **1\. [Logo](https://logo.com/logos/podcast-logo-maker)**
 
+
 ![logo.com logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-2.jpg)
 
 The first platform on our list is Logo.com. Logo is a free online Logo generator that instantaneously provides users with logos based on the name and keywords they provide. The process is straightforward to follow with the platforms step by step guidance.
@@ -73,35 +75,43 @@ Let's take a look at the steps.
 
 Step1 Enter your brand's name.
 
+
 ![enter your brand’s name](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-3.jpg)
 
 Step2 Add a tagline or text you want on your logo.
+
 
 ![enter a slogan](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-4.jpg)
 
 Step3 Pick your design.
 
+
 ![pick a design](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-5.jpg)
 
 Step4 Customize your design.
+
 
 ![customize design](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-6.jpg)
 
 Step5 Review your logo.
 
+
 ![review your logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-7.jpg)
 
 Step6 Download your logo.
 
+
 ![download logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-8.jpg)
 
 **2\. [BrandCrowd](https://www.brandcrowd.com/logo-maker)**
+
 
 ![brandcrowd logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-9.jpg)
 
 BrandCrowd is another fantastic online logo maker that provides you with an outstanding logo in just minutes. The process is simple and quite similar to Logo’s. BrandCrowd has a library filled with premium logo designs created by professionals from all over.
 
 **3\. [Online Logo Maker](https://www.onlinelogomaker.com/)**
+
 
 ![online logo maker logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-10.jpg)
 
@@ -112,6 +122,7 @@ The last online web-based logo maker on our list is Online Logo Maker. It is jus
 Another terrific way to create podcast logos is by using podcast editors. These softwares are made to edit all elements of your podcast, including the audio and cover art. Podcast editors can also be used to create logos for your podcasts. Let's have a look at the best podcast editor softwares available.
 
 **1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
+
 
 ![wondershare filmora logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-11.jpg)
 
@@ -125,31 +136,39 @@ Now let's go over the steps to create a logo using Filmora.
 
 Step1 Open up a black template on Filmora.
 
+
 ![blank filmora interface](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-12.jpg)
 
 Step2 Go to **Sample Colors**. Select a color for your background and drag it to **Video layer 1**.
+
 
 ![add color to video layer 1](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-13.jpg)
 
 Step3 Select a second color for your logo and drag it to **Video layer 2**.
 
+
 ![add color to video layer 2](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-14.jpg)
 
 Step4 Go to the **Titles** section and pick a font you like. Drag that font to **Video layer 3.**
+
 
 ![add title to video layer 3](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-15.jpg)
 
 Step5 Double-click the title you've added in **Video layer 3\.** A menu should pop up. Select **Advanced.**
 
+
 ![select advanced](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-16.jpg)
 
 Step6 Type the text for your logo in the text box. Choose your text's font, color, and size.
 
+
 ![text edit menu](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-17.jpg)
+
 
 ![text edit menu](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-18.jpg)
 
 Step7 Once you're done with your text, press **OK.**
+
 
 ![press ok](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-19.jpg)
 
@@ -157,19 +176,23 @@ Step8 Go to **effects,** select an effect you like, and drag to add it wherever 
 
 (in this example, the effect has been added to video layer 2.)
 
+
 ![add effects to logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-20.jpg)
 
 Step9 Save your logo. You can press the snapshot icon beneath the display or press **Ctrl+Alt+S**.
 
+
 ![save logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-21.jpg)
 
 **2\. [Premiere Pro](https://www.adobe.com/products/premiere.html)**
+
 
 ![premiere pro logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-22.jpg)
 
 The second podcast editor on our list is nonother than Premiere Pro. Premiere Pro by Adobe is a top-rated software renowned for its simple yet power-packed capabilities. Like with Filmora, users can use Premier pro to create all logos, including animated logo intros.
 
 **3\. [Pro Tools](https://www.avid.com/pro-tools)**
+
 
 ![pro tools logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-23.jpg)
 
@@ -183,6 +206,7 @@ The process may be a little more complex than the last two methods discussed, bu
 
 **1\. [Canva](https://www.canva.com/)**
 
+
 ![canva logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-24.jpg)
 
 The first Design Tool on our list is Canva. Canva is one of the most well know designing tools in the market, and for a good reason. Canvas's easy-to-use drag-and-drop interface makes tasks highly feasible for amateurs and professionals.
@@ -191,31 +215,38 @@ There are hundreds of templates available and numerous options to customize your
 
 Step1 Launch Canva and go to the **Templates.** Select **Logos.**
 
+
 ![select logo templates](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-25.jpg)
 
 Step2 Select a template you like and click on **Customize this template.**
+
 
 ![choose a template](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-26.jpg)
 
 Step3 You can add/remove materials as you wish.
 
+
 ![edit material on logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-27.jpg)
 
 Step4 You can change the font, size, and color of the text.
+
 
 ![edit text](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-28.jpg)
 
 Step5 **Share** from the top right corner and choose **Download** to save your logo.
 
+
 ![save your logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-29.jpg)
 
 **2\. [Photoshop](https://www.adobe.com/products/photoshop.html)**
+
 
 ![photoshop logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-30.jpg)
 
 Adobe Photoshop is the most famous design tool in the world. With Photoshop, the possibilities are endless. You can use Photoshop to create virtually any kind of pic, including jaw-dropping logos for your podcasts. Photoshop has more functionalities than any other design tool out there. It may be overwhelming for new users, but it's worth it.
 
 **3\. [Figma](https://www.figma.com/)**
+
 
 ![figma logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-31.jpg)
 
@@ -259,31 +290,39 @@ Now let's go over the steps to create a logo using Filmora.
 
 Step1 Open up a black template on Filmora.
 
+
 ![blank filmora interface](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-12.jpg)
 
 Step2 Go to **Sample Colors**. Select a color for your background and drag it to **Video layer 1**.
+
 
 ![add color to video layer 1](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-13.jpg)
 
 Step3 Select a second color for your logo and drag it to **Video layer 2**.
 
+
 ![add color to video layer 2](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-14.jpg)
 
 Step4 Go to the **Titles** section and pick a font you like. Drag that font to **Video layer 3.**
+
 
 ![add title to video layer 3](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-15.jpg)
 
 Step5 Double-click the title you've added in **Video layer 3\.** A menu should pop up. Select **Advanced.**
 
+
 ![select advanced](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-16.jpg)
 
 Step6 Type the text for your logo in the text box. Choose your text's font, color, and size.
 
+
 ![text edit menu](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-17.jpg)
+
 
 ![text edit menu](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-18.jpg)
 
 Step7 Once you're done with your text, press **OK.**
+
 
 ![press ok](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-19.jpg)
 
@@ -291,19 +330,23 @@ Step8 Go to **effects,** select an effect you like, and drag to add it wherever 
 
 (in this example, the effect has been added to video layer 2.)
 
+
 ![add effects to logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-20.jpg)
 
 Step9 Save your logo. You can press the snapshot icon beneath the display or press **Ctrl+Alt+S**.
 
+
 ![save logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-21.jpg)
 
 **2\. [Premiere Pro](https://www.adobe.com/products/premiere.html)**
+
 
 ![premiere pro logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-22.jpg)
 
 The second podcast editor on our list is nonother than Premiere Pro. Premiere Pro by Adobe is a top-rated software renowned for its simple yet power-packed capabilities. Like with Filmora, users can use Premier pro to create all logos, including animated logo intros.
 
 **3\. [Pro Tools](https://www.avid.com/pro-tools)**
+
 
 ![pro tools logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-23.jpg)
 
@@ -317,6 +360,7 @@ The process may be a little more complex than the last two methods discussed, bu
 
 **1\. [Canva](https://www.canva.com/)**
 
+
 ![canva logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-24.jpg)
 
 The first Design Tool on our list is Canva. Canva is one of the most well know designing tools in the market, and for a good reason. Canvas's easy-to-use drag-and-drop interface makes tasks highly feasible for amateurs and professionals.
@@ -325,31 +369,38 @@ There are hundreds of templates available and numerous options to customize your
 
 Step1 Launch Canva and go to the **Templates.** Select **Logos.**
 
+
 ![select logo templates](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-25.jpg)
 
 Step2 Select a template you like and click on **Customize this template.**
+
 
 ![choose a template](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-26.jpg)
 
 Step3 You can add/remove materials as you wish.
 
+
 ![edit material on logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-27.jpg)
 
 Step4 You can change the font, size, and color of the text.
+
 
 ![edit text](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-28.jpg)
 
 Step5 **Share** from the top right corner and choose **Download** to save your logo.
 
+
 ![save your logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-29.jpg)
 
 **2\. [Photoshop](https://www.adobe.com/products/photoshop.html)**
+
 
 ![photoshop logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-30.jpg)
 
 Adobe Photoshop is the most famous design tool in the world. With Photoshop, the possibilities are endless. You can use Photoshop to create virtually any kind of pic, including jaw-dropping logos for your podcasts. Photoshop has more functionalities than any other design tool out there. It may be overwhelming for new users, but it's worth it.
 
 **3\. [Figma](https://www.figma.com/)**
+
 
 ![figma logo](https://images.wondershare.com/filmora/article-images/2023/01/podcasts-logos-31.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Steps to Fade Audio with FL Studio"
-date: 2024-05-26T13:52:15.419Z
-updated: 2024-05-27T13:52:15.419Z
+date: 2024-06-27T06:26:01.808Z
+updated: 2024-06-28T06:26:01.808Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Steps to Fade Audio with FL Studio"
 excerpt: "This Article Describes [Updated] Steps to Fade Audio with FL Studio"
 keywords: "Fade Audio Tips,Fl Studio Audio Levels,Digital Audio Easing,Sound Adjustment Steps,Mixing Audio Gradually,Volume Control Techniques,Audio Transition Methods"
-thumbnail: https://www.lifewire.com/thmb/uPaLVwxbvMfcPdG68RijLj_eON0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-bd03be35e2934c6a955a7022f4319123.png
+thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7456b6ffbc01667561900748.png
 ---
 
 ## Steps to Fade Audio with FL Studio
@@ -30,11 +30,13 @@ It can create new sounds through drum machines as a result you can show your cre
 
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
+
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
+
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
@@ -54,9 +56,11 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
+
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
@@ -82,9 +86,11 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
+
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 

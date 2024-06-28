@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Full Disclosure  Unveiling All About Google Podcasts App\""
-date: 2024-05-26T14:45:27.844Z
-updated: 2024-05-27T14:45:27.844Z
+date: 2024-06-27T06:25:58.808Z
+updated: 2024-06-28T06:25:58.808Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Full Disclosure: Unveiling All About Google Podcasts App\""
 excerpt: "\"This Article Describes [New] Full Disclosure: Unveiling All About Google Podcasts App\""
 keywords: "Google Podcasts Insight,Full Transparency GPodA,Podcast AI Deep Dive,Google Play Podcast Review,Unveiling GPodA Features,Disclosing Google Podcasts,All About GPodA Guide"
-thumbnail: https://www.lifewire.com/thmb/HCLMP6GMUtopX7mh_Wu068K9So8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/carsolarbatterycharger-5680a3b85f9b586a9edda02a.jpg
+thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b149ae12a4fa97fbfe5c6637e.jpg
 ---
 
 ## Full Disclosure: Unveiling All About Google Podcasts App
@@ -46,6 +46,7 @@ So, **what is Google Podcast App** and what users can expect from the software. 
 
 Google Podcast app has a simple, clean UI with a minimalist design and specific features optimized with AI technology.
 
+
 ![google podcast app](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-1.jpg)
 
 The podcasts available in the app were originally in Google Play Music. But after its discontinuation in 2020, the podcasts have moved to this separate platform. However, the links of the available shows and branding have become new, so it is important to update that information on your channel and transfer the audience there. As for this app itself, it is still ongoing.
@@ -58,11 +59,13 @@ Now that you know the Google Podcast platform, it is best to discuss the expecte
 
 You can subscribe to different shows per the preferred **Genre** you want to listen to. Then, you will get updates on the new shows or posted episodes as notifications. Unsubscribing from the podcast is easy as well.
 
+
 ![subscribe to different shows](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-2.jpg)
 
 **Browse Genres**
 
 When you search on **Google "what is a podcast,"** the answer mentions that they are auditory shows with different content types. On the **Google Podcasts app Android** or iOS version, you can access a vast library of content across different Genres like history, news, comedy, business, education, sports, technology, health and fitness, education, and more.
+
 
 ![vast library of content across different genres](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-3.jpg)
 
@@ -70,11 +73,13 @@ When you search on **Google "what is a podcast,"** the answer mentions that they
 
 You can easily change everything about what you hear and its type of playback, depending on your preference. Plus, you can skip silent parts easily, control filtering of mature content, and increase playback speed. Also, track your downloads, listening history, and subscriptions.
 
+
 ![control filtering of mature content](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-4.jpg)
 
 **Manage a queue**
 
 To simplify, you can queue the episodes you will hear in a sequence you want instead of browsing each time to find and play an episode. You can easily add or remove episodes from the queue and rearrange the queue order.
+
 
 ![add or remove episodes from the queue](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-5.jpg)
 
@@ -82,11 +87,13 @@ To simplify, you can queue the episodes you will hear in a sequence you want ins
 
 You can listen to podcast episodes on the **Google Podcast platform** using Google Home or Google Assistant integration. Sync the accounts and use AI software to control what you play. You can hear the episodes on Google Podcasts with Android Auto integration in cars.
 
+
 ![listen to podcasts using google home](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-6.jpg)
 
 **Use RSS Feed**
 
 With the RSS feed, you can also include your personalized podcast. These can include shows from other sites or platforms and is accessible on the app through the Activity menu > Subscriptions > More > Add by RSS feed. Add the RSS feed URL and press the Subscribe button.
+
 
 ![add by rss feed](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-7.jpg)
 
@@ -102,11 +109,13 @@ Step2 To find different types of content, you can click on different sections of
 
 Click the podcast title to open and find all episodes.
 
+
 ![click the podcast title](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-8.jpg)
 
 To know about the episode details, click the name of the episode.
 
 Downloaded or in-progress episodes are accessible through the Activity/Library menu.
+
 
 ![go to activity or library menu](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-9.jpg)
 
@@ -118,9 +127,10 @@ For a better understanding, you can check out the [video tutorial](https://youtu
 
 Using simple steps and processes, many users have used Google Podcasts to prepare and post their content. Here are 10 of the top podcasts that are available on the platform. Knowing them will give you an idea of what type of podcasts get higher audience pull.
 
-### 1\. [The Habit Coach with Ashdin Doctor](https://podcasts.google.com/feed/aHR0cHM6Ly9zdGF0aWMuYWRvcmlsYWJzLmNvbS9mZWVkL3RoZS1oYWJpdC1jb2FjaC13aXRoLWFzaGRpbi1kb2N0b3IueG1s?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAZ6BQgBEJAB)
+### 1\. The Habit Coach with Ashdin Doctor
 
 **Genre**\- Health & Fitness
+
 
 ![the habit coach with ashdin doctor cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-10.jpg)
 
@@ -128,7 +138,8 @@ This podcast covers different discussions on the productivity steps people can t
 
 **Total number of episodes**\- 835
 
-### 2\. [BTS](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDU5MjY5Mi9lcGlzb2Rlcy9mZWVk?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAV6BQgBEIAB)
+### 2\. BTS
+
 
 ![bts cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-11.jpg)
 
@@ -138,7 +149,8 @@ A fan of the Korean global superstar boyband named Marianna started this podcast
 
 **Total number of episodes**\- 14
 
-### 3\. [Speak Better English with Harry](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS80NDI1NDMucnNz?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAR6BAgBEGU)
+### 3\. Speak Better English with Harry
+
 
 ![speak better english with harry cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-12.jpg)
 
@@ -148,7 +160,8 @@ The creator discusses different English language elements, giving listeners adva
 
 **Total number of episodes**\- 400
 
-### 4\. [Behind the Bastards](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvZTczYzk5OGUtNmU2MC00MzJmLTg2MTAtYWUyMTAxNDBjNWIxL2U1ZjkxMjA4LWNjN2UtNDcyNi1hMzEyLWFlMjgwMTQwYWQxMS9kNjRmNzU2ZC02ZDVlLTRmYWUtYjI0Zi1hZTI4MDE0MGFkMzYvcG9kY2FzdC5yc3M?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAN6BAgBEFA)
+### 4\. Behind the Bastards
+
 
 ![behind the bastards cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-13.jpg)
 
@@ -158,7 +171,8 @@ The creator of this podcast discusses major names that did huge controversial mo
 
 **Total number of episodes**\- 569
 
-### 5\. [Huberman Lab](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vaHViZXJtYW5sYWI?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAJ6BAgBEDY)
+### 5\. Huberman Lab
+
 
 ![huberman lab cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-14.jpg)
 
@@ -168,7 +182,8 @@ This podcast covers discussions about brain structure and connections and how it
 
 **Total number of episodes**\- 94
 
-### 6\. [On Purpose with Jay Shetty](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9vekxOa0FxSQ?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAF6BAgBEB4)
+### 6\. On Purpose with Jay Shetty
+
 
 ![on purpose with jay shetty cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-15.jpg)
 
@@ -178,7 +193,8 @@ The host, Jay Shetty, records interviews with different insightful individuals f
 
 **Total number of episodes**\- 384
 
-### 7\. [TED Talks Daily](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkczIuZmVlZGJ1cm5lci5jb20vdGVkdGFsa3NfYXVkaW8?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAB6BAgBEAY)
+### 7\. TED Talks Daily
+
 
 ![ted talks daily cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-16.jpg)
 
@@ -188,7 +204,8 @@ Experts from different sectors give speeches, compiled into episodes under this 
 
 **Total number of episodes**\- 177
 
-### 8\. [This American Life](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGhpc2FtZXJpY2FubGlmZS5vcmcvcG9kY2FzdC54bWw?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAB6BAgBEAU)
+### 8\. This American Life
+
 
 ![this american life cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-17.jpg)
 
@@ -198,7 +215,8 @@ This was a known public radio channel that created a platform for podcasting, po
 
 **Total number of episodes**\- 782
 
-### 9\. [Sky Sports Cricket Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3NreXNwb3J0c2NyaWNrZXQ?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAZ6BQgBEJQB)
+### 9\. Sky Sports Cricket Podcast
+
 
 ![sky sports cricket podcast cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-18.jpg)
 
@@ -208,7 +226,8 @@ The discussions in this podcast surround different topics related to recent chan
 
 **Total number of episodes**\- 605
 
-### 10.[True Crime All the Time](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RydWUtY3JpbWUtYWxsLXRoZS10aW1l?sa=X&ved=0CBoQ27cFahgKEwiI0dTG4On6AhUAAAAAHQAAAAAQmQY)
+### 10. True Crime All the Time
+
 
 ![true crime all the time cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-19.jpg)
 
@@ -240,21 +259,26 @@ Step2 Click on Create New Project.
 
 Step3 Drag and drop the media you into the editor timeline. Click the Record button to start adding your voiceover. From the drop-down menu, choose the Record Voiceover option.
 
+
 ![choose the record voiceover option](https://images.wondershare.com/filmora/article-images/start-record-podcast.jpg)
 
 Step4 Link your microphone device and complete the setup process. Press the Red Circle to begin recording.
+
 
 ![press the red circle](https://images.wondershare.com/filmora/article-images/set-mic-for-podcast.jpg)
 
 Step5 After completing the full recording, press the Red Circle with a square in the middle to stop recording. Press OK.
 
+
 ![press ok](https://images.wondershare.com/filmora/article-images/continue-record-podcast.jpg)
 
 Step6 After the recording is done, use different editing tools on this platform to make edits. Click on clip in the editing timeline and choose the Edit icon above it.
 
+
 ![choose the edit icon](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-20.jpg)
 
 Step7 Adjust the pitch, ducking, fade in/fade out, and other effects. Then, press OK.
+
 
 ![adjust the pitch](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-21.jpg)
 
@@ -294,6 +318,7 @@ So, **what is Google Podcast App** and what users can expect from the software. 
 
 Google Podcast app has a simple, clean UI with a minimalist design and specific features optimized with AI technology.
 
+
 ![google podcast app](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-1.jpg)
 
 The podcasts available in the app were originally in Google Play Music. But after its discontinuation in 2020, the podcasts have moved to this separate platform. However, the links of the available shows and branding have become new, so it is important to update that information on your channel and transfer the audience there. As for this app itself, it is still ongoing.
@@ -306,11 +331,13 @@ Now that you know the Google Podcast platform, it is best to discuss the expecte
 
 You can subscribe to different shows per the preferred **Genre** you want to listen to. Then, you will get updates on the new shows or posted episodes as notifications. Unsubscribing from the podcast is easy as well.
 
+
 ![subscribe to different shows](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-2.jpg)
 
 **Browse Genres**
 
 When you search on **Google "what is a podcast,"** the answer mentions that they are auditory shows with different content types. On the **Google Podcasts app Android** or iOS version, you can access a vast library of content across different Genres like history, news, comedy, business, education, sports, technology, health and fitness, education, and more.
+
 
 ![vast library of content across different genres](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-3.jpg)
 
@@ -318,11 +345,13 @@ When you search on **Google "what is a podcast,"** the answer mentions that they
 
 You can easily change everything about what you hear and its type of playback, depending on your preference. Plus, you can skip silent parts easily, control filtering of mature content, and increase playback speed. Also, track your downloads, listening history, and subscriptions.
 
+
 ![control filtering of mature content](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-4.jpg)
 
 **Manage a queue**
 
 To simplify, you can queue the episodes you will hear in a sequence you want instead of browsing each time to find and play an episode. You can easily add or remove episodes from the queue and rearrange the queue order.
+
 
 ![add or remove episodes from the queue](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-5.jpg)
 
@@ -330,11 +359,13 @@ To simplify, you can queue the episodes you will hear in a sequence you want ins
 
 You can listen to podcast episodes on the **Google Podcast platform** using Google Home or Google Assistant integration. Sync the accounts and use AI software to control what you play. You can hear the episodes on Google Podcasts with Android Auto integration in cars.
 
+
 ![listen to podcasts using google home](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-6.jpg)
 
 **Use RSS Feed**
 
 With the RSS feed, you can also include your personalized podcast. These can include shows from other sites or platforms and is accessible on the app through the Activity menu > Subscriptions > More > Add by RSS feed. Add the RSS feed URL and press the Subscribe button.
+
 
 ![add by rss feed](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-7.jpg)
 
@@ -350,11 +381,13 @@ Step2 To find different types of content, you can click on different sections of
 
 Click the podcast title to open and find all episodes.
 
+
 ![click the podcast title](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-8.jpg)
 
 To know about the episode details, click the name of the episode.
 
 Downloaded or in-progress episodes are accessible through the Activity/Library menu.
+
 
 ![go to activity or library menu](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-9.jpg)
 
@@ -366,9 +399,10 @@ For a better understanding, you can check out the [video tutorial](https://youtu
 
 Using simple steps and processes, many users have used Google Podcasts to prepare and post their content. Here are 10 of the top podcasts that are available on the platform. Knowing them will give you an idea of what type of podcasts get higher audience pull.
 
-### 1\. [The Habit Coach with Ashdin Doctor](https://podcasts.google.com/feed/aHR0cHM6Ly9zdGF0aWMuYWRvcmlsYWJzLmNvbS9mZWVkL3RoZS1oYWJpdC1jb2FjaC13aXRoLWFzaGRpbi1kb2N0b3IueG1s?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAZ6BQgBEJAB)
+### 1\. The Habit Coach with Ashdin Doctor
 
 **Genre**\- Health & Fitness
+
 
 ![the habit coach with ashdin doctor cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-10.jpg)
 
@@ -376,7 +410,8 @@ This podcast covers different discussions on the productivity steps people can t
 
 **Total number of episodes**\- 835
 
-### 2\. [BTS](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDU5MjY5Mi9lcGlzb2Rlcy9mZWVk?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAV6BQgBEIAB)
+### 2\. BTS
+
 
 ![bts cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-11.jpg)
 
@@ -386,7 +421,8 @@ A fan of the Korean global superstar boyband named Marianna started this podcast
 
 **Total number of episodes**\- 14
 
-### 3\. [Speak Better English with Harry](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS80NDI1NDMucnNz?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAR6BAgBEGU)
+### 3\. Speak Better English with Harry
+
 
 ![speak better english with harry cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-12.jpg)
 
@@ -396,7 +432,8 @@ The creator discusses different English language elements, giving listeners adva
 
 **Total number of episodes**\- 400
 
-### 4\. [Behind the Bastards](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvZTczYzk5OGUtNmU2MC00MzJmLTg2MTAtYWUyMTAxNDBjNWIxL2U1ZjkxMjA4LWNjN2UtNDcyNi1hMzEyLWFlMjgwMTQwYWQxMS9kNjRmNzU2ZC02ZDVlLTRmYWUtYjI0Zi1hZTI4MDE0MGFkMzYvcG9kY2FzdC5yc3M?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAN6BAgBEFA)
+### 4\. Behind the Bastards
+
 
 ![behind the bastards cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-13.jpg)
 
@@ -406,7 +443,8 @@ The creator of this podcast discusses major names that did huge controversial mo
 
 **Total number of episodes**\- 569
 
-### 5\. [Huberman Lab](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vaHViZXJtYW5sYWI?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAJ6BAgBEDY)
+### 5\. Huberman Lab
+
 
 ![huberman lab cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-14.jpg)
 
@@ -416,7 +454,8 @@ This podcast covers discussions about brain structure and connections and how it
 
 **Total number of episodes**\- 94
 
-### 6\. [On Purpose with Jay Shetty](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9vekxOa0FxSQ?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAF6BAgBEB4)
+### 6\. On Purpose with Jay Shetty
+
 
 ![on purpose with jay shetty cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-15.jpg)
 
@@ -426,7 +465,8 @@ The host, Jay Shetty, records interviews with different insightful individuals f
 
 **Total number of episodes**\- 384
 
-### 7\. [TED Talks Daily](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkczIuZmVlZGJ1cm5lci5jb20vdGVkdGFsa3NfYXVkaW8?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAB6BAgBEAY)
+### 7\. TED Talks Daily
+
 
 ![ted talks daily cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-16.jpg)
 
@@ -436,7 +476,8 @@ Experts from different sectors give speeches, compiled into episodes under this 
 
 **Total number of episodes**\- 177
 
-### 8\. [This American Life](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGhpc2FtZXJpY2FubGlmZS5vcmcvcG9kY2FzdC54bWw?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAB6BAgBEAU)
+### 8\. This American Life
+
 
 ![this american life cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-17.jpg)
 
@@ -446,7 +487,8 @@ This was a known public radio channel that created a platform for podcasting, po
 
 **Total number of episodes**\- 782
 
-### 9\. [Sky Sports Cricket Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3NreXNwb3J0c2NyaWNrZXQ?sa=X&ved=2ahUKEwjwn5zf1un6AhUzYmwGHSOADJAQjs4CKAZ6BQgBEJQB)
+### 9\. Sky Sports Cricket Podcast
+
 
 ![sky sports cricket podcast cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-18.jpg)
 
@@ -456,7 +498,8 @@ The discussions in this podcast surround different topics related to recent chan
 
 **Total number of episodes**\- 605
 
-### 10.[True Crime All the Time](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RydWUtY3JpbWUtYWxsLXRoZS10aW1l?sa=X&ved=0CBoQ27cFahgKEwiI0dTG4On6AhUAAAAAHQAAAAAQmQY)
+### 10. True Crime All the Time
+
 
 ![true crime all the time cover image](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-19.jpg)
 
@@ -488,21 +531,26 @@ Step2 Click on Create New Project.
 
 Step3 Drag and drop the media you into the editor timeline. Click the Record button to start adding your voiceover. From the drop-down menu, choose the Record Voiceover option.
 
+
 ![choose the record voiceover option](https://images.wondershare.com/filmora/article-images/start-record-podcast.jpg)
 
 Step4 Link your microphone device and complete the setup process. Press the Red Circle to begin recording.
+
 
 ![press the red circle](https://images.wondershare.com/filmora/article-images/set-mic-for-podcast.jpg)
 
 Step5 After completing the full recording, press the Red Circle with a square in the middle to stop recording. Press OK.
 
+
 ![press ok](https://images.wondershare.com/filmora/article-images/continue-record-podcast.jpg)
 
 Step6 After the recording is done, use different editing tools on this platform to make edits. Click on clip in the editing timeline and choose the Edit icon above it.
 
+
 ![choose the edit icon](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-20.jpg)
 
 Step7 Adjust the pitch, ducking, fade in/fade out, and other effects. Then, press OK.
+
 
 ![adjust the pitch](https://images.wondershare.com/filmora/article-images/2022/11/what-is-google-podcast-app-21.jpg)
 
