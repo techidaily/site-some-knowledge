@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Burst  How to Take Burst Images\""
-date: 2024-05-26T13:52:11.058Z
-updated: 2024-05-27T13:52:11.058Z
+date: 2024-07-04T17:46:55.950Z
+updated: 2024-07-05T17:46:55.950Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] IPhone Photo Burst: How to Take Burst Images\""
 excerpt: "\"This Article Describes [Updated] IPhone Photo Burst: How to Take Burst Images\""
 keywords: "IPhone Burst Shots,Capture Rapid iPhone Images,IPhone Photo Burst Technique,Fast iPhone Photography,Taking Burst Photos with iPhone,IPhone Rapid Capture Mode,Burst Shot iPhone Tips"
-thumbnail: https://www.lifewire.com/thmb/W-vsFUpjdJItVpk2tYSDB4OpW0U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ACM-ED-Head-Shot-e4a326b37f074583b67f247580ab5ca5.JPG
+thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7e4a31a614efb85ef8dac6ad.JPG
 ---
 
 ## IPhone Photo Burst: How to Take Burst Images

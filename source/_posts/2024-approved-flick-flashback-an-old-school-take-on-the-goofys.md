@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Flick Flashback  An Old-School Take on The Goofys\""
-date: 2024-05-26T15:13:20.172Z
-updated: 2024-05-27T15:13:20.172Z
+date: 2024-07-04T17:46:57.065Z
+updated: 2024-07-05T17:46:57.065Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Flick Flashback: An Old-School Take on The Goofys\""
 excerpt: "\"This Article Describes 2024 Approved: Flick Flashback: An Old-School Take on The Goofys\""
 keywords: "GoPro Duel,Hero5 VS Hero4,HeroBlack Duel,HeroSilver Clash,ActionCam Showdown,ProDare Decade,HeroTech Battle"
-thumbnail: https://www.lifewire.com/thmb/tPqwwi9b74sVfktetdXQ_WeI_Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-reset-network-settings-on-mac-67f9ced141324211893514022b0229fb.jpg
+thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c63be6599c5bbe4007fea7d1f.jpg
 ---
 
 ## Flick Flashback: An Old-School Take on The Goofys

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring Video File Limits in 64/128GB\""
-date: 2024-05-26T15:44:27.982Z
-updated: 2024-05-27T15:44:27.982Z
+date: 2024-07-04T17:46:54.970Z
+updated: 2024-07-05T17:46:54.970Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Exploring Video File Limits in 64/128GB\""
 excerpt: "\"This Article Describes 2024 Approved: Exploring Video File Limits in 64/128GB\""
 keywords: "\"Video File Size Restrictions,Max Video Capacity,High-Storage Video Limits,64GB Video Boundaries,128GB HD Video Limits,Digital Media Storage Thresholds,File Size Constraints in Videos\""
-thumbnail: https://www.lifewire.com/thmb/p9IaplJL54ugOQSdVcCq05XRd54=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_0755-5be60f4146e0fb002616c5f4.jpg
+thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
 ---
 
 ## Exploring Video File Limits in 64/128GB

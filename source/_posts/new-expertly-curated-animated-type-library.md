@@ -1,7 +1,7 @@
 ---
 title: "[New] Expertly Curated Animated Type Library"
-date: 2024-05-26T15:40:49.201Z
-updated: 2024-05-27T15:40:49.201Z
+date: 2024-07-04T17:46:52.401Z
+updated: 2024-07-05T17:46:52.401Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Expertly Curated Animated Type Library"
 excerpt: "This Article Describes [New] Expertly Curated Animated Type Library"
 keywords: "\"Anime Fonts Collection,Custom Animated Types,Premium Animated Type Pack,Designer's Type Library,Creative Font Selection,Expertly Animated Fonts,High-Quality Type Set\""
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Expertly Curated Animated Type Library

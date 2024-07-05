@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hubsan X4 Quadcopter Examination  An In-Depth Guide\""
-date: 2024-05-26T13:24:35.799Z
-updated: 2024-05-27T13:24:35.799Z
+date: 2024-07-04T17:46:56.571Z
+updated: 2024-07-05T17:46:56.571Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Hubsan X4 Quadcopter Examination: An In-Depth Guide\""
 excerpt: "\"This Article Describes 2024 Approved: Hubsan X4 Quadcopter Examination: An In-Depth Guide\""
 keywords: "Hubsan X4 Flight,Quadcopter Tutorial,Hubsan Drone Guide,X4 Quadrotor Test,Hubsan X4 Controls,Drone Examination Tips,Hubsan X4 Operation"
-thumbnail: https://www.lifewire.com/thmb/lbzpxme_ga81qcGBD3b8dYYnHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-145068362-42882d9921284cc598391b5402a72a69.jpg
+thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f123ecd76572cb92530c4365.jpg
 ---
 
 ## Hubsan X4 Quadcopter Examination: An In-Depth Guide

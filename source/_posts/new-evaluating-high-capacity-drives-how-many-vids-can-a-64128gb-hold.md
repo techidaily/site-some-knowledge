@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Evaluating High-Capacity Drives  How Many Vids Can a 64/128GB Hold?\""
-date: 2024-05-26T14:07:37.303Z
-updated: 2024-05-27T14:07:37.303Z
+date: 2024-07-04T17:46:56.793Z
+updated: 2024-07-05T17:46:56.793Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Evaluating High-Capacity Drives: How Many Vids Can a 64/128GB Hold?\""
 excerpt: "\"This Article Describes [New] Evaluating High-Capacity Drives: How Many Vids Can a 64/128GB Hold?\""
 keywords: "\"Storage Capacity Analysis,Drive Efficiency Rates,Video Data Storing,Large Drives Video Count,High-Capacity Drive Limits,VIDEO Holding Potential,64GB/128GB Storage Impact\""
-thumbnail: https://www.lifewire.com/thmb/moKtV9CKew0uEJHLaLNm27v-vUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-watch-dragon-ball-in-order-c348f47731764fd5a1695a68c412923a.jpg
+thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab182029f2762037858bef47cd1.jpg
 ---
 
 ## Evaluating High-Capacity Drives: How Many Vids Can a 64/128GB Hold?

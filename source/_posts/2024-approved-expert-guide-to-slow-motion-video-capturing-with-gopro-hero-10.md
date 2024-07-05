@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Guide to Slow Motion Video Capturing with GoPro Hero 10\""
-date: 2024-05-26T15:38:39.736Z
-updated: 2024-05-27T15:38:39.736Z
+date: 2024-07-04T17:46:59.193Z
+updated: 2024-07-05T17:46:59.193Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expert Guide to Slow Motion Video Capturing with GoPro Hero 10\""
 excerpt: "\"This Article Describes 2024 Approved: Expert Guide to Slow Motion Video Capturing with GoPro Hero 10\""
 keywords: "\"GoPro Hero 10 Slow Motion,Slow Motion Capture Guide,Hero 10 Video Technique,Mastering Slow Motion GoPro,Capture Slow-Motion with GoPro,Pro Tips for Slow Motion HERO,Learn Slow Motion Videography\""
-thumbnail: https://www.lifewire.com/thmb/A0XVxUlV8ojxNxMwxZO61wFI45o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-01-08at1.14.03PM-c8985aaab2454a16a2969d69bbc95867.png
+thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce588ef757833463a9f6ee469.png
 ---
 
 ## Expert Guide to Slow Motion Video Capturing with GoPro Hero 10

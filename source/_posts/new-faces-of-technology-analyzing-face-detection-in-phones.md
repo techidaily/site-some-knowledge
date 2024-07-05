@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Faces of Technology  Analyzing Face Detection in Phones\""
-date: 2024-05-26T13:58:24.555Z
-updated: 2024-05-27T13:58:24.555Z
+date: 2024-07-04T17:46:58.695Z
+updated: 2024-07-05T17:46:58.695Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Faces of Technology: Analyzing Face Detection in Phones\""
 excerpt: "\"This Article Describes [New] Faces of Technology: Analyzing Face Detection in Phones\""
 keywords: "Phone Face Detection Tech,Mobile Facial Recognition,Smartphones Detect Faces,Image Analysis Techface,Face Identification in Phones,Phone Facial Technology,Phones with Face Sensing"
-thumbnail: https://www.lifewire.com/thmb/_hc9DtkCKDph1kORMUlipe3yJ4g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pixel-8-pro-ad72b900095f485fa5eb09f9525f7448.jpg
+thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b667c623d0ec997b65a2b06877.jpg
 ---
 
 ## Faces of Technology: Analyzing Face Detection in Phones

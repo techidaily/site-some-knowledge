@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Extract and Save Still Images From Movies in Windows Photos"
-date: 2024-05-26T14:20:41.505Z
-updated: 2024-05-27T14:20:41.505Z
+date: 2024-07-04T17:46:53.991Z
+updated: 2024-07-05T17:46:53.991Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Extract and Save Still Images From Movies in Windows Photos"
 excerpt: "This Article Describes [Updated] Extract and Save Still Images From Movies in Windows Photos"
 keywords: "Movie Image Extraction,Photo Windows Saving,Media Film Stills,Windows Photos Capture,Film Image Save Tool,Movies to Images Extract,Quick Photo From Films"
-thumbnail: https://www.lifewire.com/thmb/pRe7N6Q9DMhueVOF-dWbf_st6xA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/usb-to-aux-cable-in-car-audio-3986249-3c8d90ec3abc456aa5a740cc6f56a1a8.png
+thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120ed3c32dedf0e24f515c80068.png
 ---
 
 ## Extract and Save Still Images From Movies in Windows Photos
@@ -45,7 +45,7 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
 
@@ -122,7 +122,7 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
 
@@ -199,7 +199,7 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
 
@@ -276,7 +276,7 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
+![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
 

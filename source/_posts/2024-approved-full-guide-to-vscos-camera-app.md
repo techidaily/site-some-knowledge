@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full Guide to VSCO's Camera App\""
-date: 2024-05-26T14:25:39.275Z
-updated: 2024-05-27T14:25:39.275Z
+date: 2024-07-04T17:46:56.181Z
+updated: 2024-07-05T17:46:56.181Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Full Guide to VSCO's Camera App\""
 excerpt: "\"This Article Describes 2024 Approved: Full Guide to VSCO's Camera App\""
 keywords: "VSCO Photography Tips,VSCO Mobile App Guide,VSCO Camera Features,Mastering VSCO on Phone,Learn VSCO Editing Basics,Explore VSCO App Functions,Comprehensive VSCO Photography"
-thumbnail: https://www.lifewire.com/thmb/PoIF2i4NC-hX4aHVoGsJ2JZyBks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fixd-5bcf5b80c9e77c00511ac234.jpg
+thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg
 ---
 
 ## Full Guide to VSCO's Camera App

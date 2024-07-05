@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Grasping Basics  Your Guide to AV1 Encoding\""
-date: 2024-05-26T14:16:24.843Z
-updated: 2024-05-27T14:16:24.843Z
+date: 2024-07-04T17:46:57.508Z
+updated: 2024-07-05T17:46:57.508Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Grasping Basics: Your Guide to AV1 Encoding\""
 excerpt: "\"This Article Describes [Updated] Grasping Basics: Your Guide to AV1 Encoding\""
 keywords: "AV1 Encoding Tips,Basic AV1 Techniques,Understanding AV1,Learning AV1 Encoding,Basics of AV1,Guide to AV1 Encoding,Starting with AV1"
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Grasping Basics: Your Guide to AV1 Encoding

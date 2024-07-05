@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to View Comments on YouTube\""
-date: 2024-05-26T14:30:19.350Z
-updated: 2024-05-27T14:30:19.350Z
+date: 2024-07-04T17:46:53.175Z
+updated: 2024-07-05T17:46:53.175Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to View Comments on YouTube\""
 excerpt: "\"This Article Describes 2024 Approved: How to View Comments on YouTube\""
 keywords: "YouTube Comments Viewing,Watch YouTube Comments,YouTube Comment Display,Access YouTube Comments,Read YouTube Comments,See YouTube Replies,Engage with YouTube Comments"
-thumbnail: https://www.lifewire.com/thmb/rkiS0gItVB_lCMmc-zDrWXPfg-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/yellowstone-ff7a6608623f4010a075db8a853c3eaa.jpg
+thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e42aa2cadb4595040f5c4520.jpg
 ---
 
 ## How to View Comments on YouTube

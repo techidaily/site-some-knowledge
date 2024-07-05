@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Highlighted  Are There Limitations to Aurora HDR's Performance?\""
-date: 2024-05-26T15:19:25.887Z
-updated: 2024-05-27T15:19:25.887Z
+date: 2024-07-04T17:46:55.484Z
+updated: 2024-07-05T17:46:55.484Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Highlighted: Are There Limitations to Aurora HDR's Performance?\""
 excerpt: "\"This Article Describes [Updated] Highlighted: Are There Limitations to Aurora HDR's Performance?\""
 keywords: "Aurora HDR Limitations,HDR Performance Limits,Aurora HDR Efficiency,HDR Image Quality,HDR Technology Bounds,Performance of Aurora HDR,HDR System Constraints"
-thumbnail: https://www.lifewire.com/thmb/zESouOEDMPD5pUPW8DH8E91-pZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Pandoraapponphone_ManuelBurgos_iStockUnreleased_Getty-e453208541bf4204818c65c8a03cde42.jpg
+thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32be5cc5adbe8d57734cb7714.jpg
 ---
 
 ## Highlighted: Are There Limitations to Aurora HDR's Performance?

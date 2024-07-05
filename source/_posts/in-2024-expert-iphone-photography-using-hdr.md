@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert iPhone Photography Using HDR"
-date: 2024-05-26T13:59:32.171Z
-updated: 2024-05-27T13:59:32.171Z
+date: 2024-07-04T17:46:54.037Z
+updated: 2024-07-05T17:46:54.037Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Expert iPhone Photography Using HDR"
 excerpt: "This Article Describes In 2024, Expert iPhone Photography Using HDR"
 keywords: "IPhone HDR Shots,Pro iPhone HDR Techniques,IPhone High Dynamic Range Photography,Master iPhone HDR Photos,HDR iPhone Camera Tips,Expert iPhone HDR Images,IPhone Advanced HDR Methods"
-thumbnail: https://www.lifewire.com/thmb/p3T148UMsHODakFi0TGFDH91XfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-681899129-ba812f305e664b88982722779ceb0d44.jpg
+thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c1071591d3411a278cc0334c16e37.jpg
 ---
 
 ## Expert iPhone Photography Using HDR

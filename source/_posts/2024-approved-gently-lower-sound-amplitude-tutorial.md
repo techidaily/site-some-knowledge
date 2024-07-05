@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Gently Lower Sound Amplitude Tutorial\""
-date: 2024-05-26T13:10:56.311Z
-updated: 2024-05-27T13:10:56.311Z
+date: 2024-07-04T17:46:56.990Z
+updated: 2024-07-05T17:46:56.990Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Gently Lower Sound Amplitude Tutorial\""
 excerpt: "\"This Article Describes 2024 Approved: Gently Lower Sound Amplitude Tutorial\""
 keywords: "Low Volume Guide,Amplitude Reduction Tips,Gentle Audio Softening,Decrease Decibels Explanation,Sound Level Lowering,Amplitude Diminishing Steps,Muffled Audio Methods"
-thumbnail: https://www.lifewire.com/thmb/lNAkScrvsB-R9SwnwBvh3Xg6SRU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/changing-default-document-formatting-google-docs-3540182-abec927a42574f869d293a125c23b780.png
+thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522af39269117f83ccabe84316f.png
 ---
 
 ## Gently Lower Sound Amplitude Tutorial

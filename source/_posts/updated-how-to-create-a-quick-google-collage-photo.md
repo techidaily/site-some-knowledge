@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Create a Quick Google Collage Photo"
-date: 2024-05-26T13:35:40.184Z
-updated: 2024-05-27T13:35:40.184Z
+date: 2024-07-04T17:46:54.717Z
+updated: 2024-07-05T17:46:54.717Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How to Create a Quick Google Collage Photo"
 excerpt: "This Article Describes [Updated] How to Create a Quick Google Collage Photo"
 keywords: "Quick Collage Creation,Google Photo Collage,Collage Making Guide,DIY Photo Collage,Easy Photo Collage,Create Google Collage,Photo Collage Tips"
-thumbnail: https://www.lifewire.com/thmb/wCyVzKDnEbykayOn5Yp_VrURzu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/free-documentaries-online-56a324a85f9b58b7d0d0940c-5baba43ac9e77c0025106f12.jpg
+thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a82053479b93a4aeb543f338378bede.jpg
 ---
 
 ## How to Create a Quick Google Collage Photo

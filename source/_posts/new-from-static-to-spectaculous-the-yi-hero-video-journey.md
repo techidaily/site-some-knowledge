@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Static to Spectaculous  The Yi Hero Video Journey\""
-date: 2024-05-26T13:58:43.838Z
-updated: 2024-05-27T13:58:43.838Z
+date: 2024-07-04T17:46:57.731Z
+updated: 2024-07-05T17:46:57.731Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Static to Spectaculous: The Yi Hero Video Journey\""
 excerpt: "\"This Article Describes [New] From Static to Spectaculous: The Yi Hero Video Journey\""
 keywords: "Yi Hero Video Journey,From Static To Dynamic,Spectacular Yi Epic,Hero Journey Transformation,Video Yi History Unfolded,Epic Hero Vision Story,Visualizing Yi Legends"
-thumbnail: https://www.lifewire.com/thmb/aAfu0U3ot2I6BH2mrIgJWPDLpAE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamhallmarkchannel-fbbd67185b124b4d8187dd8d015ad7cc.jpg
+thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e891bb1e1f9fc06be1f08b00.jpg
 ---
 
 ## From Static to Spectaculous: The Yi Hero Video Journey

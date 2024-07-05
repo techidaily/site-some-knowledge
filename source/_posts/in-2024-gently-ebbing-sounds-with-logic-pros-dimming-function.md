@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Gently Ebbing Sounds with Logic Pro's Dimming Function"
-date: 2024-05-26T15:12:51.175Z
-updated: 2024-05-27T15:12:51.175Z
+date: 2024-07-04T17:46:59.772Z
+updated: 2024-07-05T17:46:59.772Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Gently Ebbing Sounds with Logic Pro's Dimming Function"
 excerpt: "This Article Describes In 2024, Gently Ebbing Sounds with Logic Pro's Dimming Function"
 keywords: "Logic Pro Sound Dimming,Soft Sounding Effects,Audio Ebb and Flow,Logic Pro Music Dynamics,Gradual Sound Reduction,Acoustic Fading Techniques,Logic Pro Ambience Control"
-thumbnail: https://www.lifewire.com/thmb/4XBKBeuRAARBy1u3vDVh6ycEpCU=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/PolkAudioRC80i-594adc4a3df78cae81a59280.jpg
+thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf69849bc4b8a8c3c123bbebb43d1.jpg
 ---
 
 ## Gently Ebbing Sounds with Logic Pro's Dimming Function

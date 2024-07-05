@@ -1,7 +1,7 @@
 ---
 title: "[New] Expedited Photographic Viewing in Windows 10"
-date: 2024-05-26T13:05:08.338Z
-updated: 2024-05-27T13:05:08.338Z
+date: 2024-07-04T17:46:58.087Z
+updated: 2024-07-05T17:46:58.087Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Expedited Photographic Viewing in Windows 10"
 excerpt: "This Article Describes [New] Expedited Photographic Viewing in Windows 10"
 keywords: "W10 PhotoView Speed,Fast Windows Photo,Expedit View Window,Quick Windows Photos,Instant Photo Win,Accelerated PhotoWin,Rapid Windows Photo"
-thumbnail: https://www.lifewire.com/thmb/_Bd6Xd_jOvOiQxwL_z4I0ZUa-8A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-8-best-gmail-alternatives-4844382-be53baf69f91420fa78df0b1d1038b7a.jpg
+thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa4124599c741f135b80728b533209.jpg
 ---
 
 ## Expedited Photographic Viewing in Windows 10

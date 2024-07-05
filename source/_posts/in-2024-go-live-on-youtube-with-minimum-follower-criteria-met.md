@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Go Live on Youtube with Minimum Follower Criteria Met"
-date: 2024-05-26T15:25:20.180Z
-updated: 2024-05-27T15:25:20.180Z
+date: 2024-07-04T17:46:56.368Z
+updated: 2024-07-05T17:46:56.368Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Go Live on Youtube with Minimum Follower Criteria Met"
 excerpt: "This Article Describes In 2024, Go Live on Youtube with Minimum Follower Criteria Met"
 keywords: "Live YouTube Startup,YT Begin With Fewers,Kickstart YT Channel,MinFollower Youtube,Youtube Launch Low Follows,Minimum Followers Go Live,YoutubesoftlyStart"
-thumbnail: https://www.lifewire.com/thmb/q5x1j07W_OCrfDQzv8J7AXu53ds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-connect-chromecast-to-a-mobile-hotspot-2107d18431604b07aa857499aafb1a60.jpg
+thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc184d4caf7d23cf42a2ae057.jpg
 ---
 
 ## Go Live on Youtube with Minimum Follower Criteria Met

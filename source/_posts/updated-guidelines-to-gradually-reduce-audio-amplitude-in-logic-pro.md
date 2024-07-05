@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Guidelines to Gradually Reduce Audio Amplitude in Logic Pro"
-date: 2024-05-26T14:36:29.102Z
-updated: 2024-05-27T14:36:29.102Z
+date: 2024-07-04T17:46:58.365Z
+updated: 2024-07-05T17:46:58.365Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Guidelines to Gradually Reduce Audio Amplitude in Logic Pro"
 excerpt: "This Article Describes [Updated] Guidelines to Gradually Reduce Audio Amplitude in Logic Pro"
 keywords: "Logic Pro Amp Reduction,Audio Leveling Pro Tips,Sound Easing Logic Pro,Gradual Volume Lowering,Amplitude Decline Guidelines,Logic Pro Soft Cut,Slow Audio Decrease Guide"
-thumbnail: https://www.lifewire.com/thmb/3G74VJu85uhfjgHyw_UzmBvNS1c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-a-car-power-inverter-534721-9c78d95b3d584b15a7c49052b1fe8ee8.png
+thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc143e2f86bb990ae121e306783.png
 ---
 
 ## Guidelines to Gradually Reduce Audio Amplitude in Logic Pro

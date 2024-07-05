@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing Gradual Diminishing Techniques on Soundtracks with Audacity"
-date: 2024-05-26T14:46:22.362Z
-updated: 2024-05-27T14:46:22.362Z
+date: 2024-07-04T17:46:53.229Z
+updated: 2024-07-05T17:46:53.229Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Implementing Gradual Diminishing Techniques on Soundtracks with Audacity"
 excerpt: "This Article Describes [New] Implementing Gradual Diminishing Techniques on Soundtracks with Audacity"
 keywords: "Audacity Soundtrack Edits,Gradual Dim Audio Effects,Diminish Soundtracks Gently,Audio Reduction Techniques,Techniques for Softening Music,Slow Fade in Tracks Using Audacity,Progressive Volume Decrease Music"
-thumbnail: https://www.lifewire.com/thmb/EJGqNuL4vQUE0pWKInuJg5UQx10=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KeyVisual3-5d7fc9bbaad24dd0a7d7f2468b890e34.jpg
+thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac0b3dd7d4dd7c6264c50f140.jpg
 ---
 
 ## Implementing Gradual Diminishing Techniques on Soundtracks with Audacity
@@ -79,7 +79,7 @@ Even though it's still thought of as difficult, time-consuming work, audio editi
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Download and Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Download and Install Filmora
 
 Installing Filmora, a straightforward platform for starting to edit your audio and music files, is the first step. You must first download and install this application on your Windows PC in order to utilize it without problem. Download the most current edition of this application first. It's now time to install it on your computer when you've completed that. Simply install this program on your computer by following the standard setup instructions if you want to do it fast.
 
@@ -117,7 +117,7 @@ You may access a variety of tools and services on the platform known as Audacity
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Download and Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Download and Install Filmora
 
 Installing Filmora, a straightforward platform for starting to edit your audio and music files, is the first step. You must first download and install this application on your Windows PC in order to utilize it without problem. Download the most current edition of this application first. It's now time to install it on your computer when you've completed that. Simply install this program on your computer by following the standard setup instructions if you want to do it fast.
 
