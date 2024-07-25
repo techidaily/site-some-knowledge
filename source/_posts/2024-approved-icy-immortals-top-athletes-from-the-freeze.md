@@ -114,29 +114,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-notable-platforms-offering-text-modifications/"><u>[Updated] Guide to Notable Platforms Offering Text Modifications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flying-into-photography-discovering-the-dji-spark-advantage/"><u>2024 Approved  Flying Into Photography  Discovering the DJI Spark Advantage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harness-the-power-of-animoji-on-your-iphone-x-for-2024/"><u>Harness the Power of Animoji on Your iPhone X for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-timekeepers-top-10-androidios-apps-for-your-big-day/"><u>In 2024, Ideal Timekeepers  Top 10 Android/iOS Apps for Your Big Day</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-financial-benefits-in-podcasting/"><u>[New] Exploring the Financial Benefits in Podcasting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-luts-for-sophisticated-photographic-changes/"><u>2024 Approved  Exploring LUTs for Sophisticated Photographic Changes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-remove-background-using-picsart-for-2024/"><u>How to Remove Background Using Picsart for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>[Updated] From Amateurs to Experts  Shooting Spectacentic Photos & Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>[New] From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-a-way-to-download-fcp-free-of-charge/"><u>In 2024, Finding a Way to Download FCP Free-Of-Charge</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/integrating-soundscape-with-video-narrative-in-premiere-pro-for-2024/"><u>Integrating Soundscape With Video Narrative in Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-musical-matchmaking-top-tunes-for-dynamic-montage-videos/"><u>The Ultimate Guide to Musical Matchmaking Top Tunes for Dynamic Montage Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unusual-message-content-finding-myself-online-for-2024/"><u>[New] Unusual Message Content  Finding Myself Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display/"><u>[New] Comprehensive Breakdown  Exploring LG's Widescreen UHD Display</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-aspect-ratios-for-professional-videos/"><u>[New] Mastering Aspect Ratios for Professional Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/"><u>In 2024, Cooking Crusaders  YouTube Stars Serving Up Deliciousness</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-expert-advice-choosing-the-right-flac-audio-conversion-tool/"><u>In 2024, Expert Advice Choosing the Right FLAC Audio Conversion Tool</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Lock Screen with Notifications?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-winners-selecting-the-best-hdr-cameras/"><u>2024 Approved  Proven Winners  Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[Updated] Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

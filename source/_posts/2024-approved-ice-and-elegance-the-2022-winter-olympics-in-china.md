@@ -114,25 +114,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/how-to-set-up-zoom-video-meeting-for-2024/"><u>How to Set up Zoom Video Meeting for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-quality-drones-that-accommodate-gopro-cameras-for-2024/"><u>High-Quality Drones That Accommodate GoPro Cameras for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-selection-top-5-free-tools-for-extracting-pin-videos/"><u>In 2024, Expert Selection  Top 5 Free Tools for Extracting Pin Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>[Updated] In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly/"><u>2024 Approved  How to Harvest Huge Volumes of Content From TikTok Effortlessly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>[New] Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-for-high-dynamic-range-image-creation-with-lightroom/"><u>[Updated] Expert Techniques for High Dynamic Range Image Creation with Lightroom</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mp4-file-tag-editors-top-picks-for-windows-and-mac-users-for-2024/"><u>MP4 File Tag Editors Top Picks for Windows and Mac Users for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-y100i-power-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Y100i Power 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-pictures-reversed-color-method/"><u>In 2024, Transforming Pictures  Reversed Color Method</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>2024 Approved  Galactic Glitter  Top 10 Accessories for SJ4000 Stargazers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-cameras-for-sports-capturing-edge/"><u>[Updated] Best Cameras for Sports Capturing Edge</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-bdp-s3700-review-updated/"><u>In 2024, Sony BDP- S3700 Review - Updated</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-xr-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone XR i Do? Get Answers here | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
