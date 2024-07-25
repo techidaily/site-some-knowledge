@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Incremental Audio Fading Using Garageband"
-date: 2024-05-26T14:03:36.613Z
-updated: 2024-05-27T14:03:36.613Z
+date: 2024-07-24T22:45:52.065Z
+updated: 2024-07-25T22:45:52.065Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Incremental Audio Fading Using Garageband"
 excerpt: "This Article Describes [Updated] Incremental Audio Fading Using Garageband"
 keywords: "Audio Fade Effects,GarageBand Audio Edits,Sound Transitions in Music,Gradual Audio Volume Change,Digital Sound Fades,Incremental Sound Adjustment,GarageBand Editing Techniques"
-thumbnail: https://www.lifewire.com/thmb/VYdS1tF8KH0dqu5GG_kTobIcy-w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1628ff4b17b2024d943bf02d.jpg
 ---
 
 ## Incremental Audio Fading Using Garageband
@@ -32,6 +32,10 @@ This platform allows an individual to include an automatic fade-out effect on th
 
 Step1 Turn on the application and open the song from the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
@@ -44,6 +48,9 @@ Step4 Press the volume button from the menu in the track header, and use the vol
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Fade Audio with Garageband on iPhone?
 
 Fading out of music is very popular when going through your favorite track. As soon as the song comes closer to the end, you will get to hear it fade slowly-slowly. You can use this effect even if you produce your music in Garageband. Fading out a song is not a widespread practice, but you can go through the article to gather information about how to **fade in Garageband**.
@@ -56,6 +63,9 @@ Step2 Go to the setting option at the top right corner and open the song set.
 
 Step3 Scroll down to the fade-out option and turn it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
 
 Step4 Hit the done icon.
@@ -94,6 +104,9 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ## Conclusion
@@ -102,6 +115,9 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
@@ -118,6 +134,9 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Save the video
@@ -126,6 +145,9 @@ Choose the create option to save the new file if you are done with the adjusting
 
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 According to the survey, one of the most searched topics is **how to fade music in Garageband**. If you are also facing the same issue, this article will offer you a simple guide on the topic related to fade-in and fade-out features. You can also browse the internet to search for other benefits, and you can explore the application to learn more about its uses.

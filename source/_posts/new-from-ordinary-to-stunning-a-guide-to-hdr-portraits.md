@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Ordinary to Stunning  A Guide to HDR Portraits\""
-date: 2024-05-26T14:46:48.973Z
-updated: 2024-05-27T14:46:48.973Z
+date: 2024-07-24T22:47:45.464Z
+updated: 2024-07-25T22:47:45.464Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Ordinary to Stunning: A Guide to HDR Portraits\""
 excerpt: "\"This Article Describes [New] From Ordinary to Stunning: A Guide to HDR Portraits\""
 keywords: "HDR Portrait Basics,Creating Stunning HDR,HDR Photography Tips,HDR for Beginners,Enhancing Photos with HDR,Elevate Portraits to HDR,Mastering HDR Image Techniques"
-thumbnail: https://www.lifewire.com/thmb/jhGXgyCjWSFdhfPa2Q6YATjpP3E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Familyplayingvideogames-b0cc2d7f9abe42db8cc4fcc05af223bc.jpg
+thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e671abbc75a29215718a300d.jpg
 ---
 
 ## From Ordinary to Stunning: A Guide to HDR Portraits
@@ -54,6 +54,9 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -88,6 +91,9 @@ Same is the case for your camera. You have to use a tripod stand to avoid camera
 
 You should adjust the focus manually instead of autofocus, as it may shift the focus accidentally while pressing the shutter.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
 
 ### HDR Effects on Phone Camera
@@ -96,6 +102,9 @@ Of course, everyone can't use a DSLR camera for shooting HDR portraits as the pr
 
 Now that you know how to shoot still HDR portraits, let's put some light on shooting HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Moving HDR Portraits?
 
 People usually ask, " _Can I shoot moving subjects in HDR?_" or "_What is the basic method to get sharp-looking HDR photos of moving people?_"
@@ -118,6 +127,10 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
 
 * Click on **Browse** and select the images you want to merge.
@@ -127,6 +140,9 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![edit hdr portrait](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-6.jpg)
 
 * Tick on the option of **Remove ghosts** to avoid any halos in the editing process.
@@ -170,6 +186,9 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -184,6 +203,9 @@ So almost all DSLRs come with this beneficial feature of bracketing. You can che
 
 Usually, three shots are ideal for HDR portraits as the chances of moving decrease. Nowadays, many latest DSLRs have the option of automatic exposure bracketing as it provides the photographer with different levels of exposure in a single click without spending valuable time adjusting camera settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![moving decrease](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-2.jpg)
 
 Once you are done with your bracketing settings, all you have to do is press and hold the shutter, and your specified number of photos will be taken, each with a different exposure value.
@@ -204,8 +226,14 @@ Same is the case for your camera. You have to use a tripod stand to avoid camera
 
 You should adjust the focus manually instead of autofocus, as it may shift the focus accidentally while pressing the shutter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### HDR Effects on Phone Camera
 
 Of course, everyone can't use a DSLR camera for shooting HDR portraits as the process is a bit difficult and requires some expertise. But you can achieve the same effects on your mobile phone. Many latest mobiles offer HDR features in their camera. Unlike the bracketing effect of professional cameras, mobile usually takes only one picture and then you can edit by using some third-party app. Hundreds of these photo editing apps allow you to change the brightness and contrast of your image to create a _"pseudo"_ HDR image.
@@ -224,6 +252,9 @@ Shooting moving portraits in HDR can get a bit difficult because of blurring and
 
 **Solution 3\.** DSLRs with high-quality exposure and depth sensors can also help shoot HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## How to Edit and Merge Images to Create an HDR Portrait?
 
 After you have shot the images, the next step is to merge and edit them on photoshop or any other software to create a single perfect portrait.
@@ -239,10 +270,16 @@ Hundreds of editing software are available but here we are going to talk about p
 * Click on **Browse** and select the images you want to merge.
 * Before clicking the OK button, you can tick on the **Attempt to Automatically Align Source Images** option so that minor artifacts introduced while shooting the images can be removed by photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removed by photoshop](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-5.jpg)
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![edit hdr portrait](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-6.jpg)
 
 * Tick on the option of **Remove ghosts** to avoid any halos in the editing process.

@@ -1,7 +1,7 @@
 ---
 title: "\"From Humble Beginnings  Building a Brand on Reddit for 2024\""
-date: 2024-05-26T14:57:21.470Z
-updated: 2024-05-27T14:57:21.470Z
+date: 2024-07-24T22:48:12.489Z
+updated: 2024-07-25T22:48:12.489Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes From Humble Beginnings: Building a Brand on Reddit for 2024\""
 excerpt: "\"This Article Describes From Humble Beginnings: Building a Brand on Reddit for 2024\""
 keywords: "Brand Reddit Startup,Reddit Brand Growth,Rising Reddit Brands,Rebranding on Reddit,Build Brand Reddit,Humble Reddit Branding,Starting a Brand Reddit"
-thumbnail: https://www.lifewire.com/thmb/68FRwXnL6TRBKTZVHrIzMzZ_v6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/403-forbidden-error-explained-2617989-2d79b84333b84a669430fd18f60dc9c9.png
+thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a20f9cd77a73d4dd6ae5bf66d.png
 ---
 
 ## From Humble Beginnings: Building a Brand on Reddit
@@ -40,12 +40,18 @@ Step1 Go to reddit.com and click on "Create Post"
 
 Step2 Then, choose a community to post in. This is also known as a subreddit
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select subreddit to post](https://images.wondershare.com/filmora/article-images/2023/01/choose-community.png)
 
 Step3 Next, type in your title and write your message below
 
 Step4 If you want to add images or videos, select "Images & Video" and upload your files
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![reddit images and videos](https://images.wondershare.com/filmora/article-images/2023/01/images-and-videos.png)
 
 Step5 The next section is titled "Link". Here, you can add a website you want your post to lead to
@@ -56,6 +62,9 @@ When you're done creating your post, scroll down and click "Post." It will immed
 
 If nothing is violating the [subreddit's guidelines](#%5FSubreddits), the mods will let it sit there without removing it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Post on Mobile App
 
 Once again, you need a Reddit account from the mobile app before anything else. Then, open the app and do the following:
@@ -78,12 +87,18 @@ Step5 Check if everything looks good, add the appropriate tags
 
 Step6 Hit Post
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Essential Tips That WILL Help You When Posting on Reddit
 
 Reddit, like any platform, has its own rules. Its algorithm that, when followed, rewards you with excellent results.
 
 That said, here's absolutely everything you should know before posting on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Subreddits
 
 Subreddits allow Reddit to be more organized. It lets users of similar interests join specific communities that only focus on those interests.
@@ -94,6 +109,9 @@ Some important rules to follow:
 * You must post relevant content in each subreddit. For example, if you want to post something related to food, you should find a subreddit related to food, e.g., r/food.
 * Most subreddits have their own rules and guidelines within. This is usually displayed on the right-hand side of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reddiquettes
 
 Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
@@ -120,10 +138,16 @@ The second, AVOID these three things at all times:
 2. Posting the same piece of content on as many subreddit as you can
 3. Posting content that violates any guidelines a subreddit may have
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Video Tutorial - How To Use Reddit - Complete Beginner’s Guide
 
 Apart from what has been mentioned above, we also prepared a video to help you with posting on Reddit. If you have any interests, you can watch it to establish your overall outlook on posting on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The only way to get good and learn how to post on Reddit is with practice. So, use the things you learned here to achieve better results. And keep posting and stay consistent. It will all pay off in the end.

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Ordinary to Stunning  A Guide to HDR Portraits\""
-date: 2024-05-26T13:39:42.061Z
-updated: 2024-05-27T13:39:42.061Z
+date: 2024-07-24T22:44:50.897Z
+updated: 2024-07-25T22:44:50.897Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] From Ordinary to Stunning: A Guide to HDR Portraits\""
 excerpt: "\"This Article Describes [Updated] From Ordinary to Stunning: A Guide to HDR Portraits\""
 keywords: "HDR Portrait Basics,Creating Stunning HDR,HDR Photography Tips,HDR for Beginners,Enhancing Photos with HDR,Elevate Portraits to HDR,Mastering HDR Image Techniques"
-thumbnail: https://www.lifewire.com/thmb/E-A9X9SPpZ3Y3P5rGzbCm_XC7tc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/03LW4149830HeroSquare-75b852929c9e44b4b6e93f27c26f1410.jpg
+thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616170701a3383a08e8dcec924.jpg
 ---
 
 ## From Ordinary to Stunning: A Guide to HDR Portraits
@@ -35,10 +35,16 @@ People often find it challenging to shoot a perfect HDR photograph from a phone 
 
 * [How to Edit and Merge Images to Create an HDR Portrait?](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Shoot HDR Portraits?
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -54,6 +60,9 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -72,6 +81,9 @@ Usually, three shots are ideal for HDR portraits as the chances of moving decrea
 
 Once you are done with your bracketing settings, all you have to do is press and hold the shutter, and your specified number of photos will be taken, each with a different exposure value.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Some Useful Tips to Remember
 
 1. **Try to Keep the Subject Still**
@@ -88,8 +100,14 @@ Same is the case for your camera. You have to use a tripod stand to avoid camera
 
 You should adjust the focus manually instead of autofocus, as it may shift the focus accidentally while pressing the shutter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### HDR Effects on Phone Camera
 
 Of course, everyone can't use a DSLR camera for shooting HDR portraits as the process is a bit difficult and requires some expertise. But you can achieve the same effects on your mobile phone. Many latest mobiles offer HDR features in their camera. Unlike the bracketing effect of professional cameras, mobile usually takes only one picture and then you can edit by using some third-party app. Hundreds of these photo editing apps allow you to change the brightness and contrast of your image to create a _"pseudo"_ HDR image.
@@ -108,6 +126,9 @@ Shooting moving portraits in HDR can get a bit difficult because of blurring and
 
 **Solution 3\.** DSLRs with high-quality exposure and depth sensors can also help shoot HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Edit and Merge Images to Create an HDR Portrait?
 
 After you have shot the images, the next step is to merge and edit them on photoshop or any other software to create a single perfect portrait.
@@ -118,6 +139,9 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
 
 * Click on **Browse** and select the images you want to merge.
@@ -155,6 +179,9 @@ How to Shoot HDR Portraits?
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -170,6 +197,9 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -206,12 +236,18 @@ You should adjust the focus manually instead of autofocus, as it may shift the f
 
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### HDR Effects on Phone Camera
 
 Of course, everyone can't use a DSLR camera for shooting HDR portraits as the process is a bit difficult and requires some expertise. But you can achieve the same effects on your mobile phone. Many latest mobiles offer HDR features in their camera. Unlike the bracketing effect of professional cameras, mobile usually takes only one picture and then you can edit by using some third-party app. Hundreds of these photo editing apps allow you to change the brightness and contrast of your image to create a _"pseudo"_ HDR image.
 
 Now that you know how to shoot still HDR portraits, let's put some light on shooting HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Moving HDR Portraits?
 
 People usually ask, " _Can I shoot moving subjects in HDR?_" or "_What is the basic method to get sharp-looking HDR photos of moving people?_"

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Make Animation with Windows Movie Maker"
-date: 2024-05-26T13:57:51.310Z
-updated: 2024-05-27T13:57:51.310Z
+date: 2024-07-24T22:45:36.360Z
+updated: 2024-07-25T22:45:36.360Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How to Make Animation with Windows Movie Maker"
 excerpt: "This Article Describes [Updated] How to Make Animation with Windows Movie Maker"
 keywords: "WinMoviemaker Animation Basics,Creating Animations in Windows Movie Maker,Movie Maker for Kids' Cartoons,DIY Filmmaking with Movie Maker,Simple Animation Steps,Animation Tutorial,Easy Movie Maker Animated Shorts"
-thumbnail: https://www.lifewire.com/thmb/R2EAcV3wZUv2LpJtJ6Pbo23Xsuk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-752179111-e4cc13e6bc184d0cb0ccfca448ce9aa0.jpg
+thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5dbda3843a3191dbeadf76d9d.jpg
 ---
 
 ## How to Make Animation with Windows Movie Maker
@@ -30,6 +30,14 @@ You don't need any technological expertise to produce picture slideshows or home
 
 On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be installed on your computer. Select "import photos" in the top right corner. By selecting the "Add movies and photographs" option under the "Home" tab in the navigation bar, you may create films by combining images, sounds, and videos. You may then choose the suitable media to import into the program from a popup that will display.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -52,14 +60,23 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Movie Maker Alternative to Add Animations
 
 You could encounter certain difficulties as a brand while creating an animated film using Windows Movie Maker for the first time. Despite all the modifications, making animations might still seem like a difficult effort. Most organizations find it difficult to readily include animations into their video marketing plan due to the intricacy of animated videos, among other factors. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) ought to be your only option if you want to produce something extensive, thorough, in-depth, and detailed.
@@ -86,6 +103,9 @@ Filmora helps you create your text animation using the controller window as seen
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about Windows Movie Maker
 
 1. **Where is the Visual Effects tab in Movie Maker?**
@@ -104,6 +124,9 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
 ##### Step3Open the Animation Tab
@@ -150,6 +173,9 @@ Filmora helps you create your text animation using the controller window as seen
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about Windows Movie Maker
 
 1. **Where is the Visual Effects tab in Movie Maker?**

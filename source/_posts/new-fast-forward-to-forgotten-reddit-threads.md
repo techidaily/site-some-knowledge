@@ -1,7 +1,7 @@
 ---
 title: "[New] Fast Forward to Forgotten Reddit Threads"
-date: 2024-05-26T13:58:56.902Z
-updated: 2024-05-27T13:58:56.902Z
+date: 2024-07-24T22:45:39.693Z
+updated: 2024-07-25T22:45:39.693Z
 tags: 
   - screen-recording
   - ai video
@@ -30,8 +30,14 @@ We'll cover the best ones below and explain how to use each one.
 4. [The Wayback Machine](#part1-4)
 5. [Google Cache](#part1-5)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 Ways to See Deleted Reddit Posts
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Unddit
 
 Unddit is a third-party tool that uses Pushshift.io. This is a database that stores comments users leave on Reddit.
@@ -70,10 +76,16 @@ Step2 Type in a specific username, subreddit name, or simply insert the link of 
 
 Step3 Click "Go" and it will display every deleted Reddit post within that search query
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reveddit results page](https://images.wondershare.com/filmora/article-images/2023/01/reveddit-results.png)
 
 There's one thing you need to remember about Reveddit. While it quickly shows deleted posts on Reddit, this only applies to posts and comments that were deleted by moderators or bots. So, if a user deleted their post, Reveddit won't display that one in the results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### 3\. Resavr
 
 Resavr is another simple tool that instantly displays deleted comments on Reddit.
@@ -92,6 +104,9 @@ Step3 It will display a list of Google results with Reddit posts that have delet
 
 The main disadvantage of Resavr is its search feature. There's no way to search for a specific Reddit post. Instead, you can only view recent posts with deleted comments. Or you can type in a specific word and go through all the posts that pop up to find what you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. The Wayback Machine
 
 The Wayback Machine is a powerful tool that stores archives of other websites' caches. It's a non-profit site that lets you see deleted Reddit posts and comments that have been stored in the past.
@@ -112,6 +127,9 @@ Wayback Machine is a little slower when loading the results than other tools. Bu
 
 There is another downside. This tool doesn't archive everything instantly. So, there is a chance that some posts won't pop up if a Reddit moderator deleted the post before Wayback Machine could archive it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### 5\. Google Cache
 
 Last but not least, it's the Google Cache method. This isn't so much a tool as it is a way to reveal deleted Reddit posts. It won't go as far back in time as Wayback Machine to display deleted Reddit posts. It only shows recently deleted ones.
@@ -132,6 +150,9 @@ This takes you to a previous version of the page when Google bots last visited i
 
 Google Cache can be either a huge win or a total failure. It depends on the post itself. If it works, it will show you everything. However, if you're too late to the party, you won't be able to see anything from the deleted post.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Being able to see deleted posts on Reddit can be tricky. Reddit doesn't allow this, but it often gets overlooked, thanks to some of the tools we've discussed here. Even though it's not permitted, sometimes we all want to read a post we saved a while ago.
@@ -154,6 +175,9 @@ Step1 First, go to [Unddit.com](https://www.unddit.com/).
 
 Step2 Click on the red "Unddit" button and drag it to your bookmark bar
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![unddit button pointing to bookmark](https://images.wondershare.com/filmora/article-images/2023/01/red-unddit-button.png)
 
 Step3 Go to the deleted Reddit post
@@ -162,6 +186,9 @@ Step4 Click on the Unddit bookmark you just saved
 
 This will automatically lead you to a new page. There, Unddit analyses and displays all the deleted comments from that post.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![results page on unddit tool](https://images.wondershare.com/filmora/article-images/2023/01/unddit-results.png)
 
 On the downside, Reddit doesn't work well with most Reddit posts. It's more effective for revealing deleted comments. Additionally, it may show an error from time to time. Unfortunately, the reason isn't always displayed, and it's something we need to live with.
@@ -204,6 +231,9 @@ Step3 It will display a list of Google results with Reddit posts that have delet
 
 The main disadvantage of Resavr is its search feature. There's no way to search for a specific Reddit post. Instead, you can only view recent posts with deleted comments. Or you can type in a specific word and go through all the posts that pop up to find what you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. The Wayback Machine
 
 The Wayback Machine is a powerful tool that stores archives of other websites' caches. It's a non-profit site that lets you see deleted Reddit posts and comments that have been stored in the past.
@@ -214,6 +244,9 @@ Step1 Visit archive.org. (Wayback Machine's official website)
 
 Step2 Paste the link to the deleted post and hit "Enter"
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wayback machine search bar](https://images.wondershare.com/filmora/article-images/2023/01/wayback-machine-search-bar.png)
 
 Step3 Wayback Machine will display the results in a calendar format. Click on a date to see all deleted posts on that day in history.
@@ -224,6 +257,9 @@ Wayback Machine is a little slower when loading the results than other tools. Bu
 
 There is another downside. This tool doesn't archive everything instantly. So, there is a chance that some posts won't pop up if a Reddit moderator deleted the post before Wayback Machine could archive it.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Google Cache
 
 Last but not least, it's the Google Cache method. This isn't so much a tool as it is a way to reveal deleted Reddit posts. It won't go as far back in time as Wayback Machine to display deleted Reddit posts. It only shows recently deleted ones.
@@ -238,12 +274,18 @@ Step2 When you find the result, click on the three dots next to the page's link
 
 Step3 Then, select "Cached" from the small new window that pops up
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google search result cached feature](https://images.wondershare.com/filmora/article-images/2023/01/google-cached-button.png)
 
 This takes you to a previous version of the page when Google bots last visited it. Hopefully, this was when the post wasn't yet deleted. You can't know until you see the page and check it out.
 
 Google Cache can be either a huge win or a total failure. It depends on the post itself. If it works, it will show you everything. However, if you're too late to the party, you won't be able to see anything from the deleted post.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Being able to see deleted posts on Reddit can be tricky. Reddit doesn't allow this, but it often gets overlooked, thanks to some of the tools we've discussed here. Even though it's not permitted, sometimes we all want to read a post we saved a while ago.

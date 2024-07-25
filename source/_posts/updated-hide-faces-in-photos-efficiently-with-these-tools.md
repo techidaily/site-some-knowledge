@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Hide Faces in Photos Efficiently with These Tools"
-date: 2024-05-26T15:33:27.943Z
-updated: 2024-05-27T15:33:27.943Z
+date: 2024-07-24T22:49:44.860Z
+updated: 2024-07-25T22:49:44.860Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Hide Faces in Photos Efficiently with These Tools"
 excerpt: "This Article Describes [Updated] Hide Faces in Photos Efficiently with These Tools"
 keywords: "FaceBlur Tools,PhotoPrivacy Tools,HideFace Technology,DiscreetPhotoTools,SecurePhotography,StealthyImageEditing,PrivacyEnhancingImagery"
-thumbnail: https://www.lifewire.com/thmb/I74clBXGRTAv06mvwebkyWFQNPw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-WWCD23-Vision-Pro-spatial-video-230605-4dfd1ee93eb24abcbe7b0e4622768422.jpg
+thumbnail: https://thmb.techidaily.com/475e778db07011aff476548fbdaa46272592bc242d2a4144096bc7b432d20837.jpg
 ---
 
 ## Hide Faces in Photos Efficiently with These Tools
@@ -64,6 +64,9 @@ If you are looking to pixelate a face in your photo, here are some tools that yo
 
 Launched in October 2006, LunaPic is an easy-to-use online platform that allows you to upload your image and pixelate a face. You can also share your image with the site using a URL. It's free to use this tool, and you don't need to log in, signup, or install anything to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Lunapic](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-1.png)
 
 ##### Pros
@@ -94,6 +97,9 @@ You can also use Adobe Photoshop to pixelate a face on your photo on Mac and Win
 
 1. The Cell Size slider allows you to increase the pixelation effect. Apply it by hitting the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![pixelate face using adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-3.png)
 
 1. Select File > Save As or Save to save your edited image.
@@ -120,6 +126,9 @@ The toolbar is less-detailed
 
 This free photo editor allows you to create fun effects with your pictures. You only have to upload the photo that you want to edit and apply the pixelation effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![using photofunny to pixelate face](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-4.png)
 
 ##### Pros
@@ -198,6 +207,9 @@ Offers limited functionality
 
 Available for Linux, Microsoft Windows, and macOS, GIMP is a freely distributed program used for image photo retouching, image authoring, and image composition. You can also use this tool to pixelate part of an image, including the face.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - GIMP](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-8.png)
 
 ##### Pros
@@ -216,6 +228,9 @@ The selection tool is not very precise
 
 Developed by Serif Ltd. for Windows, macOS, and iOS, Affinity Photo is a popular raster graphics editor. The program costs $21.99 on iPad and $54.99 on Mac and Windows. It can perform very advanced image editing tasks: There is no task that is too small or too big for this robust photo editor. You can adjust exposure, pixelate a face in a photo, and more. Together with Affinity Publisher and Affinity Designer, it's part of the Affinity suite. You can also use Affinity Photo to pixelate faces on photos.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![pixelate face - Affinity Photo](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-9.png)
 
 ##### Pros
@@ -232,6 +247,9 @@ It's slow with large files
 
 It's not suitable for beginners
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Pixelate Faces on Your Video Using Filmora
 
 With an expansive selection of powerful editing tools, Filmora is one of the most popular video editing software on the market. The program uses an aesthetically pleasing intuitive design that makes becoming a great video editor a walk in the park. You can use this software to pixelate faces on your videos by following the steps below.
@@ -258,6 +276,9 @@ Step 9: Click on the blurred mosaic layer and go to the upper left side of your 
 
 Step 10: You'll see six different Mosaics that you can choose from; select the pixelated option. Choosing this option will immediately pixelate the face with the mosaic layer.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face in video with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-11.png)
 
 Step 11: You can adjust the pixelation size by increasing or decreasing the blur amount.
@@ -268,6 +289,9 @@ Step 12: Adjusting the opacity allows you to decide how transparent you want the
 
 Step 13: Once you are satisfied with your edits, click File at the upper left side of your screen and choose Save Project As or Save Project to save your video. The Save Project As option allows you to select the destination to save your project, while the Save Project saves it to the default folder.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● You can use the above tools to pixelate faces on images if you want to hide the identity of someone. Use Filmora whenever you need to pixelate faces on your videos. This program is easy-to-use and designed to make video editing fun.
@@ -310,6 +334,9 @@ If you are looking to pixelate a face in your photo, here are some tools that yo
 
 Launched in October 2006, LunaPic is an easy-to-use online platform that allows you to upload your image and pixelate a face. You can also share your image with the site using a URL. It's free to use this tool, and you don't need to log in, signup, or install anything to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Lunapic](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-1.png)
 
 ##### Pros
@@ -340,6 +367,9 @@ You can also use Adobe Photoshop to pixelate a face on your photo on Mac and Win
 
 1. The Cell Size slider allows you to increase the pixelation effect. Apply it by hitting the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![pixelate face using adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-3.png)
 
 1. Select File > Save As or Save to save your edited image.
@@ -366,6 +396,14 @@ The toolbar is less-detailed
 
 This free photo editor allows you to create fun effects with your pictures. You only have to upload the photo that you want to edit and apply the pixelation effect.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![using photofunny to pixelate face](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-4.png)
 
 ##### Pros
@@ -492,6 +530,9 @@ Step 4: Click on your footage. Then, navigate to the upper left and Hit the Effe
 
 Step 5: Go to the drop-down menu on the left and find Utility. Now, click Mosaic.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-10.png)
 
 Step 6: Drag to the timeline above the footage you are working on. You'll see a small blurred area in the middle of your preview screen.
@@ -504,6 +545,9 @@ Step 9: Click on the blurred mosaic layer and go to the upper left side of your 
 
 Step 10: You'll see six different Mosaics that you can choose from; select the pixelated option. Choosing this option will immediately pixelate the face with the mosaic layer.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![pixelate face in video with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-11.png)
 
 Step 11: You can adjust the pixelation size by increasing or decreasing the blur amount.
@@ -530,6 +574,9 @@ Pixelating a face on a digital image involves reducing its resolution by replaci
 
 03 [How to Pixelate Faces on Your Video Using Filmora](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Should We Pixelate Face on Photo/Video?
 
 There are several reasons that you might need to pixelate a face on a photo or video. They include:
@@ -556,6 +603,9 @@ If you are looking to pixelate a face in your photo, here are some tools that yo
 
 Launched in October 2006, LunaPic is an easy-to-use online platform that allows you to upload your image and pixelate a face. You can also share your image with the site using a URL. It's free to use this tool, and you don't need to log in, signup, or install anything to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Lunapic](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-1.png)
 
 ##### Pros
@@ -586,6 +636,9 @@ You can also use Adobe Photoshop to pixelate a face on your photo on Mac and Win
 
 1. The Cell Size slider allows you to increase the pixelation effect. Apply it by hitting the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face using adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-3.png)
 
 1. Select File > Save As or Save to save your edited image.
@@ -650,6 +703,9 @@ Sometimes, the tool does not catch tilted faces or those looking to the side.
 
 Officially launched in December 2010, Skitch by Evernote is a simple tool designed for Mac. One of the main features of this app is to pixelate part of an image. You can get this application on the App Store for free.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Skitch](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-6.png)
 
 ##### Pros
@@ -690,6 +746,9 @@ Offers limited functionality
 
 Available for Linux, Microsoft Windows, and macOS, GIMP is a freely distributed program used for image photo retouching, image authoring, and image composition. You can also use this tool to pixelate part of an image, including the face.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - GIMP](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-8.png)
 
 ##### Pros
@@ -708,6 +767,11 @@ The selection tool is not very precise
 
 Developed by Serif Ltd. for Windows, macOS, and iOS, Affinity Photo is a popular raster graphics editor. The program costs $21.99 on iPad and $54.99 on Mac and Windows. It can perform very advanced image editing tasks: There is no task that is too small or too big for this robust photo editor. You can adjust exposure, pixelate a face in a photo, and more. Together with Affinity Publisher and Affinity Designer, it's part of the Affinity suite. You can also use Affinity Photo to pixelate faces on photos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![pixelate face - Affinity Photo](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-9.png)
 
 ##### Pros
@@ -738,6 +802,9 @@ Step 4: Click on your footage. Then, navigate to the upper left and Hit the Effe
 
 Step 5: Go to the drop-down menu on the left and find Utility. Now, click Mosaic.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-10.png)
 
 Step 6: Drag to the timeline above the footage you are working on. You'll see a small blurred area in the middle of your preview screen.
@@ -750,6 +817,9 @@ Step 9: Click on the blurred mosaic layer and go to the upper left side of your 
 
 Step 10: You'll see six different Mosaics that you can choose from; select the pixelated option. Choosing this option will immediately pixelate the face with the mosaic layer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face in video with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-11.png)
 
 Step 11: You can adjust the pixelation size by increasing or decreasing the blur amount.
@@ -776,6 +846,9 @@ Pixelating a face on a digital image involves reducing its resolution by replaci
 
 03 [How to Pixelate Faces on Your Video Using Filmora](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Should We Pixelate Face on Photo/Video?
 
 There are several reasons that you might need to pixelate a face on a photo or video. They include:
@@ -802,6 +875,9 @@ If you are looking to pixelate a face in your photo, here are some tools that yo
 
 Launched in October 2006, LunaPic is an easy-to-use online platform that allows you to upload your image and pixelate a face. You can also share your image with the site using a URL. It's free to use this tool, and you don't need to log in, signup, or install anything to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face - Lunapic](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-1.png)
 
 ##### Pros
@@ -828,10 +904,16 @@ You can also use Adobe Photoshop to pixelate a face on your photo on Mac and Win
 2. Use the Marquee tool to select the face you want to pixelate.
 3. Select the Filter option, then Pixelate. Now, choose the Mosaic option to start the pixelation process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![pixelate face with adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-2.png)
 
 1. The Cell Size slider allows you to increase the pixelation effect. Apply it by hitting the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![pixelate face using adobe photoshop](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-3.png)
 
 1. Select File > Save As or Save to save your edited image.
@@ -858,6 +940,9 @@ The toolbar is less-detailed
 
 This free photo editor allows you to create fun effects with your pictures. You only have to upload the photo that you want to edit and apply the pixelation effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using photofunny to pixelate face](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-4.png)
 
 ##### Pros
@@ -936,6 +1021,9 @@ Offers limited functionality
 
 Available for Linux, Microsoft Windows, and macOS, GIMP is a freely distributed program used for image photo retouching, image authoring, and image composition. You can also use this tool to pixelate part of an image, including the face.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - GIMP](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-8.png)
 
 ##### Pros
@@ -954,6 +1042,9 @@ The selection tool is not very precise
 
 Developed by Serif Ltd. for Windows, macOS, and iOS, Affinity Photo is a popular raster graphics editor. The program costs $21.99 on iPad and $54.99 on Mac and Windows. It can perform very advanced image editing tasks: There is no task that is too small or too big for this robust photo editor. You can adjust exposure, pixelate a face in a photo, and more. Together with Affinity Publisher and Affinity Designer, it's part of the Affinity suite. You can also use Affinity Photo to pixelate faces on photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixelate face - Affinity Photo](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-9.png)
 
 ##### Pros
@@ -996,6 +1087,10 @@ Step 9: Click on the blurred mosaic layer and go to the upper left side of your 
 
 Step 10: You'll see six different Mosaics that you can choose from; select the pixelated option. Choosing this option will immediately pixelate the face with the mosaic layer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pixelate face in video with Filmora](https://images.wondershare.com/filmora/article-images/2022/03/pixelate-face-11.png)
 
 Step 11: You can adjust the pixelation size by increasing or decreasing the blur amount.

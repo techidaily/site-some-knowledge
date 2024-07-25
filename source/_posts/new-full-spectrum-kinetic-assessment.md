@@ -1,7 +1,7 @@
 ---
 title: "[New] Full Spectrum Kinetic Assessment"
-date: 2024-05-26T12:55:44.054Z
-updated: 2024-05-27T12:55:44.054Z
+date: 2024-07-24T22:42:58.600Z
+updated: 2024-07-25T22:42:58.600Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Full Spectrum Kinetic Assessment"
 excerpt: "This Article Describes [New] Full Spectrum Kinetic Assessment"
 keywords: "Kinetic Assess Full,Full Spectrum Kinesi,Spectrum Assess Kine,Dynamic Kinetic Test,Complete Kinetics Eval,Full Range Kinetiq,Comprehensive Motion Sys"
-thumbnail: https://www.lifewire.com/thmb/qhKTHSVkDe6Tf9aQ3h9q7IAZdvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/womanonkayak-5ba7f7c0c9e77c0050d59319.jpg
+thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be868964630fead8d644714b724c8d98.jpg
 ---
 
 ## Full Spectrum Kinetic Assessment
@@ -46,44 +46,75 @@ Being the first motion graphics app, Alight Motion has not just set a high stand
 
 ## Part 2\. Key Features of the Alight Motion App
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **1\. 4K 60fps support**
 
 The standard playback for a video is 29.7fps, however, Alight Motion App gives you double the standard. Its 40K 60fps feature allows you more flexibility when editing your videos. This feature also supports slow-motion video which is the latest trend on several social media platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **2\. Multiple Layers of Graphics and Videos**
 
 This feature allows users to separate a video into multiple layers and also edit them at the same time. You can tweak multiple layers of graphics to give you a quality video. The blending mode is excellent for creating a composite image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### **3\. Vector and Bitmap Support**
 
 You can import vector graphics while using the Alight Motion App. This is one amazing feature that sets this app apart from other video editing apps. It also supports vector drawing.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **4\. Wide Range of Video Ratios**
 
 This app has a long list of video ratios that you can utilize when editing your videos. Professional video editors will surely find this feature interesting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **5\. Export Videos in Different Formats**
 
 If you have come across a video editor app that exports videos in one format especially when it's not your desired format, then you will probably know how time-consuming and stressful it is to change a video format after exporting it. However, with the Alight Motion App, you don't need to worry about this issue or any other issue that comes with the video export format. With this app, you can export your videos, graphics, and motion designs in MP4, GIF, , , PNG, sequence, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### **6\. Import Elements and Customized Fonts**
 
 If you have a special element or font size that you want to add to your videos or graphics, you can do it with just a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### **7\. Hundreds of Effects and Elements**
 
 On the Alight Motion editing app, you can find not just 10 or 20 amazing elements but over a hundred of them. Just as the wise saying confirms " Variety is the sweetness of life " Alight Motion has made varieties of elements and effects available for its users to achieve their video and graphic editing goals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. How To Use Alight Motion App
 
 Get to know the Alight Motion editing app more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Download
 
 First things first, head straight to your Google play store app (for Android users) or apple store (for iOS users) and download the Alight Motion App. It will take you less than 180 megabytes to download.
 
 Open it once you've finished downloading and installing it. It will open to a home page similar to the one in the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-2.jpg)
 
 ### Import
@@ -106,10 +137,16 @@ You can also add slow motion and fast motion effects to your videos. This is one
 
 ![editing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Add Text
 
 You can add text to your videos, and graphics. Alight motion has over 2000 fonts for you to play with however if you have special fonts you did like to use that are not on the list, you can import them. Alight motion allows you to import customize fonts. You can also add colors to your text.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add text](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
 ### Freehand and Vector Drawing
@@ -126,10 +163,16 @@ Exporting your work from alight motion is quite easy. You can export files in al
 
 The alight motion app also comes with premium features. Although you create just the amazing and unique video you desire, there are still features you can only access when you subscribe for it. You can't access some new effects and creative sharing features on the free version.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Advantages and Disadvantages of Alight Motion App
 
 According to our practical experience above, we can sort out the advantages and disadvantages of this application.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Advantages
 
 **Constant Improvement:** with every new version/update, there is always an improvement. This shows that in the nearest future, alight motion will bring lots of innovation to the video editing industry.
@@ -194,6 +237,9 @@ The standard playback for a video is 29.7fps, however, Alight Motion App gives y
 
 This feature allows users to separate a video into multiple layers and also edit them at the same time. You can tweak multiple layers of graphics to give you a quality video. The blending mode is excellent for creating a composite image.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **3\. Vector and Bitmap Support**
 
 You can import vector graphics while using the Alight Motion App. This is one amazing feature that sets this app apart from other video editing apps. It also supports vector drawing.
@@ -206,14 +252,23 @@ This app has a long list of video ratios that you can utilize when editing your 
 
 If you have come across a video editor app that exports videos in one format especially when it's not your desired format, then you will probably know how time-consuming and stressful it is to change a video format after exporting it. However, with the Alight Motion App, you don't need to worry about this issue or any other issue that comes with the video export format. With this app, you can export your videos, graphics, and motion designs in MP4, GIF, , , PNG, sequence, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **6\. Import Elements and Customized Fonts**
 
 If you have a special element or font size that you want to add to your videos or graphics, you can do it with just a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **7\. Hundreds of Effects and Elements**
 
 On the Alight Motion editing app, you can find not just 10 or 20 amazing elements but over a hundred of them. Just as the wise saying confirms " Variety is the sweetness of life " Alight Motion has made varieties of elements and effects available for its users to achieve their video and graphic editing goals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Part 3\. How To Use Alight Motion App
 
 Get to know the Alight Motion editing app more.
@@ -224,16 +279,25 @@ First things first, head straight to your Google play store app (for Android use
 
 Open it once you've finished downloading and installing it. It will open to a home page similar to the one in the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-2.jpg)
 
 ### Import
 
 Once you have successfully gotten on the home page the next action is to import the image or graphics you want to edit. Click on the **plus (+)** button, it will take you to a page where you get to choose the resolution type, frame rate, and background color you want for your video. Click the **"Create Project"** button when you are done with your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-3.jpg)
 
 Select any image or video and carry on. On this page, you can also select a shape, audio, object, element, freehand drawing, vector drawing, and text.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Editing
 
 After importing your video, you can start editing.
@@ -246,12 +310,21 @@ You can also add slow motion and fast motion effects to your videos. This is one
 
 ![editing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Add Text
 
 You can add text to your videos, and graphics. Alight motion has over 2000 fonts for you to play with however if you have special fonts you did like to use that are not on the list, you can import them. Alight motion allows you to import customize fonts. You can also add colors to your text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add text](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Freehand and Vector Drawing
 
 You can draw amazing shapes using the alight motion freehand drawing tool. There is a color wheel, an adjustable brush, eraser, etc. available to you. The alight motion also supports vector drawing.
@@ -270,6 +343,9 @@ The alight motion app also comes with premium features. Although you create just
 
 According to our practical experience above, we can sort out the advantages and disadvantages of this application.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Advantages
 
 **Constant Improvement:** with every new version/update, there is always an improvement. This shows that in the nearest future, alight motion will bring lots of innovation to the video editing industry.
@@ -288,12 +364,18 @@ According to our practical experience above, we can sort out the advantages and 
 
 **Watermark (Free Version):** if you are using an alight app free version, your video will have a watermark logo after editing it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How To Add Motion To Your Video With Alight Motion Alternative
 
 Some video editors prefer using desktop video editors because they can use multiple hard drives on it. High-definition footage requires a large amount of space that a smartphone can't offer. If a hard drive gets filled, you can change it with little or no interruption to your work.
 
 If you don't want alight motion and you want to add motion to your videos, you can try its alternative [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a simple, entry-level desktop video editor. It has a lot of editing features that can help you create high-standard videos. You can use a few videos to create a video, edit the video audio, add filters, crop, and trim them all on Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **How to Add Motion to your Video with Filmora?**
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)

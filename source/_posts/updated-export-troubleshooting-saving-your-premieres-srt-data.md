@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Export Troubleshooting  Saving Your Premiere's SRT Data\""
-date: 2024-05-26T13:55:27.254Z
-updated: 2024-05-27T13:55:27.254Z
+date: 2024-07-24T22:45:28.922Z
+updated: 2024-07-25T22:45:28.922Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Export Troubleshooting: Saving Your Premiere's SRT Data\""
 excerpt: "\"This Article Describes [Updated] Export Troubleshooting: Saving Your Premiere's SRT Data\""
 keywords: "Save Premiere SRT,Export Troubleshoot,SRT Data Saver,Preview Error Fix,SRT File Retain,Export SRT Guide,Video Editing Save"
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Export Troubleshooting: Saving Your Premiere's SRT Data
@@ -58,6 +58,9 @@ Step2 Once you click on “Export Media” you’ll notice different options. Ig
 
 Step3 Click on “Create Sidecar File” under 'Export Options.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on create sidecar file](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-2.jpg)
 
 Step4 Finally, navigate to 'File Format' and select SubRip Subtitle Format (.srt). Then hit the “Export” button to complete the operation.
@@ -72,6 +75,9 @@ Step1 Click on the “SRT File” from the Premiere Pro interface.
 
 Step2 Navigate to “File” and select Exports, then choose “Captions”. By doing so, you'll be able to export the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Export SRT File with Timestamps
 
 The previously mentioned methods will allow you to export SRT either with video or as a sidecar file. But if you’re looking to export SRT file with timestamps, this method will work for you. The process is straightforward as the prior discussed methods.
@@ -82,6 +88,9 @@ Step1 Firstly, select SEQUENCE in the project panel.
 
 Step2 Up next, click File -> Export -> Captions. Once you complete that, you’ll export the SRT file as a sidecar file with timestamps.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open export settings](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-3.jpg)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -102,6 +111,10 @@ Here is the step-by-step process to edit band export SRT with Wondershare Filmor
 
 Step1 First, download and install the Filmora software on your computer, then start the program.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![download and install filmora software](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-4.jpg)
 
 Step2 Up next, upload the SRT file you want to edit to the Filmora interface using the “Import” button. Alternatively, you can Drag-n-drop the SRT file.
@@ -110,6 +123,9 @@ Step2 Up next, upload the SRT file you want to edit to the Filmora interface usi
 
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
 
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
@@ -118,6 +134,9 @@ Step4 Start editing your SRT file. You can edit the text, time code, speed, text
 
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-4.jpg)
 
 ## Final Words
@@ -142,6 +161,9 @@ If, unfortunately, you select the wrong settings for your file during the export
 
 Fixing the Premiere pro export subtitles fail error is not a daunting task if you know the right tricks to execute the operation. Here, we’ve explained three methods that are not just reliable but also work for fixing export SRT from Premiere pro not working issue. Keep reading to find out more about these fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Method 1: Use Export Media Option
 
 The “Export Media” option in Adobe Premiere Pro is effective for exporting SRT without problems. However, using this method means you’re exploring the .srt file with a video file. The process to use this method is outlined below;
@@ -168,6 +190,9 @@ Step1 Click on the “SRT File” from the Premiere Pro interface.
 
 Step2 Navigate to “File” and select Exports, then choose “Captions”. By doing so, you'll be able to export the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Export SRT File with Timestamps
 
 The previously mentioned methods will allow you to export SRT either with video or as a sidecar file. But if you’re looking to export SRT file with timestamps, this method will work for you. The process is straightforward as the prior discussed methods.
@@ -180,10 +205,16 @@ Step2 Up next, click File -> Export -> Captions. Once you complete that, you’l
 
 ![open export settings](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** for this to work, the video must be on one video layer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Easiest & Actionable Fix: Edit and Export SRT Files Only with Wondershare Filmora
 
 If Adobe Premiere Pro is still giving you issues with exporting SRT file from its interface, the best and easiest solution is to edit the SRT file on a powerful software like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Yes, this is because, unlike Premiere pro, Filmora allows seamless exportation of SRT to computer or third-party platforms.
@@ -198,10 +229,16 @@ Here is the step-by-step process to edit band export SRT with Wondershare Filmor
 
 Step1 First, download and install the Filmora software on your computer, then start the program.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download and install filmora software](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-4.jpg)
 
 Step2 Up next, upload the SRT file you want to edit to the Filmora interface using the “Import” button. Alternatively, you can Drag-n-drop the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![click on import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-1.jpg)
 
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
@@ -214,8 +251,14 @@ Step4 Start editing your SRT file. You can edit the text, time code, speed, text
 
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Final Words
 
 If you’re experiencing the export SRT from Premiere pro not working error, the article above has explained all possible methods that you can utilize to fix it quickly and easily. You can either

@@ -1,7 +1,7 @@
 ---
 title: "[New] How Long Does a 20MB Video Last?"
-date: 2024-05-26T15:15:18.516Z
-updated: 2024-05-27T15:15:18.516Z
+date: 2024-07-24T22:48:57.877Z
+updated: 2024-07-25T22:48:57.877Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] How Long Does a 20MB Video Last?"
 excerpt: "This Article Describes [New] How Long Does a 20MB Video Last?"
 keywords: "\"Video Longevity,20MB Video Duration,Max Video Life Span,20Mb File Age Estimate,Short-Term Video Endurance,Long-Lasting MP4 Lifespan,Storage Time for 20MB HD\""
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## How Long Does a 20MB Video Last?
@@ -80,12 +80,18 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -96,6 +102,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -104,6 +113,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -182,6 +194,13 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -224,6 +243,9 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
@@ -248,6 +270,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -288,6 +313,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -296,12 +324,27 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -326,6 +369,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.

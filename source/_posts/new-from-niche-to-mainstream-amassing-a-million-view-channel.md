@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Niche to Mainstream  Amassing a Million-View Channel\""
-date: 2024-06-19T12:31:37.871Z
-updated: 2024-06-20T12:31:37.871Z
+date: 2024-07-24T22:46:52.550Z
+updated: 2024-07-25T22:46:52.550Z
 tags: 
   - screen-recording
   - ai video
@@ -22,8 +22,14 @@ If you're looking to get more views on YouTube, it's important that your channel
 
 ![increase views on youtube](https://images.wondershare.com/filmora/article-images/2022/09/increase-views-on-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #1\. Pick a specific subject matter or topic
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![pick topic 100k views video](https://images.wondershare.com/filmora/article-images/2022/09/pick-topic-100k-views-video.jpg)
 
 You need to pick a specific subject matter or topic that you can talk about for a long time.
@@ -32,6 +38,9 @@ You need to pick a specific subject matter or topic that you can talk about for 
 * If you can talk about it in detail, people will be able to relate to the details and feel like they know what you're talking about (even if they don't).
 * If it's not too broad, but also not too narrow, then people won't be scratching their heads trying to figure out what you mean by "inbound marketing" or "email marketing." They won't have a clue as to what those terms mean unless there's some context around them—and if there is no context around them at all, then chances are these things aren't exactly interesting enough yet for anyone else either!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## #2\. Don't worry about producing the highest quality video
 
 ![shoot high quality video](https://images.wondershare.com/filmora/article-images/2022/09/shoot-high-quality-video.jpg)
@@ -40,6 +49,9 @@ Don't worry about producing the highest quality video. As long as you have a rel
 
 ## #3\. Post in related video communities to find an audience
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![post video to community](https://images.wondershare.com/filmora/article-images/2022/09/post-video-to-community.jpg)
 
 Once you've finished your video and uploaded it to YouTube, the next step is to post in related video communities. You can find these by searching for keywords related to your video or its topic, searching for the title of your own video (assuming that it's not too long), or doing a simple search on Google.
@@ -54,8 +66,15 @@ The first step to getting more views is writing keyword-rich titles and descript
 
 A good way to get ranked high is by using keywords. Keywords will help you rank higher in YouTube searches, which means more people will see your video!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## #5\. Use annotations to link videos together
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![use animation to link videos](https://images.wondershare.com/filmora/article-images/2022/09/use-animation-to-link-videos.jpg)
 
 Annotations are a great way to link videos together, or to link videos on your channel with other videos and resources. Here are some examples of things you can do with annotations:
@@ -65,6 +84,9 @@ Annotations are a great way to link videos together, or to link videos on your c
 * Link external sites that are relevant to your content (e.g., links to related blogs).
 * Add additional resources for more information about the topic at hand (the most common example is using a URL shortener like bitly).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #6\. Comment back on other people's videos in your niche
 
 ![comment other videos in your niche](https://images.wondershare.com/filmora/article-images/2022/09/comment-other-videos-in-your-niche.jpg)
@@ -87,6 +109,9 @@ The best way to ensure regularity is by setting up an automated scheduler with a
 
 ## #8\. Add calls to action at the beginning of your video
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add call to action youtube video](https://images.wondershare.com/filmora/article-images/2022/09/add-call-to-action-youtube-video.jpg)
 
 * Tell viewers they can subscribe to your channel.
@@ -102,6 +127,9 @@ One of the most common mistakes that people make when creating YouTube videos is
 
 If you want to grow an audience on YouTube and get more views, then one thing you need to do is provide value. This could mean sharing tips and tricks, answering questions from viewers or promoting other channels that produce great content related to your niche (which will encourage them share it with their friends).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## #10\. Use playlists effectively to get more views
 
 ![create playlist for youtube videos](https://images.wondershare.com/filmora/article-images/2022/09/create-playlist-for-youtube-videos.jpg)
@@ -112,6 +140,9 @@ If you're looking to create a series of videos, playlists are an ideal way to do
 
 Playlists can also be used as a place where viewers can watch related content that isn't necessarily part of another video—for example if someone just really likes one thing from one video but would like other similar things too (like say music from several artists).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 We hope this post has helped you get more views for your YouTube videos! If you follow these steps, we promise that your channel will be full of high-quality content in no time. Remember to take it slow and don't try to do everything at once. The most important thing is to stick with it - if you keep uploading videos every week and posting comments back on other people's channels (and interacting with commenters), then an audience will come along eventually.

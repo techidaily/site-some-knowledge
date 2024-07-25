@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Full-Scale Examination  Unboxing the DJI Phantom 4\""
-date: 2024-05-26T14:04:53.380Z
-updated: 2024-05-27T14:04:53.380Z
+date: 2024-07-24T22:45:55.328Z
+updated: 2024-07-25T22:45:55.328Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [Updated] Full-Scale Examination: Unboxing the DJI Phantom 4\""
 excerpt: "\"This Article Describes [Updated] Full-Scale Examination: Unboxing the DJI Phantom 4\""
 keywords: "\"DJI Phantom 4 Review,Phantom 4 Detailed Analysis,DJI Drone Full Test,Exploring DJI Phantom 4,DJI Phantom 4 Specifications,Unboxing DJI Advanced Drone,In-Depth DJI Phantom 4 Study\""
-thumbnail: https://www.lifewire.com/thmb/nLuwLInButD1Rc9LI6FNmg0L-2c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-update-mac-ad11e9c8026342c8ad05c9b26e830386.jpg
+thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b35903d3b3e9b8eb64f84eb9.jpg
 ---
 
 ## Full-Scale Examination: Unboxing the DJI Phantom 4
 
 # DJI Phantom 4 Complete Review
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/nLuwLInButD1Rc9LI6FNmg0L-2c=/400x300/fi
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
@@ -97,6 +103,9 @@ thumbnail: https://www.lifewire.com/thmb/nLuwLInButD1Rc9LI6FNmg0L-2c=/400x300/fi
 
 #### Camera
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
 
  The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
@@ -166,6 +175,10 @@ Follow @Max Wales
 
 #### Design
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
@@ -212,6 +225,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
@@ -257,6 +273,9 @@ Follow @Max Wales
 
 #### Design
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
@@ -279,6 +298,9 @@ Follow @Max Wales
 
 #### Camera
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
 
  The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
@@ -307,6 +329,9 @@ Follow @Max Wales
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for DJI Phantom 4
 
 #### **Pros of DJI Phantom 4**
@@ -348,6 +373,9 @@ Follow @Max Wales
 
 #### Design
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
@@ -378,6 +406,9 @@ Follow @Max Wales
 
  The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales

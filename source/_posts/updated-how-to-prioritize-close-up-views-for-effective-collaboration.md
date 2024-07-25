@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Prioritize Close-Up Views for Effective Collaboration\""
-date: 2024-05-26T15:04:35.269Z
-updated: 2024-05-27T15:04:35.269Z
+date: 2024-07-24T22:48:31.155Z
+updated: 2024-07-25T22:48:31.155Z
 tags: 
   - screen-recording
   - ai video
@@ -36,22 +36,37 @@ The simplest way to do it in Google Meet is by clicking or tapping to zoom in. W
 
 Step1 Set up a video conferencing setup and start a conference in your web browser with your administrator. The configurations you wish to modify such as Camera: for this option, choose the camera device of your choice as shown here:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![setup google meet](https://images.wondershare.com/filmora/article-images/2022/07/setup-google-meet.jpg)
 
 Step2 Hover over the shared screen and click the Pin symbol to save it. Go to the "Webcam Settings" window, pick the "Camera Control" option at the top, then select the webcam from the drop-down list.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![google meeting settings panel](https://images.wondershare.com/filmora/article-images/2022/07/google-meeting-settings-panel.jpg)
 
 Step3 The "Layout" option is next to the slider; click it. Adjust it in the direction the zoom-in zooms in using the slider. The "Ok" button may assist you in making all of your decisions. Select the Minimize icon while your cursor is on your own picture.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![layout options google meet](https://images.wondershare.com/filmora/article-images/2022/07/layout-options-google-meet.jpg)
 
 Step4 Change your Layout to "Focus" in the Meet Menu (three dots). By repeatedly hitting CTRL+ minus (-), you can zoom out (!). The Meet controls at the bottom get smaller as a result. With CTRL+0, you may subsequently reverse your zoom.
 
 Step5 To turn off the browser UI, press F11\. By hitting F11 once again, full screen mode may be ended.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![full screen mode google meet](https://images.wondershare.com/filmora/article-images/2022/07/full-screen-mode-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Tips and tricks to use Google Meet
 
 Those who have a Google Account are able to start a meeting. It's simple to make one if you don't already have one. Especially if you have a Gmail account, you undoubtedly already have one. The sooner you learn how to use them, the sooner you'll be an expert on Meet calls. Google has numerous handy keyboard shortcuts built in, including a keyboard shortcut to display you all of the keyboard shortcuts. Start using these methods without ever taking your eyes off your camera if you truly want to wow your colleagues on your next Google Meet conversation.
@@ -65,6 +80,9 @@ Those who have a Google Account are able to start a meeting. It's simple to make
 * Similar to the subtitle feature seen on other applications like Skype, this feature allows you to have the dialogue show in text on your screen in real-time so that you can more easily understand what is being said during video chats. It is exclusively offered in English. Click Turn on Captions in the Meet's bottom right corner to turn it on.
 * Users of Google Meet will be able to pin many individuals to the top of their tiled screen. This will be especially useful if you have meetings where two or three people talk the majority of the time.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 You may show additional information on your Google Meet by zooming in and out. On a slideshow map, for instance, zooming out reveals more of the region around your position. When dealing with many documents, zooming out might help you fit everything on one screen so you can see it all at once. You may fit more on your screen by zooming out. You may just need to zoom in or out on a Google Meet momentarily. You can rapidly get your screen back to its original perspective after zooming in or out.

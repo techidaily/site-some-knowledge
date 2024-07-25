@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Subdued to Striking  The Art of Post-Color Correction\""
-date: 2024-05-26T14:25:38.652Z
-updated: 2024-05-27T14:25:38.652Z
+date: 2024-07-24T22:46:50.376Z
+updated: 2024-07-25T22:46:50.376Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Subdued to Striking: The Art of Post-Color Correction\""
 excerpt: "\"This Article Describes 2024 Approved: From Subdued to Striking: The Art of Post-Color Correction\""
 keywords: "\"Color Correction Basics,Post-Process Editing,Brightening Images,Subtractive Methods,Highlight Adjustment,Image Enhancement Tech,Contrast Boost Effect\""
-thumbnail: https://www.lifewire.com/thmb/Bl6oHYyj1atCdFupwMN_Xfu4laM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Fire-Stick-vs-Fire-Stick-Lite-c2352eac038d451fad4b7f6ad09bfbec.jpg
+thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b474ce8b9b8af13ad1eeef19a7.jpg
 ---
 
 ## From Subdued to Striking: The Art of Post-Color Correction
@@ -26,10 +26,20 @@ Color grading is the process of stylizing the color scheme of your footage by "p
 
 Color sorting can be used for both technical and creative changes. Colorists use color gradation for artistic purposes to ensure that a film's carefully selected color palette conveys a specific atmosphere, style, or emotion. For example, [_American Beauty (1999)_](https://www.imdb.com/title/tt0169547/) uses redder in dramatic moments to represent passion, anger, and power, whereas [_Maleficent (2014)_](https://www.imdb.com/title/tt1587310/) uses green to represent danger, corruption, and darkness.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grading tutorial](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-1.jpg)
 
 ## Part 2\. 11 best Color Correction and Color Grading Tutorial
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 1\. [Color correction and grading in Premiere Pro 2021](https://www.udemy.com/course/colorgradinginpremierepro/)
 
 Whether you shoot video on your smartphone or DSLR, you always want to give it a cinematic look with different color combinations. Most of us are used to using filters. Well, that's what we're going to change here.
@@ -47,6 +57,9 @@ Whether you shoot video on your smartphone or DSLR, you always want to give it a
 
 ![premiere pro 2021](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. [Color Grading with DaVinci Resolve: Beginner to Advanced](https://www.udemy.com/course/color-grading-with-da-vinci-resolve-beginner-to-advanced/)
 
 Course updates to Resolve 17 are largely complete. more updates and re-recorded lectures will be added regularly.
@@ -58,8 +71,24 @@ Color grading still has a special, almost mystical status among some filmmakers.
 * Be able to carry out a classification project from start to finish and deliver it at a professional level
 * Be able to guide others through the color sorting workflow
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![beginner to advanced](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### 3\. [Cinematic Color Grading: Making Your Videos Come Alive](https://www.udemy.com/course/cinematic-color-grading-course/)
 
 Have you ever watched someone's film and thought "that color looks incredible the way they do that"? Then this is the perfect course for you.
@@ -74,6 +103,9 @@ This course is designed to show you what it means to create a cinematic color gr
 
 ![cinematic color grading](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [Color Grading Masterclass: Resolve 15](https://www.udemy.com/course/color-grading-masterclass/)
 
 A lot of people try to create a film look and a lot of people ask me how I create my look. Creating a short tutorial wouldn't be enough to show you how I do it. So I decided to do an in-depth course that will show my process and how you can take your color grading to the next level.
@@ -90,6 +122,9 @@ So if you are serious about working with film, video, and color grading and want
 * The course mixes theory and tips with practical examples that you can apply to your project today.
 * You will learn about; DaVinci Resolve, the grading process, grading for clients, calibration and advanced grading techniques, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color grading masterclass](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-5.jpg)
 
 ### 5\. [Adobe Premiere Pro: Color Grading Masterclass (Updated)](https://www.udemy.com/course/adobe-premiere-color-grading-masterclass/)
@@ -109,6 +144,9 @@ Create stunning cinematic looks with Adobe Premiere Pro's powerful color correct
 * EXTRA: Colorista III (plug-in)
 * Watch for updates
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![adobe premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-6.jpg)
 
 ### 6\. [Color Grading and Correction with DaVinci Resolve](https://www.udemy.com/course/color-correction-with-davinci-resolve/)
@@ -172,6 +210,10 @@ Confused about color correction tools and how they work? What is good color grad
 
 ![premiere pro lumetri 2020](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 9\. [Amber & Teal - Cinematic Color Grading in Photoshop](https://www.udemy.com/course/cinematic-color-grading/)
 
 Using Amber and Teal gradation techniques to add mood and feel to photographs is a trick used by the giants of the silver screen. You can bring the same impressive cinematic style to your work using three different color methods in Photoshop using the Color Lookup tool, the Color Balance adjustment layer, and my personal favorite Photoshop tool — Curves. You'll learn all of this by working with three images hands-on, plus you'll learn how to remove a color cast from an image and how to fine-tune images using the Adobe color wheel. This powerful work is so simple that even Photoshop beginners can achieve amazing results.
@@ -208,6 +250,9 @@ Master professional color correction techniques and create amazing images that w
 
 ![adobe lightroom cc](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 11\. [Understanding Color in Adobe Premiere Pro](https://www.udemy.com/course/understanding-color-in-adobe-premiere-pro/)
 
 You will be guided through every step of "Understanding Color" in this comprehensive course. From color correction to color grading
@@ -228,6 +273,9 @@ You will learn the complete basic training of color correction and grading in Pr
 * Create masks to color correct a specific area
 * Match the colors of different images
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![understanding color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-12.jpg)
 
 ## Part 3\. How to use Filmora to color grade video?
@@ -236,12 +284,21 @@ To get the best of both worlds, [Filmora](https://tools.techidaily.com/wondersha
 
 To give the atmosphere of great effects, it is easy to directly apply some fixed LUTs by clicking **"Effect"** and selecting **"LUT"**, where you can view a variety of preset LUT packages. To complete changing the color of your entire film, drag and drop the objects directly onto the timeline video clip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag and drop objects onto timeline video clip](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-13.jpg)
 
 Of course, you may choose **"Advanced"** for a more subtle color correction if you're still not satisfied with the result. There are components in Adjust such Enhancement, White Balance, and Vignette. In the **Preset** menu, you can also select a finer pre-made configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![select a finer pre made configuration](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 In short, we've touched on many different color grading tutorials that simplify and professionalize the color grading process. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers other video editing options in addition to the simple Color Correction to help you take your videos to new levels. Anyone can download it free and use it for themselves.

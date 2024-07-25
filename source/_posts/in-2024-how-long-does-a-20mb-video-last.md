@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How Long Does a 20MB Video Last?"
-date: 2024-05-26T14:28:26.583Z
-updated: 2024-05-27T14:28:26.583Z
+date: 2024-07-24T22:46:57.825Z
+updated: 2024-07-25T22:46:57.825Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, How Long Does a 20MB Video Last?"
 excerpt: "This Article Describes In 2024, How Long Does a 20MB Video Last?"
 keywords: "\"Video Longevity,20MB Video Duration,Max Video Life Span,20Mb File Age Estimate,Short-Term Video Endurance,Long-Lasting MP4 Lifespan,Storage Time for 20MB HD\""
-thumbnail: https://www.lifewire.com/thmb/rF-owqGYMDnUcEI0Dpfe0-HV4eU=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/obsolete-ipad-4138570-903c7a3d4f5e48b29005c75d26ce79b7.png
+thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a41b00b3f13329dba336fbddc.png
 ---
 
 ## How Long Does a 20MB Video Last?
@@ -72,6 +72,99 @@ Filmora can be used to change the bitrate of video files. It has a user-friendly
 
 * **Import Video -Bring the video files in.**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
+
+Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
+
+.
+
+* **Choose a video to watch.**
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
+
+Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
+
+* **Change the video or audio file's bitrate.**
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
+
+After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
+
+Take note that Lowering the bitrate can help you compress your media files. The quality will differ. As a result, it is important to get a difference between size and quality .
+
+**Three Tools to edit video and make it longer or shorter (desktop, phone, online)**
+
+* Magisto ( Supports IOS, Android, Online )
+
+![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
+
+Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
+
+This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
+
+* ActivePresenter ( Supports Windows, Mac )
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
+
+ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
+
+* Openshot ( Supports Windows, Mac )
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
+
+OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
+
+OpenShot comes with a slew of amazing capabilities, like video sorting and trimming, transition effects between video files, audio level adjustments, chroma key or green-screen effects, and more. The most prevalent codecs and formats are also supported by the software.
+
+OpenShot has a clean, easy-to-use interface that makes video creation and editing a breeze. The program also allows you to build 3D animated title sequences that will wow your audience.
+
+FAQs
+
+* How long of a video is 25 MB?
+
+200 megabits equal 25 MB. 1800 seconds equals 30 minutes; as a result, the video file must be under 200 megabits / 1800 seconds = 111 kbps, or less than half the bitrate of YouTube's 144p video.
+
+* The best way to send a video that is more than 25 megabytes?
+
+A minute of mpeg1 video is about 1 megabyte. Thus, 10 minutes would be 10 megabytes; better videos have fewer minutes.
+
+* What is the size of a one-minute video in megabytes?
+
+A minute of mpeg1 video is about 1 megabyte. Therefore 10 minutes is 10 megabytes; better videos have fewer minutes.
+
+* What is the size of a 1-minute video in GB?
+
+How many video minutes are there per gigabyte? One GB of digital storage may hold between 1.8 and 3.6 minutes of video. This is based on 2.7K to 4K video resolution. 24-
+
+* How long does 25MB last?
+
+200 megabits equals 25 megabytes. 1800 seconds equals 30 minutes.
+
+* How long does 100MB of video last?
+
+How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
+
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -86,6 +179,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -144,6 +240,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -176,12 +275,18 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -216,6 +321,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -248,78 +356,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
-![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
-
-ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
-
-* Openshot ( Supports Windows, Mac )
-
-![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
-
-OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
-
-OpenShot comes with a slew of amazing capabilities, like video sorting and trimming, transition effects between video files, audio level adjustments, chroma key or green-screen effects, and more. The most prevalent codecs and formats are also supported by the software.
-
-OpenShot has a clean, easy-to-use interface that makes video creation and editing a breeze. The program also allows you to build 3D animated title sequences that will wow your audience.
-
-FAQs
-
-* How long of a video is 25 MB?
-
-200 megabits equal 25 MB. 1800 seconds equals 30 minutes; as a result, the video file must be under 200 megabits / 1800 seconds = 111 kbps, or less than half the bitrate of YouTube's 144p video.
-
-* The best way to send a video that is more than 25 megabytes?
-
-A minute of mpeg1 video is about 1 megabyte. Thus, 10 minutes would be 10 megabytes; better videos have fewer minutes.
-
-* What is the size of a one-minute video in megabytes?
-
-A minute of mpeg1 video is about 1 megabyte. Therefore 10 minutes is 10 megabytes; better videos have fewer minutes.
-
-* What is the size of a 1-minute video in GB?
-
-How many video minutes are there per gigabyte? One GB of digital storage may hold between 1.8 and 3.6 minutes of video. This is based on 2.7K to 4K video resolution. 24-
-
-* How long does 25MB last?
-
-200 megabits equals 25 megabytes. 1800 seconds equals 30 minutes.
-
-* How long does 100MB of video last?
-
-How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
-
-![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
-
-Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
-
-.
-
-* **Choose a video to watch.**
-
-![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
-
-Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
-
-* **Change the video or audio file's bitrate.**
-
-![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
-
-After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
-
-Take note that Lowering the bitrate can help you compress your media files. The quality will differ. As a result, it is important to get a difference between size and quality .
-
-**Three Tools to edit video and make it longer or shorter (desktop, phone, online)**
-
-* Magisto ( Supports IOS, Android, Online )
-
-![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
-
-Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
-
-This user-friendly app uses artificial intelligence (AI) to organize your footage into a video that best conveys your message.
-
-* ActivePresenter ( Supports Windows, Mac )
-
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.

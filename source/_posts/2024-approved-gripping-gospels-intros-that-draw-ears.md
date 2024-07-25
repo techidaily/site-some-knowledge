@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Gripping Gospels  Intros That Draw Ears\""
-date: 2024-05-26T15:46:54.383Z
-updated: 2024-05-27T15:46:54.383Z
+date: 2024-07-24T22:50:17.462Z
+updated: 2024-07-25T22:50:17.462Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ So, how can you utilize these sixty seconds to hook the audience to your podcast
 
 If you're new to podcasting or having difficulties attracting an audience, keep reading to get some scoop on how to compose an opening that will sweep the listener off his feet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part 1\. What are podcasts intros?
 
 A podcast intro is like a teaser that gives an insight into what the episode will be about. The introduction to the podcast usually appears at the start of the podcast.
@@ -48,12 +51,18 @@ A well-designed intro usually starts with a hook grabbing the listener's undivid
 
 Now that you know what a podcast intro is? Let's discuss why it matters!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Why does the intro to podcasts matter?
 
 Podcasts have gained massive popularity over the last decade. Currently, over 30 million podcasts are available, making it even harder for you to gain an audience if you are starting a new podcast.
 
 The game is to entice the listener so that he would want more, and for that, we need an intro that is powerful enough to intrigue the audience. After establishing why we need a podcast intro, let's look at some sample intros from popular podcasts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. What do podcast intros in trending podcasts sound like?
 
 We will analyze the intros of the top three podcasts to find out the most important elements that make the introduction snappy enough to capture the audience.
@@ -66,10 +75,17 @@ According to the US rankings, "This American Life" is the fourth most popular po
 
 ### [My favorite murder](https://www.exactlyrightmedia.com/myfavoritemurder)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![my favorite murder](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-2.jpg)
 
 My favorite murder is the fifth most popular podcast according to the US charts. Karen Kilgariff and Georgia Hardstark host this show and discuss the true crime stories narrated by their friends or family. It has also been nominated for the best podcast award and has about 30 million listeners.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Stuff You Should Know](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/)
 
 ![stuff you should know](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-3.jpg)
@@ -90,6 +106,9 @@ _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Part 4\. How to make a good podcast intro?
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
@@ -100,6 +119,9 @@ Your podcast intro should be brief and snappy. The ideal duration for a podcast 
 
 The intro of "This American Life" lasted for sixty seconds, while the intro of stuff you should know was over in about forty seconds. Both of these intros were short and to the point. However, they did an excellent job of providing just the correct information to pique the audience's interest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Is background music helpful in making the intro more appealing?
 
 Selecting a soundtrack or sound effects for your podcast intro is optional, but it enhances the quality of the content presented. The soundtrack should be chosen carefully as it functions as a logo that presents a brand.
@@ -139,6 +161,9 @@ Once you've figured out how a good podcast intro should be, the last step would 
 
 ### Crushed - A Comedy Podcast
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crushed](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-4.jpg)
 
 Crushed is one of the top comedy podcasts in which people narrate their one-sided love stories to the host. First, let's look at its intro.
@@ -159,6 +184,9 @@ This podcast's intro, which lasted for only 25 seconds, was backed by dramatic m
 
 Hello! and welcome to —------------ (podcast name); the podcast is about the —---------------. (what is the podcast about) My guest today is the —---------.(introduction of the guest). We have an excellent episode for you today! So buckle up your seat belts, and let's get right into it!
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### [Global News Podcast](https://www.bbc.co.uk/programmes/p0d9229j)
 
 ![global news podcast](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-5.jpg)
@@ -217,8 +245,14 @@ The following program contains adult content, violence, and strong language. The
 
 Despite operating in plain sight for almost —-----, it took a twist of fate for his reign of terror to finally come to an end. And yes, you guessed it, right, ladies and gentlemen, today we will talk about the infamous —------.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Football Weekly](https://www.theguardian.com/football/series/footballweekly)\- A sports podcast
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![football weekly](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-8.jpg)
 
 Football Weekly is the best sports podcast, and its intro goes like this,
@@ -251,10 +285,16 @@ _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. How to make a good podcast intro?
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How long should a podcast intro be?
 
 Your podcast intro should be brief and snappy. The ideal duration for a podcast intro is between 30 to 60 seconds. However, it should not last more than a minute and a half.
@@ -294,12 +334,21 @@ The proper way to introduce your episode guest is to tell your audience about th
 
 Let's look at the samples of some of the most popular podcast intros.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Effective podcast introduction examples
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Crushed - A Comedy Podcast
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crushed](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-4.jpg)
 
 Crushed is one of the top comedy podcasts in which people narrate their one-sided love stories to the host. First, let's look at its intro.
@@ -322,6 +371,9 @@ Hello! and welcome to —------------ (podcast name); the podcast is about the �
 
 ### [Global News Podcast](https://www.bbc.co.uk/programmes/p0d9229j)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![global news podcast](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-5.jpg)
 
 Global News Podcast is one of the top news podcasts by BBC World Service, and its intro is as follows.
@@ -338,6 +390,9 @@ Once again, the introduction is concise and hooks listeners in just 17 seconds. 
 
 Hello! This is the —----- news podcast from the —--------- (introduce the channel). With reports and analyses shown across the world and the latest news —------------ (introduce the purpose of the broadcast), —------- podcasts are supported by —-----------------. (the name of your sponsor, if any)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### [The Joe Rogan Experience](https://podcast.app/the-joe-rogan-experience-p15/) \- A culture and society podcast
 
 ![the joe rogan experience](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-6.jpg)
@@ -378,6 +433,10 @@ The following program contains adult content, violence, and strong language. The
 
 Despite operating in plain sight for almost —-----, it took a twist of fate for his reign of terror to finally come to an end. And yes, you guessed it, right, ladies and gentlemen, today we will talk about the infamous —------.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### [Football Weekly](https://www.theguardian.com/football/series/footballweekly)\- A sports podcast
 
 ![football weekly](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-8.jpg)
@@ -398,6 +457,9 @@ This is —-------(the podcast's name). Hello and welcome to the —----------; 
 
 —-------- is at the panel today with us (introduce the guest of the episode). Yesterday's game of —--- was a bummer, and we'll talk about it later in the episode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Final words
 
 A podcast intro is the same as a show's teaser. It is like a small keyhole that discloses what the listener will be diving into. It should be short, snappy, and engaging enough to leave the audience gasping for more.

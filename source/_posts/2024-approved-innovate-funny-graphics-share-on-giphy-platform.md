@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Innovate Funny Graphics, Share on Giphy Platform\""
-date: 2024-05-26T13:11:11.910Z
-updated: 2024-05-27T13:11:11.910Z
+date: 2024-07-24T22:43:35.996Z
+updated: 2024-07-25T22:43:35.996Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Innovate Funny Graphics, Share on Giphy Platform\""
 excerpt: "\"This Article Describes 2024 Approved: Innovate Funny Graphics, Share on Giphy Platform\""
 keywords: "Gif Artistry,Humor Graphics,Shareworthy Images,Creative Gifs,Social GIFs,Giphy Memes,Funny Visuals"
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## Innovate Funny Graphics, Share on Giphy Platform
@@ -30,6 +30,9 @@ You may share the Giphy picture on social media or copy and paste it into a text
 
 Step1 Download and launch the app, then register for an account or sign in if you already have one. Tap on Create in the top-right corner of the homepage. Utilize the icon in the upper right corner to access your GIPHY account. It takes two seconds to create a GIPHY account if you don't already have one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![download giphy app](https://images.wondershare.com/filmora/article-images/2022/07/download-giphy-app.jpg)
 
 Step2 To upload a video to GIPHY, click Upload. To add a video from your computer or mobile device, choose ‘Choose File’ as there is an option to do so
@@ -38,6 +41,9 @@ Step2 To upload a video to GIPHY, click Upload. To add a video from your compute
 
 Step3 If you wish to upload a video from a URL, you may do so. After you've submitted your movie, you'll be sent to the next page automatically so that you may cut it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![upload video url giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-url-giphy.jpg)
 
 Step4 Set the sliders to the length that you choose for your GIF. Recall that shorter is always better! Click Upload Now to continue. The next page gives you the choice of adding tags, making your GIF private, adding a source URL, or adding it to a collection.
@@ -60,6 +66,9 @@ You may create your own memes for every occasion with the aid of the Filmora mem
 
 To start a new meme project, open the Filmora video meme creator and choose "New project." In the project options, choose the appropriate aspect ratio before selecting "Import" to submit your video. You may also import your favorite movies and pictures shot with mobile devices using Filmora. Simply choose Import, then carry out the following:
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step3 Include Music and Subtitles
@@ -72,6 +81,9 @@ The video file must then be included in the timeline. Another option is to play 
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ##### Step5 Publish or Save Your Meme
@@ -98,12 +110,18 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ##### Step5 Publish or Save Your Meme

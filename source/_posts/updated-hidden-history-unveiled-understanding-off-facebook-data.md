@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Hidden History Unveiled  Understanding Off-Facebook Data\""
-date: 2024-05-26T14:32:46.183Z
-updated: 2024-05-27T14:32:46.183Z
+date: 2024-07-24T22:47:09.032Z
+updated: 2024-07-25T22:47:09.032Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Hidden History Unveiled: Understanding Off-Facebook Data\""
 excerpt: "\"This Article Describes [Updated] Hidden History Unveiled: Understanding Off-Facebook Data\""
 keywords: "Data Privacy History,FB Data Insights,Online Data Tracking,Hidden Facebook Info,Profile Data Secrets,OffFacebook Data Impact,Historical Social Media"
-thumbnail: https://www.lifewire.com/thmb/m-K3IzE697zmvCh3fDv5AHkpXLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ipad-parent-kids-57a274ec3df78c32764996b7.jpg
+thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd178394378301c673d9cd094e466a.jpg
 ---
 
 ## Hidden History Unveiled: Understanding Off-Facebook Data
@@ -34,10 +34,16 @@ So, what information does the Off-Facebook Previews capture? According to Facebo
 * A record of all apps and websites where you use your Facebook credentials to log in. Typically, the information comes from companies offering Facebook Login as one of their single sign-on (SSO) methods.
 * Your donation and content viewing activity from companies that use Facebook API in their websites and apps.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Should I Leave Off Facebook Activity be on or off?
 
 As you can see, Off Facebook Previews collects lots of your sensitive information from its clients. Therefore, you must manage how much you share with other companies when not using the social media platform directly. The following sections help you understand how you can protect your data better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How to switch it off?
 
 Follow these steps to disable Off Facebook Previews in your account.
@@ -49,14 +55,23 @@ Follow these steps to disable Off Facebook Previews in your account.
 
 * Then, choose **Settings and Privacy** from the drop-down menu, followed by **Settings** from the resultant menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![settings and privacy](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-2.jpg)
 
 * Tap the **Your Facebook Information** and then **Off-Facebook activity** to redirect to the **Off-Facebook Previews** settings page.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![off facebook previews](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-3.jpg)
 
 * Select the **Disconnect Future Activity** option and move the slider left to prevent Facebook from receiving any information on your off-Facebook activities.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disconnect future activity](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-4.jpg)
 
 * Finalize the process by pressing **Confirm** on the next page.
@@ -75,6 +90,9 @@ Following its recent legal troubles concerning user data safety, Facebook has th
 * Moreover, the company allows you to manage your Off-Facebook activity directly from your profile. For example, you can use the Clear Previous activity option to erase all previous data or use the Disconnect Future activity function to prevent further data collection.
 * Finally, the company openly shares a record of the information it receives from its clients through the **Recent Activity** Please refer to the **What is Off-Facebook Preview** section to discover what user information the company shares in your recent activity report.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
 #### Is the Off-Facebook Previews feature safe?

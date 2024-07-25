@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Greatest Stop-Motion Animations Ranked #1-15\""
-date: 2024-05-26T14:44:11.550Z
-updated: 2024-05-27T14:44:11.550Z
+date: 2024-07-24T22:47:36.722Z
+updated: 2024-07-25T22:47:36.722Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Greatest Stop-Motion Animations Ranked #1-15\""
 excerpt: "\"This Article Describes [Updated] Greatest Stop-Motion Animations Ranked #1-15\""
 keywords: "\"Top Stop-Motion Films,Animation Best Rated,High-Ranking Anime,Animated Stop Motion,Leading Animation Titles,Prime Animation Works,1 Stop-Motion Films\""
-thumbnail: https://www.lifewire.com/thmb/L_IEEJ6cThyoOeCq0NMsj_YSx8k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1280px-New_Logo_Gmail-2f7310ac1f314fb9be95b48097db6596.jpg
+thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2383fe5591ff482b234f870f.jpg
 ---
 
 ## Greatest Stop-Motion Animations Ranked #1-15
@@ -40,6 +40,9 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -68,6 +71,9 @@ Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into 
 
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### 4\. [Wallace & Gromit: The Curse of the Were-Rabbit](https://www.imdb.com/title/tt0312004/)
 
 Movie Name: Wallace & Gromit: The Curse of the Were-Rabbit
@@ -80,6 +86,9 @@ Quote: "I'm sorry, Gromit—I know you're doing this for my good, but the fact i
 
 The famous animated stop motion film is about Lady Tottington and Wallace, who go on a mission to rescue their village from a beast destroying the plots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
 ### 5\. [Early Man](https://www.imdb.com/title/tt4701724/)
@@ -96,6 +105,9 @@ Early Man is yet another stop motion film that got considerable fame. The story 
 
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
 
 Movie Name: Kubo and Two Strings
@@ -110,6 +122,9 @@ Kubo and Two Strings is one of the best stop motion films. The movie is about Ku
 
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. [My Life as a Zucchini](https://www.imdb.com/title/tt2321405/)
 
 Movie Name: My Life as a Zucchini
@@ -124,6 +139,9 @@ My Life as a Zucchini is about an orphan who is sent to the orphanage where he l
 
 ![my life as a zucchini](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. [Corpse Bride](https://www.imdb.com/title/tt0121164/)
 
 Movie Name: Corpse Bride
@@ -136,8 +154,14 @@ Quote: "I was a bride. My dreams were taken from me. But now I've stolen them fr
 
 Corpse Bride is one of the best stop motion films in the industry. The story is about Victor practicing his wedding vows in the forest where he accidentally marries skeleton-shaped Emily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![corpse bride](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### 9\. [Chicken Run](https://www.imdb.com/title/tt0120630/)
 
 Movie Name: Chicken Run
@@ -150,6 +174,10 @@ Quote: "The most important thing is, we have to work as a team, which means you 
 
 Chicken Run is a movie about Rocky and Ginger, a rooster and a chicken. They decide to run from the chicken farm when they find out their owner is trying to kill them.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![chicken run](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-9.jpg)
 
 ### 10\. [Mary and Max](https://www.imdb.com/title/tt0978762/)
@@ -164,8 +192,14 @@ Quote: "The reason I forgive you is that you are not perfect. You are imperfect.
 
 Mary and Max is a story about two unlikely people who befriended each other in a long-distance relationship through letters. Mary is an 8-year old lonely girl, and Max is a 44-year old obese man.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
 
 Movie Name: ParaNorman
@@ -194,6 +228,9 @@ As the best stop motion film, Missing Link is about Mr.Link, who hired a private
 
 ![missing link](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 13\. [The Pirates! In An Adventure With Scientists](https://www.imdb.com/title/tt1430626/)
 
 Movie Name: The Pirates! In An Adventure With Scientists
@@ -208,6 +245,14 @@ The movie The Pirates! In An Adventure With Scientists is about a Pirate Captain
 
 ![the pirates in an adventure with scientists](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-13.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 14\. [The Boxtrolls](https://www.imdb.com/title/tt0787474/)
 
 Movie Name: The Boxtrolls
@@ -220,6 +265,9 @@ Quote: "Where are the rivers of blood, and the mountains of bones? I was promise
 
 The Boxtrolls is an animated film stop motion where Eggs and Winnie befriend each other for a cause. They were expected to save the Boxtrolls from the evil eyes of the exterminator.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the boxtrolls](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-14.jpg)
 
 ### 15\. [The LEGO](https://www.imdb.com/title/tt1490017/)
@@ -234,6 +282,9 @@ Quote: "You don't have to be the bad guy. You are the most talented, interesting
 
 The LEGO movie is about a LEGO construction worker recruited to stop an evil tyrant from destroying the world of LEGO. Emmet is a lead character in this best stop motion film.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the lego](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-15.jpg)
 
 ### Conclusion

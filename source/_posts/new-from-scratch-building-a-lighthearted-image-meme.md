@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Scratch  Building a Lighthearted Image Meme\""
-date: 2024-05-26T14:10:02.282Z
-updated: 2024-05-27T14:10:02.282Z
+date: 2024-07-24T22:46:10.197Z
+updated: 2024-07-25T22:46:10.197Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Scratch: Building a Lighthearted Image Meme\""
 excerpt: "\"This Article Describes [New] From Scratch: Building a Lighthearted Image Meme\""
 keywords: "Laughter Meme Creation,Humor Imagery Build,Easy Memes Crafting,Wholesome Comedy Art,Simple Meme Designs,Lighthearted Image Gags,Funny Picture Memetics"
-thumbnail: https://www.lifewire.com/thmb/PgysQIezEX8AOUJWPOnCygJN10o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/The-7-Best-TV-Streaming-Apps-of-2021-2bd55916fdd34bcc847ae58768ada910.jpg
+thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c23bf996b9a2a527835e31b1.jpg
 ---
 
 ## From Scratch: Building a Lighthearted Image Meme
@@ -22,10 +22,16 @@ It only takes one amusing thing to find on the internet for your day to be insta
 
 Let’s start off!
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## 1\. What exactly is a meme?
 
 A meme is an image that is passed around online and is accompanied by some form of writing. These memes typically offer sharp criticism on cultural icons, societal concepts, or current events. A meme is often an image or a video, although it can also take the form of a string of words in some cases. When a meme strikes a chord with a large number of people, it begins to circulate through various social platforms such as Twitter, Facebook, Instagram, messaging, and other methods. The more the number of times a meme is shared, the more of an impact it has on culture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![grandpa meme image](https://images.wondershare.com/filmora/article-images/2022/11/grandpa-meme-image.jpg)
 
 ## 2\. When did memes become a thing online?
@@ -36,8 +42,20 @@ At one point in time, many believed that memes were nothing more than strange vi
 
 People's lives are becoming increasingly influenced by the internet and various forms of social media, which has coincided with the proliferation of memes in popular culture. Memes have evolved into the ideal medium for disseminating knowledge, comedic content, and political viewpoints as the amount of time spent online continues to rise. Memes have evolved from simple image changes made with the intention of making people laugh into rhetorical devices that are capable of spreading information to millions of people. As a result, memes have established themselves as one of the most important mediums in today's society. This is how the meme has progressed over time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![create an online meme](https://images.wondershare.com/filmora/article-images/2022/11/create-an-online-meme.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 3\. How do you make a meme?
 
 It’s quite simple to create your own memes. All you need is a good picture of something, or someone expressing an emotion such a confusion, happiness, and think of a funny phrase people can relate to.
@@ -48,10 +66,16 @@ Step2 Launch Filmora, then important the photo, and after that, choose the font 
 
 Step3 You may show your finished work to your coworkers or friends by saving and uploading it immediately to social media platforms like Facebook or Twitter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![customize a meme image](https://images.wondershare.com/filmora/article-images/2022/11/customize-a-meme-image.jpg)
 
 Memes are a fantastic way to communicate with friends, family, and coworkers. They're also really simple to create! No prior tool experience is necessary. Absolutely! Use [Filmora's](https://tools.techidaily.com/wondershare/filmora/download/) GIF function to quickly convert any video clip into an animated GIF meme that you can share with others.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Researching trending memes
 
 Through the years, many different styles of memes have come and gone. You don't want to rely on methods that have since become obsolete. Do some research to find out what's trending by looking through old memes. Also, pay attention to the memes that other people are posting wherever it is on the internet that you spend the majority of your time. It doesn't matter if it's Reddit, Facebook, Instagram, or Twitter.

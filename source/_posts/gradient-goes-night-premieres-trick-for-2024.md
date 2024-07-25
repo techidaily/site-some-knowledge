@@ -1,7 +1,7 @@
 ---
 title: "\"Gradient Goes Night  Premiere's Trick for 2024\""
-date: 2024-05-26T14:31:15.760Z
-updated: 2024-05-27T14:31:15.760Z
+date: 2024-07-24T22:47:05.287Z
+updated: 2024-07-25T22:47:05.287Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Gradient Goes Night: Premiere's Trick for 2024\""
 excerpt: "\"This Article Describes Gradient Goes Night: Premiere's Trick for 2024\""
 keywords: "Night Gradient Preview,Premiere Dark Transition,Gradient Black Effect,Movie Night Palette Shift,Film Premiere Color Change,Gradient Premiere Trick,Evening Gradient Tease"
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## Gradient Goes Night: Premiere's Trick
@@ -44,6 +44,9 @@ When it comes to adding some effects to the videos, fade effects are ruling the 
 
 People who are new to video editing and related activities may not understand or known to the fade to black factor. Mainly, it is a kind of specific fading effect that can be used for keep the video fading until the screen becomes completely black. Most commonly, these types of effects are added to the video ending.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 How To Fade To Black Premiere Pro?
 
 If you are interested in figure out the complete procedure to add fade to black transition premiere pro with a step-by-step guide, you should check out the following details.
@@ -82,6 +85,9 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step4 You should search for FADE by using that search bar
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement
@@ -116,6 +122,10 @@ When it comes to adding some effects to the videos, fade effects are ruling the 
 
 03 [Tip: Add Fade To Black In Premiere Pro \[Alternative\]](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Part 1 What Is Fade To Black?
 
 People who are new to video editing and related activities may not understand or known to the fade to black factor. Mainly, it is a kind of specific fading effect that can be used for keep the video fading until the screen becomes completely black. Most commonly, these types of effects are added to the video ending.
@@ -142,16 +152,25 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 It is the complete procedure that can help you add fade to black effects to the video. Some people are using these types of effects for different positions and places. The most important thing for the premier pro users is that they can put such an effect where they want. There’s nothing can be occurred as a big problem that can make everything difficult for the users. You can put such effects at the beginning of the video, in the ending or to join two different videos. It will work fine in all three situations. By using premiere pro, you can make things good in all conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3 Tip: Add Fade To Black In Premiere Pro \[Alternative\]
 
 Filmora is the best video editor that can be useful in editing videos in several ways. It has a big library of built-in video effects. According to some records, it contains more than 500 effects. You can pick any of these effects to feature your videos and make things better.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-By-Step Procedure
 
 ##### Step1 You should begin by adding some videos to the timeline first
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
@@ -172,8 +191,14 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Words
 
 All these details will help you get some clarity to understand the best way to fade to black in premiere pro. In case you have any problem in understanding the procedure or figuring out how to use the video editor, you can check out online tutorials or guides. It will help you get introduced to the required data and easily understand everything. If you are looking for a video editor that can be useful in getting desired editing results in not time, you can consider the option of Filmora. It is used by different types of individuals for serving multiple requirements. It can help you to create any kind of video and edit that as per the requirements.
@@ -192,6 +217,9 @@ When it comes to adding some effects to the videos, fade effects are ruling the 
 
 03 [Tip: Add Fade To Black In Premiere Pro \[Alternative\]](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1 What Is Fade To Black?
 
 People who are new to video editing and related activities may not understand or known to the fade to black factor. Mainly, it is a kind of specific fading effect that can be used for keep the video fading until the screen becomes completely black. Most commonly, these types of effects are added to the video ending.
@@ -204,6 +232,9 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 ##### Step2 Now, you should go to the effects tab. You can find out this particular tab in the setting panel available in the left side
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![ effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
 
 ##### Step3 You can spot a search box in the setting panel; you can use this panel for searching the effect that can create fade to black in video. Here, you need to use the term ‘DIP TO BLACK’
@@ -228,12 +259,18 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
 
 ##### Step4 You should search for FADE by using that search bar
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement
@@ -248,8 +285,14 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Words
 
 All these details will help you get some clarity to understand the best way to fade to black in premiere pro. In case you have any problem in understanding the procedure or figuring out how to use the video editor, you can check out online tutorials or guides. It will help you get introduced to the required data and easily understand everything. If you are looking for a video editor that can be useful in getting desired editing results in not time, you can consider the option of Filmora. It is used by different types of individuals for serving multiple requirements. It can help you to create any kind of video and edit that as per the requirements.
@@ -268,6 +311,9 @@ When it comes to adding some effects to the videos, fade effects are ruling the 
 
 03 [Tip: Add Fade To Black In Premiere Pro \[Alternative\]](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1 What Is Fade To Black?
 
 People who are new to video editing and related activities may not understand or known to the fade to black factor. Mainly, it is a kind of specific fading effect that can be used for keep the video fading until the screen becomes completely black. Most commonly, these types of effects are added to the video ending.
@@ -280,6 +326,9 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 ##### Step2 Now, you should go to the effects tab. You can find out this particular tab in the setting panel available in the left side
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![ effects tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-1.png)
 
 ##### Step3 You can spot a search box in the setting panel; you can use this panel for searching the effect that can create fade to black in video. Here, you need to use the term ‘DIP TO BLACK’
@@ -294,6 +343,9 @@ If you are interested in figure out the complete procedure to add fade to black 
 
 It is the complete procedure that can help you add fade to black effects to the video. Some people are using these types of effects for different positions and places. The most important thing for the premier pro users is that they can put such an effect where they want. There’s nothing can be occurred as a big problem that can make everything difficult for the users. You can put such effects at the beginning of the video, in the ending or to join two different videos. It will work fine in all three situations. By using premiere pro, you can make things good in all conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 3 Tip: Add Fade To Black In Premiere Pro \[Alternative\]
 
 Filmora is the best video editor that can be useful in editing videos in several ways. It has a big library of built-in video effects. According to some records, it contains more than 500 effects. You can pick any of these effects to feature your videos and make things better.
@@ -304,12 +356,18 @@ Filmora is the best video editor that can be useful in editing videos in several
 
 ##### Step2 After adding the videos, you should the menu and options available in the top section. Here, you can see the ‘TRANSITION’ option. You need to click on it
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![ visit transition tab](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-3.png)
 
 ##### Step3 When you click the transition tab, you can see multiple options in the form of several effects. With these effects, you can see the search bar in the top-right corner of that particular section as well
 
 ##### Step4 You should search for FADE by using that search bar
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Choose fade](https://images.wondershare.com/filmora/article-images/2022/03/fade-to-black-4.png)
 
 ##### Step5 Searching for fade will lead to some options in front of you. Here, you need to go for fade option and drag it to the timeline. On the timeline, you should place it carefully and wise. You need to be careful with position of effect placement

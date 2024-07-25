@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Amateur to Expert  15 Must-Knows in TikTok Video Edits\""
-date: 2024-05-26T13:47:06.896Z
-updated: 2024-05-27T13:47:06.896Z
+date: 2024-07-24T22:45:08.184Z
+updated: 2024-07-25T22:45:08.184Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Amateur to Expert: 15 Must-Knows in TikTok Video Edits\""
 excerpt: "\"This Article Describes 2024 Approved: From Amateur to Expert: 15 Must-Knows in TikTok Video Edits\""
 keywords: "\"TikTok Editing Basics,Pro TikTok Edits,TikTok Advanced Techniques,Expert TikTok Tricks,Master TikTok Video Editing,Essential TikTok Edit Know-How,Professional TikTok Edit Guide\""
-thumbnail: https://www.lifewire.com/thmb/L9UqcBsFRcJDvJpVzehCn66w1ow=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87d13a642256000f5335eb2cc.jpg
 ---
 
 ## From Amateur to Expert: 15 Must-Knows in TikTok Video Edits
@@ -28,6 +28,9 @@ viral or not. Ready for the ride?
 
 Let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Create your Tik Tok account
 
 Step1Download and open the Tik Tok app on your Android or iPhone.
@@ -46,6 +49,9 @@ running the account, along with a biography that describes who you are, what you
 
 Afterwards, the last thing you need to do is confirm your phone number by entering a code y ou get by SMS or a code you get by email, so Tik Tok knows you are the creator of the account. We highly recommend completing this step because you might get a lot of restrictions if you don't confirm your account.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Make your first video
 
 Now that your Tik Tok account is set and ready to, it's time to start filming your first Tik Tok! Exciting, isn't it? It might look a little bit scary as your videos could be seen by millions of people, but the important thing is that you can practice as much as you can before shooting the real one. By doing this you are getting more
@@ -72,6 +78,9 @@ For people that hear less or more importantly, for everyone watching the videos 
 
 way down, using text over the screen is a savior for guiding the viewer throughout your video. People also like shopping on Tik Tok, finding inspiration for fashion, or product reviews, so sharing the products you know and love is ideal to gain traction!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Upload your video and optimize it
 
 A little tip we want to give you; if you can include anything controversial, that will always be beneficial. People
@@ -96,6 +105,9 @@ hashtags, one you should include for the best performance is #FYP so it lands on
 
 If your video has these aspects, you will inevitably get a lot more traffic coming your way!
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Promote it across social media
 
 Boom! Now your video is live on Tik Tok ready to be discovered! There's not much left to do from this point
@@ -110,6 +122,9 @@ new video! These statistics will also be shown as different traffic sources when
 
 Tok video.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Reply to comments
 
 People love commenting on random aspects of your video. You will be surprised what the eyes of the
@@ -126,6 +141,9 @@ really cool light behind your TV that is a LED strip, and everyone will ask wher
 
 you can do that in so many ways before making your video while you create your setup.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Consistency is key
 
 So now that our profile and videos are up and running, what is next? Well, consistency is the most

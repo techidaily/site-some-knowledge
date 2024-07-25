@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Scratch  Building a Lighthearted Image Meme\""
-date: 2024-05-26T15:45:48.162Z
-updated: 2024-05-27T15:45:48.162Z
+date: 2024-07-24T22:50:14.760Z
+updated: 2024-07-25T22:50:14.760Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Scratch: Building a Lighthearted Image Meme\""
 excerpt: "\"This Article Describes 2024 Approved: From Scratch: Building a Lighthearted Image Meme\""
 keywords: "Laughter Meme Creation,Humor Imagery Build,Easy Memes Crafting,Wholesome Comedy Art,Simple Meme Designs,Lighthearted Image Gags,Funny Picture Memetics"
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## From Scratch: Building a Lighthearted Image Meme
@@ -22,10 +22,16 @@ It only takes one amusing thing to find on the internet for your day to be insta
 
 Let’s start off!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. What exactly is a meme?
 
 A meme is an image that is passed around online and is accompanied by some form of writing. These memes typically offer sharp criticism on cultural icons, societal concepts, or current events. A meme is often an image or a video, although it can also take the form of a string of words in some cases. When a meme strikes a chord with a large number of people, it begins to circulate through various social platforms such as Twitter, Facebook, Instagram, messaging, and other methods. The more the number of times a meme is shared, the more of an impact it has on culture.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![grandpa meme image](https://images.wondershare.com/filmora/article-images/2022/11/grandpa-meme-image.jpg)
 
 ## 2\. When did memes become a thing online?
@@ -36,8 +42,14 @@ At one point in time, many believed that memes were nothing more than strange vi
 
 People's lives are becoming increasingly influenced by the internet and various forms of social media, which has coincided with the proliferation of memes in popular culture. Memes have evolved into the ideal medium for disseminating knowledge, comedic content, and political viewpoints as the amount of time spent online continues to rise. Memes have evolved from simple image changes made with the intention of making people laugh into rhetorical devices that are capable of spreading information to millions of people. As a result, memes have established themselves as one of the most important mediums in today's society. This is how the meme has progressed over time.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create an online meme](https://images.wondershare.com/filmora/article-images/2022/11/create-an-online-meme.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. How do you make a meme?
 
 It’s quite simple to create your own memes. All you need is a good picture of something, or someone expressing an emotion such a confusion, happiness, and think of a funny phrase people can relate to.
@@ -52,6 +64,9 @@ Step3 You may show your finished work to your coworkers or friends by saving and
 
 Memes are a fantastic way to communicate with friends, family, and coworkers. They're also really simple to create! No prior tool experience is necessary. Absolutely! Use [Filmora's](https://tools.techidaily.com/wondershare/filmora/download/) GIF function to quickly convert any video clip into an animated GIF meme that you can share with others.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Researching trending memes
 
 Through the years, many different styles of memes have come and gone. You don't want to rely on methods that have since become obsolete. Do some research to find out what's trending by looking through old memes. Also, pay attention to the memes that other people are posting wherever it is on the internet that you spend the majority of your time. It doesn't matter if it's Reddit, Facebook, Instagram, or Twitter.
@@ -64,6 +79,9 @@ You are now equipped with everything you require to begin creating hilarious mem
 
 If neither of these techniques works for you, another option is to use image editing software to generate new memes by uploading your own images or creating new memes from existing ones. When it comes to creating and distributing your very own memes, the number of options that are available to you is virtually limitless. Also, who knows, maybe you'll come up with the next meme that becomes popular!
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share your meme image](https://images.wondershare.com/filmora/article-images/2022/11/share-your-meme-image.jpg)
 
 ## Conclusion

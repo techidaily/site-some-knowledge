@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Incorporating Multimedia in School Curricula"
-date: 2024-05-26T14:41:46.067Z
-updated: 2024-05-27T14:41:46.067Z
+date: 2024-07-24T22:47:31.336Z
+updated: 2024-07-25T22:47:31.336Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes [Updated] Incorporating Multimedia in School Curricula"
 excerpt: "This Article Describes [Updated] Incorporating Multimedia in School Curricula"
 keywords: "School Media Integration,Multimedia Learning Courses,EdTech In Classrooms,Teaching with Visuals,Digital Curriculum Design,Interactive Education Tools,EduMedia Content Use"
-thumbnail: https://www.lifewire.com/thmb/aRH6vOV_0jBflE3kV0tZyaKc5sA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computergirl-5a4c08d45b6e24003798be4a.jpg
+thumbnail: https://thmb.techidaily.com/5e51a6387f9a892e242df734bd7d8aebcab09cf3323b4c96e24f50d5adccd843.jpg
 ---
 
 ## Incorporating Multimedia in School Curricula
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
@@ -37,16 +40,25 @@ The two options for sharing videos with your students are synchronous or asynchr
 
 Some schools find that synchronous videos are a great way to keep the students connected. But there's a problem with privacy issues nowadays, especially with the students if they are shown in synchronous videos and recorded. Make sure you need the student's permission to record the video. We don't also forget the internet connection issues of some students. Don't forget and take note of that.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**

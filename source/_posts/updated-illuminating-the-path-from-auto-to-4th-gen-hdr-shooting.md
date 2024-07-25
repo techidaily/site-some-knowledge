@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Illuminating the Path From Auto to 4Th Gen HDR Shooting"
-date: 2024-05-26T15:28:45.010Z
-updated: 2024-05-27T15:28:45.010Z
+date: 2024-07-24T22:49:33.520Z
+updated: 2024-07-25T22:49:33.520Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes [Updated] Illuminating the Path From Auto to 4Th Gen HDR Shooting"
 excerpt: "This Article Describes [Updated] Illuminating the Path From Auto to 4Th Gen HDR Shooting"
 keywords: "AutoToHDRShot,FourthGenHDR,DigitalPhotographyEvolution,4GHDRTechnology,TransitioningToHDR,FutureOfPhotography,HighDynamicRangeAdvancements"
-thumbnail: https://www.lifewire.com/thmb/xWg1yHDU11x4ZrjNTzzLWwJyEKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1005528904-7d476f41edcd46bb809080651f746d68.jpg
+thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b07f01ac5528173fed7156fb9.jpg
 ---
 
 ## Illuminating the Path From Auto to 4Th Gen HDR Shooting
 
 Computational photography has become increasingly popular in recent years, especially as smartphone cameras have improved in quality and stabilized image sensors have become more affordable for the average consumer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![different computational photography](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-1.jpg)
 
 Over time, we’ve seen the introduction of High Dynamic Range (HDR) imaging modes that use software algorithms to produce photographs with an extended range of brightness values, with smart HDR 3 and smart HDR 4 coming to market just this year.
@@ -65,8 +68,14 @@ In smart HDR 4 Apple offers improved night mode quality, end-to-end HDR video, s
 
 For example, a picture of the sun may show more detail in the cloudless sky while simultaneously preserving details in the shadows of buildings that would otherwise be too dark to see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart hdr 4](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Smart HDR 3 (iPhone 12)
 
 Apple's computational photography system "smart HDR 3" is available on iPhone 12\. The feature has been upgraded with a new algorithm to create more natural-looking images by removing some of the artifacts that have been found in previous iterations of the technology.
@@ -89,6 +98,9 @@ Smart HDR is embedded in the iPhone 11 and iPhone 11 Pro that promises to bring 
 * Smart HDR can vastly improve your photos without you doing anything different.
 * It seems to use both an image sensor and a depth map from its TrueDepth camera setup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![smart hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-4.jpg)
 
 ### Auto HDR (iPhone X)
@@ -105,6 +117,10 @@ This feature is designed to improve the quality of your photos by automatically 
 
 ![auto hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Should you Lookout for the HDR feature on iPhone 14?
 
 The rumor mill is generating leaks about a possible new 48 MP main sensor for the next-generation iPhone 14 Pro camera. Some features of this camera may include more-realistic colors and better low-light performance in addition to all of the other specs we have been hearing about recently.
@@ -115,6 +131,9 @@ If these rumors prove true, it’s possible that Apple will introduce an even mo
 * 8K video recording is a simple resolution bump for the Pro models. For example, if you record a 4K video at 30 frames per second (fps), then your videos playback at 15 fps when played back on an iPhone.
 * The selfie cameras of the iPhone 14 models will also receive a major upgrade. The new front-facing sensors are said to offer three times as many pixels. These pixels should help keep faces from looking distorted or pixilated while maintaining natural skin tones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final words
 
 Computational photography is a technique that takes advantage of the impressive processing power of modern smartphones to create stunning and persuasive pictures. The most common examples of this are the Auto HDR and Smart HDR modes found on many iPhones.
@@ -147,6 +166,9 @@ The table below shows different HDR and their details;
 | **Available on**              | iPhone 12 line, iPhone 13 line                                                                                             | iPhone 11 lineup and iPhone 12 lineup | iPhone Xs and later | iPhone X and newer |
 | **Photo types it works with** | smart HDR works with Portrait and Portrait Lighting modes, panoramic shots, bursts, frames in Live Photos and action shots | single high dynamic range (HDR) image |                     |                    |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Smart HDR 4 (iPhone 13)
 
 Apple's computational photography system smart HDR 4 is available on iPhone 13.
@@ -171,6 +193,9 @@ Apple's computational photography system "smart HDR 3" is available on iPhone 12
 
 In this, we can get A preview of the final image shown as you capture an image and can be used to remove distracting elements from a scene before taking a photo or video.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![smart hdr 3](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-3.jpg)
 
 ### Smart HDR (iPhone 11)
@@ -183,8 +208,14 @@ Smart HDR is embedded in the iPhone 11 and iPhone 11 Pro that promises to bring 
 * Smart HDR can vastly improve your photos without you doing anything different.
 * It seems to use both an image sensor and a depth map from its TrueDepth camera setup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![smart hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Auto HDR (iPhone X)
 
 Auto HDR is a feature in the camera of the iPhone X series that takes multiple pictures at different exposures and then combines them to create one well-exposed photo. One of the things that make the iPhone camera so great is computational photography.
@@ -209,6 +240,9 @@ If these rumors prove true, it’s possible that Apple will introduce an even mo
 * 8K video recording is a simple resolution bump for the Pro models. For example, if you record a 4K video at 30 frames per second (fps), then your videos playback at 15 fps when played back on an iPhone.
 * The selfie cameras of the iPhone 14 models will also receive a major upgrade. The new front-facing sensors are said to offer three times as many pixels. These pixels should help keep faces from looking distorted or pixilated while maintaining natural skin tones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Final words
 
 Computational photography is a technique that takes advantage of the impressive processing power of modern smartphones to create stunning and persuasive pictures. The most common examples of this are the Auto HDR and Smart HDR modes found on many iPhones.

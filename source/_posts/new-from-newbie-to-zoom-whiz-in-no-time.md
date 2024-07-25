@@ -1,7 +1,7 @@
 ---
 title: "[New] From Newbie to Zoom Whiz in No Time"
-date: 2024-06-27T06:26:04.495Z
-updated: 2024-06-28T06:26:04.495Z
+date: 2024-07-24T22:46:58.258Z
+updated: 2024-07-25T22:46:58.258Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,9 @@ Next, under "My Video" click "touch up my appearance." This will add a slider yo
 
 ![touch up my appearance zoom](https://images.wondershare.com/filmora/article-images/2022/11/touch-up-my-appearance-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Adjust for Low Light
 
 Not everyone has a ring light, but nearly every scene could benefit from the low light adjustment. This uses AI technology to boost the light making a better quality recording in the vast majority of situations.
@@ -57,17 +60,35 @@ Not everyone has a ring light, but nearly every scene could benefit from the low
 
 People tend to underestimate the power of good lighting in improving your video quality. Not only is brighter usually better when it comes to lighting but if you record with better light, it gives you more options for adjusting the video quality later on in post-production.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Optimize Video Quality
 
 Under the advanced settings, there is a toggle called "Optimize video quality with de-noise." Make sure this is toggled on. This uses AI software-based noise removal to help improve the video quality.
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![optimize video quality zoom](https://images.wondershare.com/filmora/article-images/2022/11/optimize-video-quality-zoom.jpg)
 
 ## Use a USB mic
 
 Have you ever seen a video with really poor sound quality? It makes a huge difference in how you judge the quality of that video. So if you have a USB mic, use that instead of the built-in microphone. Viewers will subconsciously judge the quality of the video not only on video quality, but also on sound quality. It makes a massive difference to the final video recording.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use a Virtual Background
 
 A cluttered background is never ideal in videos. That's why the rage on YouTube is to use a camera (Like the Canon M50 for example) that naturally provides a bokeh effect, which is a gentle blurring of the background.
@@ -77,6 +98,9 @@ The reason this is so critical is it helps the viewer focus on what is important
 So Under "Backgrounds & Effects" choose a virtual background, or the "blur" option to help improve your source video.
 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use virtual background zoom](https://images.wondershare.com/filmora/article-images/2022/11/use-virtual-background-zoom.jpg)
 
 ## Be aware of the different views during your meeting
@@ -97,14 +121,23 @@ Webcams can pick up dust and oil from time to time. So before important recordin
 
 I use the same type of cloth that I use for cleaning my eyeglasses. Keep it simple and clean!
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upgrade your camera
 
 You can add a better webcam or even a mirrorless camera, like the Canon M50 that is popular with YouTubers as a webcam input. Once you have added the camera, you can select which webcam you want to use from the dropdown menu.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Organize your Zooms
 
 If you do use your Zooms in your video editing, I would recommend renaming the video file or Zoom folder after your meeting. This doesn't affect the video quality, but it sure allows the experience of video editing to go much smoother when you know exactly which file you are looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final bonus tip
 
 Remember, bring energy to what you say. Good energy will raise the quality of ANY video recording. It doesn't matter if you are giving a lecture, teaching on your Zoom, or giving a sales pitch. Energy is what makes video impactful.

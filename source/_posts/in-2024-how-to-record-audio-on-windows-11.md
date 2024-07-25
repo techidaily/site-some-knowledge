@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How To Record Audio on Windows 11?"
-date: 2024-05-26T14:34:50.331Z
-updated: 2024-05-27T14:34:50.331Z
+date: 2024-07-24T22:47:14.133Z
+updated: 2024-07-25T22:47:14.133Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, How To Record Audio on Windows 11?"
 excerpt: "This Article Describes In 2024, How To Record Audio on Windows 11?"
 keywords: "Windows Audio Recording Guide,Windows 11 Sound Capture Steps,Win11 Audio Recording Tips,Windows 11 Record Audio Methods,Simple Audio Recording Win11,Capturing Windows 11 Sounds,Audio Recording on Windows 11"
-thumbnail: https://www.lifewire.com/thmb/PTOl8qq0hm6Z663-oktfeCDHt_A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Geofence_ODonnell-56a6a55d3df78cf7728f9121.jpg
+thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5292de883673cace9e11db92.jpg
 ---
 
 ## How To Record Audio on Windows 11?
@@ -34,10 +34,21 @@ Even though there are limited features available in comparison to other audio re
 
 ****Step 2:** Open Voice Recorder app opens, click on Record(microphone) button. Alternatively, you can press Ctrl + R together to start recording when you are ready.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 ****Step 3:** Click on Stop button to stop the recording. Alternatively, you can use Spacebar or Enter key to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![stop button](https://images.wondershare.com/filmora/article-images/stop-button.jpg)
 
 The recorded audio will be saved automatically in Documents under Sound Recordings folder.
@@ -56,8 +67,14 @@ Audacity is a completely free audio recording software for Windows 10\. Audacity
 
 ****Step 4:** To stop recording, click on Black Stop button. Go to File > Export As to save the file in desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![black stop button](https://images.wondershare.com/filmora/article-images/black-stop-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Quick Sound Recorder Free
 
 Quick Sound Recorder is a no non-sense Windows 10 audio record app. It is completely free and super simple to use. You can record and save the audio in MP3 file format. It organizes the recording in its library so that you can find them easily and play to listen to them any time. There is an option to share the recordings through email as well as upload them to SkyDrive. Here are the steps for recording sound Windows 10 with Quick Sound Recorder Free app.
@@ -66,6 +83,9 @@ Step 1: Go to Microsoft Store and install Quick Sound Recorder Free app.
 
 Step 2: Open the app and click on Microphone icon to start recording instantly. You will see the timer showing the recording time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the recording time](https://images.wondershare.com/filmora/article-images/the-recording-time.jpg)
 
 Step 3: To stop recording, click on Stop button and save the recording in MP3 file.
@@ -80,12 +100,18 @@ Step 1: Open Adobe Audition and go to File > New > Multi-track Session. A pop-up
 
 Step 2: Click on R icon to arm all the tracks.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on r icon](https://images.wondershare.com/filmora/article-images/click-on-r-icon.jpg)
 
 Step 3: and then click on Recording button on the Record panel to start recording.
 
 Step 4: To stop recording, click on Stop button on the Record panel.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. [Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you want to record audio with video on Widows 10, Wondershare Filmora is the audio recording software for Windows 10\. This is useful for those who want to record webcam video while recording through an external microphone. You can also record anything playing on your computer such as a music video. Here are the steps to record audio on Windows 10 with Filmora.
@@ -102,6 +128,31 @@ Step 1: Launch Filmora and select New Project option.
 
 Step 2: From Record menu, go to Record Voiceover option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: From the pop-up box, select the external microphone. Click on Record button to start recording.
+
+Step 4: When you are done, click on Stop button and export the recorded audio in MP3 format.
+
+## Conclusion
+
+We have how to record audio on Windows 10 using free as well as premium software. If you want to record your voice right away, you should use Windows Voice Recorder app that comes preinstalled. You can even install Quick Sound Recorder Free app instantly and start recording. For professional-level recording, Audacity and Adobe Audition are perfect. But Wondershare Filmora stands out for audio as well as video recording and editing in Windows 10.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Launch Filmora and select New Project option.
+
+Step 2: From Record menu, go to Record Voiceover option.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 3: From the pop-up box, select the external microphone. Click on Record button to start recording.
@@ -138,24 +189,9 @@ Step 1: Launch Filmora and select New Project option.
 
 Step 2: From Record menu, go to Record Voiceover option.
 
-![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: From the pop-up box, select the external microphone. Click on Record button to start recording.
-
-Step 4: When you are done, click on Stop button and export the recorded audio in MP3 format.
-
-## Conclusion
-
-We have how to record audio on Windows 10 using free as well as premium software. If you want to record your voice right away, you should use Windows Voice Recorder app that comes preinstalled. You can even install Quick Sound Recorder Free app instantly and start recording. For professional-level recording, Audacity and Adobe Audition are perfect. But Wondershare Filmora stands out for audio as well as video recording and editing in Windows 10.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Launch Filmora and select New Project option.
-
-Step 2: From Record menu, go to Record Voiceover option.
-
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 3: From the pop-up box, select the external microphone. Click on Record button to start recording.

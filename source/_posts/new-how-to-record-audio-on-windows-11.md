@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Record Audio on Windows 11?"
-date: 2024-05-26T13:27:01.667Z
-updated: 2024-05-27T13:27:01.667Z
+date: 2024-07-24T22:44:17.672Z
+updated: 2024-07-25T22:44:17.672Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] How To Record Audio on Windows 11?"
 excerpt: "This Article Describes [New] How To Record Audio on Windows 11?"
 keywords: "Windows Audio Recording Guide,Windows 11 Sound Capture Steps,Win11 Audio Recording Tips,Windows 11 Record Audio Methods,Simple Audio Recording Win11,Capturing Windows 11 Sounds,Audio Recording on Windows 11"
-thumbnail: https://www.lifewire.com/thmb/-13rMvdkURwR3PaoUhxB_pOt-MM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iPad-vs-iPad-Air-b2422f32687d4fab97c8e04f395b63e2.jpg
+thumbnail: https://thmb.techidaily.com/a1972899444c7fd6c447adfaf7d10b9ab8c7ebd024be2fc74b2760fa4d84aacb.jpg
 ---
 
 ## How To Record Audio on Windows 11?
@@ -24,6 +24,9 @@ There are times when we want to record our voice on our computer for future refe
 
 A versatile sound recorder Windows 10 can capture audio from external audio devices such as an external microphone. In fact, there are some audio recorders available that can record any audio playing on your computer such as recording from online audio and video streaming platforms. In this article, we are listing down the top 5 best audio recorder software Windows 10 that you can use for recording your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 1\. Windows Voice Recorder
 
 Recording audio on Windows 10 is easy with Windows Voice Recorder app that comes preinstalled on Windows 10\. It is a simple and easy to use application to quickly record any audio playing on your computer.
@@ -34,14 +37,23 @@ Even though there are limited features available in comparison to other audio re
 
 ****Step 2:** Open Voice Recorder app opens, click on Record(microphone) button. Alternatively, you can press Ctrl + R together to start recording when you are ready.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 ****Step 3:** Click on Stop button to stop the recording. Alternatively, you can use Spacebar or Enter key to stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stop button](https://images.wondershare.com/filmora/article-images/stop-button.jpg)
 
 The recorded audio will be saved automatically in Documents under Sound Recordings folder.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Audacity
 
 Audacity is a completely free audio recording software for Windows 10\. Audacity is used by professionals to record music and songs. You can record audio from microphone and mixer. You can edit the recording and crisp it proper so that you can share and publish it on different platforms. In fact, Audacity lets you save the recording in different file formats so that you can play and use it on different platforms. Here are the steps for Win 10 record audio with Audacity.
@@ -66,6 +78,10 @@ Step 1: Go to Microsoft Store and install Quick Sound Recorder Free app.
 
 Step 2: Open the app and click on Microphone icon to start recording instantly. You will see the timer showing the recording time.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![the recording time](https://images.wondershare.com/filmora/article-images/the-recording-time.jpg)
 
 Step 3: To stop recording, click on Stop button and save the recording in MP3 file.
@@ -76,6 +92,9 @@ Adobe Audition is Windows 10 audio recording software for professionals. There a
 
 Step 1: Open Adobe Audition and go to File > New > Multi-track Session. A pop-up box will appear where you can change bit rate, sample rate, destination folder and others. Click on Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![open adobe audition](https://images.wondershare.com/filmora/article-images/open-adobe-audition.jpg)
 
 Step 2: Click on R icon to arm all the tracks.
@@ -108,6 +127,9 @@ Step 3: From the pop-up box, select the external microphone. Click on Record but
 
 Step 4: When you are done, click on Stop button and export the recorded audio in MP3 format.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have how to record audio on Windows 10 using free as well as premium software. If you want to record your voice right away, you should use Windows Voice Recorder app that comes preinstalled. You can even install Quick Sound Recorder Free app instantly and start recording. For professional-level recording, Audacity and Adobe Audition are perfect. But Wondershare Filmora stands out for audio as well as video recording and editing in Windows 10.
@@ -144,6 +166,18 @@ Step 3: From the pop-up box, select the external microphone. Click on Record but
 
 Step 4: When you are done, click on Stop button and export the recorded audio in MP3 format.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have how to record audio on Windows 10 using free as well as premium software. If you want to record your voice right away, you should use Windows Voice Recorder app that comes preinstalled. You can even install Quick Sound Recorder Free app instantly and start recording. For professional-level recording, Audacity and Adobe Audition are perfect. But Wondershare Filmora stands out for audio as well as video recording and editing in Windows 10.
@@ -156,12 +190,18 @@ Step 1: Launch Filmora and select New Project option.
 
 Step 2: From Record menu, go to Record Voiceover option.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 3: From the pop-up box, select the external microphone. Click on Record button to start recording.
 
 Step 4: When you are done, click on Stop button and export the recorded audio in MP3 format.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have how to record audio on Windows 10 using free as well as premium software. If you want to record your voice right away, you should use Windows Voice Recorder app that comes preinstalled. You can even install Quick Sound Recorder Free app instantly and start recording. For professional-level recording, Audacity and Adobe Audition are perfect. But Wondershare Filmora stands out for audio as well as video recording and editing in Windows 10.

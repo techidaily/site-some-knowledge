@@ -1,7 +1,7 @@
 ---
 title: "\"[New] GPS Companions  Top 10 Drones That Stay Close\""
-date: 2024-05-26T13:51:17.949Z
-updated: 2024-05-27T13:51:17.949Z
+date: 2024-07-24T22:45:19.285Z
+updated: 2024-07-25T22:45:19.285Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [New] GPS Companions: Top 10 Drones That Stay Close\""
 excerpt: "\"This Article Describes [New] GPS Companions: Top 10 Drones That Stay Close\""
 keywords: "Drone Buddies,GPS Drones,TOP Drones,Closest UAVs,Proximity Drones,Stay Close Drones,Top Drones Guide"
-thumbnail: https://www.lifewire.com/thmb/KTAZAQNAYZb70h8sHPRLDWgojwg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/cebit-2012-technology-trade-fair-140705980-583a92d05f9b58d5b1136c37.jpg
+thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4ea5d9637c925f68f1f756db1.jpg
 ---
 
 ## GPS Companions: Top 10 Drones That Stay Close
 
 # Top 10 GPS Drones That Follow You
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -153,6 +156,18 @@ thumbnail: https://www.lifewire.com/thmb/KTAZAQNAYZb70h8sHPRLDWgojwg=/400x300/fi
 
 #### 6. Hexo+: ($999)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hexo+](https://images.wondershare.com/filmora/article-images/hexo+.jpg)
 
  This drone unit does not have cameras inside package but it compatible with GoPro devices. Its compact design make it suitable for adventure sports needs but price range is more as compared to other drones offering great facilities.
@@ -218,6 +233,9 @@ thumbnail: https://www.lifewire.com/thmb/KTAZAQNAYZb70h8sHPRLDWgojwg=/400x300/fi
 
 #### 10. Hover's Passport: ($599)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
 
  This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
@@ -432,6 +450,9 @@ Follow @Max Wales
 
 #### 10. Hover's Passport: ($599)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
 
  This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
@@ -442,6 +463,9 @@ Follow @Max Wales
 * Maximum flight time is 10 minutes only.
 * It serves with 20 meter control range.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -646,6 +670,9 @@ Follow @Max Wales
 
 #### 10. Hover's Passport: ($599)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
 
  This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
@@ -672,6 +699,9 @@ Follow @Max Wales
 
 **Updated:** Now, DJI offers you another choice - [DJI Spark](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 10 GPS Drones that Follow You
 
  Click the name of drone to locate the detailed introduction
@@ -807,6 +837,9 @@ Follow @Max Wales
 
 #### 7. Yuneec H: ($1299)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yuneec h](https://images.wondershare.com/filmora/article-images/yuneec-h.jpg)
 
  It's a powerful six motor type drone unit that is designed to serve for impressive videography and photography needs. It comes with many intelligent flight modes, integrated autonomous flight mode, Journey Mode, Point of Interest Mode, Orbit Me, All in One controller and Team Mode.
@@ -860,6 +893,9 @@ Follow @Max Wales
 
 #### 10. Hover's Passport: ($599)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hover's passport](https://images.wondershare.com/filmora/article-images/hover-s-passport.jpg)
 
  This durable and powerful drone is designed with ultra lightweight technology and its compact design is powered up with Qualcomm Snapdragon Flight Platform. You can always ensure smooth and clear footage with this device.
@@ -870,6 +906,9 @@ Follow @Max Wales
 * Maximum flight time is 10 minutes only.
 * It serves with 20 meter control range.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales

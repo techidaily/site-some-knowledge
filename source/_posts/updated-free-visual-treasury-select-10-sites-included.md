@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Free Visual Treasury – Select 10 Sites Included"
-date: 2024-05-26T14:17:37.990Z
-updated: 2024-05-27T14:17:37.990Z
+date: 2024-07-24T22:46:28.093Z
+updated: 2024-07-25T22:46:28.093Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Free Visual Treasury – Select 10 Sites Included"
 excerpt: "This Article Describes [Updated] Free Visual Treasury – Select 10 Sites Included"
 keywords: "Free VT Guide,Top 10 VisualTreasurySites,FREE Visual TreasureHub,ExclusiveVT10Places,Visual TreasurySiteList,SelectFreeVTTop10,VisionaryTreasureSelection"
-thumbnail: https://www.lifewire.com/thmb/AH9mqPzoPDVMP3GVRyEpC5WN6uM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/yandex_eng_logo-56a289a13df78cf772774ad4.png
+thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499dd05b4708d5bc6f8d46016ec.png
 ---
 
 ## Free Visual Treasury – Select 10 Sites Included
@@ -26,6 +26,9 @@ We've gathered ten of our favorite sites where you can find free images—and th
 
 ## 1\. [Pexels](https://www.pexels.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pexels](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-01.JPG)
 
 Pexels is one of the largest free stock photo sites online. The site has over 500,000 high-quality images, and all photos on Pexels are free for commercial use. All photos on Pexels are licensed under Creative Commons Zero (CC0), which means you can use them in your work without asking permission or giving attribution.
@@ -42,6 +45,10 @@ Unsplash was founded in 2011 by Mikael Cho (who also co-founded Crew) to create 
 
 Today Unsplash has grown into one of the most popular free stock photo sites, with over 15 million monthly users worldwide.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 3\. [Kaboompics](https://kaboompics.com/)
 
 ![kaboompics](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-03.JPG)
@@ -50,14 +57,28 @@ Kaboompics is a free stock photo site that offers a good selection of images. Th
 
 Kaboompics also has a "free commercial" section which provides more than 1 million images for your commercial projects without any restrictions or attribution required.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 4\. [Pixabay](https://pixabay.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![pixabay](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-04.JPG)
 
 Pixabay is one of the most popular websites for free images. It has a wide range of photos from different photographers and categories, so it's easy to find an image that could fit your needs.
 
 The site is easy to navigate and searchable by keyword or category. You can also browse by "popular" images, which will show you what other people are looking at on Pixabay at any given time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. [Snappa](https://snappa.com/)
 
 ![snappa](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-05.JPG)
@@ -68,14 +89,24 @@ The site has an extensive library of free stock photos, vectors, mockups, and te
 
 It can be a little hard to find exactly what you're looking for as there are so many options; if you have trouble finding what you want in Snappa's search engine, try clicking on one of the categories listed above to narrow it down some more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. [Freerange](https://freerangestock.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![freerange](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-06.JPG)
 
 Freerange is a photo agency that offers free and premium photos.
 
 The site has a wide range of subjects, including nature, animals, food, etc. Photos are high-quality, royalty-free images you can use commercially if you choose.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. [Shutterstock Collection](https://www.shutterstock.com/)
 
 ![shutterstocks collection](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-07.JPG)
@@ -92,8 +123,14 @@ Morguefile is a free photo archive founded in 1996, during the early days of the
 
 Here, you can find free, high-resolution digital stock photos for business or public use. The images are available in various formats and high quality to meet the needs of various scenarios, such as cartoonists, comic book artists, designers, educators, and all creative arts.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. [Dreamstime Images](https://www.dreamstime.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dreamstime images](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-09.JPG)
 
 Dreamstime is a stock photography website with over 20 million images. It allows you to search for images by keyword, color, and style. Dreamstime also offers thousands of different licenses, from $1 to $50 per image.

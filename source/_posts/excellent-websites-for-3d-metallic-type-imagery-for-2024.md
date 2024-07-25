@@ -1,7 +1,7 @@
 ---
 title: "Excellent Websites for 3D Metallic Type Imagery for 2024"
-date: 2024-05-26T14:10:36.563Z
-updated: 2024-05-27T14:10:36.563Z
+date: 2024-07-24T22:46:11.260Z
+updated: 2024-07-25T22:46:11.260Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Excellent Websites for 3D Metallic Type Imagery for 2024"
 excerpt: "This Article Describes Excellent Websites for 3D Metallic Type Imagery for 2024"
 keywords: "\"Metal Type Imagery Sites,3D Metal Type Designs,3D Metallic Type Artwork,High-Quality Type Imagery Web,Modern 3D Type Graphics,Custom Type 3D Creation,Premium Type Imaging Online\""
-thumbnail: https://www.lifewire.com/thmb/opH7upWSEou2mQx87JL3gnVYbO0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/slingtv-5a0a0a55845b34003bd44484.jpg
+thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b074d81c3008e2f891a827245d.jpg
 ---
 
 ## Excellent Websites for 3D Metallic Type Imagery
@@ -37,6 +37,9 @@ Are you ready? Let's find out:
 
 * [How to Edit Text Effects in Video?](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Recommendation - 8 websites to find 3D gold text
 
 Below mentioned are the 8 best websites to find 3D gold text:
@@ -68,6 +71,18 @@ Step1 Open the FreePik website.
 
 Step2 Search for **“3D Gold Text”** in the search bar, and a number of options will appear.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![finding 3d gold text effect freepik](https://images.wondershare.com/filmora/article-images/finding-3d-gold-text-effect-freepik.png)
 
 Step3 **Download** the best option according to your requirement.
@@ -79,6 +94,14 @@ Step3 **Download** the best option according to your requirement.
 * Rude support staff.
 * Restrictions are applicable even for paid users to download only 100 resources per day.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### 2\. [Behancē](https://www.behance.net/)
 
 Behancē is another superb tool from which you can get 3D gold text effects, cinematic texts, and mockups. It's a child company of Adobe. The platform gives a chance to hard-working creators from all over the world to upload their work, get connected to other designers and employers, and maybe land a deal.
@@ -111,6 +134,9 @@ Step2 Search **“3D Gold Text”** in the search bar.
 
 Step3 Check for a link. If the link is free, you just proceed to the **Download** option.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![downloading 3d gold text behance](https://images.wondershare.com/filmora/article-images/downloading-3d-gold-text-behance.png)
 
 **Resource Richness**
@@ -123,10 +149,18 @@ Behancē is the only place where you'll find some of the best creators in the wh
 * Even if the download link is free, you'll have to sign up on various sites.
 * The premium content requires a subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 3\. [Vecteezy](https://www.vecteezy.com/)
 
 Vecteezy is a genuine resource for finding 3D gold text effects for videos, stock photos, vector images, icons, videos, and illustrations. You can get high-quality graphic material for creating amazing websites and other marketing products.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![3d gold text behance vecteezy](https://images.wondershare.com/filmora/article-images/3d-gold-text-behance-vecteezy.png)
 
 **Pricing**
@@ -168,6 +202,9 @@ Vecteezy supports multiple formats so that the artwork can be used in a variety 
 
 Envato Elements is an awesome website that possesses billions of quality artwork, including 3D gold text effects, audio and video clips, multi-dimensional graphics, WordPress themes, design templates, sound effects, plugins, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![envato elements 3d gold text effects](https://images.wondershare.com/filmora/article-images/Envato-Elements-3d-gold-text-effects.png)
 
 **Pricing**
@@ -190,6 +227,9 @@ Step1 Open the Envato Elements website.
 
 Step2 Search **“3D gold text”** in the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![searching 3d gold text effects envanto elements](https://images.wondershare.com/filmora/article-images/searching-3d-gold-text-effects-envanto-elements.png)
 
 Step3 Click **“Subscribe to download,”** fill in the necessary details, and you're done!
@@ -207,6 +247,9 @@ Envato Element is constantly being updated with high-quality artwork daily. More
 * The original copyright remains with the creator.
 * You can't use an asset on your personalized merchandise.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 5\. [Hyperpix](https://hyperpix.net/)
 
 Hyperpix is a superb website for free and premium 3D gold text effects for videos, mockups, cinematic effects, and cartoon effects. There's a separate portion for free members, and the collection is pretty vast.
@@ -246,6 +289,9 @@ Step3 **Download** the free or paid content.
 
 Pikbest is a massive resource for downloading epic 3D models, 3D gold text effects, illustrations, PNG images, presentations, audio and video files, background images, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pikbest 3d gold text effect](https://images.wondershare.com/filmora/article-images/pikbest-3d-gold-text-effect.png)
 
 **Pricing**
@@ -267,10 +313,16 @@ Step1 Open the Pikbest website.
 
 Step2 Search **“3D gold text”** in the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![searching 3d gold text effect pikbest](https://images.wondershare.com/filmora/article-images/searching-3d-gold-text-effect-pikbest.png)
 
 Step3 Select the **Free download** or **Personal Premium** download option and **download.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![downloading 3d gold text effect pikbest](https://images.wondershare.com/filmora/article-images/downloading-3d-gold-text-effect-pikbest.png)
 
 **Resource Richness**
@@ -286,6 +338,9 @@ Daily, more than 1,000 graphic materials, including 3D gold text effects, are up
 
 Graphicriver, part of Envato Elements, is an excellent place for creators to download 3D gold text effects, fonts, logos, web elements, print elements, vector images, and presentations for using them in videos. It's an affordable website for freelancers and has a very basic UI that makes it easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![graphicriver 3d gold text effect](https://images.wondershare.com/filmora/article-images/graphicriver-3d-gold-text-effect.png)
 
 **Pricing**
@@ -321,10 +376,16 @@ Graphicriver was once considered to be the best in the business. However, the cr
 * The library is shrinking.
 * The end quality of 3D gold effects is sometimes very poor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. [PNGTree](https://pngtree.com/)
 
 PNGTree is last on our list, which provides 3D gold text effects, PNG images, templates, PowerPoint presentations, and illustrations for extremely minimal charges.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3d gold text PNGTree](https://images.wondershare.com/filmora/article-images/3d-gold-text-PNGTree.png)
 
 **Pricing**
@@ -349,6 +410,9 @@ Step2 Search **“3D gold text”** in the search bar.
 
 Step3 Click on **“Download.”**
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![downloading 3d gold text PNGTree](https://images.wondershare.com/filmora/article-images/downloading-3d-gold-text-PNGTree.png)
 
 **Limitations**
@@ -379,6 +443,9 @@ Step2 Select the **Project Media** folder, import your video, and drag a clip on
 
 Step3 Choose a text effect template, drop it in the timeline, and position the text layer in the video. Finally, click **“Viewer,”** adjust the text effect on the clip, select the text layer, and simply enter your text words.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![editing text effects in video filmora](https://images.wondershare.com/filmora/guide/edit-text-effects.png)
 
 ## Conclusion
@@ -393,6 +460,9 @@ Recommendation - 8 websites to find 3D gold text
 
 Below mentioned are the 8 best websites to find 3D gold text:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. [FreePik](https://www.freepik.com/)
 
 FreePik is one of the best websites to find breathtaking 3D gold text. You'll come across umpteenth catchy designs, including vectors, icons, fonts, wallpapers, background images, illustrations, and much more.
@@ -431,10 +501,16 @@ Step3 **Download** the best option according to your requirement.
 * Rude support staff.
 * Restrictions are applicable even for paid users to download only 100 resources per day.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. [Behancē](https://www.behance.net/)
 
 Behancē is another superb tool from which you can get 3D gold text effects, cinematic texts, and mockups. It's a child company of Adobe. The platform gives a chance to hard-working creators from all over the world to upload their work, get connected to other designers and employers, and maybe land a deal.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![behance 3d gold text effects](https://images.wondershare.com/filmora/article-images/Behance-3d-gold-text-effects.png)
 
 The creators can give a free link or paid link to download their content.
@@ -475,6 +551,9 @@ Behancē is the only place where you'll find some of the best creators in the wh
 * Even if the download link is free, you'll have to sign up on various sites.
 * The premium content requires a subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. [Vecteezy](https://www.vecteezy.com/)
 
 Vecteezy is a genuine resource for finding 3D gold text effects for videos, stock photos, vector images, icons, videos, and illustrations. You can get high-quality graphic material for creating amazing websites and other marketing products.
@@ -516,6 +595,9 @@ Vecteezy supports multiple formats so that the artwork can be used in a variety 
 * A limited number of downloads are available per day for free users.
 * The selection of stock photos is pretty scanty.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [Envato Elements](https://elements.envato.com/)
 
 Envato Elements is an awesome website that possesses billions of quality artwork, including 3D gold text effects, audio and video clips, multi-dimensional graphics, WordPress themes, design templates, sound effects, plugins, etc.
@@ -546,6 +628,9 @@ Step2 Search **“3D gold text”** in the search bar.
 
 Step3 Click **“Subscribe to download,”** fill in the necessary details, and you're done!
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![finding 3d gold text effects envanto elements](https://images.wondershare.com/filmora/article-images/finding-3d-gold-text-effects-envanto-elements.png)
 
 **Resource Richness**
@@ -559,10 +644,18 @@ Envato Element is constantly being updated with high-quality artwork daily. More
 * The original copyright remains with the creator.
 * You can't use an asset on your personalized merchandise.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### 5\. [Hyperpix](https://hyperpix.net/)
 
 Hyperpix is a superb website for free and premium 3D gold text effects for videos, mockups, cinematic effects, and cartoon effects. There's a separate portion for free members, and the collection is pretty vast.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hyperpix 3d gold text](https://images.wondershare.com/filmora/article-images/hyperpix-3d-gold-text.png)
 
 **Pricing**
@@ -594,6 +687,9 @@ Step3 **Download** the free or paid content.
 * Refunds are not processed immediately.
 * The free library is minimal.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. [Pikbest](https://pikbest.com/)
 
 Pikbest is a massive resource for downloading epic 3D models, 3D gold text effects, illustrations, PNG images, presentations, audio and video files, background images, and more.
@@ -634,6 +730,10 @@ Daily, more than 1,000 graphic materials, including 3D gold text effects, are up
 * For free download, you'll have to give attributions.
 * Free material is not available to use commercially.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### 7\. [GraphicRiver](https://graphicriver.net/)
 
 Graphicriver, part of Envato Elements, is an excellent place for creators to download 3D gold text effects, fonts, logos, web elements, print elements, vector images, and presentations for using them in videos. It's an affordable website for freelancers and has a very basic UI that makes it easy to use.
@@ -661,6 +761,9 @@ Step2 Search **“3D gold text”** in the search bar.
 
 Step3 Click on **“Buy Now,”** sign up for an account, enter payment details, and that's about it!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![buying 3d gold text effect graphicriver](https://images.wondershare.com/filmora/article-images/buying-3d-gold-text-effect-graphicriver.png)
 
 **Resource Richness**
@@ -727,10 +830,16 @@ Step1 Down Wondershare Filmore on your PC, launch it, and click **“New Project
 
 Step2 Select the **Project Media** folder, import your video, and drag a clip on the timeline. Next, click **“Titles”** on the top, and view text effects categories in the left pane.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![viewing text effects filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Choose a text effect template, drop it in the timeline, and position the text layer in the video. Finally, click **“Viewer,”** adjust the text effect on the clip, select the text layer, and simply enter your text words.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![editing text effects in video filmora](https://images.wondershare.com/filmora/guide/edit-text-effects.png)
 
 ## Conclusion

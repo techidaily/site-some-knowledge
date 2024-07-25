@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Humble Beginnings  Building a Brand on Reddit\""
-date: 2024-05-26T13:36:09.332Z
-updated: 2024-05-27T13:36:09.332Z
+date: 2024-07-24T22:44:41.609Z
+updated: 2024-07-25T22:44:41.609Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Humble Beginnings: Building a Brand on Reddit\""
 excerpt: "\"This Article Describes In 2024, From Humble Beginnings: Building a Brand on Reddit\""
 keywords: "Brand Reddit Startup,Reddit Brand Growth,Rising Reddit Brands,Rebranding on Reddit,Build Brand Reddit,Humble Reddit Branding,Starting a Brand Reddit"
-thumbnail: https://www.lifewire.com/thmb/iCNb1aLtBF6gQQ80UfUfRfFcn0Y=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg
 ---
 
 ## From Humble Beginnings: Building a Brand on Reddit
@@ -24,10 +24,25 @@ Luckily, both reasons require the same strategy to see success. However, it take
 
 This guide covers everything from what to post to how to post and crucial factors that will help your content skyrocket as fast as possible.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Post on Reddit?
 
 First, let's go over the technical part of the process- How to post on Reddit, both on Desktop and mobile?
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Post on Desktop
 
 To post anything on Reddit, first, you need an account. Click on Sign Up and create your account.
@@ -40,6 +55,9 @@ Step1 Go to reddit.com and click on "Create Post"
 
 Step2 Then, choose a community to post in. This is also known as a subreddit
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select subreddit to post](https://images.wondershare.com/filmora/article-images/2023/01/choose-community.png)
 
 Step3 Next, type in your title and write your message below
@@ -56,6 +74,9 @@ When you're done creating your post, scroll down and click "Post." It will immed
 
 If nothing is violating the [subreddit's guidelines](#%5FSubreddits), the mods will let it sit there without removing it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Post on Mobile App
 
 Once again, you need a Reddit account from the mobile app before anything else. Then, open the app and do the following:
@@ -66,6 +87,9 @@ Step1 Click on the "+" button at the bottom of your screen
 
 Step2 Add your title, message, images, links, and anything else you may want
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![type in title on reddit post](https://images.wondershare.com/filmora/article-images/2023/01/reddit-post-title.PNG)
 
 Step3 Click on Next from the top-right corner of the screen
@@ -78,6 +102,9 @@ Step5 Check if everything looks good, add the appropriate tags
 
 Step6 Hit Post
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Essential Tips That WILL Help You When Posting on Reddit
 
 Reddit, like any platform, has its own rules. Its algorithm that, when followed, rewards you with excellent results.
@@ -94,6 +121,9 @@ Some important rules to follow:
 * You must post relevant content in each subreddit. For example, if you want to post something related to food, you should find a subreddit related to food, e.g., r/food.
 * Most subreddits have their own rules and guidelines within. This is usually displayed on the right-hand side of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Reddiquettes
 
 Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
@@ -132,6 +162,9 @@ The only way to get good and learn how to post on Reddit is with practice. So, u
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The only way to get good and learn how to post on Reddit is with practice. So, use the things you learned here to achieve better results. And keep posting and stay consistent. It will all pay off in the end.

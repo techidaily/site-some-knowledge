@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fourfold Precision in Color Capture with Blade Cameras"
-date: 2024-05-26T13:08:03.471Z
-updated: 2024-05-27T13:08:03.471Z
+date: 2024-07-24T22:43:28.644Z
+updated: 2024-07-25T22:43:28.645Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/rmSx-XYcR5Vq_kGP7sLs6Bi3Lmk=/400x300/fi
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
@@ -63,12 +66,19 @@ thumbnail: https://www.lifewire.com/thmb/rmSx-XYcR5Vq_kGP7sLs6Bi3Lmk=/400x300/fi
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
 
 #### 4\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
@@ -108,6 +118,9 @@ Follow @Max Wales
 
  Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Complete Review for Blade Chroma Drone
 
  With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
@@ -124,12 +137,18 @@ Follow @Max Wales
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
 
 #### 4\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
@@ -150,10 +169,16 @@ Follow @Max Wales
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Pros and cons of Blade Chroma
 
  **Pros:**
@@ -185,6 +210,9 @@ Follow @Max Wales
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
@@ -215,6 +243,10 @@ Follow @Max Wales
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Pros and cons of Blade Chroma
 
  **Pros:**
@@ -230,6 +262,9 @@ Follow @Max Wales
 
  Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Blade Chroma Drone
 
  With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
@@ -246,6 +281,9 @@ Follow @Max Wales
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.

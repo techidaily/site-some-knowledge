@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Immersive Viewing  Microsoft Edge's PIP\""
-date: 2024-05-26T14:07:04.559Z
-updated: 2024-05-27T14:07:04.559Z
+date: 2024-07-24T22:46:00.866Z
+updated: 2024-07-25T22:46:00.866Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Immersive Viewing: Microsoft Edge's PIP\""
 excerpt: "\"This Article Describes [New] Immersive Viewing: Microsoft Edge's PIP\""
 keywords: "EdgePIPView,PIPEdgeExperience,ImmersiveEdgePIP,EnhancedPIPViewing,PIPinEdgeMode,AdvancedPIPTechnology,InteractiveEdgePIP"
-thumbnail: https://www.lifewire.com/thmb/riQ401xbxJMZKiTqef_vRiggGjk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-534057825-5804eb115f9b5805c2b42f4c.jpg
+thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a297eba82ebbb288218a3b2d87.jpg
 ---
 
 ## Immersive Viewing: Microsoft Edge's PIP
@@ -57,6 +57,9 @@ And here is a simple step-by-step procedure to follow to turn on PiP on your PC 
 
 You can drag and move the floating window around the screen and drop it at any location that you want with your mouse. And you can also resize that video so that it gives you a large space to proceed with other activities.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Turn off PIP
 
 Even after turning on PiP on your desktop, you can still decide to switch off the PiP button on Microsoft Edge on your computer. And here is how to do it.
@@ -67,18 +70,31 @@ Even after turning on PiP on your desktop, you can still decide to switch off th
 4. Go to **Picture in Picture Control.**
 5. Click Switch off for **Show Picture-In-Picture Control inside Video Frame**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click switch off](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-3.jpg)
 
 Once you follow the steps above, you will be able to manipulate the PIP feature on your computer to use it as you like.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Useful Add-ons for PiP on Edge
 
 There are simpler ways to access and exploit Picture in Picture on your PC. Some supplement shortcut utilities that can enable you to enjoy this feature with ease are here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### [PIP - Picture in Picture Plus](https://microsoftedge.microsoft.com/addons/detail/pip-picture-in-picture-/gokdpnhaggoioddclnnlpjfnkdinjjcc)
 
 The keyboard shortcut for PiP mode is **Alt + P**. Just click **Alt + P** and you are ready to go. This feature applies to YouTube, Twitter, Facebook, and other platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pip plus](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-4.jpg)
 
 You can also achieve this in three simple steps.
@@ -93,6 +109,9 @@ And you are ready to go.
 
 PIP View is an add-on in Microsoft Edge that eases up the use of Picture in Picture on your PC. It is based on manifest V3 and performs well for players in an iframe.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![pip view](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-5.jpg)
 
 PIP View is an extension that is available on all websites with HTML video element. It is a crucial feature on YouTube that helps you save with Picture in Picture mode. On YouTube, it is added just next to the Settings in the app, and it allows you to float your video easily across the screen.
@@ -112,6 +131,10 @@ You can then resize or drag it around to the location you love.
 
 ## Part 3\. How to enable and disable Picture in Picture in edge on Android
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Turn on PIP
 
 To turn on PIP on your Android, follow the steps below.
@@ -130,6 +153,9 @@ To disable PIP on Android, simply follow the steps below up to the end.
 2. Tap on **Picture in Picture**
 3. On the list of Apps that appear, select Microsoft Edge and switch off the button.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 PIP on Android and desktop is now a native utility feature on Microsoft Edge that you access to exploit at your own time wherever you are. Just follow the instructions above to the end and enjoy.

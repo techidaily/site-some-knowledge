@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Standard Pixels to Dynamic Range Extremes  A Transformation Journey\""
-date: 2024-05-26T13:55:09.966Z
-updated: 2024-05-27T13:55:09.966Z
+date: 2024-07-24T22:45:28.281Z
+updated: 2024-07-25T22:45:28.281Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] From Standard Pixels to Dynamic Range Extremes: A Transformation Journey\""
 excerpt: "\"This Article Describes [Updated] From Standard Pixels to Dynamic Range Extremes: A Transformation Journey\""
 keywords: "PixToDyRange,DynRangeExtreme,TransJourneySEO,FromPixDynamic,ExtremePxTransf,DynamicImageShift,RangeTransformSEO"
-thumbnail: https://www.lifewire.com/thmb/RGG5Yrj4wygeHF_4EtUcyBLLzK8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-08-11at4.09.52PM-a2b7cc4dc04d49deac45f59296fd703f.jpg
+thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb6190aa0c6171995d867746d.jpg
 ---
 
 ## From Standard Pixels to Dynamic Range Extremes: A Transformation Journey
@@ -22,6 +22,9 @@ _“I shot HDR video clips with the camera for my YouTube videos, but part of th
 
 _So what do you do with all of your existing SDR content? To solve this, SDR to HDR conversion or vice versa can be one of the best solutions. So let's take a further look at the available options to create amazing upconversions._
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can I convert the SDR video to HDR?
 
 Before diving into concrete steps, it's best to have a decent understanding of how it works. Changing from SDR to HDR is possible, but with specific sequences, the results can vary accordingly. Of course, the video's original quality would influence how it looks in the final outcome, even if you convert it into the high dynamic range or HDR version.
@@ -42,6 +45,9 @@ Videos with a high dynamic range have enhanced depth perception. So, the surface
 
 HDR video comes with the availability of a wider color gamut that is not supported under SDR. With HDR, it is possible to expand the luminance and contrast levels, and color gradients are more prominent. To note, SDR monitors run with the Rec.709 colorspace spectrum, while HDR supports a wider Rec.2020 colorspace with more color variations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Method 1: Up-mapping SDR Archive Content to HDR
 
 It is possible to **convert SDR to HDR** after the legacy video-based content is mastered or recorded in SDR quality. Here, one can upconvert the content quality to HDR using the inverse tone mapping procedure. There are three content types that fall under the SDR Archive Content version:
@@ -106,6 +112,9 @@ When users use a video editing suite with MPEG2 decoding or encoding functions, 
 
 This solution is useful for converting HDR-level video content into the legacy format, using on-demand or live pre-recorded material. While content providers are best for SDR to HDR conversion, you can expect better-quality control and monitoring work within the production environment.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Convert SDR to HDR through a Third-party Encoding Tool
 
 Speaking of live encoding, you should try out the optimized tool for GUI transcoding, like [EncodeGUI](https://encodegui.com/). This open-source and free video encoder works with AI integration to optimize overall video encoding and decoding functions. It is compatible with the NVIDIA GPU, which is suitable for HDR processing and conversion.
@@ -124,6 +133,9 @@ Step3Set video codec to HVEC. Change CRF value to 17.
 
 Step4Click on Profiling and change settings to Main 10 and Unlimited Level. Set bit depth to 10-bit.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![set bit depth to 10 bit](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-7.jpg)
 
 Step5Click VapourSynth tab > Colors.
@@ -138,10 +150,16 @@ If any color space details are missing in the video information, set that elemen
 
 Step7Set them as follows for the Output-related color space sections to make the file HDR-compatible.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![output related color space](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-2.jpg)
 
 Step8Then, go to the taskbar again and press Signal. Enable Colors and HDR10 Metadata.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hdr10 metadata](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-5.jpg)
 
 Step9Change the elements for Colors Matrix, Transfer, and Primaries to the settings given in the picture.
@@ -150,6 +168,9 @@ Step9Change the elements for Colors Matrix, Transfer, and Primaries to the setti
 
 Step10Click Preview to check and Start to convert.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Final Words
 
 You can choose a proper way, like a video editor or encoder to convert the SDR video files to HDR quality. Check if your device or monitor supports these functions and your PC's Graphics card/GPU specifications. Based on that, you can easily convert SDR content to HDR if you follow the steps above carefully.
@@ -180,12 +201,18 @@ Step6Open Effects > BorisFX > Download.
 
 Step7Choose among the newer options like BCC Optical Diffusion, BCC Warp, and BCC Grads and Tints to upconvert to HDR quality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upconvert to hdr quality](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-11.jpg)
 
 Step8Click on the Export button.
 
 Step9Choose the Local tab and choose the video format for exporting. Rename the file and set the saving location. The color space is set at SDR by default.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the saving location](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-4.jpg)
 
 Step10Click on the Settings button for pre-set changes, and choose encoder, resolution, etc. If your device supports the accepted GPU specifications, you can set “Export Color Space” to HDR- Rec.2020.
@@ -194,6 +221,9 @@ Step10Click on the Settings button for pre-set changes, and choose encoder, reso
 
 Step11Hit Export, then you get your high dynamic range video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Upscale SDR video to HDR with a content provider
 
 The content providers are useful for enabling multi-format video playout functions suitable for legacy equipment. These solutions do so when they save different content versions at varying resolutions and are compatible with broadcasting and server/on-prem cloud systems.
@@ -220,6 +250,9 @@ Step3Set video codec to HVEC. Change CRF value to 17.
 
 Step4Click on Profiling and change settings to Main 10 and Unlimited Level. Set bit depth to 10-bit.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set bit depth to 10 bit](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-7.jpg)
 
 Step5Click VapourSynth tab > Colors.
@@ -228,16 +261,25 @@ Step5Click VapourSynth tab > Colors.
 
 Step6Enable the “Color Space Converter” option. Change Input Matrix, Transfer, and Primaries as per the “Video Info” details on the right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color space converter](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-6.jpg)
 
 If any color space details are missing in the video information, set that element to “BT470bg”.
 
 Step7Set them as follows for the Output-related color space sections to make the file HDR-compatible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![output related color space](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-2.jpg)
 
 Step8Then, go to the taskbar again and press Signal. Enable Colors and HDR10 Metadata.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![hdr10 metadata](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-5.jpg)
 
 Step9Change the elements for Colors Matrix, Transfer, and Primaries to the settings given in the picture.
@@ -246,6 +288,9 @@ Step9Change the elements for Colors Matrix, Transfer, and Primaries to the setti
 
 Step10Click Preview to check and Start to convert.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 You can choose a proper way, like a video editor or encoder to convert the SDR video files to HDR quality. Check if your device or monitor supports these functions and your PC's Graphics card/GPU specifications. Based on that, you can easily convert SDR content to HDR if you follow the steps above carefully.

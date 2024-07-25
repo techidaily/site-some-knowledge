@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Gaming Mastery  The Ultimate Speed Controller Guidebook\""
-date: 2024-05-26T14:35:07.544Z
-updated: 2024-05-27T14:35:07.544Z
+date: 2024-07-24T22:47:15.126Z
+updated: 2024-07-25T22:47:15.126Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Gaming Mastery: The Ultimate Speed Controller Guidebook\""
 excerpt: "\"This Article Describes [New] Gaming Mastery: The Ultimate Speed Controller Guidebook\""
 keywords: "Speed Control Gaming Tips,Ultimate PC Controllers,Gamer's Controller Guide,Perfect Game Setup,Mastering Pads & Joysticks,Top Xbox Accessories,Optimal Nintendo Switches"
-thumbnail: https://www.lifewire.com/thmb/TVzs3ixN-hpNtu0wQJHwvUAaADg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Telework_AlistairBerg_DigitalVision_Getty-5f753dec7013403c9afb83578a8f4925.jpg
+thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c6610495144fe17eca852c8fbd.jpg
 ---
 
 ## Gaming Mastery: The Ultimate Speed Controller Guidebook
@@ -34,10 +34,16 @@ Businesses looking to boost their sales can use this extension to make more capt
 
 So, if you're wondering what video speed controller extension would go best with your browser, this guide will be of help. Check till the end.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### A. Best Video Speed Controller Extensions For Chrome
 
 **1) [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/gioehmkjkeamcinbdelehlpnpdcdjpdp)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![video speed controller](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-2.jpg)
 
 This is a fantastic **video speed controller Chrome** designed by videospeeder.com for platforms like Hotstar, PrimeVideo, Netflix, etc. If you find it challenging to adjust and change the playback speed of the videos on these OTT platforms, this extension can help.
@@ -84,6 +90,9 @@ Thanks to this **Google video speed controller** extension, you may change the p
 
 **3) [HTML5 Video Speed Control](https://chrome.google.com/webstore/detail/html5-video-speed-control/lcbghbgklnidcfieiicfkjgfokbaeefo?hl=en)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![html5 video speed control](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-4.jpg)
 
 Did you ever want to fast-forward past the dull scenes in a movie or keep replaying your favorite scene? You can do so by utilizing this **video speed controller extension** from Cool Apps. You may also change the **HTML5 video speed control** in addition to YouTube.
@@ -134,6 +143,10 @@ You can seamlessly personalize keyboard shortcuts for video controls like skippi
 
 **2) [Speed Player for Safari](https://apps.apple.com/us/app/speed-player-for-safari/id1521133201?mt=12)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![speed player for safari](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-6.jpg)
 
 With the aid of the Safari extension Speed Player, you can quickly alter the playback speed of any online video. Speed Player does not access your visited websites, and no data is collected there. To adjust the pace of movies, you must have access to read and edit the websites you visit.
@@ -204,6 +217,18 @@ This superb **video speed controller Firefox** is available for people who use M
 
 **2) [Global Speed](https://addons.mozilla.org/en-US/firefox/addon/global-speed/)**
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![global speed](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-9.jpg)
 
 This is one of the most popular and vastly used video speed controllers available on the Firefox browser. Thanks to its seamless compatibility with audio and video streaming sites, watching films, series, videos, or audio on platforms like Netflix, PrimeVideo, YouTube, or Spotify at your own speed has become simpler than ever.
@@ -270,10 +295,16 @@ You can use the Video Remote extension to specify a default playing speed that w
 
 * Limited info and reviews available
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### E. Video Speed Controller for Edge
 
 **1) [Video Speed Control](https://microsoftedge.microsoft.com/addons/detail/video-speed-control/fgggaiedigajhlidjmmmengcpoipjeko)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![video speed control](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-12.jpg)
 
 The default keys of this **Edge video speed controller** can be changed in the options tab if you wish to leverage a distinct set of keys for the keyboard buttons. You can easily change the playback speed (increase or decrease) of any HTML5 video on the Edge browser. All in all, this must-try **video speed controller Edge** is really worthwhile.
@@ -294,6 +325,9 @@ The default keys of this **Edge video speed controller** can be changed in the o
 
 * Available only in one language
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Professional Video Editing Software: Change Playback Speed, Manage Controls, & A Lot More With Filmora
 
 Till now, you must have understood what benefits a video speed controller brings for including businesses and individuals. However, the benefits and potential of speed changing aren't confined to the regular audience, and it's also an effective and highly functional feature for video editors.
@@ -306,6 +340,9 @@ Today, most video editing agencies and freelance video editors seek the benefit 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### About Filmora
 
 Wondershare's [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a superb video editing tool that strikes a mix between robust capabilities and a user-friendly layout at a reasonable cost. It offers the modification and playback of HD and 4K videos in addition to all current video standards.
@@ -314,12 +351,18 @@ Even if there are a couple of kinks in the social media linking choices, it's ov
 
 To control video speed using Filmora, you need to follow these methods:
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Method 1: Uniform Speed
 
 You can set the speed of the chosen clip to be constant by leveraging the Uniform Speed option.
 
 Step1 Press the Speed icon after selecting the video in the toolbar just above the timeline. Choose the option for Uniform Speed.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selecting the video in the toolbar](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-13.jpg)
 
 Step2 Move the Speed slider to the right or left to increase or decrease the playback speed.
@@ -330,6 +373,9 @@ Step3 Select the Play button in the Preview box or use the Spacebar to get a gli
 
 Using [Speed Ramping](https://www.youtube.com/watch?v=58kkvq8V40M), where the playback rate of a clip varies interactively, you may produce adjustable speed effects in addition to continuous speed variations in Uniform Speed. Multiple playback velocities can be adjusted for each segment of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Speed Ramping is our new & advanced feature, you can learn more about speed ramping at this page: <https://filmora.wondershare.com/speed-ramping.html>.
@@ -348,6 +394,9 @@ There are other options like a flash out and jumper, too, later on.
 
 Step2 To use variable video speed, just choose one of the presets and alter it as necessary. Speed changes will continue to work until the Play head reaches the next speed point. The Play head will progressively shift between the speed points with the video's speed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use variable video speed](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-15.jpg)
 
 * **Change the section's coverage area**: To alter the area implementing the speed, drag your speed point to the left or right.
@@ -362,6 +411,9 @@ Step3 To view a preview of the video's alterations, use the Spacebar or hit the 
 
 _Since we don't have enough space to discuss every element of the software, we only concentrated on the key video speed controller features that make it worthwhile._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Whether you're a video editor who wants to enhance your video performance or a student/employee who wants to save time and understand better while watching educational and instructional videos, using a video speed controller will come in handy in all such scenarios.
@@ -396,6 +448,9 @@ Thanks to this **Google video speed controller** extension, you may change the p
 
 **3) [HTML5 Video Speed Control](https://chrome.google.com/webstore/detail/html5-video-speed-control/lcbghbgklnidcfieiicfkjgfokbaeefo?hl=en)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![html5 video speed control](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-4.jpg)
 
 Did you ever want to fast-forward past the dull scenes in a movie or keep replaying your favorite scene? You can do so by utilizing this **video speed controller extension** from Cool Apps. You may also change the **HTML5 video speed control** in addition to YouTube.
@@ -422,6 +477,9 @@ Your HTML5 videos can be sped up or slowed down. While watching your video, you 
 
 **1) [Accelerate for Safari](https://apps.apple.com/us/app/accelerate-for-safari/id1459809092)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![accelerate for safari](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-5.jpg)
 
 Accelerate is an excellent customizable **video speed controller plugin** for optimal video playback control and browser speed - Safari. This extension comes with unique features at no cost. For instance, no matter which HTML5 video, you can change any of such video's playback speed in Safari.
@@ -490,6 +548,9 @@ Overall, this is a good choice for a **video speed controller Safari** as you ca
 
 * To upgrade Dynamo through the Mac App Store, you may be required to quit Safari.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### C. Video Speed Controller for Mozilla Firefox
 
 **1) [Playback Speed](https://addons.mozilla.org/en-US/firefox/addon/playback-speed/)**
@@ -586,6 +647,9 @@ You can use the Video Remote extension to specify a default playing speed that w
 
 **1) [Video Speed Control](https://microsoftedge.microsoft.com/addons/detail/video-speed-control/fgggaiedigajhlidjmmmengcpoipjeko)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![video speed control](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-12.jpg)
 
 The default keys of this **Edge video speed controller** can be changed in the options tab if you wish to leverage a distinct set of keys for the keyboard buttons. You can easily change the playback speed (increase or decrease) of any HTML5 video on the Edge browser. All in all, this must-try **video speed controller Edge** is really worthwhile.
@@ -606,6 +670,9 @@ The default keys of this **Edge video speed controller** can be changed in the o
 
 * Available only in one language
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Professional Video Editing Software: Change Playback Speed, Manage Controls, & A Lot More With Filmora
 
 Till now, you must have understood what benefits a video speed controller brings for including businesses and individuals. However, the benefits and potential of speed changing aren't confined to the regular audience, and it's also an effective and highly functional feature for video editors.
@@ -618,6 +685,9 @@ Today, most video editing agencies and freelance video editors seek the benefit 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### About Filmora
 
 Wondershare's [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a superb video editing tool that strikes a mix between robust capabilities and a user-friendly layout at a reasonable cost. It offers the modification and playback of HD and 4K videos in addition to all current video standards.
@@ -632,12 +702,19 @@ You can set the speed of the chosen clip to be constant by leveraging the Unifor
 
 Step1 Press the Speed icon after selecting the video in the toolbar just above the timeline. Choose the option for Uniform Speed.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![selecting the video in the toolbar](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-13.jpg)
 
 Step2 Move the Speed slider to the right or left to increase or decrease the playback speed.
 
 Step3 Select the Play button in the Preview box or use the Spacebar to get a glimpse of the changes. To apply the modifications, hit OK in the lower right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Method 2: [Speed Customization](https://www.youtube.com/watch?v=1hLf3tzc95w&t=77s)
 
 Using [Speed Ramping](https://www.youtube.com/watch?v=58kkvq8V40M), where the playback rate of a clip varies interactively, you may produce adjustable speed effects in addition to continuous speed variations in Uniform Speed. Multiple playback velocities can be adjusted for each segment of the video.
@@ -660,6 +737,9 @@ There are other options like a flash out and jumper, too, later on.
 
 Step2 To use variable video speed, just choose one of the presets and alter it as necessary. Speed changes will continue to work until the Play head reaches the next speed point. The Play head will progressively shift between the speed points with the video's speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use variable video speed](https://images.wondershare.com/filmora/article-images/2023/01/best-video-speed-controller-extensions-15.jpg)
 
 * **Change the section's coverage area**: To alter the area implementing the speed, drag your speed point to the left or right.
@@ -674,6 +754,9 @@ Step3 To view a preview of the video's alterations, use the Spacebar or hit the 
 
 _Since we don't have enough space to discuss every element of the software, we only concentrated on the key video speed controller features that make it worthwhile._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Whether you're a video editor who wants to enhance your video performance or a student/employee who wants to save time and understand better while watching educational and instructional videos, using a video speed controller will come in handy in all such scenarios.

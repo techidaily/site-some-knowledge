@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  In-Depth Guide to Live Photos and Full-Screen Videos on iPhones\""
-date: 2024-07-04T17:47:19.187Z
-updated: 2024-07-05T17:47:19.187Z
+date: 2024-07-24T22:50:21.411Z
+updated: 2024-07-25T22:50:21.411Z
 tags: 
   - screen-recording
   - ai video
@@ -52,26 +52,45 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 * A yellow color circle appears in the top middle, beside the HDR camera control
 * A viewfinder appears in yellow color which is creating the iPhone live photo
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![how to take live photo](https://images.wondershare.com/filmora/take-live.jpeg)
 
  Image comes from iMore
 
  It records only 1.5 seconds of the video prior to the starting the shutter button, rest of the videos recorded earlier after opening the app is discarded, without creating storage issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: How to Edit Live Photos?
 
  Editing is always fun. Post recording the moving picture iPhone device allows you to add effects to it as well. You may click on the right side corner edit option at the top, after entering the photos app. When the editing tool appears. You may crop, rotate, add color or make lighting adjustments. With iOS live photos, your photo can be more creative, unique, expressive, and super fun. In order to edit the live photos, open the app at first, swipe up till you see the effects, select the long exposure, create a video loop, or make it bounce and play back and forth, or create a magical blur or night sky in long exposure. Only the official photo editing option in iPhone can be used in order to get the dynamic effects.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to edit live photo](https://images.wondershare.com/filmora/Live-Photos-Editing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: How to Turn off Live Photos?
 
  Keeping the iPhone Live photos on every moment can be quite space consuming. It creates 2 files- .mov and .jpeg. Each of the files is filled up with a lot of megabyte of space. Although the videos captured are of lesser resolution than the images, still it is double size of the images. To turn off the live photos, tap on the yellow concentric circles’ icon at the top middle beside the HDR. Tapping on it disables the live photos for the time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![how to turn off live photo](https://images.wondershare.com/filmora/turn-live-photos-off.jpg)
 
  Image comes from OSXDaily
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part4: How to Change Your Key Photo for Live Photos?
 
  Changing a key image for live pictures is nothing difficult. You just need to make the iPhone camera live, tap the Edit option and move the slider for changing the frame. Once done, release your finger and click on the make key photo option and then tap. You may toggle the live Photo effects off and on when required.
@@ -84,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
  Do you wish to enhance your iPhone lock screen by adding a live photo? You may set and activate the iPhone live photo as wallpaper using the 3D touch at any point of time. It’s like adding wallpaper to any other phone but with few added steps. Select a wallpaper from the iPhone live photos list, opening the setting app. Next, create a live photo, tapping “all photos”. Now, choose the live photo you wish to use as the lock screen and select “set as lock screen”. You may make your lock screen dynamic or static as per your wish.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to add lock screen](https://images.wondershare.com/filmora/set-lock.jpg)
 
  Image comes from Cult of Mac

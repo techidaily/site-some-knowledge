@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hyper-Resolution Hub  Top 8K Cameras Decoded\""
-date: 2024-06-27T06:26:45.960Z
-updated: 2024-06-28T06:26:45.960Z
+date: 2024-07-24T22:50:20.964Z
+updated: 2024-07-25T22:50:20.964Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,9 @@ The industry-leading camera manufacturers like RED, Sharp or Ikegami have alread
 
 You may also like: [11 Best Bridge Cameras \[Ultimate Review\]](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## What is an 8K Camera?
 
 The [resolution](https://tools.techidaily.com/wondershare/filmora/download/) determines the maximum quality of pictures a video camera can capture. Each frame an 8K camera records can either have 7680 or 8192 pixels on the longer side of the frame and between 2160 and 8192 pixels on the shorter side of the frame depending on the video’s [aspect ratio](https://tools.techidaily.com/wondershare/filmora/download/). Commonly an 8K video with the standard 16:9 aspect ratio has 33.9 million pixels or a resolution of 7680x4320 pixels.
@@ -64,6 +67,9 @@ Even though 8K cameras have been on the market for the larger part of this decad
 The rumors that Canon is working on its first 8K camera surfaced in early 2019, but as the year’s end approaches it is still unclear when and if the manufacturer will present its first 8K camera to the world. The Canon’s first 8K full-frame camera should have **a CMOS sensor** that resembles the Super 35mm sensor, although the exact specifications are still not available to the public.
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canon EOS 5DS R DSLR Camera](https://images.wondershare.com/filmora/article-images/canon-eos-5ds-r-dslr.jpg)
 
 Image resource: Cannon
@@ -79,6 +85,9 @@ Even though Nikon is one of the leading camera manufacturers in the world, there
 At the moment the [Nikon D850](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d850.html) is the closest to an 8K camera this manufacturer has to offer since this 47.5 MP camera can record time-lapses in 8K resolution, although only by combining the footage captured with two D850 models.
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nikon D850 8K Timelapse Camera](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
 
 Image resource: Nikon
@@ -97,11 +106,18 @@ A few years ago, Sharp introduced 8C-B60A, the world’s first 8K camcorder and 
 
 It features two **AUDIO IN XLR type 3 pins** and one **MIC IN XLR type 5 pin**. The camcorder doesn’t have batteries and it is powered through a **130W 13V DC output AC/DC adapter XLR 4-pin**. The Sharp’s 8C-B60A 8K camcorder is undoubtedly one of the best 8K cameras you can buy in 2024, despite the hefty price tag.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Sony
 
 Professional cinematographers don’t need an introduction to Sony’s cameras, as the Japanese camera manufacturer has been at the forefront of the digital camera market for decades. Their [F65 CineAlta](https://pro.sony/ue%5FUS/products/digital-cinema-cameras/f65#SATD501220TheF65Cinealta-f65) was released in 2016, but it is still one of the best 8K cameras you can buy in 2024\. This speaks volumes about the F65’s capabilities, much like the fact that professional cinematographers have nothing but praise for this Sony’s camera model.
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Sony F65 CineAlta 8K Camera](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
 Image resource: Sony
@@ -110,6 +126,9 @@ The **1-chip 20MP Super 35mm type** **24.7mm X 13.1mm** **CMOS sensor** enables 
 
 The camera has **14 stops of exposure latitude**, so if you are shooting RAW video files F65 will utilize the **S-Log3/S-Gamut3 gamma curve** to ensure accurate color depiction. In addition, this 8K camera can capture **275,000,000,000,000 color variations** even while you are shooting in full resolution at 60fps. Unsurprisingly, F65 CineAlta costs more than $60.000, but it is still a great investment for all professional filmmakers in need of a camera that can deliver great performances regardless of the available light.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Ikegami
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
@@ -128,6 +147,9 @@ In addition, you can choose between **2-channel x 4K and 4-channel HD** return s
 The list of TV shows and movies shot on RED cameras is seemingly endless and it includes some of the best movies made over the last ten years. Models like [Monstro 8K VV](https://www.red.com/DSMC2-BRAIN?quantity=1?sensor=1), [Helium 8K S35](https://www.red.com/DSMC2-BRAIN?quantity=1&sensor=2) [Helium 8K S35 Monochrome](https://www.red.com/DSMC2-MONOCHROME-BRAIN?quantity=1&sensor=2) are all **modular DSMC2 cameras** that can be used with different types of lenses. Each of these 8K cameras has a **35.4 MP CMOS sensor**, however, the size of the sensor depends on the model. All RED’s 8K DSMC2 cameras can write data at **300 MB/s** and they have an incredibly high dynamic range that varies from **16.5+ to 17+ stops**, which enables them to capture a broad spectrum of colors.
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Red DSMC2 BRAIN](https://images.wondershare.com/filmora/article-images/red-dsmc2-brain-monstro-8k-w.jpg)
 
 Image resource: red
@@ -138,6 +160,9 @@ The body of an 8K Red camera can cost between **$24,000 and $50,000** which make
 
 Still don't know to choose which? Whatch this!
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What Gear Do Creators Actually Use | Vidcon 2023 | Sony vs Canon
 
 **Conclusion**

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free Sustainable Scenes for Filmmakers\""
-date: 2024-06-19T12:31:34.848Z
-updated: 2024-06-20T12:31:34.848Z
+date: 2024-07-24T22:46:20.120Z
+updated: 2024-07-25T22:46:20.120Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,16 @@ Green screen templates are available on reliable sources (for example, Filmora);
 
 Downloading a suitable green screen template is the first thing to do. Ensure the green screen template fits the original video you want to overlay. Visit a template source, search “green screen” from the search space and select the right video that best represents your need/original video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmstock green screen image](https://images.wondershare.com/filmora/article-images/2022/07/filmstock_green_screen.jpg)
 
 You skip shooting the green background video yourself if you use a template. However, the ready-made video template may reduce quality production if you do not use the right green screen template. Keep the movement and element in mind while selecting a green screen template for your project: ensure the speed/movement aligns with the original video elements.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2 Import the video background and green screen videos
 
 Import the two videos on Filmora: background and green screen; the background video replaces the green screen video. Start the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) after you have installed it on your computer.
@@ -56,12 +62,22 @@ Import the two videos on Filmora: background and green screen; the background vi
 
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.3 Set the green screen edit panel
 
 The edit panel option opens upon activating the panel; the edit panel option includes color, offset, edge thickness, alpha tolerance, edge feather, and tolerance. Each feature contributes directly to your final result. Offset, tolerance, and alpha channel affect the video clarity; edge thickness and edge feather affect the edge appearance: shadow, transparency, and edges.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 2.4 Background positioning
 
 You have to position the background video on the green screen: the green screen will disappear, and the ground video will replace the green overlay. All the applications you added in 2.3 will appear. That is, transparency, movements, and video manipulation will be saved. Lastly, you should save your work.
@@ -100,6 +116,9 @@ Pikbest provides templates both in videos and images. For effective video overla
 
 Mixkit has one of the best green screen descriptions, allowing you to locate the right video easily. It supports unlimited download, free access to all files, and a final cut pro option: this allows you to download files for a specific purpose. For example, if you need content for Instagram, the final cut pro allows you to download green screen templates for Instagram screen resolution. Other features include sound effects, premier pro, after effects, and licensing.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![mixkit green screen](https://images.wondershare.com/filmora/article-images/2022/07/mixkit.jpg)
 
 ## Conclusion
@@ -114,16 +133,29 @@ Using a green screen template for your project outweighs other processes. Howeve
 
 * Click on “new file” and create a new program on Filmora. Ensure you save the program as you proceed. Click on “file” then “import file” from the upper right corner of the display screen. Select the videos from your computer (ensure you save them in a separate folder for easy location).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![create a new program on filmora](https://images.wondershare.com/filmora/guide/place-green-screen-background-videos.jpg)
 
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.3 Set the green screen edit panel
 
 The edit panel option opens upon activating the panel; the edit panel option includes color, offset, edge thickness, alpha tolerance, edge feather, and tolerance. Each feature contributes directly to your final result. Offset, tolerance, and alpha channel affect the video clarity; edge thickness and edge feather affect the edge appearance: shadow, transparency, and edges.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.4 Background positioning
 
 You have to position the background video on the green screen: the green screen will disappear, and the ground video will replace the green overlay. All the applications you added in 2.3 will appear. That is, transparency, movements, and video manipulation will be saved. Lastly, you should save your work.
@@ -138,12 +170,19 @@ For example, the edit panel option includes color, offset, edge thickness, alpha
 
 Filmstock, via the editor, gives you access to advanced settings and manipulation. You can create different effects aside from the standard green screen templates and background overlay. Filmstock allows you to save your work easily; you do not need an extra fee to use the program. Although you need to install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your computer, Filmstoc contains ready-made free green screen templates for download.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![filmsstock home page](https://images.wondershare.com/filmora/article-images/2022/07/filmstock-green.jpg)
 
 1. [**Videezy**](https://www.videezy.com/free-video/green-screen)
 
 Although Filmstock has an editor, Videezy only supplies green screen templates for free download. Videezy support clean videography via the contents available on the official web page. You do not need any logins to download green screen templates from the site, nor does it work with limited download. Videezy gives premium treatment to Pro Users, although all basic features are equally given to all users. You may download by categories: stock effects, after effects, resolution, size, and format. The more you narrow your search filter on the website, the more you are exposed to excellent stock pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![videezy green screen](https://images.wondershare.com/filmora/article-images/2022/07/videezy-green.jpg)
 
 1. [**Kapwing**](https://www.kapwing.com/templates/green-screen)
@@ -162,6 +201,9 @@ Pikbest provides templates both in videos and images. For effective video overla
 
 Mixkit has one of the best green screen descriptions, allowing you to locate the right video easily. It supports unlimited download, free access to all files, and a final cut pro option: this allows you to download files for a specific purpose. For example, if you need content for Instagram, the final cut pro allows you to download green screen templates for Instagram screen resolution. Other features include sound effects, premier pro, after effects, and licensing.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mixkit green screen](https://images.wondershare.com/filmora/article-images/2022/07/mixkit.jpg)
 
 ## Conclusion

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Guiding Principles for Integrating Videos in Education"
-date: 2024-05-26T12:51:16.155Z
-updated: 2024-05-27T12:51:16.155Z
+date: 2024-07-24T22:42:42.681Z
+updated: 2024-07-25T22:42:42.681Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/HjZqZIAdFDbePPWfCwBgS1rzDSM=/400x300/fi
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
@@ -37,16 +40,30 @@ The two options for sharing videos with your students are synchronous or asynchr
 
 Some schools find that synchronous videos are a great way to keep the students connected. But there's a problem with privacy issues nowadays, especially with the students if they are shown in synchronous videos and recorded. Make sure you need the student's permission to record the video. We don't also forget the internet connection issues of some students. Don't forget and take note of that.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**

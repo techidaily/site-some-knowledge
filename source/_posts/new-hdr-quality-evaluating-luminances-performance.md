@@ -1,7 +1,7 @@
 ---
 title: "\"[New] HDR Quality  Evaluating Luminance's Performance\""
-date: 2024-05-26T13:01:00.054Z
-updated: 2024-05-27T13:01:00.054Z
+date: 2024-07-24T22:43:12.429Z
+updated: 2024-07-25T22:43:12.429Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] HDR Quality: Evaluating Luminance's Performance\""
 excerpt: "\"This Article Describes [New] HDR Quality: Evaluating Luminance's Performance\""
 keywords: "HDR Quality Check,Luminance Performance Assessment,High Dynamic Range Analysis,Evaluate HDR Tech,Luminance Brightness Test,HDR Visual Clarity Review,Assessing Dynamic Range"
-thumbnail: https://www.lifewire.com/thmb/W9EYDIfcyUpGHrg7FnINkiSse0U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9bd34731fb80416cf28c2a508.jpg
 ---
 
 ## HDR Quality: Evaluating Luminance's Performance
@@ -95,6 +95,9 @@ To utilize this feature, just navigate to Edit and select ‘Resize' from the me
 
 Also, you can use the ‘Crop' feature to edit the frame you created by dragging its corners. After you've edited the HDR image frame to the required level, you can crop it using the relevant button in the toolbar or use the ‘Edit' option to select ‘Crop to Selection' in the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![image resize luminance hdr 2](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-1.jpg)
 
 **Rotate:** Rotate HDR images up to 90 degrees by using the < and > shortcuts or the ‘Clockwise' and ‘Counter-Clockwise' commands under the Edit menu. You can rotate images up to
@@ -103,6 +106,9 @@ Also, you can use the ‘Crop' feature to edit the frame you created by dragging
 
 Under ‘Project Transformation' you can set rotation degree, add source projection, and do lots more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![project transformation luminance hdr](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-4.jpg)
 
 1. HDR Processing
@@ -148,6 +154,9 @@ Double click on the Filmora icon to start the program. Then click on ‘New Proj
 
 Navigate to the top left corner of your computer screen and click on ‘Import' to upload the HDR video you're looking to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import hdr video](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-7.jpg)
 
 * You will also see the ‘Import with Instant Cutter Tool' option - this allows you to trim HDR videos fast and conveniently.
@@ -156,6 +165,9 @@ Navigate to the top left corner of your computer screen and click on ‘Import' 
 
 Now, click the ‘Register' button, then navigate to the ‘File' menu and select ‘Project Settings. Then, click on the ‘Color Space' drop-down and select ‘HDR Parameter Value'. The default value is SDR - Rec.709.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![edit hdr video](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-2.jpg)
 
 You can also trim and cut your HDR video according to your requirements by dragging the end of the video left or right, apply visual effects, and correct color.
@@ -164,12 +176,18 @@ You can also trim and cut your HDR video according to your requirements by dragg
 
 Finally, click on ‘Export', then in the Output window, select the desired video format, ‘Quality', storage location, and other settings.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share and export hdr video 1](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-8.jpg)
 
 * Also, click the ‘Export Color Space' drop/down icon and select the video output HDR quality. Then, hit the ‘OK' button to complete the operation. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) also allows users to share edited videos to third-party platforms like Vimeo and YouTube.
 
 ![share and export hdr video 2](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Final Words
 
 Truth be told, Luminance HDR is a great tool for creating/editing HDR images. Yes, despite being free the tool is very flexible and it has the capability of helping users give their HDR image a realistic and surrealistic look. It doesn't matter what kind of operation you want to perform on your HDR image, Luminance HDR can help you achieve it once you master the features perfectly.
@@ -223,8 +241,14 @@ Finally, click on ‘Export', then in the Output window, select the desired vide
 
 * Also, click the ‘Export Color Space' drop/down icon and select the video output HDR quality. Then, hit the ‘OK' button to complete the operation. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) also allows users to share edited videos to third-party platforms like Vimeo and YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![share and export hdr video 2](https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Words
 
 Truth be told, Luminance HDR is a great tool for creating/editing HDR images. Yes, despite being free the tool is very flexible and it has the capability of helping users give their HDR image a realistic and surrealistic look. It doesn't matter what kind of operation you want to perform on your HDR image, Luminance HDR can help you achieve it once you master the features perfectly.

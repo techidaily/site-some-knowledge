@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Shoot to Screen  Mastering 360-Degree Video Edits Using Premiere Pro\""
-date: 2024-05-26T15:21:52.557Z
-updated: 2024-05-27T15:21:52.557Z
+date: 2024-07-24T22:49:15.681Z
+updated: 2024-07-25T22:49:15.681Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Shoot to Screen: Mastering 360-Degree Video Edits Using Premiere Pro\""
 excerpt: "\"This Article Describes 2024 Approved: From Shoot to Screen: Mastering 360-Degree Video Edits Using Premiere Pro\""
 keywords: "\"Premiere Pro Edit,360-Video Editing,Shoot-to-Screen,Screen Mastery,Video Edits PPro,360 Editing Tech,Premiere VirtualEdit\""
-thumbnail: https://www.lifewire.com/thmb/WsKoRVFhgnmE3Cy98VrTyp5uzNk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/terminal-command-prompt-windows-11-5b5ff2747dbe46f985d98b2d60b3ddb2.png
+thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d13956dfbeb425d156edf1af5a5.png
 ---
 
 ## From Shoot to Screen: Mastering 360-Degree Video Edits Using Premiere Pro
@@ -30,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/WsKoRVFhgnmE3Cy98VrTyp5uzNk=/400x300/fi
 
 **Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Editing 360 degrees videos in Premiere Pro
 
  Consider the following steps when editing 360 degree videos using Premiere Pro from Adobe-:
@@ -69,6 +72,9 @@ thumbnail: https://www.lifewire.com/thmb/WsKoRVFhgnmE3Cy98VrTyp5uzNk=/400x300/fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -120,8 +126,14 @@ Follow @Benjamin Arango
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -140,6 +152,9 @@ Follow @Benjamin Arango
 
 **Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Editing 360 degrees videos in Premiere Pro
 
  Consider the following steps when editing 360 degree videos using Premiere Pro from Adobe-:
@@ -150,6 +165,9 @@ Follow @Benjamin Arango
 
 #### 2. Adjust your settings
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Settings](https://images.wondershare.com/filmora/article-images/360-editing-settings.jpg)
 
  Premiere Pro allows you to view any video by double clicking on the video in the project panel. Be default, the equirectanglular video clips will appear on the preview panel, but they will be distorted. To change how the videos appear on the preview panel, it is imperative to adjust the settings. This is done by clicking on the wrench icon located at the bottom right of window then navigating to VR Video>Settings. This will pull up the menu to let you adjust the various settings you need to proceed with the editing.
@@ -171,14 +189,23 @@ Follow @Benjamin Arango
 
 #### 5. Exporting the VR Footage
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -195,6 +222,9 @@ Follow @Benjamin Arango
 
 **Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Editing 360 degrees videos in Premiere Pro
 
  Consider the following steps when editing 360 degree videos using Premiere Pro from Adobe-:
@@ -211,6 +241,9 @@ Follow @Benjamin Arango
 
 #### 3. Set the Preview Window to VR Mode
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Enable VR mode](https://images.wondershare.com/filmora/article-images/enable-vr-mode.jpg)
 
  After you have established the right settings for your project, the next thing you need to do is to set the preview window into VR Mode. There are two ways to do this and they include-:
@@ -230,10 +263,19 @@ Follow @Benjamin Arango
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango

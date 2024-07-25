@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Static to Spinning  Mastering Photo Effects in Illustrator\""
-date: 2024-05-26T13:57:20.491Z
-updated: 2024-05-27T13:57:20.491Z
+date: 2024-07-24T22:45:33.259Z
+updated: 2024-07-25T22:45:33.259Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] From Static to Spinning: Mastering Photo Effects in Illustrator\""
 excerpt: "\"This Article Describes [New] From Static to Spinning: Mastering Photo Effects in Illustrator\""
 keywords: "Illustrators Photo Effects Tutorial,Adobe Illustrator Photo Tricks,Dynamic Photos with AI,Illustrator Spin Photo Techniques,Mastering Illustration Photo Effects,Enhancing Images in Illustrator,Creating Motion Graphics in AI"
-thumbnail: https://www.lifewire.com/thmb/gJKFG61aOboY-p-Jj99nDXe3X4A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KasonPatterson2-7a0b0bc9de574c37a2bc5cdd310ce142.png
+thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7dd341f7046ddf8ecb2ad394e.png
 ---
 
 ## From Static to Spinning: Mastering Photo Effects in Illustrator
@@ -28,6 +28,9 @@ Most online users watch videos on Vimeo directly through the web browser. This i
 
 Step 1: On your device, launch the web browser. Open the official website of Vimeo Watch. Play any video of your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![play video vimeo watch](https://images.wondershare.com/filmora/article-images/play-video-vimeo-watch.jpg)
 
 Step 2: Now, you need to change the URL of the video you are playing. Here are the changes to make in the address bar.
@@ -40,6 +43,9 @@ Therefore, the initial URL of the video was "<https://vimeo.com/754255543>". You
 
 Step 3: After making the changes, press Enter key. The same video will play in a loop until you pause the video or close the web browser's tab.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2\. Loop a Vimeo Video When Embedded on Your Site
 
 You can embed a Vimeo video on your website so that the audience can watch it. The video will play only once when someone lands on your website. After the video ends playing, the embedding will show suggested videos. If you want the same video to play again and again, you have to put it in a loop. Here are the steps on how to loop Vimeo video when embedded on your website.
@@ -50,14 +56,23 @@ Step 1: Open the Vimeo video on your web browser. Click on Share icon present in
 
 Step 2: You will get to see several options, and you need to click on "Get Embed Code" option.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get embed code vimeo](https://images.wondershare.com/filmora/article-images/get-embed-code-on-vimeo.jpg)
 
 Step 3: On the next screen, you will get the embed code in a pop-up box. Click on Show options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![show options share vimeo video](https://images.wondershare.com/filmora/article-images/show-options-share-vimeo-video.jpg)
 
 Step 4: From the expanded section, go to Special Stuff section. Turn on "Loop this video" option.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![loop embed video on vimeo](https://images.wondershare.com/filmora/article-images/loop-embed-video-on-vimeo.jpg)
 
 Step 5: Thereafter, copy the code and paste it into your website to play the video in a loop.
@@ -70,6 +85,18 @@ Step 1: Open the Vimeo app on your mobile device. Play the video that you want i
 
 Step 2: Tap on the Share icon and tap on Copy URL option.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![loop a video on mobile](https://images.wondershare.com/filmora/article-images/loop-a-video-on-mobile.jpg)
 
 Step 3: Open your web browser and paste the copied URL.
@@ -90,6 +117,9 @@ Thereafter, you can import the downloaded video into Filmora. Then you can exten
 
 Step 1: Download and install Wondershare Filmora. Download the desired Vimeo video on your computer. Launch Filmora and click on New Project.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora startup window](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
@@ -122,10 +152,21 @@ Step 1: Download and install Wondershare Filmora. Download the desired Vimeo vid
 
 Step 2: Drag and drop the downloaded video file into the Project Media folder on Filmora. Thereafter, bring the video file from Project Media folder into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![drag vimeo video filmora timeline](https://images.wondershare.com/filmora/article-images/drag-vimeo-video-filmora-timeline.jpg)
 
 Step 3: Drag and drop the video clip into the timeline again. Make sure that there is no gap between the clips and they are on the same channel for looping. Alternative, you can copy and paste the video clip multiple times for looping.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![loop video in filmora](https://images.wondershare.com/filmora/article-images/copy-video-clips-to-loop-filmora.jpg)
 
 Step 4: You can play the video and watch it in loop. Finally, click on the Export button to save the video in the desired file format.
@@ -136,6 +177,9 @@ Step 4: You can play the video and watch it in loop. Finally, click on the Expor
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## Conclusion

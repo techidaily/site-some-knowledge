@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expanding Viewable Area of YouTube Recordings\""
-date: 2024-05-26T13:38:20.887Z
-updated: 2024-05-27T13:38:20.887Z
+date: 2024-07-24T22:44:47.920Z
+updated: 2024-07-25T22:44:47.920Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expanding Viewable Area of YouTube Recordings\""
 excerpt: "\"This Article Describes 2024 Approved: Expanding Viewable Area of YouTube Recordings\""
 keywords: "Video Scope Expansion,Increased Watchability,YouTube Recording Reach,Extended Viewport Area,Maximizing Video Access,Wider YouTube Audiences,Broadening Recorded Content Visibility"
-thumbnail: https://www.lifewire.com/thmb/QdzyneXrDNJP05LF9GWKQLcJKKQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-965113756-764697dfeb544233b50fb9965b244595.jpg
+thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3f51566e9db65fcc77abbc00.jpg
 ---
 
 ## Expanding Viewable Area of YouTube Recordings
@@ -32,6 +32,9 @@ Step2Click on the three-dot icon at the top-right corner, and you will see a dro
 
 Step3Go to Zoom option and click on “+” to zoom the browser window and thereby, zooming on YouTube video.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![browser zoom youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-1.jpg)
 
 Play the video in theatre mode for a better zooming result. Alternatively, you can press Ctrl and “+” keys together to zoom in by percentage.
@@ -56,10 +59,17 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![go to pan zoom section](https://images.wondershare.com/filmora/guide/crop-video-filmora.jpg)
 
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -72,12 +82,18 @@ Step1Open your web browser and visit “studio.youtube.com”. Log into with you
 
 Step2From the top, click on Create button and select Upload Videos. Add the downloaded YouTube video from your hard drive. Follow the on-screen instructions to complete uploading.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube built in editor zoom](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-2.jpg)
 
 Step3After uploading, click on the Video and select Editor option from the left menu.
 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
 
 ## The Bottom Line
@@ -94,6 +110,9 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
@@ -102,6 +121,9 @@ Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on th
 
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Way 3\. Use YouTube Built-in Editor
 
 With new YouTube creators coming on-board regularly, YouTube has introduced a built-in editor for the amateurs to edit their videos and publish them on the platform. YouTube built-in editor is a basic video editor through which you can add transitions and background music as well as trim and zoom. Here are the steps on how to zoom to YouTube videos through built-in editor.
@@ -110,6 +132,9 @@ Step1Open your web browser and visit “studio.youtube.com”. Log into with you
 
 Step2From the top, click on Create button and select Upload Videos. Add the downloaded YouTube video from your hard drive. Follow the on-screen instructions to complete uploading.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![youtube built in editor zoom](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-2.jpg)
 
 Step3After uploading, click on the Video and select Editor option from the left menu.

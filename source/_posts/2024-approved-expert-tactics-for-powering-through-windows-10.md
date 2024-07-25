@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Tactics for Powering Through Windows 10\""
-date: 2024-05-26T14:09:18.695Z
-updated: 2024-05-27T14:09:18.695Z
+date: 2024-07-24T22:46:08.634Z
+updated: 2024-07-25T22:46:08.634Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expert Tactics for Powering Through Windows 10\""
 excerpt: "\"This Article Describes 2024 Approved: Expert Tactics for Powering Through Windows 10\""
 keywords: "W10 Optimization Tips,Boosting W10 Speed,Win10 Performance Hacks,W10 Efficiency Strategies,Enhancing Windows 10,Power W10 Usage,Increase W10 Speed"
-thumbnail: https://www.lifewire.com/thmb/uDtlQwy1ZqA13VV5JdOqhg2OW68=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/HomeOfficeCentral_MorsaImages_GettyImages-1369568023_vert1409-c9574b1d088a42aa8e5b62cc13c3bb0b.jpg
+thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb2da71ac3ca94b7300f4d4b3.jpg
 ---
 
 ## Expert Tactics for Powering Through Windows 10
 
 # Must-Know Windows 10 Tips and Tricks
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -36,6 +39,18 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -46,6 +61,9 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -62,6 +80,9 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -120,6 +141,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -136,6 +160,9 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -162,6 +189,9 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
@@ -186,6 +216,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -194,6 +227,9 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -212,6 +248,9 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -228,12 +267,19 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -252,6 +298,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -268,6 +317,9 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -278,6 +330,9 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Famed Stop-Motion Movies #15 of All Time\""
-date: 2024-05-26T15:36:11.725Z
-updated: 2024-05-27T15:36:11.725Z
+date: 2024-07-24T22:49:51.121Z
+updated: 2024-07-25T22:49:51.121Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Famed Stop-Motion Movies #15 of All Time\""
 excerpt: "\"This Article Describes [Updated] Famed Stop-Motion Movies #15 of All Time\""
 keywords: "\"Top Stop-Motion Films,Famous Animation Classics,Iconic Stop-Motion Titles,Best Animated Shorts #15,Historic Anime Movies #15,Classic Stop-Motion List #15,Premium Stop-Motion Films #15\""
-thumbnail: https://www.lifewire.com/thmb/YvlUrzntub_aCKxG1Ah4k49OPTs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/connect-chromecast-to-hotel-wi-fi-4175829-21485d8d7e59400baae6922a39f7ba93.png
+thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09e794f561f2fddd69b31c591.png
 ---
 
 ## Famed Stop-Motion Movies #15 of All Time
@@ -38,8 +38,14 @@ Quote: "I do not suggest using ashes as fertilizer – these bitter urns of char
 
 Consuming Spirits is an animated movie about three residents who lead interconnected life. Robert, Nancy, and Chris are from a Rust Belt town.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -52,6 +58,9 @@ Quote: "When you're scared, but you still do it anyway, that's brave."
 
 Coraline is a film stop motion where an adventurous girl finds a secret door in her new house and knows some sinister secrets about the family.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
 
 ### 3\. [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
@@ -66,8 +75,15 @@ Quote: "You are, without a doubt, the five and a half most wonderful wild animal
 
 Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into his animal instincts and starts stealing. However, some farmers trap him as the story progresses.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. [Wallace & Gromit: The Curse of the Were-Rabbit](https://www.imdb.com/title/tt0312004/)
 
 Movie Name: Wallace & Gromit: The Curse of the Were-Rabbit
@@ -80,6 +96,9 @@ Quote: "I'm sorry, Gromit—I know you're doing this for my good, but the fact i
 
 The famous animated stop motion film is about Lady Tottington and Wallace, who go on a mission to rescue their village from a beast destroying the plots.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
 ### 5\. [Early Man](https://www.imdb.com/title/tt4701724/)
@@ -96,6 +115,9 @@ Early Man is yet another stop motion film that got considerable fame. The story 
 
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
 
 Movie Name: Kubo and Two Strings
@@ -108,6 +130,9 @@ Quote: "If you must blink, do it now."
 
 Kubo and Two Strings is one of the best stop motion films. The movie is about Kubo and his two strings, Monkey and Beetle. All three of them are expected to find a legendary suit of armor to defeat an evil spirit.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
 ### 7\. [My Life as a Zucchini](https://www.imdb.com/title/tt2321405/)
@@ -152,6 +177,9 @@ Chicken Run is a movie about Rocky and Ginger, a rooster and a chicken. They dec
 
 ![chicken run](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10\. [Mary and Max](https://www.imdb.com/title/tt0978762/)
 
 Movie Name: Mary and Max
@@ -164,6 +192,9 @@ Quote: "The reason I forgive you is that you are not perfect. You are imperfect.
 
 Mary and Max is a story about two unlikely people who befriended each other in a long-distance relationship through letters. Mary is an 8-year old lonely girl, and Max is a 44-year old obese man.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
@@ -178,6 +209,9 @@ Quote: "You can't stop bullying - it's part of human nature. If you were bigger 
 
 ParaNorman is a film stop motion with a fun supernatural story. Norman had a unique ability to talk to ghosts, and he was expected to save the town from a curse.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![paranorman](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-11.jpg)
 
 ### 12\. [Missing Link](https://www.imdb.com/title/tt6348138/)
@@ -194,6 +228,9 @@ As the best stop motion film, Missing Link is about Mr.Link, who hired a private
 
 ![missing link](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 13\. [The Pirates! In An Adventure With Scientists](https://www.imdb.com/title/tt1430626/)
 
 Movie Name: The Pirates! In An Adventure With Scientists
@@ -220,8 +257,14 @@ Quote: "Where are the rivers of blood, and the mountains of bones? I was promise
 
 The Boxtrolls is an animated film stop motion where Eggs and Winnie befriend each other for a cause. They were expected to save the Boxtrolls from the evil eyes of the exterminator.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the boxtrolls](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 15\. [The LEGO](https://www.imdb.com/title/tt1490017/)
 
 Movie Name: The LEGO
@@ -234,6 +277,9 @@ Quote: "You don't have to be the bad guy. You are the most talented, interesting
 
 The LEGO movie is about a LEGO construction worker recruited to stop an evil tyrant from destroying the world of LEGO. Emmet is a lead character in this best stop motion film.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the lego](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-15.jpg)
 
 ### Conclusion

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fundamentals of Hue Adjustments in Photoshop"
-date: 2024-05-26T14:50:51.579Z
-updated: 2024-05-27T14:50:51.579Z
+date: 2024-07-24T22:47:54.701Z
+updated: 2024-07-25T22:47:54.701Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Fundamentals of Hue Adjustments in Photoshop"
 excerpt: "This Article Describes In 2024, Fundamentals of Hue Adjustments in Photoshop"
 keywords: "PhotoHueBasics,HueAdjustPhotoshop,ColorCorrectionHS,HueEditingTips,PSPhotoHueFundamentals,AdjustColorHSMode,PhotoshopHueMastery"
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Fundamentals of Hue Adjustments in Photoshop
@@ -81,10 +81,16 @@ Both processes are essential to creating quality content and vary among creators
 * Furthermore, you use color correction and color grading to indicate the importance of some scene sections. For example, news briefs are usually brighter than the rest of the shot, especially when displaying important messages, such as breaking news.
 * Finally, you do photoshop cinematic color grading to ensure consistency in your photos. Weather is unpredictable and can cause your scenes to vary dramatically. For example, some sections of your location may not receive similar lighting. As such, you can make those sections brighter through color grading in photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Simple Ways to Color Grading in Photoshop
 
 Below are 3 simple ways to color grade in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Using Photo Filter
 
 Photo filters allow you to quickly make changes to your content by using Photoshop’s presets. Some of the reasons for using it include:
@@ -95,10 +101,16 @@ Photo filters allow you to quickly make changes to your content by using Photosh
 
 Here is how you do it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### 1\. Open the image
 
 You can do this by using your Photoshop device or selecting it from the program's library.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Open the Photo Filter tool
 
 You will find this in the Adjustments layer of your Photoshop program. Kindly open the menu and select the Photo Filter option. Usually, it is located on the bottom right section of your screen.
@@ -121,6 +133,9 @@ You can add different layers to the image by clicking the New Adjustment Layer i
 
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using Hue and Saturation
 
 You can also perform color grading in photoshop by making changes using the Hue and Saturation sliders. Here is how you can access them.
@@ -131,6 +146,9 @@ You can also perform color grading in photoshop by making changes using the Hue 
 4. A menu will open, where you select Hue/Saturation.
 5. Use the sliders to color grade and color correct your photo.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
 
 Here is how each adjustment affects your photo:
@@ -188,6 +206,9 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
@@ -253,8 +274,14 @@ You can do this by using your Photoshop device or selecting it from the program'
 
 You will find this in the Adjustments layer of your Photoshop program. Kindly open the menu and select the Photo Filter option. Usually, it is located on the bottom right section of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
@@ -263,14 +290,23 @@ Click the active color to open the color wheel. Additionally, you can preserve t
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 ### 4\. Add Layers
 
 You can add different layers to the image by clicking the New Adjustment Layer icon at the bottom of the Layers palette. You can make different adjustments by repeating the above process.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using Hue and Saturation
 
 You can also perform color grading in photoshop by making changes using the Hue and Saturation sliders. Here is how you can access them.
@@ -281,6 +317,9 @@ You can also perform color grading in photoshop by making changes using the Hue 
 4. A menu will open, where you select Hue/Saturation.
 5. Use the sliders to color grade and color correct your photo.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
 
 Here is how each adjustment affects your photo:
@@ -289,6 +328,9 @@ Here is how each adjustment affects your photo:
 * Saturation: Changes here affect the density of the color you choose. For example, sliding it left makes the color less dense, giving you the most transparent shade.
 * Lightness: The slider affects how bright the color you choose will appear. Sliding it extremely left will make it very dark.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Using Paint
 
 Paint is another simple way to color correct and color grade in Photoshop. Additionally, it leaves feeling like an artist if you do it correctly. You can opt for this method if you want to:
@@ -338,6 +380,9 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
@@ -358,6 +403,10 @@ Color grading photoshop refers to the final process of content creation. It invo
 
 For example, tweaking your Instagram photo with a retro color scheme is color grading. You can achieve this by using photoshop cinematic color grading.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Color Correction
 
 Color correction refers to the fixes you make when creating your content. It focuses on making changes relevant to your target audience. You can do this during production from the device. For example, you can adjust your camera’s exposure when shooting your stills. As such, they appear more natural and unprocessed.
@@ -381,10 +430,16 @@ Both processes are essential to creating quality content and vary among creators
 * Furthermore, you use color correction and color grading to indicate the importance of some scene sections. For example, news briefs are usually brighter than the rest of the shot, especially when displaying important messages, such as breaking news.
 * Finally, you do photoshop cinematic color grading to ensure consistency in your photos. Weather is unpredictable and can cause your scenes to vary dramatically. For example, some sections of your location may not receive similar lighting. As such, you can make those sections brighter through color grading in photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Simple Ways to Color Grading in Photoshop
 
 Below are 3 simple ways to color grade in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Using Photo Filter
 
 Photo filters allow you to quickly make changes to your content by using Photoshop’s presets. Some of the reasons for using it include:
@@ -395,6 +450,13 @@ Photo filters allow you to quickly make changes to your content by using Photosh
 
 Here is how you do it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 1\. Open the image
 
 You can do this by using your Photoshop device or selecting it from the program's library.
@@ -405,16 +467,28 @@ You will find this in the Adjustments layer of your Photoshop program. Kindly op
 
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Cycle between filters
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 4\. Add Layers
 
 You can add different layers to the image by clicking the New Adjustment Layer icon at the bottom of the Layers palette. You can make different adjustments by repeating the above process.
@@ -439,6 +513,9 @@ Here is how each adjustment affects your photo:
 * Saturation: Changes here affect the density of the color you choose. For example, sliding it left makes the color less dense, giving you the most transparent shade.
 * Lightness: The slider affects how bright the color you choose will appear. Sliding it extremely left will make it very dark.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Using Paint
 
 Paint is another simple way to color correct and color grade in Photoshop. Additionally, it leaves feeling like an artist if you do it correctly. You can opt for this method if you want to:
@@ -472,6 +549,9 @@ III. You can switch the colors by clicking the main color box to activate the co
 
 IV. The paint tool offers you different brushes depending on the function. For example, you have a healing brush that repairs pixels and blends them seamlessly with the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** As you can see photoshop color grading is a simple process that results in stunning pictures when you use it correctly. Additionally, you have tons of presets available to simplify your work. An important point to consider is to keep things minimal. Keep checking with us regularly for more insights on how to create quality content with different color correction software.
@@ -492,6 +572,9 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Color Grading
 
 Color grading photoshop refers to the final process of content creation. It involves subtle tweaks to your photos to make them more stylish. Some of your reasons may include:
@@ -535,6 +618,9 @@ Both processes are essential to creating quality content and vary among creators
 
 Below are 3 simple ways to color grade in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Using Photo Filter
 
 Photo filters allow you to quickly make changes to your content by using Photoshop’s presets. Some of the reasons for using it include:
@@ -553,16 +639,25 @@ You can do this by using your Photoshop device or selecting it from the program'
 
 You will find this in the Adjustments layer of your Photoshop program. Kindly open the menu and select the Photo Filter option. Usually, it is located on the bottom right section of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Cycle between filters
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 ### 4\. Add Layers
@@ -571,6 +666,9 @@ You can add different layers to the image by clicking the New Adjustment Layer i
 
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Using Hue and Saturation
 
 You can also perform color grading in photoshop by making changes using the Hue and Saturation sliders. Here is how you can access them.

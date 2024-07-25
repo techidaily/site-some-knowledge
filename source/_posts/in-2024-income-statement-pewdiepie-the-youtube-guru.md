@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Income Statement  PewDiePie, The YouTube Guru\""
-date: 2024-05-26T15:11:58.266Z
-updated: 2024-05-27T15:11:58.266Z
+date: 2024-07-24T22:48:50.173Z
+updated: 2024-07-25T22:48:50.173Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Income Statement: PewDiePie, The YouTube Guru\""
 excerpt: "\"This Article Describes In 2024, Income Statement: PewDiePie, The YouTube Guru\""
 keywords: "PewDiePie Earnings,Guru Income Statement,YouTuber Revenue,PewDiePie Profit,Streamer Financials,YouTube Guru Earning,PewDiePie Net Worth"
-thumbnail: https://www.lifewire.com/thmb/uGmnDyKyM5PkCqjc-VoDNR9geX8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-share-liked-songs-on-spotify-5200847-f4f39ccd5ec84965bd94ef86f0f93a94.jpg
+thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406cf2fae44c9a446c53d02efdc.jpg
 ---
 
 ## Income Statement: PewDiePie, The YouTube Guru
@@ -22,10 +22,16 @@ Controversy, name, fame, and popularity go hand in hand when we talk about Felix
 
 So, now that you know how much PewDiePie is popular, you must also be keen to know how much he earns. Why wait then, keep reading and know all about PewDiePie, **how much does PewDiePie make**, videos, controversies, and everything else.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Who is PewDiePie?
 
 Let’s first start with the basic identity and financial information of Felix Arvid Ulf Kjellberg aka PweDiePie.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![felix arvid ulf kjellberg aka pewdiepie](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-01.jpg)
 
 | Name                   | Felix Arvid Ulf Kjellberg aka PweDiePie.                                                                                                                                                                             |
@@ -45,6 +51,10 @@ Let’s first start with the basic identity and financial information of Felix A
 
 The above table was just a short summary of PewDiePie. If you are interested to know in detail about Felix Arvid Ulf Kjellberg, what makes him so popular and wanted among his followers, what are his source of earnings, about his videos, followers, and fan base, we will let you know all in the following parts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![pewdiepie](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-02.jpg)
 
 ## Part 2: Interesting stats about PewDiePie YouTube earning
@@ -87,6 +97,9 @@ By now, we already know that PewDiePie is the king of YouTube but here we would 
 * On [Facebook](https://www.facebook.com/PewDiePie), the number of people who follow PewDiePie is over 9.2 million.
 * [Instagram](https://www.instagram.com/pewdiepie/) leads the list with followers of over 21.9 million.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: PewDiePie’s success story: Why he is trending on YouTube?
 
 The popularity of PewDiePie on YouTube can be well accessed by the number of subscribers that the channel has- over 111 Million till date with over 16 billion views on content from people across the globe.
@@ -121,6 +134,9 @@ PewDiePie has uploaded multiple gaming and other comic content videos that are p
 
 This is one of the most viewed videos of PewDiePie that has a compilation of the moments from Let’s Play-Styled content of PewDiePie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a funny montage](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-06.jpg)
 
 2\. [Funny Gaming Montage](https://www.youtube.com/watch?v=dt3BvMyHjlc&feature=emb%5Fimp%5Fwoyt)
@@ -161,10 +177,16 @@ Step1 Launch the software and open the Auto Reframe function. The tool offers mu
 
 Add the media file by clicking File > Import Media, and then right-click and select the Auto Reframe function.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 1b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-10.jpg)
 
 And the last option is to choose Auto reframe from the Tools section on the menu bar.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 1c](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-11.jpg)
 
 Step2 After the Auto Reframe feature is selected, a new dialogue box will open. Choose to add the media file by clicking on the Import Media button (if the file is not yet added).
@@ -175,6 +197,9 @@ If you wish to change the added file, tap on Replace File option.
 
 Step3 Next, you need to adjust the aspect ratio and the motion speed. You can choose aspect ratio from multiple options- square (1:1), vertical (9:16), standard (4:3), widescreen (16:9), and cinema (21:9). The motion speed can be kept as Auto, Fast, or Slow as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 3](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-13.jpg)
 
 Step4 After all the settings are done, click on the Analysis option and the software will do the video analysis.
@@ -191,6 +216,9 @@ Step5 Preview of the video can now be checked and if further editing is needed, 
 
 Step6 Finally, tap on the Export button, and choose the desired file and the destination to save the video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 6](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-17.jpg)
 
 You can check the other AI Editing and more features at [Wondershare Filmora Guide.](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -205,6 +233,9 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
 
 The above table was just a short summary of PewDiePie. If you are interested to know in detail about Felix Arvid Ulf Kjellberg, what makes him so popular and wanted among his followers, what are his source of earnings, about his videos, followers, and fan base, we will let you know all in the following parts.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pewdiepie](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-02.jpg)
 
 ## Part 2: Interesting stats about PewDiePie YouTube earning
@@ -229,14 +260,29 @@ We know that PewDiePie and other top YouTubers make a lot of money from YouTube,
 
 The revenue earned from YouTube depends on multiple factors like daily video views, number of subscribers, total video views, the topic of the video, and more. There are YouTube money or revenue calculators available that can help you assess YouTube earnings if these data and information are provided to them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![youtube money calculator](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-03.jpg)
 
 **Bar-chart depicting the annual income of PewDiePie over the years**
 
 To give you an idea, about how **much money does PewDiePie make** and how the channel has grown over the years in terms of revenue or income, below given are the charts and a table.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pewdiepie wealth growth](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pewdiepie bar chart](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-05.jpg)
 
 **The popularity of PewDiePie over other social media sites**
@@ -293,6 +339,9 @@ This is an interesting video of PewDiePie that features a collection of funny mo
 
 This is another popular video of PewDiePie that features a song which is dedicated to one of PewDiePie’s pet dogs- Maya. The video also has a collection of moments from his videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![jabba the hutt](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-08.jpg)
 
 ## Part 4: How to be a YouTuber and make videos like PewDiePie
@@ -321,10 +370,16 @@ Step1 Launch the software and open the Auto Reframe function. The tool offers mu
 
 Add the media file by clicking File > Import Media, and then right-click and select the Auto Reframe function.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 1b](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-10.jpg)
 
 And the last option is to choose Auto reframe from the Tools section on the menu bar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 1c](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-11.jpg)
 
 Step2 After the Auto Reframe feature is selected, a new dialogue box will open. Choose to add the media file by clicking on the Import Media button (if the file is not yet added).
@@ -339,6 +394,9 @@ Step3 Next, you need to adjust the aspect ratio and the motion speed. You can ch
 
 Step4 After all the settings are done, click on the Analysis option and the software will do the video analysis.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 4a](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-14.jpg)
 
 The tool will reframe the video automatically as per the speed and the aspect ratio selected. Clicking on the Restart button will let you change the aspect ratio and the speed.
@@ -347,6 +405,9 @@ The tool will reframe the video automatically as per the speed and the aspect ra
 
 Step5 Preview of the video can now be checked and if further editing is needed, it can be done using Undo, redo Next Edit Point, and Previous Edit Point features.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![wondershare filmora auto reframe 5](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-pewdiepie-make-2022-updated-16.jpg)
 
 Step6 Finally, tap on the Export button, and choose the desired file and the destination to save the video.
@@ -355,6 +416,9 @@ Step6 Finally, tap on the Export button, and choose the desired file and the des
 
 You can check the other AI Editing and more features at [Wondershare Filmora Guide.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Final Words
 
 PewDiePie is an apt example of earning fortunes by uploading videos and being popular online. There are many factors that make him popular amongst his fans, and there is a lot to learn from the interesting journey of PewDiePie. If you too, wish to make videos like PewDiePie that are catchy, engaging, and interesting, but do not know how to proceed, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will prove to be a good companion.

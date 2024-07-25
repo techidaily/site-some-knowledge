@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Hooking Audience Early with Smart Intros"
-date: 2024-05-26T14:57:37.426Z
-updated: 2024-05-27T14:57:37.426Z
+date: 2024-07-24T22:48:12.995Z
+updated: 2024-07-25T22:48:12.995Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Hooking Audience Early with Smart Intros"
 excerpt: "This Article Describes [Updated] Hooking Audience Early with Smart Intros"
 keywords: "\"Engage Audiences,Smart Openings,Attention-Grabbing Beginnings,Intellectual Intrigue,Premise Pique,Intro Sparkle,Curiosity Kickoff\""
-thumbnail: https://www.lifewire.com/thmb/zw0Z-bfGqX8i4XVXOnsXnouDZuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-watch-the-crow-movies-in-order-742a37ba4e0748e3a691420484c36796.jpg
+thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3db5eda647c388c8800cd490f.jpg
 ---
 
 ## Hooking Audience Early with Smart Intros
@@ -60,6 +60,14 @@ We will analyze the intros of the top three podcasts to find out the most import
 
 ### [This American Life](https://www.thisamericanlife.org/1/new-beginnings)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![this american life](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-1.jpg)
 
 According to the US rankings, "This American Life" is the fourth most popular podcast and focuses on people's real-life stories. This podcast has around 2.2 million listeners. Ira Glass hosts the show, and episodes are released weekly. Ira introduces a new character in each episode and inquires about their background.
@@ -70,6 +78,9 @@ According to the US rankings, "This American Life" is the fourth most popular po
 
 My favorite murder is the fifth most popular podcast according to the US charts. Karen Kilgariff and Georgia Hardstark host this show and discuss the true crime stories narrated by their friends or family. It has also been nominated for the best podcast award and has about 30 million listeners.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Stuff You Should Know](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/)
 
 ![stuff you should know](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-3.jpg)
@@ -90,16 +101,25 @@ _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4\. How to make a good podcast intro?
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How long should a podcast intro be?
 
 Your podcast intro should be brief and snappy. The ideal duration for a podcast intro is between 30 to 60 seconds. However, it should not last more than a minute and a half.
 
 The intro of "This American Life" lasted for sixty seconds, while the intro of stuff you should know was over in about forty seconds. Both of these intros were short and to the point. However, they did an excellent job of providing just the correct information to pique the audience's interest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Is background music helpful in making the intro more appealing?
 
 Selecting a soundtrack or sound effects for your podcast intro is optional, but it enhances the quality of the content presented. The soundtrack should be chosen carefully as it functions as a logo that presents a brand.
@@ -125,6 +145,9 @@ A call to action is also effective in establishing familiarity with the listener
 
 For instance, in the intro of "This American Life," Ira Glass uses the phrase, "If you haven't tried the previous episodes yet, you should." reminding the new audience to check the previous episodes as well.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### When is the right time to introduce yourself and your guests?
 
 Logically it would help if you introduced yourself to the new audience right after introducing the name of your podcast. Introducing yourself is not challenging, but you can use guest introductions to create a buzz that will help you gain your listeners' attention.
@@ -133,6 +156,9 @@ The proper way to introduce your episode guest is to tell your audience about th
 
 Let's look at the samples of some of the most popular podcast intros.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Effective podcast introduction examples
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
@@ -159,8 +185,23 @@ This podcast's intro, which lasted for only 25 seconds, was backed by dramatic m
 
 Hello! and welcome to —------------ (podcast name); the podcast is about the —---------------. (what is the podcast about) My guest today is the —---------.(introduction of the guest). We have an excellent episode for you today! So buckle up your seat belts, and let's get right into it!
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Global News Podcast](https://www.bbc.co.uk/programmes/p0d9229j)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![global news podcast](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-5.jpg)
 
 Global News Podcast is one of the top news podcasts by BBC World Service, and its intro is as follows.
@@ -197,6 +238,9 @@ Hey! What's going on, ladies and gentlemen? This podcast is a —---------------
 
 ### [Welcome to Your Fantasy](https://podcasts.apple.com/us/podcast/9-where-the-butt-ends/id1517709981?i=1000533849644) \- A crime show podcast
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![welcome to your fantasy](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-7.jpg)
 
 Welcome to Your Fantasy is one of the most popular crime show podcasts.
@@ -217,8 +261,28 @@ The following program contains adult content, violence, and strong language. The
 
 Despite operating in plain sight for almost —-----, it took a twist of fate for his reign of terror to finally come to an end. And yes, you guessed it, right, ladies and gentlemen, today we will talk about the infamous —------.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Football Weekly](https://www.theguardian.com/football/series/footballweekly)\- A sports podcast
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![football weekly](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-8.jpg)
 
 Football Weekly is the best sports podcast, and its intro goes like this,
@@ -237,6 +301,9 @@ This is —-------(the podcast's name). Hello and welcome to the —----------; 
 
 —-------- is at the panel today with us (introduce the guest of the episode). Yesterday's game of —--- was a bummer, and we'll talk about it later in the episode.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final words
 
 A podcast intro is the same as a show's teaser. It is like a small keyhole that discloses what the listener will be diving into. It should be short, snappy, and engaging enough to leave the audience gasping for more.
@@ -255,6 +322,9 @@ Now that we've established which elements are more prominent in the intros of so
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### How long should a podcast intro be?
 
 Your podcast intro should be brief and snappy. The ideal duration for a podcast intro is between 30 to 60 seconds. However, it should not last more than a minute and a half.
@@ -286,6 +356,9 @@ A call to action is also effective in establishing familiarity with the listener
 
 For instance, in the intro of "This American Life," Ira Glass uses the phrase, "If you haven't tried the previous episodes yet, you should." reminding the new audience to check the previous episodes as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### When is the right time to introduce yourself and your guests?
 
 Logically it would help if you introduced yourself to the new audience right after introducing the name of your podcast. Introducing yourself is not challenging, but you can use guest introductions to create a buzz that will help you gain your listeners' attention.
@@ -298,6 +371,9 @@ Let's look at the samples of some of the most popular podcast intros.
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Crushed - A Comedy Podcast
 
 ![crushed](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-4.jpg)
@@ -322,6 +398,9 @@ Hello! and welcome to —------------ (podcast name); the podcast is about the �
 
 ### [Global News Podcast](https://www.bbc.co.uk/programmes/p0d9229j)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![global news podcast](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-5.jpg)
 
 Global News Podcast is one of the top news podcasts by BBC World Service, and its intro is as follows.
@@ -340,6 +419,9 @@ Hello! This is the —----- news podcast from the —--------- (introduce the ch
 
 ### [The Joe Rogan Experience](https://podcast.app/the-joe-rogan-experience-p15/) \- A culture and society podcast
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![the joe rogan experience](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-6.jpg)
 
 It is one of the top culture and society podcasts, with the following intro.
@@ -356,6 +438,9 @@ This podcast's intro is a bit of a freestyle that changes with each episode. It'
 
 Hey! What's going on, ladies and gentlemen? This podcast is a —---------------- (explain what the podcast is about). My guest today is —-----, who is a —----- (introduce the guest), and if you are a frequent listener of —------, then you must know that I love talking about life, philosophy, and the differences in society's cultures!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Welcome to Your Fantasy](https://podcasts.apple.com/us/podcast/9-where-the-butt-ends/id1517709981?i=1000533849644) \- A crime show podcast
 
 ![welcome to your fantasy](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-7.jpg)
@@ -378,6 +463,10 @@ The following program contains adult content, violence, and strong language. The
 
 Despite operating in plain sight for almost —-----, it took a twist of fate for his reign of terror to finally come to an end. And yes, you guessed it, right, ladies and gentlemen, today we will talk about the infamous —------.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### [Football Weekly](https://www.theguardian.com/football/series/footballweekly)\- A sports podcast
 
 ![football weekly](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-8.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Illustrate & Write with iOS/Android Tools\""
-date: 2024-05-26T13:40:40.797Z
-updated: 2024-05-27T13:40:40.797Z
+date: 2024-07-24T22:44:52.799Z
+updated: 2024-07-25T22:44:52.799Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Illustrate & Write with iOS/Android Tools\""
 excerpt: "\"This Article Describes 2024 Approved: Illustrate & Write with iOS/Android Tools\""
 keywords: "\"IOS Writing Apps,Android Illustrator Tools,Mobile Illustration Software,Digital Art on iOS,Creative iOS Graphics,Android Designing Aids,Cross-Platform Drawing Tools\""
-thumbnail: https://www.lifewire.com/thmb/Dp9islCb9GD3RtQaIU23WoKYMSs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg
+thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
 ## Illustrate & Write with iOS/Android Tools
@@ -31,6 +31,9 @@ Hello guys, as we all live in the era of technology, it's easier for us to captu
 9. [9.New Designs: Photo Editor Backgrounds, Fonts, Fun](#part2-9)
 10. [10\. Text Over Photo](#part2-10)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Add text using the phone gallery
 
 ### **iPhone:**
@@ -41,6 +44,9 @@ To add text to a photo using iPhone (Version: iOS 11 and later), you can follow 
 2. Now click to choose an image.
 3. In the top left corner, tap the edit button and choose markup in the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![tap the edit button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-1.jpg)
 
 1. Just click on the plus button (+)at the bottom.
@@ -53,6 +59,9 @@ To add text to a photo using iPhone (Version: iOS 11 and later), you can follow 
 
 ![make desirable changes in the text](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Android:**
 
 Aren't you an iPhone user? No worries! Here is how to write over photoson mobile using default Google photos.
@@ -61,6 +70,9 @@ Aren't you an iPhone user? No worries! Here is how to write over photoson mobile
 2. Now look down to the bottom and click the edit button (three horizontal lines).
 3. Just press the markup button (squiggly line).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![press the markup button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-4.jpg)
 
 1. Now click the text button and enter your text.
@@ -68,12 +80,18 @@ Aren't you an iPhone user? No worries! Here is how to write over photoson mobile
 
 ![tap the done button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best 10 Apps for writing on photos
 
 ### 1\. Phonto - Text on photos
 
 So guys, if you are looking for an app that is easy to use and offers various features, then Phonto will be the right choice. Phonto is free to download and use, but it contains ads. However, it also provides in-app purchases to unlock its full potential. You can add text, change its color, size, opacity, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phonto](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-6.jpg)
 
 **Key features:**
@@ -104,10 +122,17 @@ PicLab - Photo Editor will be the right fit for you if you are someone who wants
 
 [Android](https://play.google.com/store/apps/details?id=com.apperto.piclabapp&hl=en) (Contain ads, In-App purchases) | [iOS](https://apps.apple.com/us/app/photo-editor/id597851882) (Free, Offers In-App purchases)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Word Swag - Add Text on Photos
 
 This app is also an excellent tool. Word Swag is one of those apps mainly designed and developed for writing over images. However, this one takes explicitly this to an advanced level. You can quickly get it for free of cost (contain ads). Removing the ads and unlocking some premium features is a nominal fee. Most of the custom editing options, however, come at a cost.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![word swag](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-8.jpg)
 
 **Key features:**
@@ -126,6 +151,9 @@ This app is also an excellent tool. Word Swag is one of those apps mainly design
 
 Font Candy Photo & Text Editor offers a great user experience with its great tools. You can easily add text to an image and customize it with various options. It is free to use, but you can make some In-App purchases to unleash its premium features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![font candy photo](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-9.jpg)
 
 **Key features:**
@@ -140,6 +168,9 @@ Font Candy Photo & Text Editor offers a great user experience with its great too
 
 [iOS](https://apps.apple.com/app/font-candy-better-photo-editor/id661971496) (Free, Offers In-App purchases)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. PicMonkey Photo Editor: Design, Touch Up, Filters
 
 Pic Monkey Photo Editor comes with free but In-App purchases option. The app can help in adding text to photos with touches and filter effects. It also offers cloud storage to store your work on the premium plan. Moreover, you can quickly get pre-made canvases for different social media platforms.
@@ -161,6 +192,9 @@ Pic Monkey Photo Editor comes with free but In-App purchases option. The app can
 
 Typorama is another excellent option for iOS users to write over photos. As indicated by its name, the app's primary focus is on text and photo editing. Some killing features like 3D distortion and gradient colors for text make it stand as the best.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![typorama](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-11.jpg)
 
 **Key features:**
@@ -227,6 +261,9 @@ This app is especially for those friends who want to add Arabic text to photos. 
 
 Text Over photo is another great app with several tools. Using it, you can write on your photos or the app's backgrounds, emoji, etc., provided. It offers collages and grids options too. It's also freemium with paid features in-app.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text over photo](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-15.jpg)
 
 **Key features:**
@@ -250,6 +287,9 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
 
 Add text using the phone gallery
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **iPhone:**
 
 To add text to a photo using iPhone (Version: iOS 11 and later), you can follow these instructions:
@@ -258,18 +298,32 @@ To add text to a photo using iPhone (Version: iOS 11 and later), you can follow 
 2. Now click to choose an image.
 3. In the top left corner, tap the edit button and choose markup in the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![tap the edit button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-1.jpg)
 
 1. Just click on the plus button (+)at the bottom.
 2. Now choose the Text option. It's all done. However, if you want to resize or rotate the text, it can be done quickly through dragging.
 3. You can also change the font by clicking the font button, which appears small, and the capital A rounded by a circle(aA).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![clicking the font button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-2.jpg)
 
 1. Click it to make desirable changes in the text, and a popup menu will appear. Now select the edit option to enter your text.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make desirable changes in the text](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Android:**
 
 Aren't you an iPhone user? No worries! Here is how to write over photoson mobile using default Google photos.
@@ -278,6 +332,9 @@ Aren't you an iPhone user? No worries! Here is how to write over photoson mobile
 2. Now look down to the bottom and click the edit button (three horizontal lines).
 3. Just press the markup button (squiggly line).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![press the markup button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-4.jpg)
 
 1. Now click the text button and enter your text.
@@ -285,12 +342,18 @@ Aren't you an iPhone user? No worries! Here is how to write over photoson mobile
 
 ![tap the done button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Best 10 Apps for writing on photos
 
 ### 1\. Phonto - Text on photos
 
 So guys, if you are looking for an app that is easy to use and offers various features, then Phonto will be the right choice. Phonto is free to download and use, but it contains ads. However, it also provides in-app purchases to unlock its full potential. You can add text, change its color, size, opacity, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phonto](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-6.jpg)
 
 **Key features:**
@@ -307,6 +370,9 @@ So guys, if you are looking for an app that is easy to use and offers various fe
 
 PicLab - Photo Editor will be the right fit for you if you are someone who wants a lot more features than only adding text. PicLab offers more advanced photo editing tools to help you in giving your photo a unique look. You can download and use it for free, but it contains ads you can remove by paying a small amount.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![piclab](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-7.jpg)
 
 **Key features:**
@@ -343,6 +409,9 @@ This app is also an excellent tool. Word Swag is one of those apps mainly design
 
 Font Candy Photo & Text Editor offers a great user experience with its great tools. You can easily add text to an image and customize it with various options. It is free to use, but you can make some In-App purchases to unleash its premium features.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![font candy photo](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-9.jpg)
 
 **Key features:**
@@ -357,6 +426,10 @@ Font Candy Photo & Text Editor offers a great user experience with its great too
 
 [iOS](https://apps.apple.com/app/font-candy-better-photo-editor/id661971496) (Free, Offers In-App purchases)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 5\. PicMonkey Photo Editor: Design, Touch Up, Filters
 
 Pic Monkey Photo Editor comes with free but In-App purchases option. The app can help in adding text to photos with touches and filter effects. It also offers cloud storage to store your work on the premium plan. Moreover, you can quickly get pre-made canvases for different social media platforms.
@@ -378,6 +451,9 @@ Pic Monkey Photo Editor comes with free but In-App purchases option. The app can
 
 Typorama is another excellent option for iOS users to write over photos. As indicated by its name, the app's primary focus is on text and photo editing. Some killing features like 3D distortion and gradient colors for text make it stand as the best.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![typorama](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-11.jpg)
 
 **Key features:**
@@ -395,6 +471,9 @@ Typorama is another excellent option for iOS users to write over photos. As indi
 
 Caption is a simple app for writing over photos. You only need to choose an image and add your caption over it. It is also a freemium app with providing purchases in app. However, if you love ads free experience with premium features, you can make In-App Purchases.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![caption it](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-12.jpg)
 
 **Key features:**
@@ -423,6 +502,9 @@ This app works for both photos and videos. You can add text to them. This is als
 
 [Android](https://play.google.com/store/apps/details?id=com.origa.salt&hl=en) (Contain ads, In-App purchases)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. New Designs: Photo Editor Backgrounds, Fonts, Fun
 
 This app is especially for those friends who want to add Arabic text to photos. However, you can also use it to add English text too. It's free, but you can make purchases in-app to access premium features.
@@ -444,6 +526,9 @@ This app is especially for those friends who want to add Arabic text to photos. 
 
 Text Over photo is another great app with several tools. Using it, you can write on your photos or the app's backgrounds, emoji, etc., provided. It offers collages and grids options too. It's also freemium with paid features in-app.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text over photo](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-15.jpg)
 
 **Key features:**

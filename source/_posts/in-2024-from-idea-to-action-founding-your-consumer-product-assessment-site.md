@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Idea to Action  Founding Your Consumer Product Assessment Site\""
-date: 2024-05-26T13:35:58.707Z
-updated: 2024-05-27T13:35:58.707Z
+date: 2024-07-24T22:44:41.247Z
+updated: 2024-07-25T22:44:41.247Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, From Idea to Action: Founding Your Consumer Product Assessment Site\""
 excerpt: "\"This Article Describes In 2024, From Idea to Action: Founding Your Consumer Product Assessment Site\""
 keywords: "\"Idea-to-Action Platforms,Consumer Product Insights,Start a Review Site,Product Assessment Guide,Entrepreneur's Toolkit,Launching E-Commerce Sites,User Experience Analysis\""
-thumbnail: https://www.lifewire.com/thmb/jbamhywtXiyGSlJ3P3Gh1VQ_dkA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/FaceTime-Conference-Call-d68241b6f5914009a7eb2486fddab0e1.jpg
+thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a4452deb2b08eaf2b9d1e47c0a1.jpg
 ---
 
 ## From Idea to Action: Founding Your Consumer Product Assessment Site
@@ -44,12 +44,21 @@ When creating a YouTube channel, you need to make sure that you have all the equ
 
 ![things to prepare product review video](https://images.wondershare.com/filmora/article-images/2022/09/things-to-prepare-product-review-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Things to consider to start Product Review Channel
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Create a YouTube Channel**
 
 Before you do a product review, you need to create a YouTube channel where you can post the product review videos you made. There you can get paid for the videos you made thru Google Adsense when your channel is Monetized. But if you're just starting out, don't think that you'll make money right away, because it's not that easy. Before you can earn on YouTube you must first pass the requirements that YouTube asks for you to become a partner, it is to have 1,000 Subscriber and 4,000 watch hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select right product to review](https://images.wondershare.com/filmora/article-images/2022/09/select-right-product-to-review.jpg)
 
 However, it's important to note that even from there, YouTube will still evaluate your channel for other strict criteria to make sure it is complying with all their policies and best practices outside of watch time and watch hours minimums.
@@ -58,10 +67,17 @@ For now, just do you job and create a quality video to soon be monetized.
 
 ![results of qulaity product video](https://images.wondershare.com/filmora/article-images/2022/09/results-of-qulaity-product-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### **Kind of Products to Review**
 
 Start by reviewing products you have, because nobody is going to give out a free product to someone who's never uploaded a review. Of course, it's important from the starts you really need to invest in the product you want to review, so you can start a video reviewing product on your channel if that's the content you've chosen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![decide product review type](https://images.wondershare.com/filmora/article-images/2022/09/decide-product-review-type.jpg)
 
 For the Brand to notice your video, buy some of their products that you think useful to you and make a review about it, make sure to make a video review creative to stands out to another reviewer. So that when the Brands see your video they will be amazed by at your work. But just make sure that the product your reviewing is approved to or you don't have any issue with the products, because remember it's not just the Brand eyeing to your work but the viewers are also looking for such a review.
@@ -83,6 +99,9 @@ Here is some basic information on how you make a quality script
 
 Just like product demo videos, product review videos also need a proper script before recording so that you cover everything that you want to without missing any key aspects of the product that you're reviewing. Keep the review short and to the point because potential customers have come to your channel to watch the review of the product in the market. Concentrate on the products and explain the features in detail to help users determine if the products suit them. You can add your opinion to humanize the product features. As an Influencer, the main purpose of doing product review is to get people to buy the products you feature. You need to build credibly with customers for them to buy what you recommend. To achieve this, you need to give your genuine review by highlight the pros and cons of the product. This will get you the potential customer or subscriber who will happy to buy the products you are endorsing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Good Editing**
 
 Editing is important if you want to look good. People don't like to watch long boring video so try making video short crisp and try a good reliable video editing software. I recommend you **[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora** got the right solution to record high-quality product review video, let's your record videos at 4k HD resolution. You can add custom green screen background to your video to give a studio like effects with ease. Not just that check out the other features like, audio enhancement, overlays, background music etc. That will exclusively available to you when you use Filmora.
@@ -95,6 +114,9 @@ Also stick to clean edits, this will give your video a professional look and enc
 
 ![edit product review video filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-product-review-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Promote the Video**
 
 There are a lot of powerful benefits on how you should not forget to promote your video creation.
@@ -105,6 +127,9 @@ Social media advertising is about more than promoting your products or services.
 
 Just remember create content that is both engaging and relevant to your audience and people will naturally remember your channel, re share your content and recommend you to their followers, friends, and family. By making sure your channel is creating shareable paid content, you will be able to drive more traffic to your website and improve conversions.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![prompt product review video](https://images.wondershare.com/filmora/article-images/2022/09/prompt-product-review-video.jpg)
 
 ## Conclusion
@@ -133,6 +158,9 @@ Just remember create content that is both engaging and relevant to your audience
 
 ![prompt product review video](https://images.wondershare.com/filmora/article-images/2022/09/prompt-product-review-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Even though the company want influencers to be fair and honest, they also expect a relatively positive review since they're paying the influencers for their time. Many viewers on necessarily don't care if a video is sponsored or not, they mainly want creator to give a useful opinion. The most important part of those process is to be patient. Expect it to take a months before get notice of people, getting subscriber is complicated and you feel like giving up, but the more reviews you have, the better. Thus, in the beginning you won't make anything until you put in the work, but you can see how you can go from 0 subscribers or views to 1000 once you build up a nice content, all from your single YouTube channel. Remember that give your best in every video you make because one day your hard work will pay off. Best of Luck!

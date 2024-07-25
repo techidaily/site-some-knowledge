@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Securely Download YouTube's SRT Subtitles"
-date: 2024-05-26T13:04:13.027Z
-updated: 2024-05-27T13:04:13.027Z
+date: 2024-07-24T22:43:19.852Z
+updated: 2024-07-25T22:43:19.852Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] How to Securely Download YouTube's SRT Subtitles"
 excerpt: "This Article Describes [New] How to Securely Download YouTube's SRT Subtitles"
 keywords: "\"Downloading SRT Subtitles Safely,YouTube SRT Subtitle Security,Safe SRT Download From YouTube,Protecting SRT Files During Download,Secure YouTube SRT Subs Extraction,Safeguarding YouTube SRT Files,Privacy-Focused YouTube SRT Access\""
-thumbnail: https://www.lifewire.com/thmb/n-gh4j1AaDVZ39nbqdgnvkuDwv0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freeinternet-c3d6ba69b0de4ee3852547ba7dc8250f.jpg
+thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a1e199fa6e8f6bfec8524954.jpg
 ---
 
 ## How to Securely Download YouTube's SRT Subtitles
@@ -72,6 +72,9 @@ Step4 Choose Subtitles and tap on the EDIT option.
 
 Step5 Next, click on EDIT AS TEXT which will download the subtitles without the time stamp. If you want the time stamp, click on the 3 dots next to Edit as Text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![srt subtitle download youtube studio 5](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-06.jpg)
 
 Step6 Next to EDIT TIMINGS, click on 3 dots and then choose Download subtitle.
@@ -80,6 +83,9 @@ Step6 Next to EDIT TIMINGS, click on 3 dots and then choose Download subtitle.
 
 Step7 Finally, choose the location to save the downloaded subtitle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![srt subtitle download youtube studio 7](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-08.jpg)
 
 ### Method 2: Download any YouTube SRT subtitles with Online Sub Downloaders
@@ -90,6 +96,9 @@ Online tools also work as a decent choice for downloading YouTube SRT subtitles.
 
 Simple interface and quick processing make this online tool a decent choice for the users willing to download SRT subtitles from YouTube. You simply need to enter the video URL to the tool and you will get subtitle download option in almost all popular languages.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![youtubesubtitles](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-09.jpg)
 
 #### **2\. Downsub**
@@ -102,6 +111,9 @@ This is free to use online program that allows downloading subtitles from an arr
 
 This is another widely used online tool for extracting SRT subtitles from YouTube, Facebook, DailyMotion, and more. The tool allows you to either enter the video URL or even search for the desired video using any related keyword. Locally saved videos with subtitles can also be added to the tool for processing. The program is simple to use and allows extracting subtitles in various different languages. In addition to SRT, the subtitles can also be downloaded in VTT and TXT format.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![savesubs](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-13.jpg)
 
 #### **How to download SRT file from YouTube using Online Sub Downloaders**
@@ -114,10 +126,16 @@ Step1 Open [Downsub](https://downsub.com/) on your browser window and then at th
 
 Step2 Click on the DOWNLOAD button after the video URL is entered.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![downsub srt download 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-11.jpg)
 
 Step3 The tool will start processing and will show the language options for SRT download. Click on the SRT button next to the desired language and the subtitle file will be downloaded to your local system.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![downsub srt download 3](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-12.jpg)
 
 ### Method 3: Get YouTube subtitles as .srt with Reliable Software
@@ -128,6 +146,9 @@ The YouTube Studio and Online tools are basic methods for extracting subtitle fi
 
 When it comes to any type of video-related tasks, Wondershare UniConverter is a reliable software around. Compatible with Windows and Mac systems, the software allows extracting the subtitles from YouTube as well as others. The subtitles can be downloaded from videos in all popular formats. The interface of the software is user-friendly and the process is very quick.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![uniconverter](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-23.jpg)
 
 Using the software, you can add the already downloaded YouTube videos or can also use the Downloader function of the tool for downloading YouTube or any other video desired. A wide range of other video editing features is also supported by the software thus making it a complete video toolbox.
@@ -136,12 +157,18 @@ Using the software, you can add the already downloaded YouTube videos or can als
 
 This is free to use Windows-based tool that allows extracting subtitles from YouTube in SRT as well as TXT format. Subtitles can be extracted from an entire text or also from an interval as desired. Using the tool subtitles can be extracted using any YouTube video having a closed caption. To help you navigate through the long videos, timing information can be added.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dvdvideosoft](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-17.jpg)
 
 #### **3\. iTubeGo YouTube Downloader**
 
 This is a versatile software that not only allows downloading videos but also subtitles of videos from an array of sites like YouTube, Facebook, Instagram, and more. The software facilitates downloading an entire playlist with subtitle at a time and multiple other video editing tasks are also supported by the software. The software supports downloading subtites in an array of popular languages.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![itubesgo video downloader](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-18.jpg)
 
 #### **The Best Way to Edit SRT subtitles after Downloading from YouTube**
@@ -154,6 +181,9 @@ Step1 Launch the installed software on your system and at the main interface cho
 
 Step2 Once the file is added, the interface will show the video details at the target tab on the right-hand side. Expand and open the drop-down menu at the Subtitle section and from the list of options choose Export Subtitle(s).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare uniconverter srt download 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-15.jpg)
 
 Step3 Next at the File Location tab choose the desktop location to save the processed video without subtitles and click on Start All button.
@@ -172,6 +202,9 @@ The user-friendly interface of the software makes the entire task hassle-free.
 
 Step1 Download, install, and launch the software on your system. Using the Media resource area, import the desired subtitle to the program.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![edit srt wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-19.jpg)
 
 Step2 Next, right-click on the timeline and then choose the Advanced Edit option, or alternatively, you can also double-click the sele4cted SRT file.
@@ -216,6 +249,9 @@ Steps to download **YouTube SRT** using YouTube Studio
 
 Step1 First of all, log into your YouTube account and tap on the account picture present in the top-right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![srt subtitle download youtube studio 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-02.jpg)
 
 Step2 Click on YouTube Studio and then tap on the Content option on the left-hand side that will show all the videos that are uploaded.
@@ -224,6 +260,9 @@ Step2 Click on YouTube Studio and then tap on the Content option on the left-han
 
 Step3 Now for the video that you want to edit click on the pencil icon (Details).
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![srt subtitle download youtube studio 3](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-04.jpg)
 
 Step4 Choose Subtitles and tap on the EDIT option.
@@ -250,6 +289,9 @@ Online tools also work as a decent choice for downloading YouTube SRT subtitles.
 
 Simple interface and quick processing make this online tool a decent choice for the users willing to download SRT subtitles from YouTube. You simply need to enter the video URL to the tool and you will get subtitle download option in almost all popular languages.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![youtubesubtitles](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-09.jpg)
 
 #### **2\. Downsub**
@@ -262,6 +304,9 @@ This is free to use online program that allows downloading subtitles from an arr
 
 This is another widely used online tool for extracting SRT subtitles from YouTube, Facebook, DailyMotion, and more. The tool allows you to either enter the video URL or even search for the desired video using any related keyword. Locally saved videos with subtitles can also be added to the tool for processing. The program is simple to use and allows extracting subtitles in various different languages. In addition to SRT, the subtitles can also be downloaded in VTT and TXT format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![savesubs](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-13.jpg)
 
 #### **How to download SRT file from YouTube using Online Sub Downloaders**
@@ -270,10 +315,16 @@ Let’s take Downsub as an example to show you how to use an online downloader t
 
 Step1 Open [Downsub](https://downsub.com/) on your browser window and then at the search bar enter the YouTube video for which subtitles need to be downloaded.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![downsub srt download 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-10.jpg)
 
 Step2 Click on the DOWNLOAD button after the video URL is entered.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![downsub srt download 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-11.jpg)
 
 Step3 The tool will start processing and will show the language options for SRT download. Click on the SRT button next to the desired language and the subtitle file will be downloaded to your local system.
@@ -288,6 +339,9 @@ The YouTube Studio and Online tools are basic methods for extracting subtitle fi
 
 When it comes to any type of video-related tasks, Wondershare UniConverter is a reliable software around. Compatible with Windows and Mac systems, the software allows extracting the subtitles from YouTube as well as others. The subtitles can be downloaded from videos in all popular formats. The interface of the software is user-friendly and the process is very quick.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uniconverter](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-23.jpg)
 
 Using the software, you can add the already downloaded YouTube videos or can also use the Downloader function of the tool for downloading YouTube or any other video desired. A wide range of other video editing features is also supported by the software thus making it a complete video toolbox.
@@ -296,12 +350,18 @@ Using the software, you can add the already downloaded YouTube videos or can als
 
 This is free to use Windows-based tool that allows extracting subtitles from YouTube in SRT as well as TXT format. Subtitles can be extracted from an entire text or also from an interval as desired. Using the tool subtitles can be extracted using any YouTube video having a closed caption. To help you navigate through the long videos, timing information can be added.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![dvdvideosoft](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-17.jpg)
 
 #### **3\. iTubeGo YouTube Downloader**
 
 This is a versatile software that not only allows downloading videos but also subtitles of videos from an array of sites like YouTube, Facebook, Instagram, and more. The software facilitates downloading an entire playlist with subtitle at a time and multiple other video editing tasks are also supported by the software. The software supports downloading subtites in an array of popular languages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![itubesgo video downloader](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-18.jpg)
 
 #### **The Best Way to Edit SRT subtitles after Downloading from YouTube**
@@ -310,10 +370,16 @@ How to make **SRT file downloaded from YouTube** using Professional Software
 
 Step1 Launch the installed software on your system and at the main interface choose the Converter Tab. Click on the + sign to browse and add the video for which SRT subtitles have to be extracted. You can even drag and drop the video file to the interface.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare uniconverter srt download 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-14.jpg)
 
 Step2 Once the file is added, the interface will show the video details at the target tab on the right-hand side. Expand and open the drop-down menu at the Subtitle section and from the list of options choose Export Subtitle(s).
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![wondershare uniconverter srt download 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-15.jpg)
 
 Step3 Next at the File Location tab choose the desktop location to save the processed video without subtitles and click on Start All button.
@@ -332,14 +398,23 @@ The user-friendly interface of the software makes the entire task hassle-free.
 
 Step1 Download, install, and launch the software on your system. Using the Media resource area, import the desired subtitle to the program.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit srt wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-19.jpg)
 
 Step2 Next, right-click on the timeline and then choose the Advanced Edit option, or alternatively, you can also double-click the sele4cted SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit srt wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-20.jpg)
 
 Step3 Now the supported editing features can be used for the added subtitle file, including subtitle styles, like text color, shadow, fonts, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit srt wondershare filmora 3](https://images.wondershare.com/filmora/article-images/2022/09/how-to-download-youtube-srt-subtitles-with-3-actionable-ways-21.jpg)
 
 Step4 Once the editing is done, right-click on the subtitle file at the timeline and choose the Export Subtitle File option.

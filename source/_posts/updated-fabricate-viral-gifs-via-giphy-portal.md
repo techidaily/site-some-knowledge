@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fabricate Viral Gifs via Giphy Portal"
-date: 2024-05-26T14:52:54.372Z
-updated: 2024-05-27T14:52:54.372Z
+date: 2024-07-24T22:47:59.672Z
+updated: 2024-07-25T22:47:59.672Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Fabricate Viral Gifs via Giphy Portal"
 excerpt: "This Article Describes [Updated] Fabricate Viral Gifs via Giphy Portal"
 keywords: "Viral GIFs with Giphy,Giphy Gif Fabrication,Create Viral GIFs,Giphy Portals for GIFs,Viral Animated Gifs Online,Make Popular GIFs Giphy,Giphy Portal GIF Maker"
-thumbnail: https://www.lifewire.com/thmb/yz0AWzDbcLifGyWSUn_Pr70JjUw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/smart-ring-292c1445224546eca647816ba43b33c0.png
+thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892d0c27222e3c559cd653e7a3.png
 ---
 
 ## Fabricate Viral Gifs via Giphy Portal
@@ -22,6 +22,9 @@ Giphy meme maker is particularly popular in virtual workplaces because they can 
 
 With its enormous searchable database that draws tens of millions of visitors each month, Giphy is making GIFs popular. Funny Giphy memes is on the approach of overtaking YouTube as the next content media king as social media users and marketers get more and more used to using GIFs. GIFs, which may be far more expressive and livelier than emojis, are often soundless, looping video snippets of a character or scene from a TV program or movie that circulate on social media platforms provide its users permission to utilize Giphy. Find out the details here:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. How to Create Meme on Giphy
 
 You may share the Giphy picture on social media or copy and paste it into a text message. Giphy has expanded its content production capabilities as well. Giphy's enormous collection of animated GIFS may be accessed using Mailchimp's content studio and included to your campaigns. Better still, it is totally free. Several different forms of image-based content blocks are available in the campaign builder, including Image, Image Card, Image Group, and Image + Caption. Here's a guide on using GIPHY to create a meme video.
@@ -30,6 +33,9 @@ You may share the Giphy picture on social media or copy and paste it into a text
 
 Step1 Download and launch the app, then register for an account or sign in if you already have one. Tap on Create in the top-right corner of the homepage. Utilize the icon in the upper right corner to access your GIPHY account. It takes two seconds to create a GIPHY account if you don't already have one.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download giphy app](https://images.wondershare.com/filmora/article-images/2022/07/download-giphy-app.jpg)
 
 Step2 To upload a video to GIPHY, click Upload. To add a video from your computer or mobile device, choose ‘Choose File’ as there is an option to do so
@@ -72,12 +78,19 @@ The video file must then be included in the timeline. Another option is to play 
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Additionally, Giphy offers a Giphy Cam software that enables users to create custom GIFs from video footage captured with their smartphone cameras. Users may effortlessly upload video to the website, where Giphy offers desktop GIF creation tools, and then publish their works without any issues elsewhere. You can certainly create a new picture using your own image if you're feeling very creative. Technically, you could do all of this using an image editor on your computer. If you're unfamiliar with this kind of program, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is definitely the best option.
@@ -92,12 +105,18 @@ You may create your own memes for every occasion with the aid of the Filmora mem
 
 To start a new meme project, open the Filmora video meme creator and choose "New project." In the project options, choose the appropriate aspect ratio before selecting "Import" to submit your video. You may also import your favorite movies and pictures shot with mobile devices using Filmora. Simply choose Import, then carry out the following:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step3 Include Music and Subtitles
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 ##### Step4 Edit the Meme

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here\""
-date: 2024-05-26T15:06:27.743Z
-updated: 2024-05-27T15:06:27.743Z
+date: 2024-07-24T22:48:35.795Z
+updated: 2024-07-25T22:48:35.795Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here\""
 excerpt: "\"This Article Describes [Updated] How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here\""
 keywords: "\"FB Activity View,Off-FB Insight,Preview FB Data,FB Data Visibility,Activities Off-Facebook,Leave Off-FB Info,Facebook Privacy Check\""
-thumbnail: https://www.lifewire.com/thmb/rCx-4CN9HDB98wwAwi2Ag8X30fw=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909e1d6b3abfc42368ffd69851.jpg
 ---
 
 ## How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here
@@ -34,6 +34,9 @@ So, what information does the Off-Facebook Previews capture? According to Facebo
 * A record of all apps and websites where you use your Facebook credentials to log in. Typically, the information comes from companies offering Facebook Login as one of their single sign-on (SSO) methods.
 * Your donation and content viewing activity from companies that use Facebook API in their websites and apps.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Should I Leave Off Facebook Activity be on or off?
 
 As you can see, Off Facebook Previews collects lots of your sensitive information from its clients. Therefore, you must manage how much you share with other companies when not using the social media platform directly. The following sections help you understand how you can protect your data better.
@@ -45,6 +48,10 @@ Follow these steps to disable Off Facebook Previews in your account.
 * Launch the Facebook app or enter the URL in your device browser.
 * Enter your credentials to sign in, and click on the down arrow on your profile picture to activate your account options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![off facebook previews](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-1.jpg)
 
 * Then, choose **Settings and Privacy** from the drop-down menu, followed by **Settings** from the resultant menu.
@@ -53,16 +60,25 @@ Follow these steps to disable Off Facebook Previews in your account.
 
 * Tap the **Your Facebook Information** and then **Off-Facebook activity** to redirect to the **Off-Facebook Previews** settings page.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![off facebook previews](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-3.jpg)
 
 * Select the **Disconnect Future Activity** option and move the slider left to prevent Facebook from receiving any information on your off-Facebook activities.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disconnect future activity](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-4.jpg)
 
 * Finalize the process by pressing **Confirm** on the next page.
 
 ![confirm](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### 2\. How can the feature help to protect your privacy?
 
 ![protect privacy](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-6.jpg)
@@ -75,6 +91,9 @@ Following its recent legal troubles concerning user data safety, Facebook has th
 * Moreover, the company allows you to manage your Off-Facebook activity directly from your profile. For example, you can use the Clear Previous activity option to erase all previous data or use the Disconnect Future activity function to prevent further data collection.
 * Finally, the company openly shares a record of the information it receives from its clients through the **Recent Activity** Please refer to the **What is Off-Facebook Preview** section to discover what user information the company shares in your recent activity report.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## FAQs
 
 #### Is the Off-Facebook Previews feature safe?
