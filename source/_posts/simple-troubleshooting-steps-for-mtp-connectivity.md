@@ -1,0 +1,224 @@
+---
+title: Simple Troubleshooting Steps for MTP Connectivity
+date: 2024-08-19T19:00:02.686Z
+updated: 2024-08-20T19:00:02.686Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverError
+description: This Article Describes Simple Troubleshooting Steps for MTP Connectivity
+excerpt: This Article Describes Simple Troubleshooting Steps for MTP Connectivity
+thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685177239313164675ffec23d6.jpg
+---
+
+## Simple Troubleshooting Steps for MTP Connectivity
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/mtp-usb-device-wan-not-successfully-installed.png)
+
+ If you’re connecting your mobile phone to your computer, and you see a message saying_**MTP USB Device Failed**_ , you’re not alone. Many Windows users are reporting it. No worries, it’s possible to fix. Here are 5 fixes for you to try.
+
+## **What is MTP?**
+
+**MTP** is the acronym for **Media Transfer Protocol** , which is supported by Andriod phones. If MTP driver failed to install, you won’t be able to transfer media files from or to Android devices.
+
+## **How do I fix it?**
+
+ Here are 5 fixes for you to try. You may not need to try them all; just work your way down and find the one works for you.
+
+ Method 1: [**Rule Out Hardware Problem**](https://coinrule.sjv.io/rqzonv)
+ Method 2:[**Update the MTP USB Driver**](https://ukaidot.sjv.io/daqnoj)
+ Method 3:[**Run Command**](https://caperobbin.sjv.io/9grow5)
+ Method 4:[**Repair Registry Settings**](https://bluettide.pxf.io/ekmjb2)
+ Method 5:[**Install MTP Porting Kit**](https://vapordna.pxf.io/vnbxna)
+
+## 1: Rule Out Hardware Problem
+
+ Before we begin, we would like to make sure that your hardware is problem free. Please try connect your mobile phone to another USB port to see if the result is the same.
+
+ You should try to connect via both the rear and front connectors. If the result remains the same, please try connecting your other mobile phone to the same USB port to see where could be problem be.  If the above checks out that your hardware is problem free, please make sure you enable the debugging in the settings in your mobile phone.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/debugging.png)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2: Update the MTP USB Driver
+
+ If no hardware device is at fault, it’s likely that you’re using the wrong driver altogether.
+
+ There are two ways you can get the right drivers for your video card and monitor: manually or automatically.
+
+**Manual driver update** – You can update your MTP USE driver manually by going to the manufacturer’s website, and searching for the most recent correct driver for it. Be sure to choose only driver that is compatible with your variant of Windows 10.
+
+**Automatic driver update** – If you don’t have the time, patience or computer skills to update your video and monitor drivers manually, you can, instead, do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/)  .  Driver Easy will automatically recognize your system and find the correct drivers for your USB port, and your variant of Windows 10, and it will download and install them correctly :
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afb613d5cdb.png)
+
+ 3) Click the Update button next to the flagged USB device to automatically download and install the correct version of its driver (you can do this with the FREE version).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc071708b0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+## **3: Run Command**
+
+ If you don’t have the administrator permission to your PC, you’ll fail to use some functions. To fix it:
+
+ 1) On your keyboard, press the **Start** button, then type**cmd.exe** . Right-click**cmd** and click **Run as administrator** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd-run-command-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+ Click **Yes** at the prompted window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57bd596db6742.jpg)
+
+ 2) In**Command Prompt** window, copy and paste in the following command:
+
+ **net localgroup Administrators local service /add**
+
+ Then press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/net-localgroup-command.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+ 3) See if you can connect your Samsung mobile phone to your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+## **4: Repair Registry Settings**
+
+**Warning** : Using**Registry Editor** incorrectly can cause serious, system-wide, unrecoverable errors to your computer. So before you proceed, please make sure that you have it [**backed up**](https://tools.techidaily.com/drivereasy/download/) first.
+
+ If your registry settings are at fault, you won’t be able to use the USB device driver properly. To fix it:
+
+ 1) On your keyboard, click the **Start**  button. Type **regedit** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/regedit-in-start-panel.png)
+
+ Click**Yes** at the prompt window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-window-uac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ 2) Follow the path
+ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Contro l/Class.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/registry-local-machine-control-class.jpg)
+
+ 3) On your keyboard, press the**Ctrl** **key** and **F** key at the same time. Type**Portable Devices** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices.png)
+
+ 4) On the right hand pane, you’ll see the**(Default)** value**Portable Devices** on the string.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/portable-devices-default-value.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 5) If you can see**UpperFilters** here, right-click it and click **delete.**
+
+ If you can’t see such an option, this method is not suitable for you, move on to next method.
+
+ 6)**Exit** Registry Editor.**Reboot** your computer.
+
+## **5: Install MTP Porting Kit**
+
+ 1) Download**MTP Porting Kit** from Microsoft official website**[here](https://www.microsoft.com/en-us/download/)** . Then double click it to install the setup file.
+
+ 2) After the installation,**restart** your computer.
+
+ 3)**Reconnect** your mobile phone to your computer by using the USB cable again to see if the problem persists.
+
+ If you have already had the MTP Porting Kit on your computer, you may need to**update** it to the latest version to make sure that it function well.
+
+* [USB](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-most-influential-srt-boosters-for-pc-and-apple-systems/"><u>[New] 2024 Approved  Most Influential SRT Boosters for PC & Apple Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-record-rapidly-innovative-iphone-time-lapse-methods/"><u>[New] 2024 Approved  Record Rapidly  Innovative iPhone Time-Lapse Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-cut-to-clip-chaos-achieving-smoothness-with-inshot/"><u>[New] From Cut-to-Clip Chaos  Achieving Smoothness with Inshot</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hilarious-hits-for-iphones/"><u>[New] Hilarious Hits for iPhones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-apps-for-advancing-android-pics/"><u>[New] Ideal Apps for Advancing Android Pics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-the-art-of-android-clip-inversions/"><u>[New] In 2024, Mastering the Art of Android Clip Inversions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-filters-to-make-your-tiktok-stand-out/"><u>[New] Innovative Filters to Make Your TikTok Stand Out</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-epson-printer-printing-blank-pages/"><u>[SOLVED] Epson Printer Printing Blank Pages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exhaustive-evaluation-the-new-360-camera/"><u>[Updated] Exhaustive Evaluation  The New 360 Camera</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off  DJI vs GoPro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-10-best-live-streaming-apps-for-android-and-iphone/"><u>[Updated] FREE 10 Best Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-cutting-edge-techniques-for-capturing-ps4-games-in-obs/"><u>[Updated] In 2024, Cutting-Edge Techniques for Capturing PS4 Games in OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-digestible-vid-info-quick-start/"><u>[Updated] In 2024, Digestible Vid Info Quick Start</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>[Updated] In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-diy-cinematic-techniques-every-hobbyist-should-know/"><u>[Updated] Quick DIY Cinematic Techniques Every Hobbyist Should Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-holographic-horizons-trendsetting-wallpapers/"><u>2024 Approved  Holographic Horizons  Trendsetting Wallpapers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-story-arcs-in-cinemas-pantheon/"><u>2024 Approved  Iconic Story Arcs in Cinema’s Pantheon</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-implementing-exact-timestamp-features-for-youtube/"><u>2024 Approved  Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-8th-generation-photographic-fusion-app/"><u>2024 Approved  Innovative 8Th Generation Photographic Fusion App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-smooth-fades-in-a-second/"><u>2024 Approved  Smooth Fades in a Second</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unearthing-inshots-video-magic-for-editors/"><u>2024 Approved  Unearthing InShot’s Video Magic for Editors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016402286-corsair-hs60-mic-issues-heres-how-to-restore-your-voice-chat-functionality/"><u>Corsair HS60 Mic Issues? Here's How to Restore Your Voice Chat Functionality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-hot-40-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Hot 40 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-directories-unencumbered-visuals-galore/"><u>Essential Directories  Unencumbered Visuals Galore</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expedite-visuals-drawing-and-enhancing-with-windows-photos-app-for-2024/"><u>Expedite Visuals  Drawing & Enhancing with Windows Photos App for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-navigating-windows-11s-movie-maker-easily-for-2024/"><u>From Novice to Expert  Navigating Windows 11'S Movie Maker Easily for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fundamental-definitions-in-virtual-narrative-art-for-2024/"><u>Fundamental Definitions in Virtual Narrative Art for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-master-every-feature-of-periscope-for-2024/"><u>How to Master Every Feature of Periscope for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-master-mobile-gif-management-with-iphone-techniques-for-2024/"><u>How to Master Mobile GIF Management with iPhone Techniques for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-e13-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto E13 Without PUK Codes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-your-quest-time-expert-tips-to-address-and-fix-low-fps-in-fallout-76-2023/"><u>Improve Your Quest Time! Expert Tips to Address and Fix Low FPS in Fallout 76 - 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-perfected-media-import-techniques-for-windows-10/"><u>In 2024, Expert Advice  Perfected Media Import Techniques for Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-of-samsungs-2023-photo-enhancement-suite/"><u>In 2024, Expert Analysis of Samsung’s 2023 Photo Enhancement Suite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-upside-down-world-of-instagram-videos/"><u>In 2024, Exploring the Upside-Down World of Instagram Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>In 2024, Glowing with HD  Does It Serve the Scope of HDR Well?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-go-backwards-the-iphones-playback-power/"><u>In 2024, Go Backwards  The iPhone's Playback Power</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-performance-gpus-for-4k-vision/"><u>In 2024, High-Performance GPUs for 4K Vision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hit-top-rank-firstrow-pursuits-outside-sports/"><u>In 2024, Hit Top Rank  Firstrow Pursuits Outside Sports</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-recommended-podcasts-from-spotify/"><u>In 2024, How To Remove Recommended Podcasts From Spotify</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-whip-up-a-stunning-facebook-collage-post/"><u>In 2024, How to Whip Up a Stunning Facebook Collage Post</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>In 2024, Illustrating Brilliance  The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-100-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 100</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-designs-unleashed-comprehensive-guide-to-animation-suites-for-2024/"><u>Innovative Designs Unleashed  Comprehensive Guide to Animation Suites for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-images-top-10-pixlr-hacks-revealed-for-2024/"><u>Master Your Images  Top 10 Pixlr Hacks Revealed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-launchdll-file-absence-a-step-by-step-guide/"><u>Solving the 'Launch.dll' File Absence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-wiring-your-laptop-with-an-external-monitor-or-projector/"><u>Step-by-Step Guide: Wiring Your Laptop with an External Monitor or Projector</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-14-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi 14 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-complexity-how-transfer-learning-simplifies-ai/"><u>Unraveling Complexity: How Transfer Learning Simplifies AI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-insights-from-toms-hardware/"><u>Unveiling the Latest in PC Components - Insights From Tom's Hardware</u></a></li>
+</ul></div>
