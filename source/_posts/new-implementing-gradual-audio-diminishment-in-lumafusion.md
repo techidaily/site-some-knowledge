@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing Gradual Audio Diminishment in Lumafusion"
-date: 2024-07-24T22:47:36.022Z
-updated: 2024-07-25T22:47:36.022Z
+date: 2024-08-21T09:39:59.495Z
+updated: 2024-08-22T09:39:59.495Z
 tags: 
   - screen-recording
   - ai video
@@ -177,3 +177,55 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-clear-your-default-podcast-listings-on-spotify/"><u>[New] How to Clear Your Default Podcast Listings on Spotify</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-videos-in-final-cut-pro-for-2024/"><u>[New] How to Edit YouTube Videos in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-key-elements-of-attractive-fb-video-commercials/"><u>[New] In 2024, Key Elements of Attractive FB Video Commercials</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snagting-smiles-on-iphones-and-androids-from-twitters-timeline/"><u>[New] Snagting Smiles on iPhones & Androids From Twitter's Timeline</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-eliminate-blackout-issues-with-game-capture-apps/"><u>[Updated] Eliminate Blackout Issues with Game Capture Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>[Updated] Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>[Updated] Examining the Elite  The Top 10 PC VR Headsets of Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exciting-journeys-in-samsungs-virtual-reality-games/"><u>[Updated] Exciting Journeys in Samsung's Virtual Reality Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-on-creating-striking-ae-titles/"><u>[Updated] Expert Tips on Creating Striking AE Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fixing-face-to-face-freeze-in-fir-chrome-safari-9-essential-tricks/"><u>[Updated] Fixing Face-to-Face Freeze in Fir, Chrome, Safari – 9 Essential Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-four-essential-tips-for-acquiring-youtube-srt/"><u>[Updated] Four Essential Tips for Acquiring YouTube SRT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-freeing-up-your-screen-time-which-video-player-prevails-vlc-or-mpc/"><u>[Updated] Freeing Up Your Screen Time  Which Video Player Prevails, VLC or MPC?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-kinemaster-gs-journey/"><u>[Updated] From Novice to Expert  KineMaster GS Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-stunning-photo-tile-magic/"><u>[Updated] From Ordinary to Stunning  Photo Tile Magic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-performance-drones-sold-here/"><u>[Updated] High-Performance Drones Sold Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-performance-handhocal-systems-mobile-and-dslr-videos-stabilized/"><u>[Updated] High-Performance Handhocal Systems  Mobile & DSLR Videos Stabilized</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>[Updated] Humor Hubs  The Most Enjoyable Ringtone Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humor-in-pixels-kapwings-meme-crafting-app/"><u>[Updated] Humor in Pixels  Kapwing’s Meme Crafting App</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unleash-creativity-with-ease-streamlined-ways-to-change-tiktok-backgrounds/"><u>[Updated] In 2024, Unleash Creativity with Ease  Streamlined Ways to Change TikTok Backgrounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-laughter-into-content-use-kapwing/"><u>[Updated] Infuse Laughter Into Content - Use Kapwing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>2024 Approved  Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-extracting-srt-from-a-zip-archive/"><u>2024 Approved  Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-your-perfect-livestream-service-match/"><u>2024 Approved  How to Find Your Perfect Livestream Service Match</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-scripts-for-audio-performances/"><u>2024 Approved  Ideal Scripts for Audio Performances</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-illusions-how-vr-transforms-media-consumption/"><u>2024 Approved  Immersive Illusions  How VR Transforms Media Consumption</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals/"><u>2024 Approved  Incorporating Zoom for Video Conferencing  A Guide for Gmail Professionals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/formulating-flashy-podcast-announcements-for-2024/"><u>Formulating Flashy Podcast Announcements for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hack-the-airwaves-mastering-a-viral-solo-podcast-for-2024/"><u>Hack the Airwaves  Mastering a Viral Solo Podcast for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-13-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 13 Ultra Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-get-watermark-free-stock-photos-for-2024/"><u>How to Get Watermark-Free Stock Photos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-intel-rapid-storage-technology-rst-malfunction-in-windows-11-systems/"><u>How to Resolve Intel Rapid Storage Technology (RST) Malfunction in Windows 11 Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-12-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi 12 PC | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>In 2024, Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-systems-turning-images-into-dynamic-videos/"><u>In 2024, Expert Systems  Turning Images Into Dynamic Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-extents-of-vr-technology/"><u>In 2024, Exploring the Extents of VR Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-hobbyists-to-pros-how-mavic-air-redefines-with-spark/"><u>In 2024, From Hobbyists to Pros  How Mavic Air Redefines with Spark</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-special-a-guide-to-the-best-custom-box-stores-on-the-internet/"><u>In 2024, From Standard to Special  A Guide to the Best Custom Box Stores on the Internet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-optimize-your-content-for-higher-views-and-more-likes/"><u>In 2024, How to Optimize Your Content for Higher Views and More 'Likes'</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infusing-musical-streams-of-youtube-in-videos/"><u>In 2024, Infusing Musical Streams of YouTube in Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-class-video-production-smooth-editing-skills-for-2024/"><u>In-Class Video Production  Smooth Editing Skills for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-360-eye-viewing-experience-for-2024/"><u>In-Depth 360° Eye Viewing Experience for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-evaluation-gopro-slr4-silver-hero4-model-for-2024/"><u>In-Depth Evaluation  GoPro SLR4 Silver HERO4 Model for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-evaluation-of-clipcreator-editor-updated-for-2024/"><u>In-Depth Evaluation of ClipCreator Editor - Updated for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-redmi-12-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi Redmi 12 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-internet-explorer-no-longer-responding-error-a-step-by-step-guide/"><u>Solving the 'Internet Explorer No Longer Responding' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-how-to-fix-crashes-in-squadrons-troubleshooting-guide/"><u>STAR WARS: How to Fix Crashes in Squadrons - Troubleshooting Guide</u></a></li>
+</ul></div>

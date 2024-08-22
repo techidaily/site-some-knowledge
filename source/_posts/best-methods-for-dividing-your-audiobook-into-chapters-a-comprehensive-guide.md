@@ -1,7 +1,7 @@
 ---
 title: Best Methods for Dividing Your Audiobook Into Chapters - A Comprehensive Guide
-date: 2024-08-18 14:57:32
-updated: 2024-08-21 11:14:43
+date: 2024-08-21T07:31:20.239Z
+updated: 2024-08-22T07:31:20.239Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae2d19190125a50a9ecf80d6e.jpg
@@ -93,12 +93,18 @@ Launch iTunes. Select "Music" tab. Click the "File" on the navigation. Then clic
 
 ![Add Converted Audiobook to iTunes](http://www.epubor.com/images/uppic/Add-Converted-Audiobook-to-iTunes.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 #### Step 4\. Enter Time of Each Chapter
 
 Play the added MP3 file in iTunes. Remember the time of each chapter you want to begin. Right-click the MP3 audiobook and click "Get Info" option. Then click "Options" from the pop-up menu. Enter the start time and stop time of a chapter. For the first chapter, the start time is "0:00". The stop time is the timing you want to end a chapter. After enter and check the check box. Then click "OK".
 
 ![Determine Time of Each Chapter](http://www.epubor.com/images/uppic/Determine-Time-Each-Chapter.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 5\. Set Import Format
 
 Click "Edit" on the navigation bar and choose "Preferences" option. From the "General Preferences" window, click "Import Settings" option. You can ignore other default options.
@@ -109,12 +115,18 @@ Then set the "Import Using" as "MP3 Encoder" from the pop-up window. Then click 
 
 ![Import Using MP3 Encoder](http://www.epubor.com/images/uppic/Import-Using-MP3-Encoder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 #### Step 6\. Create Chapter Version
 
 Select the added MP3 file again. Click "File" option in the navigation bar and put your mouse on the "Convert" Option. Click "Create MP3 Version" option from the pop-up menu. This operation will create a new MP3 file which contains the content of the time period you selected.
 
 ![Create MP3 Version](http://www.epubor.com/images/uppic/create-mp3-version.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 After conversion, you can find the new MP3 file in "Recently Added" section. Click the name of the new file and rename it as "Chapter One". Now you get the first chapter in Music section.
 
 #### Step 7\. Add Chapters into Audiobooks
@@ -147,12 +159,18 @@ Play the added audiobook and determine which timing to split. Below the "Audio P
 
 ![Edit Start and End Timing with Audacity](http://www.epubor.com/images/uppic/edit-timing-Audacity.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 #### Step 4\. Export Selected Audio
 
 Click "File > Export Selected Audio" on the navigation bar. From the pop-up window, select the format of selected audio and storage location. Also, you can rename the selected audio file.
 
 For next chapter, enter the timing you want to begin below "Selection Start". Choose another stop timing. 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Now, with above four ways to split audiobook into chapters, you can flexibly arrange the listening time. You may find [the first one](https://tools.techidaily.com/epubor/products/) is the most efficient and the easiest way to split your audiobooks into chapters. That's right! With the help of Epubor Audible Converter, you can not only easily remove Audible DRM and convert DRM-protected AA/AAX books to MP3/M4B, but also split large Audible files into several segments on the basis of your own needs. Doesn't it attract you? Let's start!
@@ -345,3 +363,56 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-professional-photographers-pick-of-edits/"><u>[New] 2024 Approved  Professional Photographers' Pick of Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-webcam-guardians-the-best-covers-reviewed/"><u>[New] 2024 Approved  Webcam Guardians  The Best Covers Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-experts-choice-best-action-cameras-for-winter-sports/"><u>[New] Expert's Choice  Best Action Cameras for Winter Sports</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-obscurity-to-influence-5-strategies-to-dominate-reddit-advertising/"><u>[New] From Obscurity to Influence  5 Strategies to Dominate Reddit Advertising</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>[New] From Standard to Spectacular  The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopros-battle-royale-hero5-b-stacked-against-session/"><u>[New] GoPro's Battle Royale  Hero5 B Stacked Against Session</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-definition-screens-selecting-your-optimal-4k-display/"><u>[New] High Definition Screens  Selecting Your Optimal 4K Display</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-acme-audio-playwriting-compendium/"><u>[New] In 2024, Acme Audio Playwriting Compendium</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-strategies-for-altering-pubg-speech/"><u>[New] Innovative Strategies for Altering PUBG Speech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-essential-android-update-for-vr-video-watchers-for-2024/"><u>[New] The Essential Android Update for VR Video Watchers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>[Updated] 2024 Approved  Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro-for-2024/"><u>[Updated] Creative Freedom Redefined  A Review of ScreenFlow on MacBook Pro for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fog-no-more-secrets-for-crisp-clean-filming/"><u>[Updated] Fog No More  Secrets for Crisp, Clean Filming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-techniques-to-change-your-characters-voice-and-sound-identity-in-free-fire-gaming/"><u>[Updated] Free Techniques to Change Your Character's Voice and Sound Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fundamental-concepts-of-cyber-narratives/"><u>[Updated] Fundamental Concepts of Cyber Narratives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-habits-to-develop-while-taking-in-your-favorite-episodes/"><u>[Updated] Harmonious Habits to Develop While Taking in Your Favorite Episodes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-hush-managing-music-on-pc-mac/"><u>[Updated] Harmonious Hush  Managing Music on PC, Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-haven-for-harmonious-hits-download-classics-now/"><u>[Updated] Haven for Harmonious Hits  Download Classics Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] Icy Acceleration  Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-dslrs-for-animation-filmmaking/"><u>[Updated] Ideal DSLRs for Animation Filmmaking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-the-art-of-video-capturing-zdsofts-method/"><u>[Updated] In 2024, Mastering the Art of Video Capturing  ZDSoft's Method</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-solutions-for-your-ultimate-3d-viewing-needs/"><u>[Updated] Innovative Solutions for Your Ultimate 3D Viewing Needs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-quick-and-easy-conducting-instagram-stories-polls-today-for-2024/"><u>[Updated] Quick & Easy  Conducting Instagram Stories Polls Today for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-azure-speech-to-text-a-step-by-step-guide/"><u>2024 Approved  Mastering Azure Speech-to-Text  A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailored-audio-connector-for-podcasting-pros/"><u>2024 Approved  Tailored Audio Connector for Podcasting Pros</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-techniques-to-boost-periscope-live-video-speed/"><u>2024 Approved  Techniques to Boost Periscope Live Video Speed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/a-revolutionary-leap-in-gaming-the-unmatched-prowess-of-the-xbox-series-x-with-4k-graphics/"><u>A Revolutionary Leap in Gaming: The Unmatched Prowess of the Xbox Series X with 4K Graphics</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-c67-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme C67 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-remove-items-from-iphone-photo-with-top-6-apps-for-2024/"><u>Expertly Remove Items From iPhone Photo with Top 6 Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-the-best-iphone-vr-games-today-for-2024/"><u>Explore the Best iPhone VR Games Today for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-innovative-metaverse-memes-a-beginners-roadmap-for-2024/"><u>Exploring Innovative Metaverse Memes  A Beginner's Roadmap for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonious-hush-techniques-for-quieting-tunes-for-2024/"><u>Harmonious Hush  Techniques for QUIETing Tunes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmony-hearts-the-ultimate-song-playlist-for-a-promise-for-2024/"><u>Harmony Hearts  The Ultimate Song Playlist for a Promise for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-phones-apps-for-masterful-gopro-edits/"><u>In 2024, Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>In 2024, Frame Loss Enigma  Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-game-music-websites-a-comprehensive-guide/"><u>In 2024, Free Game Music Websites – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-versatile-laptop-software-to-watch-dvds/"><u>In 2024, Free, Versatile Laptop Software to Watch DVDs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-mastering-movie-maker-in-windows-8-systems/"><u>In 2024, From Novice to Expert  Mastering Movie Maker in Windows 8 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a05s-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A05s Face Lock?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-time-lapse-crafting-seamless-moment-transitions/"><u>In 2024, GoPro Time-Lapse  Crafting Seamless Moment Transitions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-slide-show-apps-from-iphone-6-to-xs-max/"><u>In 2024, Ideal Slide Show Apps  From iPhone 6 to XS Max</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting/"><u>In 2024, Innovative Approaches to Photo Sharpening with Photopea's Background Cutting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-next-best-source-for-world-exploration/"><u>In 2024, Your Next-Best Source for World Exploration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-14-examples-of-moving-text-art-for-2024/"><u>Innovative 14 Examples of Moving Text Art for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-awareness-and-social-cognition-via-gpt/"><u>Self-Awareness and Social Cognition via GPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-nvidias-missing-high-definition-sound-issue/"><u>Troubleshooting Steps for Resolving Nvidia's Missing High-Definition Sound Issue</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-iphones-persistent-headphones-trouble/"><u>Ultimate Guide: Resolving iPhone's Persistent Headphones Trouble</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/what-are-the-best-sites-to-download-google-pixel-ringtones-for-2024/"><u>What Are the Best Sites to Download Google Pixel Ringtones for 2024</u></a></li>
+</ul></div>
