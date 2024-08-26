@@ -1,0 +1,191 @@
+---
+title: Step-by-Step Tutorial to Correct the Development Error 6034 in Call of Duty Modern Warfare - For PC Gamers & Console Players
+date: 2024-08-25T15:34:11.672Z
+updated: 2024-08-26T15:34:11.672Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Step-by-Step Tutorial to Correct the Development Error 6034 in Call of Duty Modern Warfare - For PC Gamers & Console Players
+excerpt: This Article Describes Step-by-Step Tutorial to Correct the Development Error 6034 in Call of Duty Modern Warfare - For PC Gamers & Console Players
+thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb092918116ea6d8f331f8e83e6.jpg
+---
+
+## Ultimate Troubleshooting Tips for Fixing Call of Duty: Modern Warfare (Dev Error 6034) - Play Without Glitches
+
+A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
+
+## Fixes to try
+
+ You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
+
+1. [**Update your graphics driver (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix1)
+2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
+3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
+4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Update your graphics driver (PC)
+
+ One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
+
+ There’re mainly 2 ways you can update your graphics driver: manually or automatically.
+
+#### Option 1: Update your graphics driver manually
+
+ If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
+
+To do so, first visit the website of your GPU manufacturer:
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+* **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**
+
+ Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
+
+#### Option 2: Update your graphics driver automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your video drivers manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating all your drivers, restart your PC and check if the issue persists.
+
+ If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Remove broken game files (PC)
+
+ There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
+
+1. Open the installation folder of Modern Warfare or Warzone. Find and delete the following files:  
+   * **.patch.result**  
+   * **.product**  
+   * **vivoxsdk\_x64.dll**  
+   * **Launcher.db**  
+   * **Launcher.exe (Modern Warfare)**
+2. Launch your**Battle.net** client.
+3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
+4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+
+ If this method doesn’t do the trick, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+### Fix 3: Remove Multiplayer game packs
+
+ Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
+
+1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
+2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
+3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
+4. Now restart your Xbox and check if Warzone is working now.
+
+If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Reinstall Warzone
+
+ If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
+
+ If you don’t want to reinstall just yet, you can also check out these[advanced fixes](https://tools.techidaily.com/drivereasy/download/) .
+
+---
+
+ Hopefully, you have fixed the issue and can now get back to the field. If you have any questions or ideas, jot them down in the comments and we’ll get back to you.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-methods-for-flipping-image-colors/"><u>[New] Expert Methods for Flipping Image Colors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-audio-with-visuals-adding-melodies-to-powerpoint/"><u>[New] Harmonizing Audio with Visuals  Adding Melodies to PowerPoint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hues-unleashed-mastery-over-video-editing-colors/"><u>[New] Hues Unleashed  Mastery over Video Editing Colors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-filmmaking-tips-from-youtube-experts/"><u>[New] In 2024, Behind-the-Scenes Filmmaking Tips From YouTube Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expanding-horizons-the-vr-in-classroom-effect/"><u>[Updated] Expanding Horizons  The VR in Classroom Effect</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experience-reality-redefined-with-htc-vive/"><u>[Updated] Experience Reality Redefined with HTC Vive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-faithful-melodies-how-to-install-christian-chimes/"><u>[Updated] Faithful Melodies  How to Install Christian Chimes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>[Updated] Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-shoot-a-green-screen-video-must-know-tips-and-tricks/"><u>[Updated] How to Shoot a Green Screen Video [Must Know Tips & Tricks]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engineering-video-excerpts-for-online-platforms/"><u>[Updated] In 2024, Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-go-live-your-youtube-broadcast-companion/"><u>[Updated] In 2024, Google Meet Go Live - Your YouTube Broadcast Companion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-real-time-conversion-of-online-streaming-content-into-gifs/"><u>[Updated] Real-Time Conversion of Online Streaming Content Into GIFs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-power-of-closed-captions-on-vimeo/"><u>[Updated] Unlocking the Power of Closed Captions on Vimeo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 and iPad Securely</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-techniques-for-calibrating-your-iphones-battery-in-just-6-steps/"><u>Effortless Techniques for Calibrating Your iPhone's Battery in Just 6 Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-essential-web-portals-delivering-impeccable-text-effects-for-2024/"><u>Explore Essential Web Portals Delivering Impeccable Text Effects for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fierce-competition-gopro-vs-sonys-dslr-for-adventure-films-for-2024/"><u>Fierce Competition  GoPro Vs. Sony's DSLR for Adventure Films for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/file-transportation-hacks-efficient-ways-to-upload-on-pc-for-2024/"><u>File Transportation Hacks  Efficient Ways to Upload on PC for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-affordable-no-cost-artistic-elements-for-2024/"><u>Finding Affordable, No-Cost Artistic Elements for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foolproof-method-for-adding-a-link-to-your-tiktok-bio-for-2024/"><u>Foolproof Method for Adding a Link to Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fpv-fantasy-a-closer-look-at-the-hubsan-h501x4-for-2024/"><u>FPV Fantasy  A Closer Look at the Hubsan H501X4 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-acquainted-with-periscope-costs-benefits-and-account-creation-for-2024/"><u>Getting Acquainted with Periscope  Costs, Benefits & Account Creation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratitude-archive-complete-collection-freepaid-for-2024/"><u>Gratitude Archive  Complete Collection (Free/Paid) for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-google-pixel-8-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Google Pixel 8 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-matches-mac-and-pc-video-decoders-freepaid-for-2024/"><u>Ideal Matches  Mac & PC Video Decoders (FREE/PAID) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-ace-2v-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Ace 2V Activity | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p40plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel P40+</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-look-the-10-best-countdown-clock-apps-for-your-big-event-androidios/"><u>In 2024, Exclusive Look  The 10 Best Countdown Clock Apps for Your Big Event (Android/iOS)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-online-seminar-tagline-creator/"><u>In 2024, Expert Online Seminar Tagline Creator</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-choice-top-15-videography-power-tools/"><u>In 2024, First Choice  Top 15 Videography Power Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-subreddits-and-their-all-time-favorites-list/"><u>In 2024, Iconic Subreddits & Their All-Time Favorites List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-of-googles-voice-to-text-capabilities/"><u>In 2024, In-Depth Analysis of Google's Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-app-assessment-vlles-view/"><u>In 2024, In-Depth App Assessment  VLLE's View</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-review-videovision-pro-suite-the-new-frontier/"><u>In 2024, In-Depth Review  VideoVision Pro Suite - The New Frontier</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>In 2024, In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-5-ways-to-get-into-a-locked-iphone-15-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15? 5 Ways to get into a Locked iPhone 15</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-best-sony-vegas-alternatives-for-windows-video-creators/"><u>In 2024, Unleash Your Creativity Best Sony Vegas Alternatives for Windows Video Creators</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/invisible-snapcapture-mastering-the-art-of-stealthy-picture-recording/"><u>Invisible SnapCapture  Mastering the Art of Stealthy Picture Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-effective-way-to-get-your-epson-printer-up-and-running-a-complete-guide/"><u>Quick and Effective Way to Get Your Epson Printer Up & Running - A Complete Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/removing-darkness-from-win11-screenscape/"><u>Removing Darkness From Win11 Screenscape</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolving-windows-10-brightness-settings-problems/"><u>Step-by-Step: Resolving Windows 10 Brightness Settings Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-role-of-bios-in-your-computer-system/"><u>Understanding the Role of BIOS in Your Computer System</u></a></li>
+</ul></div>
