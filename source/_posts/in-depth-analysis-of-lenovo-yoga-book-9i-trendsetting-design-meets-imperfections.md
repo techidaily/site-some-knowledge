@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Lenovo Yoga Book 9I - Trendsetting Design Meets Imperfections
-date: 2024-08-26 12:59:53
-updated: 2024-08-29 12:38:13
+date: 2024-08-30T09:01:56.321Z
+updated: 2024-08-31T09:01:56.321Z
 tags:
   - product-reviews
 categories:
@@ -128,10 +128,16 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  Form and Function: A Beautiful Hybrid Design
 
 ![Rear of the Lenovo Yoga Book 9i on the stand in the stacked orientation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/rear-of-the-lenovo-yoga-book-9i-on-the-stand-in-the-stacked-orientation_53598887977_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My first impression of the Lenovo Yoga Book 9i was that it's an attractive 2-in-1 laptop. But I quickly noticed the double screen setup was unusual compared to other 2-in-1 laptops that opt for a foldable base with a traditional keyboard layout. The [best 2-in-1 laptops](https://tech-recovery.techidaily.com/solving-the-reset-failed-there-was-an-error-message-on-windows/) succeed in keeping things simple and focusing on two modes: laptop and tablet mode, while the Yoga Book 9i is a bit more complex.
@@ -142,6 +148,9 @@ Close
 
  All the other design inclusions for the Yoga Book 9i make sense. At the top is an integrated 5MP camera in the bezel and a dual-array microphone system on either side of the camera. The laptop's cover features a familiar "Yoga" logo and a gorgeous teal color (I gasped when I saw it because I'm a sucker for cool colors) and a familiar vented hinge system that's like other Yoga laptops, such as the [Lenovo Yoga 9i Gen 8](https://extra-tips.techidaily.com/streamlining-speech-to-text-processing-in-powerpoint/).
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Ports: Thunderbolt 4 Ports and Nothing Else
 
  It may not be a big deal to everyone for a slim laptop to forgo other port options like USB-A ports or even an HDMI port, but even so, I encountered multiple occasions that required me to use my USB-C hubs. Nonetheless, the trio of Thunderbolt 4 (USB-C) ports delivered speedy and consistent power and data transfer, and I liked the inclusion of ports on either side (two on the right, one on the left).
@@ -150,10 +159,16 @@ Close
 
  Also on the right side was the power button with an LED light indicator and an e-privacy shutter for the webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  The Touchscreen, Bluetooth Keyboard, Stand, and Pen
 
 ![The foldable stand of the Lenovo Yoga Book 9i as a case for the keyboard and pen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-foldable-stand-of-the-lenovo-yoga-book-9i-as-a-case-for-the-keyboard-and-pen_53599758691_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Peripherals are rarely the nitty-gritty of a laptop setup, but because these inputs are so integral to the user experience for the Lenovo Yoga Book 9i, I want to take some time highlighting them. Included with the Bluetooth keyboard and Bluetooth mouse are a Lenovo Digital Pen 3 and a folio stand.
@@ -192,6 +207,9 @@ Close
 
 ![Rear of the Lenovo Yoga Book 9i on the stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/rear-of-the-lenovo-yoga-book-9i-on-the-stand_53599968028_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Put to the test, the Yoga Book 9i's Intel Core Ultra 7 155U processor works like a champion in handling multitasking processes like multiple browser tabs (I once had about 40 open at once), but there were limits. Its memory was 16GB, which meant I noticed a 96% usage rate with Spotify, Photoshop, Xbox, and about 30 browser tabs open. When using Photoshop, I also encountered slower speeds during game downloads. Meanwhile, a weird black screen glitch occurred about five times while I used the Yoga Book 9i—during heavy writing or workdays, sometimes both screens went black for a moment, only to reboot a second or two later. It was easy to ignore, and I don't expect this glitch would affect other models, though it's something to note.
@@ -220,16 +238,25 @@ Close
 
  Meanwhile, the dual microphone system on the Yoga Book 9i is a competent tool for anyone who regularly engages in video chats or conference calls. It clearly captures the human voice and also has some noise cancellation that tones down background noises. In fact, I recorded some phone calls for interviews on the laptop as a backup file and later discovered the noise cancellation was _so_ good that I couldn't hear the interviewees speaking. Good thing I didn't need the backups.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
 ##  Battery and Charging: Expected Gain and Drain
 
 ![The components and accessories of the Lenovo Yoga Book 9i.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-components-and-accessories-of-the-lenovo-yoga-book-9i_53598888122_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The Yoga Book 9i's battery drainage was what I would expect for a dual-screen laptop. With both screens on and brightness hovering somewhere between 300 and 400 nits, the device averaged a 0.5% loss per minute or 30% per hour, which put the time at around every 3 to 4 hours.
@@ -270,3 +297,61 @@ The Lenovo Yoga Book 9i laptop's hybrid form marries versatility and productivit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>[New] 2024 Approved  Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieving-maximum-comfort-in-vr-landscape/"><u>[New] Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes/"><u>[New] Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-single-shots-to-spectaculary-screenshots/"><u>[New] From Single Shots to Spectaculary Screenshots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopros-superhero-5-and-sj7-showdown/"><u>[New] GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-your-device-importing-to-inshot-app/"><u>[New] Harmonizing Your Device  Importing to InShot App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-craft-viral-unboxing-content-on-social-media/"><u>[New] How to Craft Viral Unboxing Content on Social Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-enhancing-mac-use-top-5-recommended-sniping-apps/"><u>[New] In 2024, Enhancing Mac Use  Top 5 Recommended Sniping Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimize-remote-work-with-smart-zoom-scheduling/"><u>[New] In 2024, Optimize Remote Work with Smart Zoom Scheduling</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-laugh-loops-crafting-comical-content-for-brevity-based-videos/"><u>[New] Laugh Loops  Crafting Comical Content for Brevity-Based Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uick-steps-to-live-stream-youtube-via-obs-for-novices/"><u>[New] Quick Steps to Live Stream Youtube via OBS for Novices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>[New] Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choosing-your-best-vr-camera-insights/"><u>[Updated] Choosing Your Best VR Camera  Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-best-image-enhancements-for-iphones-and-androids-2024/"><u>[Updated] Exploring the Best Image Enhancements for iPhones and Androids 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fcps-best-10-plug-ins-a-professionals-list/"><u>[Updated] FCP's Best 10 Plug-Ins  A Professional's List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-heavy-hovering-heroes-drone-innovations-of-today/"><u>[Updated] Heavy Hovering Heroes  Drone Innovations of Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-viewing-at-home-with-eizos-4k-display/"><u>[Updated] High-Fidelity Viewing at Home with EIZO's 4K Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-add-fade-inout-premiere-pro/"><u>[Updated] How to Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>[Updated] How to Use GoPro Hero5 Black  Tips for Shooting Great Photos and Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-video-displays-the-best-5-for-playstation-5/"><u>[Updated] Ideal Video Displays  The Best 5 for PlayStation 5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-excellent-video-production-experts/"><u>[Updated] Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>[Updated] IFunny Memes Unlocked  Download & Use in a Flash</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-integrating-apis-expanding-functionality-beyond-basic-html-for-2024/"><u>[Updated] Integrating APIs  Expanding Functionality Beyond Basic HTML for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-next-level-android-for-3d-video-enthusiasts/"><u>[Updated] Next-Level Android for 3D Video Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-way-to-perform-obs-streaming/"><u>Best Way to Perform OBS Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-correcting-a-500-error-on-your-website/"><u>Effective Strategies for Correcting a 500 Error on Your Website</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-steps-to-prep-your-oculus-rift-zone/"><u>Essential Steps to Prep Your Oculus Rift Zone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-strategies-for-developing-captivating-audio-visual-teasers-for-2024/"><u>Expert Strategies for Developing Captivating Audio-Visual Teasers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-strategy-seamlessly-integrating-subtitles-in-videos/"><u>Expert Strategy  Seamlessly Integrating Subtitles in Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1723022814687-experts-take-on-the-amplifi-hd-say-goodbye-to-wi-fi-black-spots/"><u>Experts' Take on the Amplifi HD: Say Goodbye to Wi-Fi Black Spots!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-pc-components-with-toms-technology-reviews/"><u>Exploring PC Components with Tom's Technology Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-top-9-iphone-applications-for-adding-photo-water-marks-for-2024/"><u>Exploring Top 9 iPhone Applications for Adding Photo Water Marks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-beginner-to-champion-essential-drone-races-tips-and-best-models-for-2024/"><u>From Beginner to Champion  Essential Drone Races Tips and Best Models for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-14-animated-text-techniques-for-2024/"><u>Groundbreaking 14 Animated Text Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hear-and-engage-speech-technology-gratis-for-2024/"><u>Hear & Engage  Speech Technology Gratis for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-remove-background-in-figma-a-comprehensive-guide-for-2024/"><u>How To Remove Background In Figma  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-direct-stream-from-fb-to-whatsapp-group-chat/"><u>In 2024, Direct Stream From FB to WhatsApp Group Chat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-effortless-access-to-youtube-comments/"><u>In 2024, Expert Tips for Effortless Access to YouTube Comments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-navigating-the-telegram-online-experience/"><u>In 2024, Expert Tips for Navigating the Telegram Online Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-frame-perfect-our-top-10-photo-lenses-list/"><u>In 2024, Frame Perfect  Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-musical-sidekick-ringers-guide/"><u>In 2024, Google's Musical Sidekick Ringers Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-many-seconds-is-a-20mb-video/"><u>In 2024, How Many Seconds Is a 20Mb Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immortalizing-moments-live-photo-to-dynamic-video/"><u>In 2024, Immortalizing Moments  Live Photo to Dynamic Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-assessment-lightroom-app-android-edition/"><u>In 2024, In-Depth Assessment  Lightroom App, Android Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>In 2024, Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-rhythms-with-the-magix-groove-master-suite/"><u>In 2024, Innovative Rhythms with the Magix Groove Master Suite</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/initiate-interactive-storytelling-with-windows-11s-movie-maker-for-2024/"><u>Initiate Interactive Storytelling with Windows 11'S Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-5-video-screens-for-ps5-players-for-2024/"><u>Premier 5 Video Screens for PS5 Players for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-in-zoom-a-step-by-step-guide-for-windows-and-mac-users/"><u>Restore Audio Functionality in Zoom: A Step-by-Step Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/safe-sharing-safe-viewing-tips-for-hiding-online-images-for-2024/"><u>Safe Sharing, Safe Viewing  Tips for Hiding Online Images for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-to-correct-the-development-error-6034-in-call-of-duty-modern-warfare-for-pc-gamers-and-console-players/"><u>Step-by-Step Tutorial to Correct the Development Error 6034 in Call of Duty Modern Warfare - For PC Gamers & Console Players</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-creative-potential-with-microsofts-innovative-paint-updates/"><u>Unlock Your Creative Potential with Microsoft's Innovative Paint Updates</u></a></li>
+</ul></div>

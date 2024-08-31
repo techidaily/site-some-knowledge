@@ -1,7 +1,7 @@
 ---
 title: "Discover Hidden Gems: Unveiling Intriguing Google Easter Eggs You Never Knew Existed!"
-date: 2024-08-28 12:15:33
-updated: 2024-08-29 11:23:37
+date: 2024-08-30T08:59:06.423Z
+updated: 2024-08-31T08:59:06.423Z
 tags:
   - web
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![I'm Feeling Curious Google Easter Egg.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/i-m-feeling-curious-google-easter-egg.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  LGBT Easter Egg
 
  If you're part of the LGBT community or support them, you'll definitely love the [Easter Egg](https://tech-recovery.techidaily.com/have-they-read-my-message-understanding-read-receipts-across-different-platforms/) Google created for them. Just type **LGBT** into Google and hit Enter. In the search results window, click the heart icon, and then you'll see moving hands holding LGBT flags.
@@ -53,24 +56,39 @@ Close
 
 ![DVD Screensaver Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dvd-screensaver-easter-egg-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Dart Mission
 
  If you're a space enthusiast, then you must be aware of NASA's DART spacecraft. It was intentionally collided with the asteroid Dimorphos in a test of the world's first planetary defense system. To celebrate the mission's success, Google introduced a DART Easter Egg. To try it out, type **NASA DART** in the Google search bar and hit Enter. In the results window, you'll see the DART spacecraft crash into the search page.
 
 ![NASA DART Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nasa-dart-easter-egg-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Christmas
 
  One of the best and most entertaining Easter Eggs you can try is Christmas. The best part is that it works on both smartphones and desktops. Simply access Google on your device and search for "Christmas." In the result window, you will see a jumping gift animation.
 
 ![Gift icon on Christmas Easter Egg.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gift-icon-on-christmas-easter-egg.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  Then, click on that animation, and you will be taken to the Google Santa Tracker page, which contains a countdown timer showing the time left until the next Christmas.
 
 ![Google Santa Tracker Page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-santa-tracker-page.jpg) 
 
  You can click the play button to access games made available for you. There are a variety of games, and each appears randomly, so there is no guarantee that clicking the play button will open a specific game. Sometimes, clicking the play button can also show you an animated movie about Santa instead of giving you a game to play.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sonic the Hedgehog
 
  Sonic the Hedgehog is a popular video game series. To celebrate its success, Google added a fun Easter Egg related to it. You can try it by simply typing **Sonic the Hedgehog** in the Google search bar and hitting Enter. You'll see the Sonic character appear on the results page. Click on him, and you'll hear a sound and see him perform some animations.
@@ -83,6 +101,10 @@ Close
 
 ![Google Doodles Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-doodles-easter-egg-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  Google Has Removed Many Easter Eggs, But There's a Way to Still Access Them
 
  There used to be a ton of Easter Eggs you could try on Google. Unfortunately, Google has officially removed them. However, you can still try them out through the Elgoog website, which restores all the Easter Eggs that Google has gotten rid of.
@@ -93,6 +115,9 @@ Close
 
 ![Zerg Rush Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/zerg-rush-easter-egg-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To play the game, go the [main Google search page](https://www.google.com/), type **Zerg Rush** and click "I'm Feeling Lucky."
 
 ###  Dinosaur Game
@@ -107,12 +132,21 @@ Close
 
 ![Google Gravity Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-gravity-easter-egg-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Google Underwater Gravity
 
  You can also make the Google elements appear underwater and see them floating. On the [Google](https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/) homepage, type in **Google Underwater** and click "I'm Feeling Lucky." In the results window, you'll see the Google logo and search bar floating underwater.
 
 ![Google Underwater Gravity Easter Egg in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/google-underwater-gravity-easter-egg-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ---
 
  These were some Google Easter Eggs you should try out. But these aren't the only ones. There are still [plenty of Easter Eggs](https://screen-sharing-recording.techidaily.com/maximize-memories-overwatch-game-footage/) out there on the internet, and Google will likely keep releasing more in the future.
@@ -131,3 +165,58 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-document-the-drive-on-your-galaxy-screen-for-2024/"><u>[New] Document the Drive on Your Galaxy Screen for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-iphone-filming-software-list/"><u>[New] Exclusive iPhone Filming Software List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-imovies-default-cropping-behavior/"><u>[New] Exploring iMovie's Default Cropping Behavior</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fastest-mobile-apps-for-speeding-up-sound-tracks/"><u>[New] Fastest Mobile Apps for Speeding Up Sound Tracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-iphone-images-jpeg-png-guided-conversion-to-pdfs/"><u>[New] From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>[New] In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-ps1-game-emulation-software-on-your-pc/"><u>[Updated] Best PS1 Game Emulation Software on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-filmmakers-picks-best-windows-video-editors-compared/"><u>[Updated] Expert Filmmaker's Picks  Best Windows Video Editors Compared</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploiting-slow-motion-magic-in-phantom/"><u>[Updated] Exploiting Slow-Motion Magic in Phantom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>[Updated] From Recording to Broadcast  Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusing-youtube-beats-into-film-scenes/"><u>[Updated] Fusing YouTube Beats Into Film Scenes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gigglegadget-assistant/"><u>[Updated] GiggleGadget Assistant</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-hero5-black-vs-hero5-session/"><u>[Updated] GoPro Hero5 Black Vs Hero5 Session</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-groove-gatherers-try-our-cost-free-beats-scanners/"><u>[Updated] Groove Gatherers  Try Our Cost-Free Beats Scanners</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-journey-from-picture-to-playlist/"><u>[Updated] Harmonious Journey From Picture to Playlist</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-creativity-with-new-features-in-magix-music-maker-2024/"><u>[Updated] Harnessing Creativity with New Features in Magix Music Maker 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-guide-to-discovering-virtual-augmentations/"><u>2024 Approved  A Guide to Discovering Virtual Augmentations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-essential-blueprint-for-home-based-podcasting/"><u>2024 Approved  The Essential Blueprint for Home-Based Podcasting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-list-6-great-linkinscape-video-downloaders/"><u>2024 Approved  The Ultimate List  6 Great Linkinscape Video Downloaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-boost-with-cookiebot-technology-powering-your-site/"><u>Experience Boost with Cookiebot Technology Powering Your Site</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-to-soften-sound-tracks-in-logic-pro-for-2024/"><u>Expert Tips to Soften Sound Tracks in Logic Pro for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-ingenious-ways-to-modify-voices-for-free-for-2024/"><u>Explore Ingenious Ways to Modify Voices for FREE for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expressing-thanks-top-outro-templates-collection-for-2024/"><u>Expressing Thanks  Top Outro Templates Collection for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expressive-poetry-in-images-and-text-top-100-instagramcaptions-for-2024/"><u>Expressive Poetry in Images and Text - Top 100 #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extract-and-save-still-images-from-movies-in-windows-photos-for-2024/"><u>Extract and Save Still Images From Movies in Windows Photos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flipping-video-content-easily-in-android-applications-for-2024/"><u>Flipping Video Content Easily in Android Applications for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-picture-to-paragraph-text-on-windows-and-mac-photos-for-2024/"><u>From Picture to Paragraph  Text on Windows & Mac Photos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-range-kinetics-review-for-2024/"><u>Full Range Kinetics Review for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funny-ringtones-where-to-download-them-in-2024/"><u>Funny Ringtones  Where to Download Them, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gigglegraphics-visual-humor-studio-for-2024/"><u>GiggleGraphics  Visual Humor Studio for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-greatness-perfecting-palette-on-your-pc/"><u>Guaranteeing Greatness: Perfecting Palette on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-reality-check-does-aurora-meet-expectations-for-2024/"><u>HDR Reality Check  Does Aurora Meet Expectations for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-honor-x9b-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor X9b Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-f23-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo F23 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/implementing-dynamic-filters-transform-your-videos-digitally-for-2024/"><u>Implementing Dynamic Filters  Transform Your Videos Digitally for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-business-visual-aids-to-enhance-your-meetings/"><u>In 2024, Free Business Visual Aids to Enhance Your Meetings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-compression-to-clarity-the-zip-srt-conversion/"><u>In 2024, From Compression to Clarity  The ZIP-SRT Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-to-completion-review-of-magix-vpx/"><u>In 2024, From Concept to Completion  Review of Magix VPX</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>In 2024, How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infusing-memes-with-virality-factor/"><u>In 2024, Infusing Memes with Virality Factor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-virtual-engagement-harnessing-the-power-of-zoom-in-gmail/"><u>In 2024, Innovative Virtual Engagement  Harnessing the Power of Zoom in Gmail</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-best-hashtags-for-yt-view-spikes/"><u>In 2024, The Ultimate List of Best Hashtags for YT View Spikes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-movie-experience-how-to-hook-up-amazon-firestick-with-projector/"><u>Maximize Your Movie Experience: How To Hook Up Amazon Firestick with Projector</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-mobile-gaming-best-android-gb-simulators-for-2024/"><u>Premier Mobile Gaming  Best Android GB Simulators for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-pair-and-recognize-your-logitech-brio-webcam-in-new-pc-version-how-it-worked-for-me-answered/"><u>Re-Pair and Recognize Your Logitech Brio Webcam in New PC Version – How It Worked for Me (Answered)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/slack-strategies-for-effective-teamwork-in-a-remote-work-environment/"><u>Slack Strategies for Effective Teamwork in a Remote Work Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-robloxs-error-code-277-on-your-pc/"><u>Ultimate Guide to Resolving Roblox's Error Code 277 on Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-oppo-reno-11-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Reno 11 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-flv-video-editing-on-a-shoestring-best-free-options/"><u>Updated In 2024, FLV Video Editing on a Shoestring Best Free Options</u></a></li>
+</ul></div>

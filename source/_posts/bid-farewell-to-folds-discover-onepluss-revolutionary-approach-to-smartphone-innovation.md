@@ -1,7 +1,7 @@
 ---
 title: Bid Farewell to Folds - Discover OnePlus's Revolutionary Approach to Smartphone Innovation
-date: 2024-08-26 20:14:23
-updated: 2024-08-29 10:36:23
+date: 2024-08-30T09:01:39.818Z
+updated: 2024-08-31T09:01:39.818Z
 tags:
   - product-reviews
 categories:
@@ -154,6 +154,9 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open outside display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  I really liked the aspect ratios of both displays on the OnePlus Open. When closed, the outside display felt like just a normal phone. In fact, it was _easier_ to use than most normal phones. The Open is shorter and wider than [my daily driver Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/) when closed. Phone designs moved away from 16:9 screens when they expanded into the top and bottom bezels. I didn’t realize how much I missed that.
@@ -166,6 +169,9 @@ Close
 
  Speaking of feel, the inside display is obviously not glass, but it didn’t feel overly soft or mushy. It accumulated smudges and fingerprints faster than the outside display, though. Size and flexibility aside, both displays looked great. The specs of the inside and outside displays are very similar, which makes for fluid transitions between the two. Oh, and unlike the [OnePlus Nord N30](https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/), you can actually see both displays in any direction while wearing sunglasses.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  OnePlus Open Software: Practical Additions
 
 ![OnePlus Open home screen launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-32.jpg) 
@@ -198,10 +204,16 @@ Close
 
  Overall, I was impressed with OxygenOS on a foldable device. There are some features that I think I would genuinely miss if I switched to a Pixel Fold or Galaxy Z Fold. It's not a perfect OS by any means, but the problems can be solved with updates. Oh, and OnePlus, please stop forcing a red lock screen clock on everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  OnePlus Open Performance & Battery Life: Awesome
 
 ![OnePlus Open running four apps at once.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-21.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  OnePlus has packed the Open with the latest flagship Snapdragon 8 Gen 2 processor from Qualcomm and 16GB of RAM. Let me tell you, performance is not something to worry about here, and that’s important for a device that is made for doing a lot of things at the same time.
@@ -220,6 +232,9 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open rear camera array.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-8.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  OnePlus excels at a lot of things, but I don’t think the company has ever truly _nailed_ cameras. That’s the case again with the OnePlus Open, but it's very close to being great.
@@ -248,6 +263,9 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open slightly opened on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  As mentioned, the OnePlus Open is the first tablet-like foldable I've used. I’ve been skeptical of how useful this form factor would actually be for me. Do I really need a tablet at the ready on me at all times? The vertical flip-style foldable phones seemed more practical. I think I'm a believer now.
@@ -256,6 +274,9 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open in black and green.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53230069333_a424095a91_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Of course, the OnePlus Open is not the only phone to bring this concept to the market. However, at $1,699, it’s $100 cheaper than the Pixel Fold or Galaxy Z Fold 5\. The extra $100 gets you wireless charging and an IPX8 rating. $1,699 is still not cheap, but it would be pretty easy to spend that much on a phone and tablet separately. I don't think I truly appreciated that aspect of this type of foldable until I had one in my hands. There's a reason why my iPad has been getting dusty since I started using the OnePlus Open.
@@ -266,6 +287,9 @@ Justin Duino / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  OnePlus Open
 
 8/ 10 
@@ -350,3 +374,40 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-channel-your-content-earning-through-evaluative-endeavors-online/"><u>[New] Channel Your Content  Earning Through Evaluative Endeavors Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-insider-written-by-an-experienced-video-editor/"><u>[New] Exclusive Insider' Written by an Experienced Video Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exemplary-video-capture-top-5-slow-motion-cams/"><u>[New] Exemplary Video Capture  Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-choosing-the-best-platforms-for-watching-cricket-live/"><u>[New] Expert Insights  Choosing the Best Platforms for Watching Cricket LIVE</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-video-lighting-advice-maximizing-visual-impact/"><u>[New] Expert Video Lighting Advice  Maximizing Visual Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-favorite-stock-photos-a-dive-into-memes-and-origins/"><u>[New] Favorite Stock Photos  A Dive Into Memes & Origins</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-timers-roadmap-earning-money-from-periscope-chats/"><u>[New] First-Timer's Roadmap  Earning Money From Periscope Chats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-front-row-diversions-beyond-sports-galore/"><u>[New] Front Row Diversions Beyond Sports Galore</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-feature-dissection-the-sony-fdr-x1000-videographer/"><u>[New] Full Feature Dissection - The Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hack-high-speed-videos-for-engaging-instagram-stories/"><u>[New] Hack High-Speed Videos for Engaging Instagram Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-hierarchy-ranking-10-memes-in-order-of-delight/"><u>[New] Humor Hierarchy  Ranking #10 Memes in Order of Delight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-sound-compilation-premium-download-locales/"><u>[New] Ideal Sound Compilation  Premium Download Locales</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>[New] Innovation in Minimization  The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-invisible-vids-on-social-reveal-the-top-12-techniques-to-restore-appearance-in-23/"><u>[New] Invisible Vids on Social? Reveal the Top 12 Techniques to Restore Appearance in '23</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ultimate-guide-how-to-download-podcasts-on-iphone/"><u>[New] Ultimate Guide How to Download Podcasts on iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-choosing-the-finest-webcams-our-expert-guide/"><u>[Updated] Choosing the Finest Webcams - Our Expert Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-software-gamers-streaming-companions/"><u>[Updated] Exclusive Software  Gamers' Streaming Companions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-convert-subtitles-to-srt-our-picks-for-the-best-8-tools-on-windowsmac/"><u>[Updated] Expertly Convert Subtitles to SRT - Our Picks for the Best 8 Tools on Windows/Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gamers-dilemma-oculus-htc-and-sonys-vr-dominance/"><u>[Updated] Gamers' Dilemma  Oculus, HTC & Sony's VR Dominance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-mkv-player-apps-windows-pc/"><u>[Updated] Ideal MKV Player Apps  Windows PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-to-stunning-timelapses-a-comprehensive-guide-using-gopro/"><u>[Updated] In 2024, Step-By-Step to Stunning Timelapses  A Comprehensive Guide Using GoPro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quipquill-memes-and-more-at-your-fingertips/"><u>[Updated] QuipQuill  Memes & More at Your Fingertips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>[Updated] The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-brother-mfc-7860dw-printer-driver-on-windows/"><u>Download & Installation Guide: Brother MFC-7860DW Printer Driver on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-the-edge-with-a-premier-zero-cost-voice-change-software-for-2024/"><u>Get the Edge with a Premier, Zero-Cost Voice Change Software for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/headset-face-off-rift-vive-and-playstations-vr-standards-for-2024/"><u>Headset Face-Off  Rift, Vive & PlayStation's VR Standards for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts-for-2024/"><u>How to Swiftly Modify and Verify Your Age in TikTok Accounts for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-access-to-the-finest-ae-templates-all-free/"><u>In 2024, Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-6-advanced-strategies-for-gif-artistry/"><u>In 2024, Expert Tips  6 Advanced Strategies for GIF Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>In 2024, Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-woes-no-more-your-ultimate-guide-to-overcoming-dev-error-6034-on-ps-xbox-and-pc/"><u>Modern Warfare Woes No More: Your Ultimate Guide to Overcoming Dev Error 6034 on PS, Xbox & PC!</u></a></li>
+</ul></div>

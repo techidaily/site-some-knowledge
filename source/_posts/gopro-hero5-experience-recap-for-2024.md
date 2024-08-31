@@ -1,0 +1,205 @@
+---
+title: "GoPro Hero5 Experience Recap for 2024"
+date: 2024-08-30T09:08:45.174Z
+updated: 2024-08-31T09:08:45.174Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes GoPro Hero5 Experience Recap for 2024"
+excerpt: "This Article Describes GoPro Hero5 Experience Recap for 2024"
+keywords: "GoPro Hero5 Review,Hero5 Camera Test,Hero5 Video Capture,Action Hero5 Summary,Hero5 Adventure Feedback,GoPro Hero5 Explore Recap,Hero5 Footage Overview"
+thumbnail: https://www.lifewire.com/thmb/YQ8japerjpqrppGhZ3HVtDruUXM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-hulu-down-or-is-it-you-4802265-2779bb5af85946508569c56d3c726346.jpg
+---
+
+## GoPro Hero5 Experience Recap
+
+# GoPro Hero5 Session Review
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ If you are in search of action cameras then [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) is best brand for you. It offers high tech cameras with all amazing features and variable price ranges so you can easily find one that suits your needs. GoPro Hero5 Session camera is rated as one of the best devices with reasonable price range; so it is good to check few awesome details about this device.
+
+ Want to know which GoPro to buy? Here is a [complete comparison >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ It is a light weight, small size device with cube shape design that can shoot highly stabilized videos even with 4k resolution. With payment of $299.99, you can avail 4k recording abilities along 1080p at 90fps, 720p at 120fps. If this device is little above then your budget then you can also look for [GoPro Hero4 session](https://tools.techidaily.com/wondershare/filmora/download/) that is the previous version and will be priced $100 less than that of Hero5 session. If your budget is on higher side then prefer to buy [Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/) that is priced at $399.99 with all amazing features.
+
+ See [Hero Session 5 VS Hero Session 4 >>.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[For most of action camera lovers Hero5 session will be the best choice so below you will get some of the essential details about your favorite device:](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## [Specs Table:](https://tools.techidaily.com/wondershare/filmora/download/)
+
+| **Product Name**                                                            | GoPro Hero5 Session                                                    |                      |                             |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------- | --------------------------- |
+| **Manufacture**                                                             | GoPro (USA)                                                            |                      |                             |
+| **Date available**                                                          | 2 October 2016                                                         |                      |                             |
+| **Price:**                                                                  | Official:$299                                                          |                      |                             |
+| **Basic Specification**                                                     |                                                                        |                      |                             |
+| **Parameters**                                                              | **Details**                                                            | **Parameters**       | **Details**                 |
+| **Weight**                                                                  | 73g only                                                               | **Shape**            | Box                         |
+| **Memory**                                                                  | SDXC cards with 128GB storage and Micro SD (Class 10)                  | **Dimensions**       | 38x38x36mm                  |
+| **Battery**                                                                 | 1000mAh (with 4K resolution it offers 1 hour 40 minute recording time) | **Waterproof**       | 10 meters (without housing) |
+| **Image resolution**                                                        | Up to 10mp                                                             | **Video resolution** | Up to 4k at30fps            |
+| **Display**                                                                 | No                                                                     | **Modes**            | WIFI and Bluetooth          |
+| **Other Features**                                                          | Voice Control                                                          |                      |                             |
+| Advanced Digital video stabilization                                        |                                                                        |                      |                             |
+| Simple one-button type control                                              |                                                                        |                      |                             |
+| ultra wide, Super view, narrow, medium as well as new linear field of views |                                                                        |                      |                             |
+| Advanced reduction capability towards wind-noise                            |                                                                        |                      |                             |
+| Auto image rotation facility                                                |                                                                        |                      |                             |
+| Auto low-light mode available                                               |                                                                        |                      |                             |
+| Time lapse video can be generated                                           |                                                                        |                      |                             |
+
+## [Pros and Cons:](https://tools.techidaily.com/wondershare/filmora/download/)
+
+| **Pros**                                              | **Cons**                               |
+| ----------------------------------------------------- | -------------------------------------- |
+| Voice commands show amazing results                   | No RAW or WDR support for still images |
+| Excellent video quality                               | Non-removable type battery             |
+| Advanced Digital image stabilization feature included | GPS facility is not available          |
+| Sensitive dual microphones are available              | No viewfinder                          |
+| Waterproof (10m without case)                         | \-                                     |
+| Compact size                                          | \-                                     |
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [Complete Review](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### [What is inside the Box?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[If you are ready to buy GoPro Hero5 session Camera then you can expect following things with your device when you will unbox it:](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* [The box will have one standard frame.](https://tools.techidaily.com/wondershare/filmora/download/)
+* [It comes with flat as well as curved adhesive mounts that allows users to capture scenes in all difficult locations.](https://tools.techidaily.com/wondershare/filmora/download/)
+* [Mounting Buckle will be included.](https://tools.techidaily.com/wondershare/filmora/download/)
+* [USB-C cable is added.](https://tools.techidaily.com/wondershare/filmora/download/)
+* [Some video samples will be available.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01LZTLCFX/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LZTLCFX&linkId=ea1830f57bf7ee4f930b77258f8b3654
+)
+
+#### Design and Accessories
+
+ The highlights related to design and accessories can be presented as:
+
+* 38mm or 1.5” cube shaped design helps users in obstructive mounting.
+* This device provides impressive results when connected to GoPro Karma Drone.
+* It is waterproof up to 10m or 33 feet.
+* USB-C charging facility is available but battery is fixed.
+
+ The GoPro camera units are well known for their well shaped rectangular design but this session camera was launched with attractive cube shape. With just a single easy to operate button you can easily start and stop recording whereas tiny LCD panel helps to view recording on the go. This structure is less complicated and users can even change settings to preferable mode from Android or iOS device.
+
+#### Video and Photo Quality
+
+ Few highlights are:
+
+* It serves with 4K resolution for videos.
+* This device is designed with total five fields of view where 3 of these are introductory.
+* 10MP stills can be captured at 30fps frame rate.
+
+ With all pretty features, GoPro Hero5 Session provides 4K resolutions at 30fps rate whereas this rate can be increased up to 90fps in case of 1080p recording. You will be glad to know about its advanced digital stabilization feature and the most exciting part is its vibration mode that gets automatically switched On when you are about the start the camera or when you switch recording Off. You can also switch off the vibrations at the time of video recording to capture much smoother details. Even if you want to capture videos while riding a cycle then also this camera can result in breathtaking view because it possesses advanced wind noise reduction ability.
+
+ Users are excited about its several field of view modes that are: Medium, Wide, Narrow, Linear and Super view. You will be surprised to know that this small camera unit can record videos in super view mode so that you can avail extra wide coverage. One more appreciable feature is its low light video shooting mode that can provide satisfactory results with perfect video quality support.
+
+#### Connectivity and Apps
+
+ Some of the incredible connectivity options along with app supports are discussed as below:
+
+ **Wi-Fi:**
+
+ This latest camera from GoPro is designed to serve users with active Wi-Fi and Bluetooth support. Users can also connect it with iOS and Android device using GoPro Capture Application that activates remote control feature. With this type of connectivity you can also adjust camera settings directly from your phone that means a live view of camera screen will be generated on your mobile device.
+
+ **GoPro Plus:**
+
+ This name is given to a latest cloud based subscription of GoPro series so that users can publish their recorded videos directly on internet. Whenever you plug-in your Hero5 devices whether it is session or black, this cloud based application will allow you to access photo or video uploading facility instantly. It makes use of Home Wi-Fi network to enable this uploading. After this your footage will get stored on GoPro Plus account and it can be easily accessed from official website of GoPro. These uploaded videos will also be accessible on mobile devices as well as on desktop with the help of Quick application.
+
+ **Quick:**
+
+ This application is designed for Mobile as well as desktop users and allows fast as well as efficient editing features for all recorded videos. Users simply need to select highlights and then they can be easily edited to embed music into them or just to cut or trim to match certain timing requirements. The content that is stored on GoPro Account can also be accessed from quick App on portable devices.
+
+**Note** that Users can also try GoPro Plus application for two months without making any payment as manufacturers have provided a free trial version whereas for complete feature access you need to pay $5 per month.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## The Bottom Line
+
+ Some of you may say that GroPro Hero5 Session is not having all fancy features but it is one of the most widely purchases action camera unit in market. This is simply the best device at reasonable price range and the video as well as image quality is amazing. The cube shape of this device is really attractive with tiny body that you can carry anywhere with ease. It is time to order your Hero5 session device online and soon you will be able to record your all adventurous trips with awesome capture quality. The waterproof and damage proof construction is itself an edge over all competing devices.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-create-insta-highlight-cover-photos-a-complete-guide/"><u>[New] 2024 Approved  How to Create Insta Highlight Cover Photos  A Complete Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-steps-in-camera-shopping-for-newcomers-to-film/"><u>[New] First Steps in Camera Shopping – For Newcomers to Film</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-holistic-iphone-use-images-and-videos-fused-together/"><u>[New] Holistic iPhone Use  Images & Videos Fused Together</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-watch-facebook-live-on-roku-for-2024/"><u>[New] How to Watch Facebook Live on Roku for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-horizon-developer/"><u>[New] Humor Horizon Developer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fade-to-darkness-instantaneously/"><u>[Updated] Fade to Darkness Instantaneously</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>[Updated] From Conventional to Crystal Clear with HP Envy 27</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-youtube-soundtracks-within-multimedia/"><u>[Updated] Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>[Updated] Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-videographers-choice-top-audio-for-unboxing-experiences-for-2024/"><u>[Updated] Videographers' Choice  Top Audio for Unboxing Experiences for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-funimate-the-game-changers-manual/"><u>2024 Approved  Funimate  The Game Changer's Manual</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-instant-access-extract-and-save-fb-videos-as-mp4s/"><u>2024 Approved  Instant Access  Extract and Save FB Videos as MP4s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>2024 Approved  Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-top-15-youtube-starter-themes-for-increased-viewership/"><u>2024 Approved  Top 15 YouTube Starter Themes for Increased Viewership</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unique-themes-redesign-your-youtube-presence/"><u>2024 Approved  Unique Themes  Redesign Your YouTube Presence</u></a></li>
+<li><a href="https://article-files.techidaily.com/bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity-for-2024/"><u>Bridging Audio Gaps  The Complete Guide to Smooth Blending in Audacity for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-bridges-socially-the-7-networking-benefits/"><u>Building Bridges Socially: The 7 Networking Benefits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-s23-ultra-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy S23 Ultra Device SIM</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-top-notch-gif-utilities-on-ios-devices-for-2024/"><u>Exploring Top-Notch GIF Utilities on iOS Devices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flight-finesse-crafting-the-top-10-endurance-drone-lineup-for-2024/"><u>Flight Finesse  Crafting the Top 10 Endurance Drone Lineup for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fostering-creativity-the-most-innovative-6-nft-services-for-2024/"><u>Fostering Creativity  The Most Innovative 6 NFT Services for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ghostly-movies-innovation-in-recorders-for-2024/"><u>Ghostly Movies  Innovation in Recorders for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/giggles-guide-to-sign-insign-out-for-2024/"><u>Giggles Guide to Sign-In/Sign-Out for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-xr-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone XR</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-failing-remote-procedure-call-comprehensive-guide/"><u>How to Fix a Failing Remote Procedure Call - Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>In 2024, Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-for-finding-no-cost-art/"><u>In 2024, Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-11-key-insights-into-superior-color-adjustment-techniques/"><u>In 2024, Explore the 11 Key Insights Into Superior Color Adjustment Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-details-focused-discussions-zoom-tips-for-teams/"><u>In 2024, Fine Details, Focused Discussions  Zoom Tips for Teams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-spectrum-assessment-dji-phantom-4-unveiled/"><u>In 2024, Full Spectrum Assessment  DJI Phantom 4 Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grit-vs-glory-hitbox-versus-twitch-titans/"><u>In 2024, Grit vs Glory  Hitbox Versus Twitch Titans</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-definition-options-best-4k-camera-support-systems/"><u>In 2024, High Definition Options  Best 4K Camera Support Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highlights-of-snowboard-cross-olympics-2022/"><u>In 2024, Highlights of Snowboard Cross Olympics 2022</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hone-your-meme-skills-quickly-using-9gag-strategies/"><u>In 2024, Hone Your Meme Skills Quickly Using 9GAG Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-insight-into-final-cut-pro-editing/"><u>In 2024, In-Depth Insight Into Final Cut Pro Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-inexpensive-chinese-virtual-reality-helmets/"><u>In 2024, Inexpensive Chinese Virtual Reality Helmets</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installation-procedure-for-revo-uninstaller-a-comprehensive-walkthrough/"><u>Installation Procedure for Revo Uninstaller - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximizing-reliable-orientation-a-thorough-look-at-twelve-souths-compass-pro/"><u>Maximizing Reliable Orientation: A Thorough Look at Twelve South's Compass Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/olympic-snowscape-highlights-cross-style-22/"><u>Olympic Snowscape Highlights - Cross Style '22</u></a></li>
+<li><a href="https://os-tips.techidaily.com/seamless-integration-your-guide-to-connecting-iphone-with-mac/"><u>Seamless Integration: Your Guide to Connecting iPhone with Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-problems-overcoming-error-0x802n4200d-successfully-explained/"><u>Troubleshooting Windows Update Problems: Overcoming Error 0X802n4200d Successfully Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/what-is-google-ar-sticker-and-are-there-alternatives-for-2024/"><u>What Is Google AR Sticker and Are There Alternatives for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

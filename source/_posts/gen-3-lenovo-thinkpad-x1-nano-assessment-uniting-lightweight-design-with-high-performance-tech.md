@@ -1,7 +1,7 @@
 ---
 title: "Gen 3 Lenovo ThinkPad X1 Nano Assessment: Uniting Lightweight Design with High-Performance Tech"
-date: 2024-08-26 12:19:40
-updated: 2024-08-29 11:40:44
+date: 2024-08-30T09:00:58.335Z
+updated: 2024-08-31T09:00:58.335Z
 tags:
   - product-reviews
 categories:
@@ -138,6 +138,9 @@ Expand
 
 ![The Lenovo ThinkPad X1 Nano Gen 3 laptop open on a workbench.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lenovo-thinkpad-x1-nano-gen-3-open-on-a-workbench-2jpg_53068028802_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  When unboxing the ThinkPad X1 Nano Gen 3, I felt like I was holding any other ThinkPad—but in the most featherlight form I had ever seen. The X1 Nano Gen 3's chassis has a familiar, premium feel with a magnesium alloy bottom and carbon fiber top. The top cover features the iconic ThinkPad logo and red indicator light. With the screen open, the ThinkPad X1 Nano houses its webcam in the top bevel and a privacy shutter to the right side of it. The quad microphone array is located at the top edge of the lid, while there's a sleek "X1 Nano" logo in the bottom-right corner of the cover.
@@ -148,10 +151,21 @@ Close
 
  Unfortunately, there isn't much to discuss in the way of ports. The X1 Nano conserves space by including only two USB-C ports and a headphone/microphone jack on the left side of the device. Yep, this [laptop only has USB-C ports](https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/). Completely absent of an HDMI port and USB-A ports, most users will want to invest in some USB-A to USB-C adapter cables or a [USB-C hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) to make plugging in possible.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Inputs: The Touchscreen, Trackpad, and Keyboard
 
 ![Top view of the keyboard and TrackPad on the Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/top-view-of-the-keyboard-and-trackpad-on-the-lenovo-thinkpad-x1-nano-gen-3jpg_53068027362_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Like most ThinkPads, the X1 Nano combines a comfy type-feel with an excellent Trackpad (complete with handy buttons) and a responsive touchscreen to bring you a trio of inputs done right. I found the X1 Nano's keyboard to have a perfect balance of give and springiness.
@@ -160,10 +174,16 @@ Hannah Stryker / How-To Geek
 
  Regarding the touchscreen, I used it to drag pages, scroll, tap through browser tabs, and more without a blip.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ##  Display and Graphics: Clear 2K Makes Media Pleasurable
 
 ![The Lenovo ThinkPad X1 Nano Gen 3 laptop sitting on a bed playing "Detective Pikachu."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/graphics-hero-image.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _"Detective Pikachu"_
@@ -206,10 +226,16 @@ Close
 
  I noticed similar issues while playing "Life Is Strange: True Colors"—with a latent screen panning that irritated me. I resolved this by closing out my existing internet tabs and pausing another game download to free up some working memory. This smoothed out the gameplay, so if you game with the X1 Nano, you'll want to close out any resource-heavy programs before you launch your chosen virtual universe. (Also known as that runaway [program using all your CPU](https://video-screen-grab.techidaily.com/in-2024-from-spoken-word-to-memo-iphone-audio-guidance/)). When I played again, with no other open programs, it ran beautifully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ##  The Camera, Mics, and Speakers
 
 ![Camera on the Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/camera-on-the-lenovo-thinkpad-x1-nano-gen-3jpg_53069111633_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  For its tiny size, the ThinkPad X1 Nano Gen 3 brings its game with a 1080P IR hybrid camera that captures plenty of detail and works well in most moderate to dim lighting scenarios. I didn't have to worry if I looked grainy or overexposed on video calls—each video stream was clear in my office or bedroom.
@@ -224,6 +250,9 @@ Hannah Stryker / How-To Geek
 
  For working professionals, the 360-degree quad microphone array on the X1 Nano is a joy to use for video calls or voice memos. The microphones can clearly pick up your voice, even when you're speaking quietly.They can also cut out background noise. In my testing, background noises like traffic sounds and light chatter were nearly nonexistent. If you're speaking at louder volumes, however, you may notice clipping in the sound. I tried recording myself singing with the laptop close by, and the resulting audio was full of cut-off notes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ###  Microphone Test on the X1 Nano Gen 3 Laptop in a Quiet Environment
 
 Your browser does not support the video tag. 
@@ -238,10 +267,25 @@ Your browser does not support the video tag.
 
  As far as charging speed, thanks to Rapid Charge, the laptop gains at a high rate. In one hour, I averaged around 40% charge—and I did see Rapid Charge speeds of up to 70% charge in one hour.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad X1 Nano Gen 3 Laptop?
 
 ![Person holding the closed Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/person-holding-the-closed-lenovo-thinkpad-x1-nano-gen-3jpg_53069007870_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  If you're in the market for an ultraportable laptop that doesn't sacrifice power for size, the [Lenovo ThinkPad X1 Nano Gen 3](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054) (starting at $1,217) is one of the best tiny laptops you'll find. It's a great solution for digital nomads (even with the lack of ports). However, if you need a laptop that offers more flexibility with gaming, a larger screen, or more ports, you might want to shop around or try the [Lenovo ThinkPad X1 Carbon (Gen) 11](https://shop-links.co/link/?exclusive=1&publisher%5Fslug=howtogeek&u1=UUhtgUeUpU904740&article%5Fname=Lenovo+ThinkPad+X1+Nano+Gen+3+Laptop+Review%3A+A+Marriage+of+Portability+and+Powerful+Computing+&article%5Furl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-thinkpad-x1-nano-gen-3-laptop-review%2F&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-11-%2814-inch-intel%29%2Flen101t0049).
@@ -274,3 +318,53 @@ The Lenovo X1 Nano Gen 3 laptop takes portability to the next level Intel Core i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-commanding-the-crowd-on-igtv-5-tips-to-gain-traction/"><u>[New] 2024 Approved  Commanding the Crowd on IGTV  5 Tips to Gain Traction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-auditory-selections-for-filmmaking/"><u>[New] Exclusive Auditory Selections for Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>[New] Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-extensive-review-the-hero4-black-journey/"><u>[New] Extensive Review  The Hero4 Black Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>[New] Flight in the Smallest Form  A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-online-jpggif-converters-the-best-10-list/"><u>[New] Free Online JPG/GIF Converters  The Best 10 List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gain-listener-traffic-advanced-techniques-in-podcast-seo/"><u>[New] Gain Listener Traffic  Advanced Techniques in Podcast SEO</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-giggle-guide-to-funny-memes-a-quick-primer/"><u>[New] Giggle Guide to Funny Memes  A Quick Primer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-performance-tools-youtube-meets-twitter/"><u>[New] High-Performance Tools  YouTube Meets Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>[New] How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-storytelling-with-jump-cuts-technique/"><u>[Updated] 2024 Approved  Enhancing Storytelling with Jump Cuts Technique</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>[Updated] Direct MP3 to YouTube  3 Steps for Seamless Video Posting for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-the-efficacy-of-aurora-hdr-technology/"><u>[Updated] Evaluating the Efficacy of Aurora HDR Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foundation-principles-of-tale-telling/"><u>[Updated] Foundation Principles of Tale-Telling</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>[Updated] From Ordinary to Epic  IPhone's Best Landscape Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-360-cameras-for-youtube-and-facebook-coverage/"><u>[Updated] High-Quality 360° Cameras for YouTube & Facebook Coverage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-video/"><u>[Updated] How to Use GoPro Hero5 Black  Tips for Shooting Great Photos and Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>2024 Approved  Capturing Clarity  Perfecting Image Description via Text in PC/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>2024 Approved  FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-audio-dimming-in-fl-studio/"><u>2024 Approved  Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-swift-tip-extracting-and-storing-twitter-video-on-phone/"><u>2024 Approved  Swift Tip  Extracting and Storing Twitter Video on Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-kernel-data-page-errors-in-windows-os/"><u>Comprehensive Fixes for Kernel Data Page Errors in Windows OS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-creative-content-on-instagram-using-loops-for-2024/"><u>Elevate Your Creative Content on Instagram Using Loops for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/final-cut-pros-best-combo-of-10-vfx-plug-ins-for-2024/"><u>Final Cut Pro's Best Combo of 10 VFX Plug-Ins for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-clear-coffee-stain-free-images-using-ioss-free-app-for-2024/"><u>Get Clear, Coffee Stain-Free Images Using iOS's Free App for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonizing-images-essential-tutorials-for-color-mastery-for-2024/"><u>Harmonizing Images  Essential Tutorials for Color Mastery for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-variations-panoramic-and-virtual-reality-films/"><u>In 2024, Exploring Variations  Panoramic & Virtual Reality Films</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flattening-lines-easy-curve-transformation/"><u>In 2024, Flattening Lines  Easy Curve Transformation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-dive-into-the-intricacies-of-adobe-cloud-for-secure-efficient-data-management/"><u>In 2024, Full Dive Into the Intricacies of Adobe Cloud for Secure, Efficient Data Management</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funnyface-creator/"><u>In 2024, FunnyFace Creator</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-giggle-guide-to-funny-memes-a-quick-primer/"><u>In 2024, Giggle Guide to Funny Memes  A Quick Primer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-efficient-webp-jpeg-conversion/"><u>In 2024, Guide to Efficient WebP JPEG Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guided-pathway-for-large-file-exchange-in-apple-ecosystem/"><u>In 2024, Guided Pathway for Large File Exchange in Apple Ecosystem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>In 2024, Harmonizing Movement with Music  Instagram's Reel Synergy Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-find-the-best-videographer/"><u>In 2024, How to Find the Best Videographer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-increasing-clarity-with-enhanced-youtube-videos/"><u>In 2024, Increasing Clarity with Enhanced YouTube Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y36-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y36 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-leading-gratis-converters-srt-edition/"><u>In 2024, Unveiling the Leading Gratis Converters  SRT Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-depth-look-at-cybercam-capturer/"><u>In-Depth Look at CyberCam Capturer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infusing-astrology-in-whatsapp-profiles-for-better-engagement-for-2024/"><u>Infusing Astrology in WhatsApp Profiles for Better Engagement for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-mac-slideshow-app-ezvid-review-and-tutorial/"><u>New The Ultimate Mac Slideshow App Ezvid Review and Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-avi-media-reader-superior-on-every-platform-for-2024/"><u>Prime Avi Media Reader - Superior on Every Platform for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-understanding-and-resolving-two-point-decrease-in-frame-rate-on-pc-platforms/"><u>Solved: Understanding and Resolving Two-Point Decrease in Frame Rate on PC Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/windows-and-mac-friendly-techniques-for-fb-video-download/"><u>Windows & Mac-Friendly Techniques for FB Video Download</u></a></li>
+</ul></div>

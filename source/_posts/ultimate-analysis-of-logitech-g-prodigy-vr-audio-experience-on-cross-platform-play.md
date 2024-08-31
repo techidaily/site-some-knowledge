@@ -1,7 +1,7 @@
 ---
 title: Ultimate Analysis of Logitech G Prodigy VR Audio Experience on Cross-Platform Play
-date: 2024-08-26 11:58:33
-updated: 2024-08-29 12:21:13
+date: 2024-08-30T09:02:07.326Z
+updated: 2024-08-31T09:02:07.326Z
 tags:
   - product-reviews
 categories:
@@ -87,10 +87,16 @@ Logitech G Astro A50 X Gaming Headset
 
  The base station is designed to seamlessly pass video and audio unaltered with an effectively imperceptible 1 to 2ms of lag. This means uncompressed and uncompromised passthrough of up to 4K 120Hz video and 24-bit audio. Similarly, the microphone uplink is 16-bit at 48kHz. One nice side effect of connecting both an Xbox and PlayStation to the Astro A50 X is that it acts as an HDMI switch, eliminating the need for two separate HDMI ports for your consoles.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Setting Up: It's a Bit Involved at First
 
 ![Controls on the Logitech G Astro A50 X headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/controls-on-the-logitech-g-astro-a50-x-headset-2jpg_53398186568_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The initial setup is a bit complicated, but once everything is set, there shouldn't be much, if anything, to configure going forward. A lifetime license for [Dolby Atmos](https://www.dolby.com/gaming/) is included for Xbox owners and is dependent upon having both an HDMI and USB connection to the console from the base station, so switch the headset to Xbox mode, go into the Xbox settings menu, and enable Dolby Atmos for Headphones.
@@ -105,10 +111,16 @@ Sergio Rodriguez / How-To Geek
 
  Since the headset communicates exclusively through the base station, like with the wired Xbox, PlayStation, and PC connections, the Bluetooth device needs to be in the same room as the base station to remain connected. To put it more simply, it's the base station that provides the connection to your Bluetooth device, not the headset. While this limits mobility, it also maximizes audio performance and the headset's battery life, which can be up to 24 hours between charges at a [loud 78dB](https://audiology-web.s3.amazonaws.com/migrated/NoiseChart%5FPoster-%208.5x11.pdf%5F5399b289427535.32730330.pdf) listening volume.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Design and Fit: Conservative and Comfortable
 
 ![top-of-the-headband-of-the-logitech-g-astro-a50-x-3jpg_53397069067_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/top-of-the-headband-of-the-logitech-g-astro-a50-x-3jpg_53397069067_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
 Logitech G Astro A50 X Gaming Headset
@@ -137,6 +149,10 @@ Logitech G Astro A50 X Gaming Headset
 
  When playing music via Spotify on PC I was struck by how clean the audio was. Playing the same audio on Spotify over Bluetooth via my iPhone was similarly excellent with clearly defined instruments and spatial placement. Although it's easy to further tune the sound via the PC or mobile apps, the default sound profiles are excellent out of the box for those who don't like to tinker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Logitech G Astro A50 X Gaming Headset?
 
 ![Dial and charging points on the Logitech G Astro A50 X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/dial-and-charging-points-on-the-logitech-g-astro-a50-xjpg_53397068277_o.jpg) 
@@ -151,6 +167,9 @@ Sergio Rodriguez / How-To Geek
 
 ![A50 X Headset and Base Station Gen5 3QTR FRNT L Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a50-x-headset-and-base-station-gen5-3qtr-frnt-l-black.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Logitech Astro A50 X
@@ -175,3 +194,50 @@ The Logitech G Astro A50 X Gaming Headset is one of the first true multi-console
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-codec-rivalry-assessing-the-next-step-in-video-encoding/"><u>[New] Codec Rivalry  Assessing the Next Step in Video Encoding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-unique-content-to-differentiate-your-channel-for-2024/"><u>[New] Crafting Unique Content to Differentiate Your Channel for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-examining-the-economics-pewdiepies-annual-income/"><u>[New] Examining the Economics  PewDiePie's Annual Income</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>[New] Exclusive Roundup  Affordable, High-Quality Live Streaming Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-techniques-for-manipulating-iphone-photos/"><u>[New] Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>[New] Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tuning-your-remote-visual-experience/"><u>[New] Fine-Tuning Your Remote Visual Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grasping-the-heart-of-narrative-design/"><u>[New] Grasping the Heart of Narrative Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-playbook-for-exceptional-obs-studio-content-for-2024/"><u>[New] The Ultimate Playbook for Exceptional OBS Studio Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-selection-of-best-cams-for-snowsports-capture/"><u>[Updated] Expert Selection of Best Cams for Snowsports Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-strategies-in-nvidia-screen-capturing-for-2024/"><u>[Updated] Expert Strategies in NVIDIA Screen Capturing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-for-perfect-green-screen-cinematography/"><u>[Updated] Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-freesoundextractor-pro-an-in-depth-2024-analysis/"><u>[Updated] FreeSoundExtractor Pro  An In-Depth 2024 Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-hdr-an-advanced-guide-to-ps/"><u>[Updated] Harnessing the Power of HDR  An Advanced Guide to PS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-improving-zoom-hd-quality-quick-fixes/"><u>[Updated] Improving Zoom HD Quality  Quick Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>[Updated] Premiere Pros' Picks  Professional Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/13-simple-ways-to-document-webinars-cost-free-for-2024/"><u>13 Simple Ways to Document Webinars Cost-Free for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-12-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g23-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G23? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bronze-blessings-god-of-war-boost/"><u>Bronze Blessings: God of War Boost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-a-brand-through-effective-live-streaming-practices/"><u>Building a Brand Through Effective Live Streaming Practices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-amplified-10-must-know-canva-techniques-for-2024/"><u>Expertise Amplified  10 Must-Know Canva Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-action-gopro-for-dynamic-time-lapses-for-2024/"><u>Expertise in Action  GoPro for Dynamic Time-Lapses for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-interconnected-digital-universes-meta-and-omni-for-2024/"><u>Exploring Interconnected Digital Universes  Meta & Omni for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/find-your-favorite-tunes-androids-top-6-music-vids-for-2024/"><u>Find Your Favorite Tunes  Android's Top 6 Music Vids for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fostering-flourishing-visuals-with-after-effects-fonts-for-2024/"><u>Fostering Flourishing Visuals with After Effects Fonts for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/free-file-resurrection-stellar-restoration/"><u>Free File Resurrection - Stellar Restoration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/freeing-up-your-screen-time-which-video-player-prevails-vlc-or-mpc-for-2024/"><u>Freeing Up Your Screen Time  Which Video Player Prevails, VLC or MPC for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gmail-to-zoom-tips-for-smooth-virtual-meeting-transitions-for-2024/"><u>Gmail to Zoom  Tips for Smooth Virtual Meeting Transitions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopros-top-tier-face-off-hero5-b-and-sessions-for-2024/"><u>GoPro's Top Tier Face-Off  Hero5 B & Sessions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-transfer-playlists-between-music-services-for-2024/"><u>How to Transfer Playlists Between Music Services for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-illumination-mastering-grading-art-for-2024/"><u>Image Illumination  Mastering Grading Art for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>In 2024, Expert Analysis  Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-polarr-photo-editor-features-in-detail/"><u>In 2024, Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extensive-movement-review-2023/"><u>In 2024, Extensive Movement Review 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-analysis-and-how-to-the-ultimate-picsart-experience/"><u>In 2024, Full Analysis and How-To  The Ultimate PicsArt Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-narrative-what-the-google-podcasts-app-offers/"><u>In 2024, Full Narrative  What the Google Podcasts App Offers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-light-in-iphone-hdr-photography/"><u>In 2024, Harnessing the Power of Light in iPhone HDR Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-clean-up-your-figma-compositions-effectively/"><u>In 2024, How To Clean Up Your Figma Compositions Effectively</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-6-plus-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 6 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-sharing-media-from-one-iphone-to-another/"><u>In 2024, Step-by-Step  Sharing Media From One iPhone to Another</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-ideas-for-customized-gif-art-for-2024/"><u>Innovative Ideas for Customized GIF Art for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-screenshot-and-video-tools-top-8-smartphone-essentials-for-2024/"><u>Innovative Screenshot & Video Tools – Top 8 Smartphone Essentials for 2024</u></a></li>
+</ul></div>

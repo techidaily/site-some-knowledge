@@ -1,7 +1,7 @@
 ---
 title: "Type-C Gaming Performance Unleashed: A Comprehensive GameSir X2s Controller Assessment"
-date: 2024-08-27 12:52:50
-updated: 2024-08-29 10:31:41
+date: 2024-08-30T09:01:30.231Z
+updated: 2024-08-31T09:01:30.231Z
 tags:
   - product-reviews
 categories:
@@ -79,6 +79,9 @@ Expand
 
 ![GameSir X2s Type-C gaming controller showing back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-rear.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  If you’re familiar with the Nintendo Switch, then GameSir’s X2s Type-C will look especially familiar. Though GameSir advertises the mobile controller as a call-back to the Nintendo 2DS, it’s definitely a Switch layout, complete with one of my biggest issues with Nintendo’s hybrid handheld.
@@ -89,6 +92,9 @@ Sergio Rodriguez / How-To Geek
 
  Unfortunately, I think GameSir got caught up with making a budget-friendly option without considering what that entails. There’s still no USB-C audio passthrough or 3.5mm jack, a carryover issue from the [X2 controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/). You’ll either need a wireless headset or restrict playing in public to avoid annoying all around you. Even when playing in private, mobile phones, like the Google Pixel 8 Pro I tested the X2s with, have decent speakers, but they don’t replace the quality and clarity of a headset.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ###  Flimsy Build with Sturdy, Responsive Inputs
 
 ![GameSir X2s Type-C close up of face buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-close-up.jpg) 
@@ -101,10 +107,17 @@ Sergio Rodriguez / How-To Geek
 
  I tested games like “Call of Duty Mobile,” “Brawlhalla,” “Gears 5,” and “Forza Horizon 5,” and I felt the X2s worked well for each of the varying gameplay. The automatic button-mapping for “Call of Duty Mobile” was flawless, and the responsiveness during the chaotic fights of “Brawlhalla” didn’t disappoint. I also didn’t notice any glaring issues with how the controller worked with streaming “Gears 5” and “Forza.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Simplicity With Plenty to Offer
 
 ![GameSir X2s Type-C front view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-type-c-overview.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The overall design of the X2s is simple. There are no bells and whistles, and it really relies on that “retro” styling to appeal to players. I wish it appealed more to me. It’s just not something I can game on for long. It’s a shame, too, because GameSir didn’t skimp on some of its staple features carried over from premium mobile controllers.
@@ -117,10 +130,17 @@ Close
 
  There are two additional controller modes—DS5 and HiD—but neither seemed to change much, save, maybe, for compatibility. GameSir’s manuals aren’t clear, but both seem to exist to allow the X2s to run games that already have native controller support, with DS5 mode made specifically for the PS5\. In future models, I’d like to see a mobile controller that mimics DualSense’s haptic feedback trigger so you can get the full experience of playing on the console.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Limited Only By Your Gaming Library
 
 ![Falout Shelter running on GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesirt-x2s-type-c-fallout.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  GameSir constantly provides an impressive level of support. On my X2s, I could run Xbox Cloud Gaming, Steam Link, PS Remote Play, and dedicated mobile games seamlessly through the GameSir app. If I had accounts with GeForce NOW and any other cloud streaming service that works with Android devices, I’d have also been able to access them. (This controller works for iPhone emulator apps like Delta too!)
@@ -161,3 +181,54 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-footprint-and-interactive-iconography-honors/"><u>[New] 2024 Approved  Digital Footprint and Interactive Iconography Honors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-for-the-digital-novice-a-beginners-guide-to-visual-clarity-and-pixel-perfect-images/"><u>[New] For the Digital Novice  A Beginner's Guide to Visual Clarity and Pixel-Perfect Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-holistic-iphone-use-images-and-videos-fused-together/"><u>[New] Holistic iPhone Use  Images & Videos Fused Together</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-horizon-developer/"><u>[New] Humor Horizon Developer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-uavs-for-capturing-gopro-hd-footage/"><u>[New] Ideal UAVs for Capturing GoPro HD Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-shining-up-your-android-videos-effortlessly/"><u>[New] Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-analyzing-vidmas-impact-on-video-capture-tech-for-2024/"><u>[Updated] Analyzing Vidma's Impact on Video Capture Tech for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-easy-steps-to-download-twitters-media-to-phone/"><u>[Updated] Easy Steps to Download Twitters Media to Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expand-your-video-editing-experience-no-inshot-required/"><u>[Updated] Expand Your Video Editing Experience  No Inshot Required</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-power-of-vce-22-for-impeccable-video-clarity/"><u>[Updated] Explore the Power of VCE 2.2 for Impeccable Video Clarity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fade-to-darkness-instantaneously/"><u>[Updated] Fade to Darkness Instantaneously</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>[Updated] From Conventional to Crystal Clear with HP Envy 27</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-youtube-soundtracks-within-multimedia/"><u>[Updated] Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>[Updated] Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-melodies-with-video-in-premiere-pro/"><u>[Updated] Syncing Melodies with Video in Premiere Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-droning-success-key-elements-in-selecting-ideal-fpv-propellers/"><u>2024 Approved  Droning Success  Key Elements in Selecting Ideal FPV Propellers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-dedicated-decade-with-mondlybacks-filters/"><u>A Dedicated Decade with MondlyBack's Filters</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-glitches-while-playing-age-of-empires-4-expert-tips-and-tricks/"><u>Eliminating Stuttering Glitches While Playing Age of Empires 4: Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-top-notch-gif-utilities-on-ios-devices-for-2024/"><u>Exploring Top-Notch GIF Utilities on iOS Devices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-funny-image-maker-for-2024/"><u>Foremost Funny Image Maker for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fostering-creativity-the-most-innovative-6-nft-services-for-2024/"><u>Fostering Creativity  The Most Innovative 6 NFT Services for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ghostly-movies-innovation-in-recorders-for-2024/"><u>Ghostly Movies  Innovation in Recorders for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/giggles-guide-to-sign-insign-out-for-2024/"><u>Giggles Guide to Sign-In/Sign-Out for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-i-find-great-indie-games-using-itchio/"><u>How I Find Great Indie Games Using Itch.io</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-address-the-msedgeexe-application-error-on-your-pc-running-windows/"><u>How to Address the 'Msedge.exe Application Error' On Your PC Running Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-bring-your-ideas-to-life-in-win-movie-maker-for-2024/"><u>How to Bring Your Ideas to Life in Win Movie Maker for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming/"><u>In 2024, Exclusive Guide to High-Performing Screens for Xbox Series X Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-for-finding-no-cost-art/"><u>In 2024, Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-11-key-insights-into-superior-color-adjustment-techniques/"><u>In 2024, Explore the 11 Key Insights Into Superior Color Adjustment Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-details-focused-discussions-zoom-tips-for-teams/"><u>In 2024, Fine Details, Focused Discussions  Zoom Tips for Teams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-five-steps-to-enhance-your-screenplay-narration/"><u>In 2024, Five Steps to Enhance Your Screenplay Narration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-spectrum-assessment-dji-phantom-4-unveiled/"><u>In 2024, Full Spectrum Assessment  DJI Phantom 4 Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grit-vs-glory-hitbox-versus-twitch-titans/"><u>In 2024, Grit vs Glory  Hitbox Versus Twitch Titans</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-definition-options-best-4k-camera-support-systems/"><u>In 2024, High Definition Options  Best 4K Camera Support Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highlights-of-snowboard-cross-olympics-2022/"><u>In 2024, Highlights of Snowboard Cross Olympics 2022</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hone-your-meme-skills-quickly-using-9gag-strategies/"><u>In 2024, Hone Your Meme Skills Quickly Using 9GAG Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-insight-into-final-cut-pro-editing/"><u>In 2024, In-Depth Insight Into Final Cut Pro Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-inexpensive-chinese-virtual-reality-helmets/"><u>In 2024, Inexpensive Chinese Virtual Reality Helmets</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-imovie-content-for-youtube-distribution/"><u>Mastering iMovie Content for YouTube Distribution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-live-action-best-practices-in-gaming-recording/"><u>Mastering Live Action  Best Practices in Gaming Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximizing-reliable-orientation-a-thorough-look-at-twelve-souths-compass-pro/"><u>Maximizing Reliable Orientation: A Thorough Look at Twelve South's Compass Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-qr-code-reading-problems-top-10-fixes-for-iphones/"><u>Overcoming Common QR Code Reading Problems: Top 10 Fixes for iPhones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-gionee-f3-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Gionee F3 Pro Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a25-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A25 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/what-is-google-ar-sticker-and-are-there-alternatives-for-2024/"><u>What Is Google AR Sticker and Are There Alternatives for 2024</u></a></li>
+</ul></div>

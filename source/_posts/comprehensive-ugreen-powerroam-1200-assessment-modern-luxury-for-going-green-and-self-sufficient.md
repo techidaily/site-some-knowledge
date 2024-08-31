@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Ugreen PowerRoam 1200 Assessment - Modern Luxury for Going Green and Self-Sufficient!
-date: 2024-08-28 21:26:25
-updated: 2024-08-29 10:51:30
+date: 2024-08-30T09:00:44.778Z
+updated: 2024-08-31T09:00:44.778Z
 tags:
   - product-reviews
 categories:
@@ -93,6 +93,9 @@ Expand
 
 [See at Amazon](https://www.amazon.com/UGREEN-Generator-PowerRoam-Portable-Generators/dp/B0C4SMQRM4?tag=hotoge-20&ascsubtag=UUhtgUeUpU904645&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fugreen-powerroam-1200-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Design: Portable, But Poorly Laid Out
 
 ![UGREEN Power Roam 1200 Solar with deployed kickstand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ugreen-power-roam-1200-solar-kickstand-1.jpg) 
@@ -105,12 +108,18 @@ Mark LoProto / How-to Geek
 
  Because of the layout, that means you could have all manner of wires jutting from the power station at all angles. It can get a little messy, which would have been mitigated by reserving ports to the front and only one side.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fast-Charging Keeps You Powered
 
  When I unboxed the UGREEN PowerRoam 1200, it was expectedly low on power. The battery gauge, easily found on the front LCD, read 27% charged. Though the unit came with a 200W solar panel, I used the included wall plug for the first cycle.
 
  When plugged into the wall, the total input averaged around 236W and took 44 minutes for the power station to reach 100% battery. The display keeps you abreast of total input and how long it will take to charge. Its estimate was fairly accurate. In fact, it overestimated and averaged about 50 to 55 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Solar is a Decent, Albeit Slower Alternative
 
  Unfortunately, I didn’t have the same experience with the 200W solar panel, which typically sells separately or as part of a higher-priced bundle. Whereas plugging into an outlet produced near-expected input, the solar panel underperformed. Even at the height of a cloudless mid-summer day in the desert, with the built-in smart alignment feature telling me the panels were properly positioned, the PowerRoam was only receiving about 112W of the advertised 200W. At that rate, from 40% battery, the station estimated 5.6 hours until a full charge.
@@ -119,10 +128,16 @@ Mark LoProto / How-to Geek
 
  Overall performance really highlights the best applications for the PowerRoam 1200, especially if you have a hierarchy of what you can’t live without during a power outage. You may need to prioritize which devices remain powered, but the solar panels should keep you well-stocked with electricity.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Good for Emergencies, Great for Outdoor Living
 
 ![UGREEN Power Roam 1200 Solar Plugged In](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ugreen-power-roam-1200-solar-plugged-in.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Mark LoProto / How-to Geek
 
  I can see the PowerRoam 1200 coming in handy during a power outage, but it’s not where it will shine. During an in-home test, I plugged my fridge, air fryer, television, and Xbox Series S into the station. The refrigerator, a sizable side-by-side, drew only 4W, though the station estimated a 66-hour battery life (equating to 256Wh). When I added the air fryer, it ran at a near-consistent 1,200W, dropping the battery life to about 44 hours. Separately, the TV and Xbox drew about 79W together.
@@ -155,6 +170,9 @@ Close
 
 ![UGREEN PowerRoam 1200 Portable Power Station image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ugreen-powerroam-1200-product-tag.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
 #####  Ugreen PowerRoam 1200
@@ -179,3 +197,72 @@ UGREEN's PowerRoam 1200 portable power station is a compact and travel-friendly 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-chuckle-composer-app/"><u>[New] 2024 Approved  Chuckle Composer App</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhancing-video-reach-convert-yt-to-igtv/"><u>[New] 2024 Approved  Enhancing Video Reach  Convert YT to IGTV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-your-own-google-vr-glasses/"><u>[New] Crafting Your Own Google VR Glasses</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-discover-prime-sites-to-download-your-got-favorite-tunes/"><u>[New] Discover Prime Sites to Download Your GoT Favorite Tunes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-elevating-your-nba-live-viewing/"><u>[New] Expert Advice  Elevating Your NBA Live Viewing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-transforming-mundane-into-masterpieces-with-canva/"><u>[New] Expert Tips  Transforming Mundane Into Masterpieces with Canva</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-file-flow-fixtures-easy-moves-for-your-machine/"><u>[New] File Flow Fixtures  Easy Moves for Your Machine</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-basic-to-breathtaking-storytelling-through-smart-bokeh-use/"><u>[New] From Basic to Breathtaking  Storytelling Through Smart Bokeh Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grasping-the-metaverse-a-look-at-6-in-depth-illustrations/"><u>[New] Grasping the Metaverse  A Look at 6 In-Depth Illustrations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guides-to-unearthing-elite-cinematography/"><u>[New] Guides to Unearthing Elite Cinematography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-dynamic-range-luminances-impact-review/"><u>[New] High Dynamic Range  Luminance's Impact Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone/"><u>[New] How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-top-tier-virtual-reality-films/"><u>[New] Iconic Top-Tier Virtual Reality Films</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-drawing-programs-a-compreenasaurus-rex-guide-to-chromebooks-art-tools/"><u>[New] Ideal Drawing Programs  A Compreenasaurus Rex Guide to Chromebook's Art Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-image-framing-essentials-top-apps-and-websites-creators/"><u>[New] Image Framing Essentials  Top Apps & Websites Creators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-pursuit-of-excellence-tips-for-shooting-with-hero5-black/"><u>[New] In Pursuit of Excellence  Tips for Shooting with Hero5 Black</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-professional-vimeo-edits-without-paid-software-for-2024/"><u>[New] Unlock Professional Vimeo Edits Without Paid Software for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-resolve-silent-tweets-video-audio-woes/"><u>[Updated] 2024 Approved  Resolve Silent Tweets  Video Audio Woes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-8-youtube-thumbnail-grabbers-you-should-know-for-2024/"><u>[Updated] Best 8 YouTube Thumbnail Grabbers You Should Know for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-zooid-creation-samples/"><u>[Updated] Essential Zooid Creation Samples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-flight-to-frame-editing-drones-into-art/"><u>[Updated] From Flight to Frame  Editing Drones Into Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-restrict-viewership-of-your-youtube-content-for-2024/"><u>[Updated] How to Restrict Viewership of Your YouTube Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-igniting-interest-from-day-one-with-impactful-audio-starts/"><u>[Updated] Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-guide-to-selecting-a-personalized-video-sharing-app/"><u>[Updated] In 2024, The Ultimate Guide to Selecting a Personalized Video Sharing App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-scrutiny-the-hero4-black-universe/"><u>[Updated] In-Depth Scrutiny  The Hero4 Black Universe</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-backdrop-changer-toolkit-unveiled/"><u>[Updated] Innovative Backdrop Changer Toolkit Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-live-subscriber-count-meters/"><u>[Updated] Live Subscriber Count Meters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-effortless-screen-capturing-with-your-iphone-7/"><u>2024 Approved  Effortless Screen Capturing with Your iPhone 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-superior-chromebook-video-saver/"><u>2024 Approved  Superior ChromeBook Video Saver</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-c51-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme C51 PC | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bebops-avian-acrobatics-a-parrot-revelation/"><u>Bebop's Avian Acrobatics – A Parrot Revelation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-virtual-participation-with-increased-zooming-for-2024/"><u>Boost Your Virtual Participation with Increased Zooming for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-compelling-channel-names-simplified/"><u>Creating Compelling Channel Names Simplified</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-restore-audio-on-discord-while-using-screen-sharing-feature/"><u>Expert Advice: Restore Audio on Discord While Using Screen Sharing Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fifteen-methods-to-reset-a-twitch-stream-in-real-time-for-2024/"><u>Fifteen Methods to Reset a Twitch Stream in Real-Time for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-the-prime-spot-expert-advice-on-ps4-camera-arrangement/"><u>Finding the Prime Spot: Expert Advice on PS4 Camera Arrangement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frame-flair-choosing-the-best-video-cameras-for-deliberate-moves-for-2024/"><u>Frame Flair  Choosing the Best Video Cameras for Deliberate Moves for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-power-play-is-sns-the-best-option-in-2024/"><u>HDR Power Play  Is SNS the Best Option, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/highlights-of-snowboard-cross-olympics-2022-for-2024/"><u>Highlights of Snowboard Cross Olympics 2022 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>In 2024, Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-feel-motivated-10-epic-movies-with-deep-impact/"><u>In 2024, Feel Motivated  10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>In 2024, Final 30  Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>In 2024, From Amateurs to A-Listers  Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-future-of-home-cinema-top-10-blu-ray-devs/"><u>In 2024, Future of Home Cinema  Top 10 Blu-Ray Devs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>In 2024, Go Beyond Screens  How to Watch 360 Videos & VR via Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-asmr-can-enhance-your-physical-and-mental-health/"><u>In 2024, How ASMR Can Enhance Your Physical & Mental Health</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-much-money-can-a-podcaster-make/"><u>In 2024, How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x7b-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X7b Without PUK Codes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-arena-intensity-the-fastest-moments-in-olympics/"><u>In 2024, Ice Arena Intensity  The Fastest Moments in Olympics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>In 2024, IFunny Memes Unlocked  Download & Use in a Flash</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-guide-best-audio-techniques-on-windows/"><u>In 2024, In-Depth Guide  Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-2023-free-compre-folios/"><u>In 2024, Innovative 2023  Free, Compre Folios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>In 2024, Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-av-producers-the-ultimate-web-watchlist/"><u>Innovative AV Producers  The Ultimate Web Watchlist</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/pros-vs-cons-a-comprehensive-look-at-pidgin-im-platform/"><u>Pros Vs. Cons: A Comprehensive Look at Pidgin IM Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-chats-anticipating-facebooks-e2ee-move/"><u>Securing Chats: Anticipating Facebook's E2EE Move</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-hot-30-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Hot 30 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-accessing-edit-logs-and-track-changes-in-microsoft-excel-online/"><u>Step-by-Step Guide: Accessing Edit Logs and Track Changes in Microsoft Excel Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-verdict-on-the-newly-released-fitbit-charge-amoled-watch-tracker/"><u>The Ultimate Verdict on the Newly Released Fitbit Charge Amoled Watch Tracker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-mac-display-utilizing-picture-in-picture-multimedia-features-for-2024/"><u>Transform Your Mac Display  Utilizing Picture in Picture Multimedia Features for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-recorder-select-top-12-no-timer-for-2024/"><u>Ultimate Recorder Select  Top 12, No Timer for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-mp4-files-with-ease-best-windows-8-video-editor/"><u>Updated Edit MP4 Files with Ease Best Windows 8 Video Editor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the NuPhy Air75 V2: Why It's a Must-Have Mechanical Keyboard for Mac Enthusiasts"
-date: 2024-08-28 17:55:13
-updated: 2024-08-29 11:50:31
+date: 2024-08-30T09:01:31.553Z
+updated: 2024-08-31T09:01:31.553Z
 tags:
   - product-reviews
 categories:
@@ -153,6 +153,9 @@ Expand
 
 ![A closeup shot of the NuPhy Air75 V2 PBT keycaps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/closeup2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  V2 also has a greater choice of Nuphy x Gateron switches, is available in two more colors, has brighter RGB backlighting, and offers improved acoustics thanks to new sound dampening inside the keyboard.
@@ -179,6 +182,9 @@ Tim Brookes / How-To Geek
 
 ![A set of spare keys received with the NuPhy Air75 V2 mechanical keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/spare_keys.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Some of the more interesting keys (from a Mac perspective) include a dedicated screenshot key which works on both Mac and Windows, the aforementioned “Del” key that is usually missing on the reduced Mac keyboard, and an Fn key that doesn’t trigger the macOS language or emoji picker like its Apple counterpart. Instead, the Fn key is used to change keyboard settings like lighting, auto-sleep mode, and so on.
@@ -195,6 +201,9 @@ Tim Brookes / How-To Geek
 
 ![The rear of the NuPhy Air75 V2 with its extendable feet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rearshot1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  This is hard to gauge as an objective metric, so I’m not going to bother. I've made way more mistakes on this keyboard compared to the Magic Keyboard, mostly on the right side of the keyboard. The right “Shift” key is smaller than I’m used to, and the “Backslash” is a lot bigger. Navigating text with a slightly adjusted arrow key layout also threw me.
@@ -203,6 +212,9 @@ Tim Brookes / How-To Geek
 
  Switching to a keyboard like the Air75 V2 also means making do without Touch ID. This doesn’t bother me as I’ve switched to authenticating with my Apple Watch instead (I’ve since disabled Touch ID altogether, even when I’m not using the Air75 V2).
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  A Fully Customizable Keyboard, In Theory
 
  There’s more to a keyboard like the Air75 V2 than simply the typing experience. The Magic Keyboard is boring by comparison when it comes to the many ways you can customize the Nuphy. This starts on the board itself, with its removable low-profile keycaps and hot-swappable switches.
@@ -213,6 +225,9 @@ Tim Brookes / How-To Geek
 
 ![The VIA configurator tool for macOS refusing to work.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-12-at-09-58-45.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  For me, this isn’t a huge deal. I didn’t pick the Air75 V2 for its firmware-level customization. That was just a nice bonus that I was looking forward to playing with. That said, Mac users hoping to dig into this stuff might want to reconsider. Ironically, Tyler had similar issues when [reviewing the Nuphy Air60 V2](https://win-howtos.techidaily.com/step-by-step-guide-to-repairing-your-oculus-headsets-technical-glitches/).
 
  The Air75 V2 includes customizable RGB lighting too. There are 40 different RGB rainbow effects, but no see-through keycaps are included in the box. You can switch them out, but it feels like a missed opportunity. Lighting is fun but ultimately provides no function outside of looking pretty.
@@ -247,6 +262,9 @@ Tim Brookes / How-To Geek
 
 ![NuPhy Air75 V2 Mechanical Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nuphy_air75_v2_square.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Nuphy Air75 V2
 
 7/ 10 
@@ -269,3 +287,44 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-quick-tutorial-incorporate-snap-camera-in-microsoft-teams-chats/"><u>[New] 2024 Approved  Quick Tutorial  Incorporate Snap Camera in Microsoft Teams Chats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harness-the-power-of-wins11-new-gaming-titles/"><u>[New] Harness the Power of Wins11 New Gaming Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-set-a-viral-song-as-your-phones-personal-melody/"><u>[New] How To Set a Viral Song as Your Phone's Personal Melody</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-ppro-full-screen-showcase-made-simple/"><u>[New] PPro Full-Screen Showcase Made Simple</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-moba-experiences-on-your-android-device-for-2024/"><u>[New] Premier MOBA Experiences on Your Android Device for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-timeframe-equation-for-20mb-content/"><u>[Updated] 2024 Approved  Timeframe Equation for 20MB Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-holy-hymns-for-mobile-phones/"><u>[Updated] Exploring Holy Hymns for Mobile Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-financial-motives-in-consumer-video-evaluations/"><u>[Updated] Financial Motives in Consumer Video Evaluations?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-get-windows-photo-viewer-running-smoothly-on-win-11/"><u>[Updated] How to Get Windows Photo Viewer Running Smoothly on Win 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humorhub-imagery-mememagic-inc/"><u>[Updated] HumorHub Imagery  MemeMagic Inc</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-captivating-youtube-openers-two-ways/"><u>[Updated] In 2024, Creating Captivating YouTube Openers - Two Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-guide-step-by-step-process-to-clear-browsing-data-on-chrome/"><u>Complete Guide: Step-by-Step Process to Clear Browsing Data on Chrome</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-manual-for-setting-up-brother-integrated-devices-with-windows-8-os-and-above/"><u>Comprehensive Manual for Setting Up Brother Integrated Devices with Windows 8 OS and Above</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/customizing-your-windows-10-experience-with-unique-themes/"><u>Customizing Your Windows 10 Experience with Unique Themes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-top-tier-cost-effective-mobile-imaging-enhancers/"><u>Discover Top-Tier, Cost-Effective Mobile Imaging Enhancers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discovering-windows-10-release-information-a-guide-to-finding-your-systems-build-number/"><u>Discovering Windows 10 Release Information: A Guide to Finding Your System's Build Number</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-tips-to-update-and-download-essential-software-for-your-hp-envy-ebx-series-computer/"><u>Easy Tips to Update & Download Essential Software for Your HP ENVY Ebx Series Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enter-safe-mode-in-windows-8-and-81-easily/"><u>Enter Safe Mode in Windows 8 & 8.1. Easily!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmoras-rival-a-comprehensive-list-of-top-quality-template-collections-for-2024/"><u>Filmora's Rival  A Comprehensive List of Top-Quality Template Collections for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1724467304371-fix-this-platform-is-not-supported-while-installing-intel-serial-io-driver/"><u>Fix “This Platform Is Not Supported.” While Installing Intel Serial IO Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gentle-glide-of-noises-subdued-amplitude-adjustment-for-2024/"><u>Gentle Glide of Noises  Subdued Amplitude Adjustment for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-alchemy-converting-ordinary-into-extraordinary-for-2024/"><u>Image Alchemy  Converting Ordinary Into Extraordinary for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funniest-photography-editors-ranked-free-mobile-apps/"><u>In 2024, Funniest Photography Editors Ranked  Free Mobile Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonic-harvest-best-sites-for-classical-tones-downloads/"><u>In 2024, Harmonic Harvest  Best Sites for Classical Tones Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-outshine-samsung-gear-360-with-these-top-camera-alternatives/"><u>In 2024, Outshine Samsung Gear 360 with These Top Camera Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-media-spotlight-top-twitters/"><u>In 2024, Social Media Spotlight  Top Twitters</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/initiate-memelore-creation-on-giphy-for-2024/"><u>Initiate Memelore Creation on Giphy for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-pc-syncing-woes-expert-advice-for-seamless-connectivity/"><u>IPhone-PC Syncing Woes? Expert Advice for Seamless Connectivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-efficient-discord-use-minimizing-high-cpu-consumption/"><u>Mastering Efficient Discord Use: Minimizing High CPU Consumption</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-if-your-iphone-denies-payment-authentication/"><u>Steps to Take If Your iPhone Denies Payment Authentication</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unbox-t5-and-explore-its-action-filming-capabilities/"><u>Unbox T5 and Explore Its Action Filming Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-the-impact-of-youtubes-shorts-programme/"><u>Unpacking the Impact of YouTube's Shorts Programme</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-macos-15-sequoia-unveiled-discover-the-release-timeline-and-latest-updates/"><u>Upcoming MacOS 15 Sequoia Unveiled: Discover the Release Timeline & Latest Updates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venture-into-virtual-laughs-top-20plus-funny-metaverse-creations-for-2024/"><u>Venture Into Virtual Laughs  Top 20+ Funny Metaverse Creations for 2024</u></a></li>
+</ul></div>

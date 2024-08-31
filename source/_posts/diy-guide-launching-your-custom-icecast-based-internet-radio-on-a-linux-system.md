@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Launching Your Custom Icecast-Based Internet Radio on a Linux System"
-date: 2024-08-26 15:37:52
-updated: 2024-08-29 10:25:11
+date: 2024-08-30T09:03:41.738Z
+updated: 2024-08-31T09:03:41.738Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,23 @@ sudo dnf install icecast
 
 ![Terminal window asking for your address for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
  A source client is the program you use that streams media files (or live audio) _to the server_. The source password authenticates with Icecast to allow you to start a stream. I recommend a unique password and not the default (which is "hackme"). Maybe something like:
 
 ![Terminal window asking for a source password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-6.png) 
@@ -76,6 +93,9 @@ sudo dnf install icecast
 
 ![Editor with icecast icecast.xml open, showing passwords to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, change the bind-address to your server's LAN IP address:
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
@@ -84,6 +104,9 @@ sudo dnf install icecast
 
 ![Terminal window showing the command to restart Icecast, applying new configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-install.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Let's verify that we're up and running:
 
 sudo systemctl status icecast.service
@@ -98,6 +121,9 @@ sudo systemctl status icecast.service
 
 ![Flowchart of Icecast stream](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icecast-flow-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ePirat / Xiph.org Foundation
 
  Choosing the right source client for your setup depends on many factors. Some questions you may consider when deciding will include:
@@ -129,6 +155,9 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
@@ -137,16 +166,28 @@ ePirat / Xiph.org Foundation
 
 ![Browser window asking for username and password to log into Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Mountpoint List" from the main Admin page:
 
 ![Browser window showing Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  Copy the "M3U" hyperlink:
 
 ![Browser window showing active Icecast mountpoints](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This link, minus the .M3U extension, is what you will use to listen with your web browser.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  Choosing a Listener Client
 
  Listener clients in general require very little configuration. Thanks to [HTML5 audio](https://en.wikipedia.org/wiki/HTML5%5Faudio), you can simply point a web browser to your new stream URL. Here's a list of [browser supported HTML5 audio encoding formats](http://en.wikipedia.org/wiki/HTML5%5Faudio#Supported%5Faudio%5Fcoding%5Fformats).
@@ -157,6 +198,9 @@ ePirat / Xiph.org Foundation
 
  Do you hear your stream? That's Icecast at work.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Additional Configuration
 
  Icecast has many advanced features. Some of them are:
@@ -173,6 +217,9 @@ ePirat / Xiph.org Foundation
 
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Promoting Your Station
 
  Promoting really depends on the type of station you create. If it's just for fun, telling a good friend will suffice! If you want more exposure: listing in the Icecast directory, creating a quality website around it and executing a comprehensive marketing campaign on social media is a surefire way to gain some attention online.
@@ -193,3 +240,38 @@ ePirat / Xiph.org Foundation
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-15-standout-stop-motion-films-of-all-time/"><u>[New] Explore the Best  15 Standout Stop-Motion Films of All Time</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-photo-manipulation-software-top-picks/"><u>[New] Free Photo Manipulation Software  Top Picks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-videographers-essential-openers/"><u>[New] Free Videographer's Essential Openers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopros-superhero-5-and-sj7-showdown/"><u>[New] GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-igniting-interest-from-day-one-with-impactful-audio-starts/"><u>[New] Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leading-edge-social-media-movie-batch/"><u>[New] In 2024, Leading Edge  Social Media Movie Batch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-seamless-instagram-video-mp4-conversion-pro-strategies-unlocked/"><u>[New] In 2024, Seamless Instagram Video-MP4 Conversion - Pro Strategies Unlocked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-affordable-video-grabbing-tools-tested-on-pcs/"><u>[Updated] 2024 Approved  Affordable Video Grabbing Tools Tested on PCs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-surgical-switch-mastering-the-process-of-changing-your-tiktok-username/"><u>[Updated] 2024 Approved  Surgical Switch  Mastering the Process of Changing Your TikTok Username</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-select-a-premium-360-camera-today/"><u>[Updated] How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-stream-your-podcast-with-a-click/"><u>[Updated] How to Stream Your Podcast with a Click</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-online-places-to-raise-audience-numbers/"><u>[Updated] Ideal Online Places to Raise Audience Numbers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>[Updated] Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-google-pixel-8-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Google Pixel 8 Pro Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-selection-prime-auto-tracking-tech-review-for-2024/"><u>Expert Selection  Prime Auto Tracking Tech Review for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1723022814687-experts-take-on-the-amplifi-hd-say-goodbye-to-wi-fi-black-spots/"><u>Experts' Take on the Amplifi HD: Say Goodbye to Wi-Fi Black Spots!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-fixes-syncing-iphone-photos-with-computer-for-2024/"><u>Fast Fixes  Syncing iPhone Photos with Computer for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fresh-selection-of-engagement-prompts-for-audio-audiences-for-2024/"><u>Fresh Selection of Engagement Prompts for Audio Audiences for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gigglegif-genius-for-2024/"><u>GiggleGif Genius for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-14-animated-text-techniques-for-2024/"><u>Groundbreaking 14 Animated Text Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hear-and-engage-speech-technology-gratis-for-2024/"><u>Hear & Engage  Speech Technology Gratis for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-realme-c67-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme C67 4G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-edit-podcasts-in-garageband-for-2024/"><u>How To Edit Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-compreehed-guide-to-online-identity-youtube-account-setup/"><u>In 2024, A Compreehed Guide to Online Identity  YouTube Account Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-every-degree-top-9-techniques-for-vr-filmmaking/"><u>In 2024, Explore Every Degree  Top 9 Techniques for VR Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-versatility-up-against-nikons-km-170/"><u>In 2024, GoPro's Versatility Up Against Nikon's KM-170</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-transform-your-webcam-videos-in-seconds/"><u>In 2024, How to Transform Your WebCam Videos in Seconds</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-garmin-forerunner-945-best-in-multisport-wearables/"><u>In-Depth Look at the Garmin Forerunner 945: Best in Multisport Wearables</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-to-correct-the-development-error-6034-in-call-of-duty-modern-warfare-for-pc-gamers-and-console-players/"><u>Step-by-Step Tutorial to Correct the Development Error 6034 in Call of Duty Modern Warfare - For PC Gamers & Console Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-for-google-pixel-tones-for-2024/"><u>The Ultimate List for Google Pixel Tones for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/forming-youtube-videos-bars-free-vision-for-2024/"><u>Transforming YouTube Videos  Bars-Free Vision for 2024</u></a></li>
+</ul></div>

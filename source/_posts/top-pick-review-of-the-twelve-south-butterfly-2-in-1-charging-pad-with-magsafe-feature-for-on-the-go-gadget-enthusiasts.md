@@ -1,7 +1,7 @@
 ---
 title: Top Pick Review of the Twelve South Butterfly 2-in-1 Charging Pad with MagSafe Feature for On-the-Go Gadget Enthusiasts
-date: 2024-08-26 14:13:56
-updated: 2024-08-29 12:57:14
+date: 2024-08-30T09:02:05.924Z
+updated: 2024-08-31T09:02:05.924Z
 tags:
   - product-reviews
 categories:
@@ -74,10 +74,16 @@ Hannah Stryker / How-To Geek
 
  To help offset some of the cost, the ButterFly charger comes with a 30W USB-C charger, a braided USB-C cable, and international wall adapters. It’s certainly a nice touch, but I’ll only be adding the cable to my collection. The power adapter isn’t huge, but it is still nearly the same volume as the ButterFly itself. And the international adapters seem like a waste all around. (Anyone willing to buy a $130 charger _probably_ already has an international plug solution.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Practical For Packing Compared to Other Products
 
 ![Twelve South Butterfly charger with accessories laid out on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-with-accessories.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The ButterFly 2-in-1 MagSafe Charger is an obvious coup to take over the void left by Apple’s [discontinued MagSafe Duo](https://some-skills.techidaily.com/2024-approved-quickly-change-digital-pictures-darkness-level/). It’s not uncommon for Apple to release charging accessories mid-cycle, however, so whether Apple will revive the old Duo with a USB-C port is still up in the air.
@@ -98,14 +104,23 @@ Hannah Stryker / How-To Geek
 
  Using the ButterFly horizontally for StandBy mode felt like a little bit of a hack, especially because the watch charger on the back is much less ideal. Still, I like that it’s even a possibility.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The ButterFly 2-in-1 MagSafe Charger is available now, directly from Twelve South and Apple. It has been back ordered at [Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) until early February, but more supply should be available in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Twelve South ButterFly 2-in-1 MagSafe Charger?
 
 ![Apple Watch Charger on Twelve South standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/apple-watch-charger-on-twelve-south-but.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I love finding ways to keep all my devices powered on the road while keeping a minimally packed bag. The [Twelve South ButterFly 2-in-1 MagSafe Charger](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) is a worthy travel accessory for this reason.
@@ -116,6 +131,10 @@ Hannah Stryker / How-To Geek
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
 7/ 10 
@@ -154,3 +173,48 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-takes-best-camcorders-for-video/"><u>[New] Expert Takes  Best Camcorders for Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-tweeted-videos-to-downloadable-mp3-files/"><u>[New] From Tweeted Videos to Downloadable MP3 Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hearing-heroism-essential-online-picks-for-tts-files/"><u>[New] Hearing Heroism  Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-termination-immersive-reality/"><u>[New] Ideal Termination  Immersive Reality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-igniting-curiosity-and-participation-in-fb-giveaway-initiatives/"><u>[New] Igniting Curiosity and Participation in FB Giveaway Initiatives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-incorporating-side-content-a-filmmakers-guide/"><u>[New] Incorporating Side Content  A Filmmaker's Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-tech-livestream-setup-pcmaclaptop-for-fb/"><u>[New] Step-by-Step Tech Livestream Setup (PC/Mac/Laptop) for FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlocking-the-power-of-shareable-internet-humor/"><u>[New] Unlocking the Power of Shareable Internet Humor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-voice-changing-methods-in-free-fire/"><u>[New] Voice Changing Methods in Free Fire</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>[Updated] Expert Walkthrough  Transferring Visuals on Apple Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-virtual-add-ons-to-reality/"><u>[Updated] Exploring Virtual Add-Ons to Reality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-graphic-software-showdown-acid-pros-rivalry/"><u>[Updated] Graphic Software Showdown  ACID Pro's Rivalry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gratuitous-audio-to-text-conversion-tool/"><u>[Updated] Gratuitous Audio to Text Conversion Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-companies-at-the-vr-content-frontier/"><u>[Updated] Groundbreaking Companies at the VR Content Frontier</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>[Updated] Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>[Updated] Innovate and Create  Ranked List of Best Drawing Apps for Android Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-manual-for-simplified-live-streamers/"><u>[Updated] The Essential Manual for Simplified Live Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-seamless-shift-your-path-to-kinemaster-expertise/"><u>2024 Approved  The Seamless Shift  Your Path to Kinemaster Expertise</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977641104-corsair-void-pro-drivers-download-and-install-for-windows-easily/"><u>Corsair Void Pro Drivers Download & Install for Windows. EASILY</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-investigation-the-future-of-panorama-cams-with-samsung-for-2024/"><u>Extensive Investigation  The Future of Panorama Cams with Samsung for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-overflow-to-perfection-edit-large-tiktok-drafts-quickly-and-effectively-for-2024/"><u>From Overflow to Perfection  Edit Large TikTok Drafts Quickly & Effectively for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-standards-meeting-or-surpassing-with-aurora-in-2024/"><u>HDR Standards  Meeting or Surpassing with Aurora, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-fidelity-avi-player-for-portable-and-stationary-use-for-2024/"><u>High-Fidelity AVI Player for Portable & Stationary Use for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-create-a-seamless-rss-feed-for-your-podcast-for-2024/"><u>How to Create a Seamless RSS Feed for Your Podcast for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-extract-audio-from-tweets-and-save-as-mp3s-for-2024/"><u>How to Extract Audio From Tweets and Save as MP3s for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ice-racers-unite-celebrating-snowboard-cross-victories-winter-olympics-edition-for-2024/"><u>Ice Racers Unite  Celebrating Snowboard Cross Victories, Winter Olympics Edition for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-deciphering-sharex-comparisons-and-replacements/"><u>In 2024, Deciphering ShareX  Comparisons & Replacements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-in-voice-modification-tools-featuring-magic/"><u>In 2024, Excellence in Voice Modification Tools, Featuring Magic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-top-tier-ios-video-playback-tools-top-10/"><u>In 2024, Explore Top-Tier iOS Video Playback Tools (Top 10)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-your-videos-shape-with-aspect-ratio/"><u>In 2024, Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flight-path-perfection-essential-insights-for-drone-racers-and-top-5-models/"><u>In 2024, Flight Path Perfection  Essential Insights for Drone Racers & Top 5 Models</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>In 2024, Gaming Mastery  The Ultimate Speed Controller Guidebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grandiose-photographic-epic-weaver/"><u>In 2024, Grandiose Photographic Epic Weaver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-invisible-sound-transitions-in-premiere-pro/"><u>In 2024, Implementing Invisible Sound Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-image-editors-your-ultimate-text-companion/"><u>In 2024, Innovative Image Editors  Your Ultimate Text Companion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-text-techniques-in-videos-for-2024/"><u>Innovative Text Techniques in Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/instagram-live-broadcasting-unseen-and-unknown-for-2024/"><u>Instagram Live  Broadcasting Unseen and Unknown for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g84-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G84 5G, is it possible?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speed-settings-unveiled-customizing-your-snapchat-experience-for-2024/"><u>Speed Settings Unveiled  Customizing Your Snapchat Experience for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-compre-cookie-guide-to-captivating-covers-on-fb/"><u>The Compre Cookie Guide to Captivating Covers on FB</u></a></li>
+</ul></div>

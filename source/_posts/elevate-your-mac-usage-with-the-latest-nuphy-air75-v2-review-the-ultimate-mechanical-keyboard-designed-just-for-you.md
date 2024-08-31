@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Mac Usage with the Latest NuPhy Air75 V2 Review: The Ultimate Mechanical Keyboard Designed Just for You!"
-date: 2024-08-28 22:37:47
-updated: 2024-08-29 11:41:16
+date: 2024-08-30T09:03:47.367Z
+updated: 2024-08-31T09:03:47.367Z
 tags:
   - desktop
 categories:
@@ -159,6 +159,9 @@ Tim Brookes / How-To Geek
 
  There’s no reason to pick the original over the revision, except for perhaps a massive discount. Even then, these improvements seem worth it for anyone looking for a premium yet portable low-profile keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ##  An Apple User’s Take on the Air75 V2
 
  Let me preface this review by stating that I am not an expert on mechanical keyboards. This is the first mechanical keyboard that I’ve owned outright. As a Mac user for the past few decades, I’ve become accustomed to Apple’s ultra-low-profile keyboards, and I’ve been daily driving a 16-inch 2021 MacBook Pro since it launched.
@@ -169,6 +172,9 @@ Tim Brookes / How-To Geek
 
 ![A NuPhy Air75 V2 next to a Magic Trackpad and a MacBook Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keyboard_trackpad.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The Air75 V2 is a 75% keyboard that’s ever-so-slightly larger than the MacBook Pro keyboard I’m used to, but one that shares a similar layout with a full row of function keys. It works seamlessly with macOS, Windows, Linux, iOS, Android, and more thanks to wireless connections via Bluetooth and the included 2.4GHz dongle, plus a wired connection over the included USB-C to USB-A cable.
@@ -185,6 +191,9 @@ Tim Brookes / How-To Geek
 
  In terms of size, 75% feels perfect for someone who appreciates the tidy look of a small keyboard that doesn’t skimp on the essentials.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Typing Speed Isn’t Everything
 
  For me, the most striking thing about this keyboard (and likely any decent mechanical keyboard) is how satisfying the experience is. This isn’t the most premium-sounding keyboard, but it still sounds better than the tinny Apple experience I’m used to. The Moss switches require slightly less pressure than I’m used to on a Magic Keyboard, but travel significantly further.
@@ -195,6 +204,9 @@ Tim Brookes / How-To Geek
 
 ![The rear of the NuPhy Air75 V2 with its extendable feet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rearshot1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  This is hard to gauge as an objective metric, so I’m not going to bother. I've made way more mistakes on this keyboard compared to the Magic Keyboard, mostly on the right side of the keyboard. The right “Shift” key is smaller than I’m used to, and the “Backslash” is a lot bigger. Navigating text with a slightly adjusted arrow key layout also threw me.
@@ -227,6 +239,9 @@ Tim Brookes / How-To Geek
 
  Make no mistake, the Air75 V2 has one of the largest batteries in its class of low-profile mechanical keyboards. This makes it a great portable typing companion for tablet or smartphone users. The large battery helps add some heft to the board that keeps it planted on your desk, too.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Air75 V2 Keyboard?
 
  Overall, the [Nuphy Air75 V2](http://nuphy.com/products/air75-v2) is probably the best choice you can make if you want a 75% low-profile mechanical keyboard that not only supports macOS but can even replace your built-in MacBook keyboard by fitting neatly over the top of it.
@@ -235,6 +250,9 @@ Tim Brookes / How-To Geek
 
 ![The rear of the NuPhy Air75 V2 with its wired and wireless switcher on display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/switches.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  In terms of alternative keyboards, the [LoFree Flow84](https://www.lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard) is arguably the closest competitor. It’s a more premium keyboard with fancier Khail switches, an all-aluminum construction, and it sounds considerably better than the Air75 V2\. It also lacks 2.4GHz connectivity, has a much smaller battery, and the Bluetooth polling rate has caused many to complain about a “laggy” typing experience.
@@ -269,3 +287,51 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-list-of-effective-snapchat-techniques/"><u>[New] 2024 Approved  The Ultimate List of Effective Snapchat Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-lg-bp350-ergonomics-design-and-display-quality/"><u>[New] Evaluating LG BP350 - Ergonomics, Design & Display Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exemplary-video-capture-top-5-slow-motion-cams/"><u>[New] Exemplary Video Capture  Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-favorite-stock-photos-a-dive-into-memes-and-origins/"><u>[New] Favorite Stock Photos  A Dive Into Memes & Origins</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-find-your-ideal-photo-editor-top-15-free-budget-apps-reviewed/"><u>[New] Find Your Ideal Photo Editor  Top #15 Free, Budget Apps Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guide-to-creating-unique-tiktok-cover-art/"><u>[New] Guide to Creating Unique TikTok Cover Art</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hack-high-speed-videos-for-engaging-instagram-stories/"><u>[New] Hack High-Speed Videos for Engaging Instagram Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-hierarchy-ranking-10-memes-in-order-of-delight/"><u>[New] Humor Hierarchy  Ranking #10 Memes in Order of Delight</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-properly-merging-webcam-feed-with-desktop-screen/"><u>[New] In 2024, Properly Merging Webcam Feed with Desktop Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovation-in-minimization-the-finest-selection-of-43-mobile-video-trimming-apps/"><u>[New] Innovation in Minimization  The Finest Selection of 43 Mobile Video Trimming Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>[Updated] 2024 Approved  From Basics to Best  Achieving Superior Sound via Zoom for Podcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-software-gamers-streaming-companions/"><u>[Updated] Exclusive Software  Gamers' Streaming Companions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gamers-dilemma-oculus-htc-and-sonys-vr-dominance/"><u>[Updated] Gamers' Dilemma  Oculus, HTC & Sony's VR Dominance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-your-editing-mojo-back-with-this-final-cut-pro-overview/"><u>[Updated] Get Your Editing Mojo Back with This Final Cut Pro Overview</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grandiose-know-it-all-challenges-online/"><u>[Updated] Grandiose KNOW-It All Challenges Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>[Updated] In 2024, Comparing iPhone's Best Video Editors  Cameo & FilmoraGo</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-theta-s-evaluation-overview/"><u>[Updated] In-Depth Theta S Evaluation Overview</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-typesetting-in-adobe-ae/"><u>[Updated] Innovative Typesetting in Adobe AE</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-humor-for-giphy-network/"><u>2024 Approved  Craft Humor for Giphy Network</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-path-profile-picture-dimensions/"><u>2024 Approved  Path Profile Picture Dimensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-personalize-chromes-sound-review-of-the-top-web-based-speech-converters/"><u>2024 Approved  Personalize Chrome's Sound  Review of the Top Web-Based Speech Converters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>2024 Approved  Unveiling the Essence  Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/approaches-to-fix-failed-launch-of-lunar-client-in-windows/"><u>Approaches to Fix Failed Launch of Lunar Client in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-danger-the-deepening-ai-vulnerability-puzzle/"><u>Augmented Danger: The Deepening AI Vulnerability Puzzle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/commanding-your-computer-with-ease-gratis/"><u>Commanding Your Computer With Ease, Gratis</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-12-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 12 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-largest-collection-of-free-vector-graphics-portals-for-2024/"><u>Explore Largest Collection of Free Vector Graphics Portals for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-timers-roadmap-earning-money-from-periscope-chats-for-2024/"><u>First-Timer's Roadmap  Earning Money From Periscope Chats for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-the-edge-with-a-premier-zero-cost-voice-change-software-for-2024/"><u>Get the Edge with a Premier, Zero-Cost Voice Change Software for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/headset-face-off-rift-vive-and-playstations-vr-standards-for-2024/"><u>Headset Face-Off  Rift, Vive & PlayStation's VR Standards for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-does-imovie-set-dimensions-in-2024/"><u>How Does iMovie Set Dimensions, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>In 2024, Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extensive-analysis-djis-latest-uav-inspire-1/"><u>In 2024, Extensive Analysis  DJI's Latest UAV, Inspire 1</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 12R Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-hub-iphones-galore/"><u>In 2024, Humor Hub  IPhones Galore</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-shifting-gender-identity-in-online-profile-pictures/"><u>In 2024, Shifting Gender Identity in Online Profile Pictures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leverage-the-power-of-cookiebot-for-enhanced-site-personalization-and-analytics/"><u>Leverage the Power of Cookiebot for Enhanced Site Personalization and Analytics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfectly-blending-iphones-multimedia/"><u>Perfectly Blending iPhones' Multimedia</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-lava-blaze-2-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Blaze 2 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-installation-errors-what-to-do-when-your-driver-isnt-compatible-with-your-pc/"><u>Resolving Installation Errors: What To Do When Your Driver Isn't Compatible With Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-windows-11-search-issues-top-solutions/"><u>Troubleshooting Windows 11 Search Issues: Top Solutions</u></a></li>
+</ul></div>

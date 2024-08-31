@@ -1,7 +1,7 @@
 ---
 title: Is Investing in a Mechanical Keyboard Worth It for Your Mac?
-date: 2024-08-28 15:36:16
-updated: 2024-08-29 10:26:24
+date: 2024-08-30T09:05:22.453Z
+updated: 2024-08-31T09:05:22.453Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,9 @@ Tim Brookes / How-To Geek
 
  Lastly, there’s customization. In addition to replacing your keys, and switches, and putting bits of foam and tape inside the case, software customization using a platform like VIA lets you do things like remap keys, create macros, and more. Many keyboards also come with [RGB lighting](https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/) if that’s your thing too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Drawbacks of Using a Mechanical Keyboard on Your Mac
 
  Perhaps the biggest drawback to going mechanical and moving away from your Apple keyboard is that the transition might not be a smooth one. You can pick an almost identical layout, but the slight differences in key sizes and spacing will trip you up, at least initially.
@@ -51,6 +54,9 @@ Tim Brookes / How-To Geek
 
 ![Apple Magic Keyboard stacked on top of a NuPhy Air75 V2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/magic_nuphy_stacked-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  There’s also quite a bit of difference in terms of the typing experience. The Magic Keyboard is an almost flat board, with minimal travel. The keys don’t get in your way because they barely protrude. I’d describe it as light and bouncy. Some people dislike the lack of feedback on Apple keyboards, others don’t realize how much they like it until they make the change.
@@ -65,6 +71,10 @@ Tim Brookes / How-To Geek
 
  There’s also the small matter of aesthetics. Say what you like about the Magic Keyboard, but it matches most Mac models and the Magic Trackpad perfectly. Shop around and you’ll find something that suits you, I picked the white NuPhy Air75 V2 to match the white Magic Trackpad. Don’t forget that Apple charges more money for black accessories if you want a set of matching dark peripherals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ##  Mechanical Keyboards at Magic Prices
 
  Apple charges $99 for its cheapest Magic Keyboard, which doesn’t include Touch ID. You can add a fingerprint scanner for $149\. If you want a number pad and some extra keys then you’ll pay $129 or $199 respectively depending on whether you want Touch ID.
@@ -81,6 +91,9 @@ Tim Brookes / How-To Geek
 
  This is the point at which the mechanical keyboard scene can start to feel a bit overwhelming. Some are consumed by the pursuit of the creamiest sound, [the perfect switch](https://techidaily.com/sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/), or custom-made keycaps. There are so many different things to consider, it can feel a bit too easy to make the wrong decision. If possible, we recommend trying a few keyboards and switch types before you buy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Much Do You Love Your Magic Keyboard?
 
  The main question you have to answer is: how do you really feel about the Magic Keyboard? Do you hate typing on your MacBook? Are you a competent Magic Keyboard typist who is just a bit bored? Do you make a lot of mistakes? A few rounds on [MonkeyType](http://www.monkeytype.com) might be worth a shot.
@@ -91,6 +104,9 @@ Tim Brookes / How-To Geek
 
 ![Apple Magic Keyboard Fn key in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/magic_keyboard_fn.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Weeks later and I’m _still_ a slower typer on the NuPhy. While my accuracy and speed on the NuPhy have greatly improved, editing text with my muscle-memory combination of Shift, Command, Option, and arrow keys is a chore. It has me frequently reaching for the Magic Keyboard. Editing a spreadsheet? Forget it.
@@ -99,6 +115,9 @@ Tim Brookes / How-To Geek
 
  But I’m not getting rid of my Magic Keyboard any time soon. It’s a good job there’s room for two keyboards on my desk.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cheat and Add Mechanical Keyboard Sounds to Your Mac
 
  If all you want is a better-sounding keyboard, [Klack](https://tryklack.com) is a Mac app for you. At $4.99, it’s a lot cheaper than even the cheapest mechanical keyboard and it comes with a variety of sounds from real-world switches to drown out the tinny whinge of the Magic Keyboard.
@@ -119,3 +138,50 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-elevating-your-nba-live-viewing/"><u>[New] Expert Advice  Elevating Your NBA Live Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-analysis-highest-quality-video-snappers/"><u>[New] Expert Analysis  Highest Quality Video Snappers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-transforming-mundane-into-masterpieces-with-canva/"><u>[New] Expert Tips  Transforming Mundane Into Masterpieces with Canva</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guides-to-unearthing-elite-cinematography/"><u>[New] Guides to Unearthing Elite Cinematography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-dynamic-range-luminances-impact-review/"><u>[New] High Dynamic Range  Luminance's Impact Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone/"><u>[New] How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-exploring-options-a-treasure-hunt-for-your-tiktok-symbol/"><u>[New] In 2024, Exploring Options  A Treasure Hunt for Your TikTok Symbol</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-transformative-notetaking-the-mematic-way/"><u>[New] Transformative Notetaking  The Mematic Way</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creative-reactors-the-10-premier-video-responses/"><u>[Updated] 2024 Approved  Creative Reactors  The 10 Premier Video Responses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-on-essential-samsung-gear-vr-experiences/"><u>[Updated] Game On  Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-giggle-graphics-humorhub/"><u>[Updated] Giggle Graphics  HumorHub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-igniting-interest-from-day-one-with-impactful-audio-starts/"><u>[Updated] Igniting Interest From Day One with Impactful Audio Starts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[Updated] In 2024, Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-scrutiny-the-hero4-black-universe/"><u>[Updated] In-Depth Scrutiny  The Hero4 Black Universe</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-increasing-clarity-with-enhanced-youtube-videos/"><u>[Updated] Increasing Clarity with Enhanced YouTube Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-backdrop-changer-toolkit-unveiled/"><u>[Updated] Innovative Backdrop Changer Toolkit Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-keep-it-burning-ensuring-an-everlasting-snapchat-connection-for-2024/"><u>[Updated] Keep It Burning  Ensuring an Everlasting Snapchat Connection for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-excelling-in-medical-record-digitization-healthcare-institution-selects-for-efficient-document-categorization/"><u>ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/artful-alterations-crafting-distorted-images-to-dazzle-for-2024/"><u>Artful Alterations  Crafting Distorted Images to Dazzle for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-free-call-apps-on-android-ranks-them-for-2024/"><u>Best Free Call Apps on Android, Ranks Them for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-restore-audio-on-discord-while-using-screen-sharing-feature/"><u>Expert Advice: Restore Audio on Discord While Using Screen Sharing Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fifteen-methods-to-reset-a-twitch-stream-in-real-time-for-2024/"><u>Fifteen Methods to Reset a Twitch Stream in Real-Time for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-the-prime-spot-expert-advice-on-ps4-camera-arrangement/"><u>Finding the Prime Spot: Expert Advice on PS4 Camera Arrangement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>Free Graphic Goldmine  A Roadmap to Premium Visuals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/highlights-of-snowboard-cross-olympics-2022-for-2024/"><u>Highlights of Snowboard Cross Olympics 2022 for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-audiovisual-alchemy-infusing-your-vimeo-clips-with-soundtracks/"><u>In 2024, Audiovisual Alchemy  Infusing Your Vimeo Clips with Soundtracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>In 2024, Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-feel-motivated-10-epic-movies-with-deep-impact/"><u>In 2024, Feel Motivated  10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>In 2024, Final 30  Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>In 2024, Go Beyond Screens  How to Watch 360 Videos & VR via Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-asmr-can-enhance-your-physical-and-mental-health/"><u>In 2024, How ASMR Can Enhance Your Physical & Mental Health</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-arena-intensity-the-fastest-moments-in-olympics/"><u>In 2024, Ice Arena Intensity  The Fastest Moments in Olympics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ifunny-memes-unlocked-download-and-use-in-a-flash/"><u>In 2024, IFunny Memes Unlocked  Download & Use in a Flash</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-guide-best-audio-techniques-on-windows/"><u>In 2024, In-Depth Guide  Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-2023-free-compre-folios/"><u>In 2024, Innovative 2023  Free, Compre Folios</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-newcomers-pathway-maximizing-money-on-periscope-platform/"><u>In 2024, Newcomer's Pathway  Maximizing Money on Periscope Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-powerpoint-with-voice-over-complete-how-to-guide/"><u>In 2024, Powerpoint with Voice Over - Complete How-To Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-pc-performance-to-prevent-spellbreak-from-crashing-a-comprehensive-guide/"><u>Optimizing PC Performance to Prevent Spellbreak From Crashing - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voicemod-proven-techniques-for-opening-and-fixing-issues/"><u>Revive Your Voicemod: Proven Techniques for Opening & Fixing Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-4k-all-in-one-touch-screen-desktops-for-2024/"><u>Top 4K All-in-One Touch Screen Desktops for 2024</u></a></li>
+</ul></div>

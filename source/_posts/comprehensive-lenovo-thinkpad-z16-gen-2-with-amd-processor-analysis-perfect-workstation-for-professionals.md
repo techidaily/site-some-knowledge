@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Lenovo ThinkPad Z16 Gen 2 with AMD Processor Analysis - Perfect Workstation for Professionals
-date: 2024-08-28 18:23:15
-updated: 2024-08-29 12:40:10
+date: 2024-08-30T09:00:40.228Z
+updated: 2024-08-31T09:00:40.228Z
 tags:
   - product-reviews
 categories:
@@ -155,10 +155,16 @@ Close
 
  Still not sure what USB4 is? Read about [how USB4 is different](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/).
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Inputs: Flawless Touch and Typing
 
 ![TrackPoint on the Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/trackpoint-on-the-lenovo-thinkpad-z16-gen-2-amdjpg_53384900620_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Typing on the ThinkPad Z16 felt as good as any ThinkPad—the keyboard had a pleasant spring and the keys were loose enough to be ultra-responsive without causing me to make a million typos.
@@ -169,6 +175,10 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z16 Gen 2 (AMD) laptop playing the movie "The Exorcist: Beliver."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop-graphics-shot-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  Whether I was watching movies like "The Exorcist: Believer" or streaming some of my go-to shows, the ThinkPad Z16 delivered high-quality graphics every time. The clarity of the 16-inch OLED WQUXGA screen was phenomenal, even when I was streaming movies with dark, shadowy scenes. The color contrast was also incredible (see the photo with the green eye), and it wasn't over-saturated. Its 3,840 x 2,400ppi resolution made details in imagery pop.
@@ -191,6 +201,18 @@ Sergio Rodriguez / How-To Geek
 
  Even with 17 tabs open, YouTube running, and Photoshop and Spotify up, my [Windows Task Manager tabs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) showed only a 7% usage of the CPU and 35% of RAM. Streaming in my off time was one of the highlights of the Z16, considering the graphics not only looked great, but the experience was always as smooth as butter.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Gaming Performance: Enjoyable for Casual Entertainment
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD laptop playing the game "Rise of the Tomb Raider."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/game-photo-on-lenovo-thinkpad-z16-gen-2-amd-laptop.jpg) 
@@ -205,6 +227,10 @@ Cianna Garrison / Review Geek
 
  However, games that _did_ perform well were a joy to play. These included more casual games such as "Disney Dreamlight Valley," "Minecraft," and "Coral Island," all games with pretty low resource requirements, and a couple of games like "Rise of the Tomb Raider" that had minimal lag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  Sights and Sounds: Winning Speakers, Mics, and Video
 
 ![Angled view of the open Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/angled-view-of-the-open-lenovo-thinkpad-z16-gen-2-amd-3jpg_53384775479_o.jpg) 
@@ -221,12 +247,26 @@ Close
 
  As for the dual speaker system, I was impressed with how well it handled music, dialogue, and game soundtracks. The Dolby Atmos speakers didn't sound muffled, even when I pushed the volume to nearly 100% volume. The sound came through nice and clear and provided some decent bass. Of course, this isn't enough to replace the quality of a [desktop speaker system](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/), but for a laptop, I was satisfied and didn't feel the need to use headphones in most scenarios.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
 ### 
 
-### 
-
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Battery and Charging: Average Energy Expenditure
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-lenovo-thinkpad-z16-gen-2-amd-with-its-charger-2jpg_53384642428_o.jpg) 
@@ -247,6 +287,9 @@ Sergio Rodriguez / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z16 Gen 2
 
 8/ 10 
@@ -271,3 +314,65 @@ The ThinkPad Z16 combines features like powerful AMD processing with a crystal-c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-beat-the-beast-instagram-video-troubleshooting-guide/"><u>[New] Beat the Beast  Instagram Video Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>[New] Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-financial-forecast-the-price-of-filming-melodies-visually/"><u>[New] Financial Forecast  The Price of Filming Melodies Visually</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-forego-youtube-previews-to-enjoy-live-videos/"><u>[New] Forego YouTube Previews to Enjoy Live Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-giggle-guide-to-funny-memes-a-quick-primer/"><u>[New] Giggle Guide to Funny Memes  A Quick Primer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-green-screen-resources-download-free/"><u>[New] Green Screen Resources, Download Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hearing-heroism-essential-online-picks-for-tts-files/"><u>[New] Hearing Heroism  Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-free-text-animations-online-and-offline-solutions/"><u>[New] How to Use Free Text Animations [Online and Offline Solutions]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-termination-immersive-reality/"><u>[New] Ideal Termination  Immersive Reality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-image-editing-excellence-with-top-apps-list/"><u>[New] Image Editing Excellence with Top Apps List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-incorporating-side-content-a-filmmakers-guide/"><u>[New] Incorporating Side Content  A Filmmaker's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pro-video-guide-crafting-engaging-screencasts-for-2024/"><u>[New] Pro Video Guide  Crafting Engaging Screencasts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>[Updated] 2024 Approved  Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-views-through-effective-youtube-thumbnail-selection-for-2024/"><u>[Updated] Boost Views Through Effective YouTube Thumbnail Selection for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-best-mobile-melody-crafters/"><u>[Updated] Expert Advice  Best Mobile Melody Crafters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-perfecting-npc-closures-in-roblox-games/"><u>[Updated] Expert Tips  Perfecting NPC Closures in Roblox Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-enhanced-kinemaster-frame-focus/"><u>[Updated] Expert Tips for Enhanced Kinemaster Frame Focus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grab-your-guiltless-film-endings-with-our-template-service/"><u>[Updated] Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gratuitous-audio-to-text-conversion-tool/"><u>[Updated] Gratuitous Audio to Text Conversion Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-companies-at-the-vr-content-frontier/"><u>[Updated] Groundbreaking Companies at the VR Content Frontier</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-hidden-pathway-how-to-seamlessly-integrate-youtube-content-onto-facebook/"><u>[Updated] In 2024, The Hidden Pathway  How to Seamlessly Integrate YouTube Content Onto Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>[Updated] Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-leading-edge-top-10-advanced-vimeo-video-extraction-sites-for-2024/"><u>[Updated] Leading Edge  Top 10 Advanced Vimeo Video Extraction Sites for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-primer-on-dynamic-visual-expression-for-2024/"><u>A Primer on Dynamic Visual Expression for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-find-n3-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Find N3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-catch-5-pro-fish-cameras-unveiled-for-2024/"><u>Capture the Catch  5 Pro-Fish Cameras Unveiled for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-confusion-correcting-windows-11-mails-html-messages/"><u>Clearing the Confusion: Correcting Windows 11 Mail's HTML Messages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721857706079-dont-delay-get-your-hands-on-advanced-open-source-conversational-ai-tools-skip-the-desktop-chatgpt-waitlist/"><u>Don't Delay, Get Your Hands on Advanced Open Source Conversational AI Tools - Skip the Desktop ChatGPT Waitlist</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014822429-from-mute-to-music-resolving-sound-problems-in-your-hp-laptop-today/"><u>From Mute to Music: Resolving Sound Problems in Your HP Laptop Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-mastering-mac-preview-features-for-2024/"><u>From Novice to Pro  Mastering Mac Preview Features for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies-for-2024/"><u>Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-againnst-ai-crawlers-stop-openai-from-scraping-your-website/"><u>Guarding Againnst AI Crawlers: Stop OpenAI From Scraping Your Website</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-fidelity-avi-player-for-portable-and-stationary-use-for-2024/"><u>High-Fidelity AVI Player for Portable & Stationary Use for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-create-a-seamless-rss-feed-for-your-podcast-for-2024/"><u>How to Create a Seamless RSS Feed for Your Podcast for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-expertly-use-vscos-adjustment-brushes-for-2024/"><u>How to Expertly Use VSCO's Adjustment Brushes for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-pop-7-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Pop 7 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ice-racers-unite-celebrating-snowboard-cross-victories-winter-olympics-edition-for-2024/"><u>Ice Racers Unite  Celebrating Snowboard Cross Victories, Winter Olympics Edition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-guide-to-applying-luts-in-professional-production/"><u>In 2024, Expert Guide to Applying LUTs in Professional Production</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers/"><u>In 2024, Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-track-your-periscope-broadcasting/"><u>In 2024, Fast-Track Your Periscope Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-your-videos-shape-with-aspect-ratio/"><u>In 2024, Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flight-path-perfection-essential-insights-for-drone-racers-and-top-5-models/"><u>In 2024, Flight Path Perfection  Essential Insights for Drone Racers & Top 5 Models</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12R Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>In 2024, Gaming Mastery  The Ultimate Speed Controller Guidebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-groundwork-for-av1-mastery/"><u>In 2024, Groundwork for AV1 Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-find-the-best-videographer/"><u>In 2024, How to Find the Best Videographer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illustrate-images-select-caption-apps-for-your-photos-iosandroid/"><u>In 2024, Illustrate Images  Select Caption Apps for Your Photos (iOS/Android)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-invisible-sound-transitions-in-premiere-pro/"><u>In 2024, Implementing Invisible Sound Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-selecting-the-leading-5-virtual-title-experts/"><u>In 2024, In-Depth Analysis  Selecting the Leading 5 Virtual Title Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-review-unveiling-bublcams-full-potential-for-2024/"><u>In-Depth Review  Unveiling Bublcam's Full Potential for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovate-visual-signatures-for-free-using-graphic-patterns-for-2024/"><u>Innovate Visual Signatures for Free Using Graphic Patterns for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-text-techniques-in-videos-for-2024/"><u>Innovative Text Techniques in Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-face-off-is-google-bard-the-best-or-does-bing-chat-take-the-crown/"><u>The Ultimate Face-Off: Is Google Bard the Best or Does Bing Chat Take the Crown?</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-sudden-shutdown-of-windows-processes-understanding-error-1067/"><u>Troubleshooting the Sudden Shutdown of Windows Processes - Understanding Error 10^67</u></a></li>
+</ul></div>
