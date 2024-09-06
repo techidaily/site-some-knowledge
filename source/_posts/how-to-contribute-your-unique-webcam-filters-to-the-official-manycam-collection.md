@@ -1,0 +1,97 @@
+---
+title: How to Contribute Your Unique Webcam Filters to the Official ManyCam Collection
+date: 2024-09-05 13:10:52
+updated: 2024-09-06 11:10:45
+tags:
+  - product
+  - solution
+categories:
+  - manycam
+thumbnail: https://thmb.techidaily.com/ab578454ad6a3b390bf0a2c62c4ff10914131d163b29599a64c4c6748f645e74.jpg
+---
+
+## How to Contribute Your Unique Webcam Filters to the Official ManyCam Collection
+
+## How can I submit my own effects to ManyCam.com?
+
+ You can submit your own effects to the ManyCam web site.
+
+* Open ManyCam Effects tab.
+* Open the category tab containing the effect you would like to submit.
+* Right click on the icon of the effect you would like to submit. Select the Publish to site... menu item.![](https://manycam.com/build/images/help/submit/submit_screen1.jpg?v=a5ea57df30)
+* Only registered users can publish their effects to the ManyCam website. If you are not a member yet, join [here](https://tools.techidaily.com/manycam/products/), it's free.
+* After logging on, click the Profile link at the top of the page and open the [Submit Effect](https://tools.techidaily.com/manycam/products/) Tab. Specify the effect file you would like to submit using the 'Browse' dialog. Please note that only .mcv files are accepted. Please enter a brief description for your effect in the "Description" field. You may want to enter a few keywords, which will be used for searches - 3 words containing less than 12 symbols: for example, flower, beauty and nature. ![](https://manycam.com/build/images/help/submit/submit_screen2.jpg?v=1be0407e18)
+* Press the Upload Effect button. Reload the page once during the uploading process which will take up to 5 minutes.![](https://manycam.com/build/images/help/submit/submit_screen3.jpg?v=b6b9e06c91)
+* Finally, you’ll see your effect uploaded to the site and awaiting confirmation.![](https://manycam.com/build/images/help/submit/submit_screen4.jpg?v=ade0b309bc)
+* Moderator approval is required for publishing new effects. ManyCam administrators will usually check and approve the effect in 1-3 business days. You can see the effects you have submitted in the My Effects tab. ![](https://manycam.com/build/images/help/submit/submit_screen5.jpg?v=d146df5419)
+
+  
+Please wait 
+
+## Log in
+
+Use existing account
+
+Facebook Twitter Google 
+
+Or your ManyCam account
+
+Log in 
+
+[Recover password](https://tools.techidaily.com/manycam/products/) 
+
+ Don’t have an account yet? Create one now ! 
+
+## Create an Account
+
+## It takes less than a minute. If you already have an account, please Log in.
+
+First Name 
+
+Last Name 
+
+Email 
+
+Password  
+(Minimum 6 characters) 
+
+Strength: 
+
+Empty
+
+Too Short
+
+Bad
+
+Good
+
+Strong
+
+Excellent
+
+Please keep me updated with ManyCam news and promotions 
+
+Create 
+
+Choosing Create means that you agree to the ManyCam Terms of Service Agreement and Privacy Policy.
+
+This beta is for users with paid subscriptions only.
+
+If you have a license key please convert it [HERE](https://tools.techidaily.com/manycam/products/) to access the Beta.
+
+[Upgrade now!](https://tools.techidaily.com/manycam/products/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
