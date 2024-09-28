@@ -135,63 +135,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-20-free-cloud-storage-service-recommendations-up-to-1tb-included/"><u>[New] 20 Free Cloud Storage Service Recommendations! [Up to 1TB Included]</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-direct-to-device-converting-youtube-tracks-for-idevices-for-2024/"><u>[New] Direct to Device  Converting YouTube Tracks for iDevices for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-sites-for-youtube-content-surge/"><u>[New] Exclusive Sites For YouTube Content Surge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-experts-selection-17-programs-for-flawless-picture-editing/"><u>[New] Expert's Selection  17 Programs for Flawless Picture Editing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-formulating-intriguing-podcast-openers/"><u>[New] Formulating Intriguing Podcast Openers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-graphic-geniuses-discover-the-best-10-free-sketch-for-mac/"><u>[New] Graphic Geniuses  Discover the Best 10 Free Sketch for Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harmonious-habits-to-develop-while-taking-in-your-favorite-episodes/"><u>[New] Harmonious Habits to Develop While Taking in Your Favorite Episodes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hdr-brilliance-justified-choice-or-overkill/"><u>[New] HDR Brilliance  Justified Choice or Overkill?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hdr-portrait-perfection-professional-photography-techniques/"><u>[New] HDR Portrait Perfection  Professional Photography Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hdr-rating-does-aurora-deliver-quality/"><u>[New] HDR Rating  Does Aurora Deliver Quality?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-modeling-software-for-animation-professionals/"><u>[New] Ideal Modeling Software for Animation Professionals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-teaching-transformative-learning/"><u>[New] Immersive Teaching, Transformative Learning</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-on-win10-the-leading-apps-to-check-out/"><u>[New] In 2024, Capturing on Win10  The Leading Apps to Check Out</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>[New] The Complete Process  Recording YouTube Livestream on Multiple Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] 2024 Approved  Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-frosted-feats-beijings-ice-showdown-highlights/"><u>[Updated] Frosted Feats  Beijing's Ice Showdown Highlights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-end-uavs-purchase-without-delay/"><u>[Updated] High-End UAVs  Purchase Without Delay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>[Updated] High-Fidelity Feat  Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>[Updated] In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons/"><u>[Updated] In 2024, Integrate with Ease  An In-Depth Look at Instagram's Music Icons</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-review-of-audfreeplus-software/"><u>[Updated] In-Depth Review of AudFreePlus Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-infusing-energy-youtube-music-in-film-and-media-projects/"><u>[Updated] Infusing Energy  YouTube Music in Film and Media Projects</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pro-level-8-screen-snip-contenders-for-2024/"><u>[Updated] Pro-Level 8 Screen Snip Contenders for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-resolving-face-swap-glitches-in-facebook-chat/"><u>[Updated] Resolving Face Swap Glitches in Facebook Chat</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better/"><u>2024 Approved  GoPro Hero5 Black Vs. Yi 4K Action Camera  Which Is Better?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-hero5-experience-recap/"><u>2024 Approved  GoPro Hero5 Experience Recap</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-an-nft-effortlessly-an-ultimate-guide-for-beginners/"><u>2024 Approved  How to Create an NFT Effortlessly  An Ultimate Guide for Beginners</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-path-to-stellar-android-video-quality/"><u>2024 Approved  Illuminating Path to Stellar Android Video Quality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-to-music-insertion-in-youtube-editing-tools/"><u>2024 Approved  Step-by-Step Guide to Music Insertion in YouTube Editing Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a15-4g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A15 4G FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androidiphones-leading-top-10-cost-free-photo-enhancements-for-2024/"><u>Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-examination-of-the-samsung-galaxy-note20-ultras-5g-performance/"><u>Comprehensive Examination of the Samsung Galaxy Note20 Ultra's 5G Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-init-flawless-operation-now/"><u>Direct3D Init: Flawless Operation Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extensive-movement-analysis-2023-for-2024/"><u>Extensive Movement Analysis 2023 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-doodles-to-dollars-the-graphic-artists-guide-for-2024/"><u>From Doodles to Dollars  The Graphic Artist's Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gazegraphic-reviews-synopsis-for-2024/"><u>GazeGraphic Reviews Synopsis for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gear-for-capturing-journeys-on-camera-for-2024/"><u>Gear for Capturing Journeys on Camera for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/green-screen-video-magic-must-know-methods-for-2024/"><u>Green Screen Video Magic  Must-Know Methods for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-iphones-power-for-dynamic-range-shots-for-2024/"><u>Harnessing iPhone's Power for Dynamic Range Shots for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-royalty-free-graphics-a-compreeved-guide-for-2024/"><u>Harnessing Royalty-Free Graphics  A Compreeved Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hold-your-audiences-gaze-essential-6-video-formats-for-2024/"><u>Hold Your Audience's Gaze  Essential 6 Video Formats for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-apps-for-editing-and-mixing-dji-video-tapes-for-2024/"><u>Ideal Apps for Editing and Mixing DJi Video Tapes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-avi-viewer-mobile-and-desktop-edition-for-2024/"><u>Ideal AVI Viewer  Mobile & Desktop Edition for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-g310-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia G310 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-13-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 13 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>In 2024, Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/"><u>In 2024, Fast-Forward Features Unveiled  The Editor's Guidebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>In 2024, How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pokemon-unite-strategies-a-beginners-roadmap-to-victory/"><u>Pokémon Unite Strategies: A Beginner's Roadmap to Victory</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reaping-the-benefits-of-hdr-for-professional-videoists/"><u>Reaping the Benefits of HDR for Professional Videoists</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-smart-note-management-via-mematic/"><u>Unlock Smart Note Management via Mematic</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

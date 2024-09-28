@@ -136,47 +136,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-beginners-guide-to-sony-vegas-and-youtube-cutting-for-2024/"><u>[New] A Beginner's Guide to Sony Vegas and YouTube Cutting for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-crafting-a-pathway-to-instagram-affordability-through-partnerships/"><u>[New] Crafting a Pathway to Instagram Affordability Through Partnerships</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-peak-performance-best-oculus-rift-players/"><u>[New] Exploring Peak Performance  Best Oculus Rift Players</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-photo-deformation-software/"><u>[New] Exploring Photo Deformation Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-full-potential-of-lunapic-artistry/"><u>[New] Harnessing the Full Potential of LunaPic Artistry</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-film-flair-in-frame-up-smart-setup-tips-for-stellar-videos/"><u>[Updated] Film Flair in Frame-Up  Smart Setup Tips for Stellar Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-film-frenzy-top-picks-of-free-and-paid-movies-on-iphones/"><u>[Updated] Film Frenzy  Top Picks of Free & Paid Movies on iPhones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[Updated] Finest Choices   Free Streaming Tools Suitable Everywhere</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>[Updated] Finest Pencil Masters  Free vs Paid Windows Apps Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>[Updated] From Basic to Bold  Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>[Updated] From Standard to Superior  Adding SRT to MP4 Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-golivebeam-simplified-method-to-broadcast-a-podcast-live/"><u>[Updated] GoLiveBeam  Simplified Method to Broadcast a Podcast Live</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-harnessing-ambiance-with-thoughtful-lighting/"><u>[Updated] Harnessing Ambiance with Thoughtful Lighting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-ps4-with-obs/"><u>[Updated] How To Record PS4 with OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-internet-locations-for-shining-3d-text-art/"><u>[Updated] Ideal Internet Locations for Shining 3D Text Art</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immortalize-memories-prime-online-tools-for-photo-framing/"><u>[Updated] Immortalize Memories  Prime Online Tools for Photo Framing</u></a></li>
-<li><a href="https://common-error.techidaily.com/0x80070490-error-code-in-windows-update-fixed/"><u>0X80070490 Error Code in Windows Update [FIXED]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-30-no-cost-sites-bringing-high-end-illustration-to-life/"><u>2024 Approved  Explore the Best 30 No-Cost Sites Bringing High-End Illustration to Life</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-design-an-eye-catching-logo-for-podcasts/"><u>2024 Approved  How to Design an Eye-Catching Logo for Podcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-industrys-preferred-6-social-networking-sites-for-firms/"><u>2024 Approved  Industry's Preferred 6 Social Networking Sites for Firms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-touchpad-driver-update-for-windows-11-speedy-and-effortless-installation-tutorial/"><u>ASUS Touchpad Driver Update for Windows 11: Speedy and Effortless Installation Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fly-higher-10-must-have-uav-extras-revealed-for-2024/"><u>Fly Higher  10 Must-Have UAV Extras Revealed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-inconsistent-exports-securing-smooth-srt-outputs-for-2024/"><u>From Inconsistent Exports  Securing Smooth SRT Outputs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/haptic-feedback-in-e-commerce-trials-for-2024/"><u>Haptic Feedback in E-Commerce Trials for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-complementary-behaviors-with-audio-tales-playing-for-2024/"><u>Ideal Complementary Behaviors with Audio Tales Playing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-on-enhancing-vhs-images-using-technology/"><u>In 2024, Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>In 2024, FreeSync Review  The Latest From LG 27UHD68 Monitor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-cut-to-connect-advanced-editing-with-kinemaster/"><u>In 2024, From Cut to Connect  Advanced Editing with Kinemaster</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Plus Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-imagememe-magic-instant-jokes/"><u>In 2024, ImageMeme Magic  Instant Jokes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-p55-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel P55 Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-depth-review-videovision-pro-suite-the-new-frontier-for-2024/"><u>In-Depth Review  VideoVision Pro Suite - The New Frontier for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-huawei-nova-y91-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Huawei Nova Y91</u></a></li>
-<li><a href="https://techidaily.com/tecno-data-recovery-recover-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Tecno Data Recovery – recover lost data from Tecno</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/verifying-cgp-as-a-trustworthy-health-scribe/"><u>Verifying CGP as a Trustworthy Health Scribe?</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

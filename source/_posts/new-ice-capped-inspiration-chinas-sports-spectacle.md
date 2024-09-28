@@ -146,66 +146,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ditch-dullness-boosting-speed-in-android-videos/"><u>[New] 2024 Approved  Ditch Dullness  Boosting Speed in Android Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-excellence-in-streaming-zooms-6-cam-selection/"><u>[New] Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>[New] Exclusive Exploration  Superior VR Games on Google Cardboard</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-get-liked-faster-on-tinder-clever-bio-tricks-that-work/"><u>[New] Get Liked Faster on Tinder  Clever Bio Tricks That Work</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-maximize-instagrams-potential-with-podcasts/"><u>[New] How to Maximize Instagram's Potential with Podcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-inventory-visualization/"><u>[New] Immersive Inventory Visualization</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-live-sounds-made-simple-the-ultimate-guide-to-digital-recording/"><u>[New] In 2024, Live Sounds Made Simple  The Ultimate Guide to Digital Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-screen-share-twitters-power-to-go-viral/"><u>[New] In 2024, Screen Share  Twitter's Power to Go Viral</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-iphones-approach-to-high-dynamic-range-photography-for-2024/"><u>[New] IPhone's Approach to High Dynamic Range Photography for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-top-8-interactive-gloves-in-vr/"><u>[New] Unveiling Top 8 Interactive Gloves in VR</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>[Updated] 2024 Approved  Gourmet Gems  7 Tips to Transform Your Kitchen Cinematography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-showcase-your-story-premium-ig-covers-for-iphone-users/"><u>[Updated] 2024 Approved  Showcase Your Story  Premium IG Covers for iPhone Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-your-audience-writing-podcast-intros/"><u>[Updated] Captivating Your Audience  Writing Podcast Intros</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-live-conversations-google-meet-on-phones-for-2024/"><u>[Updated] Capture Live Conversations  Google Meet on Phones for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>[Updated] Exploring UAVs' Operation  A Guide to Aerial Robotics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-getting-started-with-azure-speech-to-text-service/"><u>[Updated] Getting Started with Azure Speech-to-Text Service</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-hidden-world-exploring-vlc-player-extras/"><u>[Updated] In 2024, The Hidden World  Exploring VLC Player Extras</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-best-videographer-selection/"><u>[Updated] In-Depth Look at Best Videographer Selection</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs/"><u>[Updated] Pixel Perfect Photography  Excelling in the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-top-10-high-def-4k-displays/"><u>[Updated] Ranking the Top 10 High-Def 4K Displays</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-seamless-fb-video-to-mp3-audio-conversion-techniques/"><u>[Updated] Seamless FB Video to MP3 Audio Conversion Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-visual-storytelling-and-auditory-art-converting-instagrams-to-songs-for-2024/"><u>[Updated] Visual Storytelling & Auditory Art  Converting Instagrams to Songs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-immersive-videography-the-360-journey/"><u>2024 Approved  Exploring Immersive Videography  The 360° Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-hero4-vs-gopro-hero5-showdown/"><u>2024 Approved  GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-guidelines-for-stable-screen-recording-on-phones/"><u>2024 Approved  Guidelines for Stable Screen Recording on Phones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hook-your-viewers-quickly-with-these-6-video-types/"><u>2024 Approved  Hook Your Viewers Quickly with These 6 Video Types</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-horizon-capture-setup-vr/"><u>2024 Approved  Horizon Capture Setup VR</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-5-monitors-for-enhanced-ps5-experience/"><u>2024 Approved  Ideal 5 Monitors for Enhanced PS5 Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>2024 Approved  Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-study-androids-lightroom-app-functionality/"><u>2024 Approved  In-Depth Study  Android's Lightroom App Functionality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>2024 Approved  Innovating Beyond Boundaries  Revitalizing VR Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-visual-storytelling-cropping-and-editing-tips-for-instagram-audiences/"><u>2024 Approved  Visual Storytelling  Cropping and Editing Tips for Instagram Audiences</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/addition-overflow-check-if-a-(-b-and-c-(-d-then-a-plus-c-(-b-plus-d-this-means-that-when-adding-two-numbers-where-each-number-is-less-than-the-next-consecut68/"><u>Addition Overflow Check: If \\(a < B\\) and \\(C < D\\), Then \\( a + C < B + D \\). This Means that when Adding Two Numbers Where Each Number Is Less than the Next Consecutive Representable Integer (Considering Wrapping Around), Overflow Will Occur.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-subtitling-mastering-the-art-of-srt-editing-on-apple-systems/"><u>Advanced Subtitling  Mastering the Art of SRT Editing on Apple Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/broadcast-your-video-conference-linking-zoom-meetings-with-your-tv-setup/"><u>Broadcast Your Video Conference: Linking Zoom Meetings with Your TV Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-detectives-tackling-tech-troubles-with-chatai/"><u>Digital Detectives: Tackling Tech Troubles with ChatAI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-boundaries-of-true-black-on-asuss-professional-screen-for-2024/"><u>Exploring the Boundaries of True Black on ASUS's Professional Screen for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extreme-expeditions-the-hero5-black-vs-hero5-session-showdown-for-2024/"><u>Extreme Expeditions  The Hero5 Black Vs Hero5 Session Showdown for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-black-showdown-with-hero4-silver-for-2024/"><u>GoPro Hero5 Black Showdown with Hero4 Silver for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-black-vs-hero5-session-for-2024/"><u>GoPro Hero5 Black Vs Hero5 Session for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/image-integrity-keeping-quality-high-during-iphone-crops-for-2024/"><u>Image Integrity  Keeping Quality High During iPhone Crops for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/image-intensifiers-ranking-the-best-10-photography-lenses-for-2024/"><u>Image Intensifiers  Ranking the Best 10 Photography Lenses for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-charting-your-course-through-youtube-compliance/"><u>In 2024, Charting Your Course Through YouTube Compliance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-utilizing-snapchat-highlights-effectively/"><u>In 2024, Expert Tips for Utilizing Snapchat Highlights Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-imagination-to-shares-mastering-metaverse-memes/"><u>In 2024, From Imagination to Shares  Mastering Metaverse Memes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-galactic-grandeur-in-hd-optimal-websites-featuring-the-sky/"><u>In 2024, Galactic Grandeur in HD  Optimal Websites Featuring the Sky</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-moto-g24-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Moto G24 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-resize-photos-on-an-iphone/"><u>In 2024, How to Resize Photos on an iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>In 2024, How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-incremental-noise-reduction-using-audacity/"><u>In 2024, Implementing Incremental Noise Reduction Using Audacity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-snort-spree-top-10-viral-laughs-online/"><u>In 2024, Snort Spree  Top 10 Viral Laughs Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/initial-learning-executing-fade-ins-professionally-for-2024/"><u>Initial Learning  Executing Fade-Ins Professionally for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/professional-tips-ensuring-correct-date-on-pictures/"><u>Professional Tips  Ensuring Correct Date on Pictures</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-definitive-guide-to-secure-social-networking-on-fb/"><u>The Definitive Guide to Secure Social Networking on FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configurations-in-windows-11/"><u>Troubleshooting Unknown Speaker Configurations in Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/video-anonymization-strategies-for-2024/"><u>Video Anonymization Strategies for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
