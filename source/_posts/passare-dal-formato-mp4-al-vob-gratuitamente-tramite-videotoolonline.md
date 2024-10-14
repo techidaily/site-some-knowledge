@@ -1,7 +1,7 @@
 ---
 title: Passare Dal Formato MP4 Al VOB Gratuitamente Tramite VideoToolOnline
-date: 2024-10-02T16:17:52.078Z
-updated: 2024-10-07T21:54:37.183Z
+date: 2024-10-10T02:21:04.360Z
+updated: 2024-10-13T23:10:22.399Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042ff2a6a838a8d8235c347643c.jpg
@@ -162,16 +162,16 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -188,6 +188,13 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -285,6 +292,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -331,13 +345,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -352,25 +359,11 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -379,6 +372,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -391,16 +391,10 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
@@ -436,11 +430,25 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -519,13 +527,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -536,16 +537,16 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -564,13 +565,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,24 +601,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-painting-and-design-tools-on-windows-no-cost-or-charge/"><u>[New] Ideal Painting & Design Tools on Windows No Cost or Charge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-storytelling-through-total-environmental-capture/"><u>[New] Immersive Storytelling Through Total Environmental Capture</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-no1-video-recorders-with-personalized-view/"><u>[Updated] 2024 Approved No.1 Video Recorders with Personalized View</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-android-3d-media-experience/"><u>[Updated] Exquisite Android 3D Media Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-photo-amplification-web-and-phone-edition/"><u>[Updated] Exquisite Photo Amplification Web & Phone Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[Updated] Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-premium-playlist-manager-for-android-users/"><u>[Updated] Premium Playlist Manager for Android Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-twitch-time-reversal-17-methods-to-master-your-live-stream/"><u>[Updated] Twitch Time Reversal 17 Methods to Master Your Live Stream</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-make-every-instagram-story-a-visual-feast-multiply-your-images/"><u>2024 Approved Make Every Instagram Story a Visual Feast Multiply Your Images</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-note-13-proplus-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi Note 13 Pro+ 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hide-and-stream-avoiding-the-spotlight-on-instagram-for-2024/"><u>Hide and Stream Avoiding the Spotlight on Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-vr-revolutionizes-movie-watching-for-2024/"><u>How VR Revolutionizes Movie-Watching for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-securing-superior-quality-pics-without-charges/"><u>In 2024, Guide to Securing Superior Quality Pics without Charges</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-craft-an-engaging-solo-auditory-adventure/"><u>In 2024, How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-progress-discovering-the-top-5-promising-ai-hardware-breakthroughs/"><u>Pioneering Progress: Discovering the Top 5 Promising AI Hardware Breakthroughs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/softening-playlist-sounds-on-pcmac-systems-for-2024/"><u>Softening Playlist Sounds on PC/Mac Systems for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-download-and-update-your-lenovo-laptop-t430-drivers-for-latest-windows-os-versions/"><u>Step-by-Step Instructions: Download and Update Your Lenovo Laptop T430 Drivers for Latest Windows OS Versions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-10-must-have-windows-11-cam-recorders/"><u>Top 10 Must-Have Windows 11 Cam Recorders</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/value-meets-performance-in-the-tcl-50-inch-smart-tv-an-insightful-review-of-the-50s425-model/"><u>Value Meets Performance in the TCL 50 Inch Smart TV - An Insightful Review of the 50S425 Model</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-effortless-green-screening-in-kinemaster-software/"><u>[New] Expert Tips for Effortless Green Screening in KineMaster Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-video-displays-the-best-5-for-playstation-5/"><u>[New] Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminate-focus-leading-lines-in-iphone-composition/"><u>[New] Illuminate Focus Leading Lines in iPhone Composition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximizing-video-impact-fairly-and-effectively-for-2024/"><u>[New] Maximizing Video Impact Fairly and Effectively for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-improve-your-work-efficiency-leveraging-snap-photography-techniques/"><u>[Updated] 2024 Approved Improve Your Work Efficiency Leveraging Snap Photography Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-follower-to-fanbase-leader-nine-steps-for-instagram-mastery/"><u>[Updated] From Follower to Fanbase Leader Nine Steps for Instagram Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-the-best-replacement-for-magixs-acid-pro/"><u>2024 Approved Finding the Best Replacement for Magix's ACID Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>2024 Approved Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-action-selecting-your-social-sphere-sidekick/"><u>AI in Action: Selecting Your Social Sphere Sidekick</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-troubleshooting-making-the-logitech-g923-functional-again/"><u>Comprehensive Troubleshooting: Making the Logitech G923 Functional Again</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-speed-fb-video-techniques-for-smooth-playback/"><u>In 2024, High-Speed FB Video Techniques for Smooth Playback</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-automating-your-voice-a-comprehensive-audacity-autotune-installation-and-usage-manual/"><u>New In 2024, Automating Your Voice A Comprehensive Audacity Autotune Installation and Usage Manual</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-12-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi 12 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-7-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 7</u></a></li>
 </ul></div>
 

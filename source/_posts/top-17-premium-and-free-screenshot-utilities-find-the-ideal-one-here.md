@@ -1,7 +1,7 @@
 ---
 title: Top 17 Premium & Free Screenshot Utilities - Find the Ideal One Here
-date: 2024-09-10 12:33:20
-updated: 2024-09-13 12:14:20
+date: 2024-10-13T04:08:47.065Z
+updated: 2024-10-13T19:59:16.015Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e678b62a9cc1948e6b45c0733b.jpg
@@ -182,6 +182,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -213,6 +220,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -306,6 +326,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -317,6 +344,13 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -362,6 +396,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -372,6 +413,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -406,6 +454,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -454,6 +509,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +598,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-step-by-step-tutorial-on-screencastify-use/"><u>[New] 2024 Approved A Step-by-Step Tutorial on Screencastify Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-techniques-for-capturing-ps4-games-in-obs-for-2024/"><u>[New] Cutting-Edge Techniques for Capturing PS4 Games in OBS for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-aerial-robotics-simplified-how-drones-fly-talk-and-work-for-2024/"><u>[Updated] Aerial Robotics Simplified How Drones Fly, Talk & Work for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-halt-spotify-from-automatically-playing-podcasts/"><u>[Updated] How to Halt Spotify From Automatically Playing Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-2-written-by-jake-simonson-date-march-14-2023/"><u>2024 Approved Iconic 2 Written By Jake Simonson | Date March 14, 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-everyday-life-top-10-vr-accessory-guide/"><u>2024 Approved Innovating Everyday Life Top 10 VR Accessory Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-a-vpn-offer-better-anonymity-for-chatgpt/"><u>Does a VPN Offer Better Anonymity for ChatGPT?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-listing-leading-8-4k-ultra-hd-players-for-2024/"><u>Exclusive Listing Leading 8 4K Ultra HD Players for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-13-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi 13 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-seamlessly-observe-the-most-praised-youtube-comments-for-2024/"><u>How to Seamlessly Observe the Most Praised YouTube Comments for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hydraulic-losses-within-the-pump-can-increase-with-flow-rate-due-to-factors-such-as-entrance-and-exit-losses-which-are-influenced-by-fluid-velocity/"><u>Hydraulic Losses Within the Pump Can Increase with Flow Rate Due to Factors Such as Entrance and Exit Losses, Which Are Influenced by Fluid Velocity.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs-for-2024/"><u>Image Editing Essentials The Ultimate Guide to Embedding Text on Windows & Macs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-pro-periscope-stream-mastery/"><u>In 2024, From Novice to Pro Periscope Stream Mastery</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-prowess-unleashed-2022-olympics-sprinting-spectacles/"><u>In 2024, Ice Prowess Unleashed 2022 Olympics Sprinting Spectacles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-propagate-your-content-with-vimeo-links/"><u>In 2024, Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-for-a-dynamic-win11-display-for-2024/"><u>Innovative Techniques for a Dynamic Win11 Display for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002649591-paradox-launcher-error-solutions-how-to-ensure-smooth-gameplay/"><u>Paradox Launcher Error Solutions - How To Ensure Smooth Gameplay!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-a-malfunctioning-logitech-webcam-mic/"><u>Resolved: Fixing a Malfunctioning Logitech Webcam Mic</u></a></li>
+</ul></div>
+
