@@ -1,7 +1,7 @@
 ---
 title: Mastering Screenshots on Windows
-date: 2024-10-12T19:45:57.605Z
-updated: 2024-10-20T06:22:00.974Z
+date: 2024-10-25T03:13:57.922Z
+updated: 2024-10-26T02:52:25.054Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b864cfccf1cdec1e982bafc3d.jpg
@@ -210,22 +210,15 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
@@ -242,6 +235,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -249,6 +249,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -268,13 +275,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -292,16 +292,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
@@ -332,13 +326,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -350,6 +337,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -448,9 +442,23 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -500,13 +508,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -515,13 +516,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -542,13 +536,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -571,6 +558,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,22 +601,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-boost-your-cinematography-game-essential-iphone-gear-for-2024/"><u>[New] Boost Your Cinematography Game Essential iPhone Gear for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-course-on-morphvox-converting-your-voice-professionally/"><u>[New] Full Course on MorphVOX Converting Your Voice Professionally</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-no-expenses-the-ultimate-guide-to-16-top-tier-youtube-rippers-for-audios/"><u>[New] In 2024, No Expenses The Ultimate Guide to 16 Top-Tier YouTube Rippers for Audios</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[New] Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screencapture-made-easy-and-effective-on-your-laptop/"><u>[New] ScreenCapture Made Easy & Effective on Your Laptop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>2024 Approved In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-internet-calling-apps/"><u>Discover The Ultimate List of Free Internet Calling Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-cutting-edge-of-uhd-with-lgs-27ud68-for-2024/"><u>Exploring the Cutting-Edge of UHD with LG's 27UD68 for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-methods-for-adding-subtitles-to-your-videos-desktop-online-tools-and-mobile-apps/"><u>Free Methods for Adding Subtitles to Your Videos: Desktop, Online Tools & Mobile Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop-for-2024/"><u>From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-visionary-art-top-10-apps-for-vector-enthusiasts/"><u>In 2024, Crafting Visionary Art Top 10 Apps for Vector Enthusiasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-choices-best-mics-enhancing-4k-video-quality/"><u>In 2024, Expert Choices Best Mics Enhancing 4K Video Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-endorsed-ae-text-tools/"><u>In 2024, Expert-Endorsed AE Text Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-methods-for-creating-standout-instagram-collages/"><u>In 2024, Innovative Methods for Creating Standout Instagram Collages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/increasing-your-youtube-traffic-with-100kplus-view-goals-for-2024/"><u>Increasing Your YouTube Traffic with 100K+ View Goals for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/is-image-stabilization-a-feature-worth-your-time-for-2024/"><u>Is Image Stabilization a Feature Worth Your Time for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-studio-luminance-ranking-the-best-17-light-devices/"><u>[New] 2024 Approved Studio Luminance Ranking the Best 17 Light Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-probing-into-youtube-discussions/"><u>[Updated] In 2024, Probing Into YouTube Discussions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-precise-control-with-xbox-zoom/"><u>2024 Approved Expert Tips for Precise Control with Xbox Zoom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-snagging-superior-pixels-without-spending/"><u>2024 Approved Expert Tips for Snagging Superior Pixels Without Spending</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-transferring-media-files-flawlessly-w11/"><u>2024 Approved Expert Tips for Transferring Media Files Flawlessly W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-maximizing-your-win11-conference-capabilities/"><u>2024 Approved Expert Tips Maximizing Your Win11 Conference Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-choosing-top-9-webcam-enhancement-tools/"><u>2024 Approved Expert Tips on Choosing Top 9 Webcam Enhancement Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-controlling-timeline-pace-in-videos/"><u>2024 Approved Expert Tips on Controlling Timeline Pace in Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-inshot-film-splits/"><u>2024 Approved Expert Tips on Inshot Film Splits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-advanced-networking-equipment-leading-servers-and-cabinets-in-2e24/"><u>Discover the Most Advanced Networking Equipment: Leading Servers & Cabinets in 2E24</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y78t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y78t Through Google Earth?</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-optimizing-dragons-dogma-2-performance-strategies-to-eliminate-lag-and-hiccups/"><u>Master the Art of Optimizing Dragon's Dogma 2 Performance: Strategies to Eliminate Lag and Hiccups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-skies-drone-shooting-basics/"><u>Navigating Skies Drone Shooting Basics</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-produce-professional-looking-videos-with-fcpx-stabilization-tools/"><u>New Produce Professional-Looking Videos with FCPX Stabilization Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-apperror-with-text-on-w11-os/"><u>Overcoming AppError with Text on W11 OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-chatgpts-power-in-android-with-simple-steps/"><u>Unlock ChatGPT's Power in Android with Simple Steps</u></a></li>
 </ul></div>
 

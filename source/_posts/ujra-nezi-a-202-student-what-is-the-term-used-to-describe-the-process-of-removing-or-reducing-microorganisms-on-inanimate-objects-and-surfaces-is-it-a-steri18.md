@@ -1,7 +1,7 @@
 ---
 title: "Újra Nézi a 202 # Student: What Is the Term Used to Describe the Process of Removing or Reducing Microorganisms on Inanimate Objects and Surfaces? Is It A) Sterilization, B) Sanitization, C) Disinfection, or D) Antisepsis?"
-date: 2024-10-14T01:49:53.947Z
-updated: 2024-10-20T09:13:41.460Z
+date: 2024-10-23T19:43:16.111Z
+updated: 2024-10-26T04:00:52.255Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa2c8281dbf1ed71dadcf9f50.jpg
@@ -156,18 +156,18 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
@@ -229,11 +229,31 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -295,10 +315,10 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
@@ -312,13 +332,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -326,13 +339,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -353,6 +359,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -379,6 +392,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -423,6 +443,19 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -451,6 +484,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -487,13 +527,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -502,13 +535,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -529,13 +555,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -558,13 +577,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,22 +613,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-mb-to-seconds-a-20-video-study/"><u>[New] From MB to Seconds A 20-Video Study</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fuse-fast-edits-for-stunning-windows-photos/"><u>[New] Fuse Fast Edits for Stunning Windows Photos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fuse-voice-recordings-with-ppt-content/"><u>[New] Fuse Voice Recordings with PPT Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hyperfast-picture-explorer-on-windows-11/"><u>[New] Hyperfast Picture Explorer on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>[New] Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-secret-tips-to-better-use-canva-photo-editor/"><u>2024 Approved 10 Secret Tips to Better Use Canva Photo Editor</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-all-inclusive-assessment-bublcams-full-feature-set-reviewed/"><u>2024 Approved All-Inclusive Assessment Bublcam's Full Feature Set Reviewed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bluetooth-range-improvement-techniques-for-microsoft-windows-11-users/"><u>Bluetooth Range Improvement Techniques for Microsoft Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-printing-experience-the-latest-driver-version-for-dell-mono-laser-models-2330ddn/"><u>Boost Your Printing Experience: The Latest Driver Version for Dell Mono Laser Models - 2330D/Dn</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escape-the-waiting-room-7-expert-tips-to-fix-forza-horizon-es-stuck-sessions/"><u>Escape the Waiting Room: 7 Expert Tips to Fix Forza Horizon E's Stuck Sessions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-depths-of-ifunnys-meme-experience-for-2024/"><u>Exploring the Depths of iFunny's Meme Experience for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/find-the-perfect-personalized-boxed-gift-at-these-online-retailers-for-2024/"><u>Find the Perfect Personalized Boxed Gift at These Online Retailers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-conversion-guide-transforming-flvf4v-files-into-mp4-format/"><u>Free Conversion Guide: Transforming FLV/F4V Files Into MP4 Format</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1716769545766-in-2024-how-many-seconds-is-a-20mb-video/"><u>In 2024, How Many Seconds Is a 20Mb Video?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-hp-elitebook-x360-1030-g2-with-these-essential-drivers/"><u>Update Your HP EliteBook X360 1030 G2 with These Essential Drivers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-crafting-a-graceful-exit-from-discord-communities/"><u>[New] Crafting a Graceful Exit From Discord Communities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellence-in-text-editing-with-ae-presets/"><u>[New] Excellence in Text Editing with AE Presets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-tips-for-iphone-7-video-saving/"><u>[New] Quick Tips for iPhone 7 Video Saving</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovations-in-crafting-engaging-vlogging-scripts/"><u>2024 Approved Innovations in Crafting Engaging Vlogging Scripts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-iphone-slow-motion-shooting-essentials/"><u>2024 Approved IPhone Slow Motion Shooting Essentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-boundaries-with-syma-x8c-flight-for-2024/"><u>Exploring the Boundaries with Syma X8C Flight for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-ensure-periscope-videos-are-secured-post-record-for-2024/"><u>How to Ensure Periscope Videos Are Secured Post-Record for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhancing-viewer-engagement-with-smart-end-screen-techniques/"><u>In 2024, Enhancing Viewer Engagement with Smart End Screen Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>In 2024, Galactic Glitter Top 10 Accessories for SJ4000 Stargazers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-photography-snippets-from-videos/"><u>In 2024, Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resurrect-your-asus-video-recorder/"><u>Resurrect Your ASUS Video Recorder</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tweet-to-facebook-a-step-by-step-guide/"><u>Tweet to Facebook A Step-by-Step Guide</u></a></li>
 </ul></div>
 

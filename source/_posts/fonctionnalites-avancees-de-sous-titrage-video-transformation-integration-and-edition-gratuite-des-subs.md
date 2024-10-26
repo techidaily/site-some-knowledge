@@ -1,7 +1,7 @@
 ---
 title: "Fonctionnalités Avancées De Sous-Titrage Vidéo : Transformation, Intégration & Édition Gratuite Des Subs"
-date: 2024-10-13T02:33:02.122Z
-updated: 2024-10-19T23:25:30.019Z
+date: 2024-10-24T22:57:04.399Z
+updated: 2024-10-25T16:20:54.206Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c9ed51bdab027cc3c0e36d8f.jpg
@@ -161,13 +161,6 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [Movavi Photo Editor](https://tools.techidaily.com/movavi/photo-editor/)
@@ -192,13 +185,6 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 * 圖片都必須上傳至軟體
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**Apowersoft Photo Viewer**](https://tools.techidaily.com/apowersoft/products/)
@@ -219,6 +205,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**FastStone Image Viewer**](https://www.faststone.org/)
@@ -235,19 +228,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
@@ -255,10 +235,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
@@ -287,6 +267,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
@@ -308,6 +295,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -334,23 +328,10 @@ Movavi Photo Editor
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 常見問題集
@@ -367,10 +348,10 @@ Movavi Photo Editor
 * Google Photos
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 那一個是用於觀賞照片的最佳軟體?
@@ -382,10 +363,10 @@ Movavi Photo Editor
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
@@ -431,6 +412,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -470,20 +458,21 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-linux-software-for-efficient-screen-capture-for-2024/"><u>[New] Essential Linux Software for Efficient Screen Capture for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-free-online-compilation-of-copyright-free-charts/"><u>[New] Free Online Compilation of Copyright-Free Charts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hand-tracking-deciphered-a-users-guide/"><u>[New] Hand Tracking Deciphered A User's Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harvesting-stills-from-moving-images-on-windows/"><u>[New] Harvesting Stills From Moving Images on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gross-income-strategies-for-podcasters/"><u>[Updated] Gross Income Strategies for Podcasters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2023s-premier-ios-emulators-excellent-psp-gaming-choices-for-2024/"><u>2023'S Premier iOS Emulators Excellent PSP Gaming Choices for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>2024 Approved Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-edit-podcasts-in-garageband/"><u>2024 Approved How To Edit Podcasts in GarageBand</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-blackout-effective-fixes-for-persistent-screen-issues-on-zoom-during-presentations/"><u>Conquer the Blackout: Effective Fixes for Persistent Screen Issues on Zoom During Presentations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convert-your-dvd-library-into-playable-files-with-winx-ripper-for-mac-optimized-for-iphone-and-ipad-mp4-use-on-macos-systems/"><u>Convert Your DVD Library Into Playable Files with WinX Ripper for Mac - Optimized for iPhone & iPad MP4 Use on macOS Systems</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-9-premier-apps-for-extracting-and-saving-youtube-videos-on-android/"><u>In 2024, 9 Premier Apps for Extracting and Saving YouTube Videos on Android</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-6-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 6 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-comparison-inshot-against-other-apps/"><u>In 2024, In-Depth Comparison InShot Against Other Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-secret-sauce-of-profitable-fb-ads-with-dynamic-animation/"><u>In 2024, The Secret Sauce of Profitable FB Ads with Dynamic Animation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-nhl-19-digital-play-a-game-reviewers-perspective/"><u>Inside Look at NHL '19 Digital Play: A Game Reviewer’s Perspective</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-preserving-your-google-voice-history-a-step-by-step-guide/"><u>[New] 2024 Approved Preserving Your Google Voice History A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-transform-your-video-presentation-with-updated-covers/"><u>[New] Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-why-does-your-facebook-message-feature-a-blue-emoji-uncovering-its-relevance/"><u>[New] Why Does Your FaceBook Message Feature a Blue Emoji? Uncovering Its Relevance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>[Updated] Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[Updated] Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hue-harmony-the-definitive-guide-to-video-coloring/"><u>[Updated] Hue Harmony The Definitive Guide to Video Coloring</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-journey-to-seamless-entertainment-free-for-both-pcmacos-for-2024/"><u>[Updated] Journey to Seamless Entertainment, Free for Both PC/MacOS for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-nord-n30-se-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus Nord N30 SE Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-the-oculus-quest-for-windows-vr-use/"><u>Customizing the Oculus Quest for Windows VR Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-film-experience-selecting-best-gopro-extras-for-2024/"><u>First Film Experience Selecting Best GoPro Extras for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-building-massive-memes-for-2024/"><u>Guide to Building Massive Memes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/highlight-your-path-mouse-cursor-tricks-in-win-11/"><u>Highlight Your Path: Mouse Cursor Tricks in Win 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly-for-2024/"><u>How to Harvest Huge Volumes of Content From TikTok Effortlessly for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-c12-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia C12 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-ai-to-generate-prime-video-titles/"><u>In 2024, Harness AI to Generate Prime Video Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-subscriber-youtube-connection-maximizing-engagement-for-2024/"><u>The Subscriber-YouTube Connection Maximizing Engagement for 2024</u></a></li>
 </ul></div>
 
