@@ -1,7 +1,7 @@
 ---
 title: "How-To Guide: Seamlessly Integrate Background Tracks Into Video Content for PC and Mac Users"
-date: 2024-09-12 12:52:33
-updated: 2024-09-13 10:35:52
+date: 2024-10-29T21:05:29.735Z
+updated: 2024-10-31T22:07:22.017Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -253,6 +260,13 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -324,6 +338,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -352,6 +373,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -361,6 +389,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -372,6 +407,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -395,11 +437,25 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -536,11 +592,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfect-game-capture-in-minecraft/"><u>[New] In 2024, Perfect Game Capture in Minecraft</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-powerdirector-app-complete-review-and-guide-2024/"><u>[New] PowerDirector App Complete Review & Guide 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-essential-guide-to-choosing-video-aspect-ratios/"><u>[Updated] In 2024, The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-12plus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 12+ 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook.techidaily.com/analyzing-telegrams-sudden-spurt-amidst-social-media-crisis/"><u>Analyzing Telegram’s Sudden Spurt Amidst Social Media Crisis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/boost-brain-power-with-technological-penmanship-uncover-the-secrets-to-a-smarter-you/"><u>Boost Brain Power with Technological Penmanship: Uncover the Secrets to a Smarter You!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209862770-9780692160206-dancing-alone/"><u>Dancing Alone | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/embracing-the-future-with-vr-why-this-tech-makes-my-job-a-dream/"><u>Embracing the Future with VR: Why This Tech Makes My Job a Dream!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhanced-chromebooks-new-models-offer-free-one-year-access-to-2-tb-cloud-storage/"><u>Enhanced Chromebooks: New Models Offer Free One-Year Access to 2 TB Cloud Storage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enjoy-vr-on-planes-meta-quest-devices-now-function-above-ground/"><u>Enjoy VR on Planes: Meta Quest Devices Now Function Above Ground!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/experience-enhanced-soccer-memories-how-fifas-augmented-reality-app-boosts-fans-world-cup-stories/"><u>Experience Enhanced Soccer Memories: How FIFA's Augmented Reality App Boosts Fans' World Cup Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/experience-improved-features-with-the-recently-updated-chatgpt-application-on-your-iphone/"><u>Experience Improved Features with the Recently Updated ChatGPT Application on Your iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-rollout-of-googles-innovative-ai-powered-web-search-feature/"><u>Exploring the Rollout of Google's Innovative AI-Powered Web Search Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-efficient-hd-video-editing-with-wonderfox-hd-converter-factory-pro-the-premier-professional-software-solution/"><u>Fast & Efficient HD Video Editing with WonderFox HD Converter Factory Pro - The Premier Professional Software Solution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-announcement-ca-aims-to-end-sale-of-gas-cars-by-the-year-2035/"><u>Groundbreaking Announcement: CA Aims to End Sale of Gas Cars by the Year 2035</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harvards-unsettling-tentacle-equipped-automaton-the-ultimate-solution-for-delicate-item-handling/"><u>Harvard's Unsettling Tentacle-Equipped Automaton: The Ultimate Solution for Delicate Item Handling</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-s18e-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo S18e</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y27-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y27 5G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11s-troublesome-0x800705b4-error-during-updates-step-by-step-solutions/"><u>Resolving Windows 11'S Troublesome 0X800705b4 Error During Updates - Step-by-Step Solutions</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Story 3: Misinterpreting Delegation by Necessity as a Legal Justification"
-date: 2024-09-12 17:35:39
-updated: 2024-09-13 10:41:30
+date: 2024-10-24T20:51:58.779Z
+updated: 2024-10-31T21:10:38.687Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13fd55f62c95158efb815f99f.jpg
@@ -157,9 +157,23 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows Photo Viewer 圖片瀏覽器的最佳替代方案
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -221,6 +235,19 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
@@ -258,6 +285,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -299,6 +333,20 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -319,6 +367,13 @@ Movavi Photo Editor
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -379,6 +434,13 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -393,11 +455,31 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-instant-expertise-changing-photos-to-captivating-youtube-thumbnails/"><u>[New] 2024 Approved Instant Expertise Changing Photos to Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-brand-a-comprehensive-guide-to-instagram-video-marketing-plans/"><u>[Updated] 2024 Approved Elevate Your Brand A Comprehensive Guide to Instagram Video Marketing Plans</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pinpoint-pioneering-podium-places/"><u>[Updated] 2024 Approved Pinpoint Pioneering Podium Places</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-media-management-on-instagram/"><u>[Updated] In 2024, Mastering Media Management on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/accelerate-your-video-editing-top-free-techniques-and-tips/"><u>Accelerate Your Video Editing: Top Free Techniques and Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-video-format-changers-an-in-depth-comparative-analysis/"><u>Best Free Video Format Changers : An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/die-8-besten-methoden-zum-kostenlosen-und-schnellen-konvertieren-von-mov-zu-mp4-formaten-auf-einem-mac/"><u>Die 8 Besten Methoden Zum Kostenlosen Und Schnellen Konvertieren Von MOV- Zu MP4-Formaten Auf Einem Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-macx-pro-hd-universal-video-converter-for-mac-convert-any-format-to-idvd-mp4/"><u>Download MacX Pro HD - Universal Video Converter for Mac, Convert Any Format to iDVD MP4</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-hot-40i-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Hot 40i to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/perfect-your-channel-info-a-template-approach/"><u>Perfect Your Channel Info A Template Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/professional-macx-hd-dvdblu-ray-converter-and-media-extractor-tool-for-macos-users/"><u>Professional MacX HD DVD/Blu-Ray Converter & Media Extractor Tool for macOS Users</u></a></li>
+<li><a href="https://techidaily.com/sign-jpeg-online-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign .jpeg online for free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-strategies-for-successfully-saving-and-transforming-your-favorite-youtube-footage/"><u>Step-by-Step Strategies for Successfully Saving & Transforming Your Favorite YouTube Footage!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-powerful-4k-video-converters-for-pc-and-mac-in-2019/"><u>Top 3 Powerful 4K Video Converters for PC and Mac in 2019</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-sound-card-issues-with-the-steelseries-arctis-prime-gaming-headsets-microphone/"><u>Troubleshooting Tips for Resolving Sound Card Issues with the SteelSeries Arctis Prime Gaming Headset's Microphone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-resolving-issues-with-youtube-mp3-downloads/"><u>Ultimate Guide: Resolving Issues with YouTube-MP3 Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/upgrading-from-macos-monterey-to-ventura-is-the-new-version-worth-it/"><u>Upgrading From macOS Monterey to Ventura: Is the New Version Worth It?</u></a></li>
+</ul></div>
+
