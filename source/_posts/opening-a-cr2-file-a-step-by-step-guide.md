@@ -1,7 +1,7 @@
 ---
 title: "Opening a CR2 File: A Step-by-Step Guide"
-date: 2024-09-11 23:21:57
-updated: 2024-09-13 11:43:53
+date: 2024-11-04T16:13:37.306Z
+updated: 2024-11-06T17:01:32.474Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876bcc8f6574b11c1b4a0b3d5df.jpg
@@ -162,6 +162,13 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -209,6 +216,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -326,9 +340,23 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -361,6 +389,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -395,6 +430,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -410,6 +452,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -454,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +592,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-video-spark-illuminating-techniques-for-stellar-footage/"><u>[New] 2024 Approved Video Spark Illuminating Techniques for Stellar Footage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-organizing-fb-giveaways-for-2024/"><u>[New] The Ultimate Guide to Organizing FB Giveaways for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-15-youtube-originals-premium-unboxing-sessions-for-2024/"><u>[New] Top 15 YouTube Originals Premium Unboxing Sessions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-directors-academy-youtube-channels-for-cinematic-innovation/"><u>[Updated] 2024 Approved Directors Academy YouTube Channels for Cinematic Innovation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5pel5pys5byp5yid6kmj6aoplus44kk44gu5bcc6zaa5oof5acx6zug5litic0g5pya6ygp44gq5o6y5ye65pyf6zat44go5a6j5ywo44gr5lplusd566h/"><u>日本式初詣飾りの専門情報集中 - 最適な掲出期間と安全に保管</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-mastering-and-protection-tips-for-windows-and-macos-users/"><u>DVD Mastering and Protection Tips for Windows and macOS Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-techniques-to-forcibly-close-unresponsive-apps-on-your-mac/"><u>Effective Techniques to Forcibly Close Unresponsive Apps on Your Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizientes-dvd-backup-konvertierung-von-dvd-zu-iso-und-umgekehrt-mit-winx-dvd-duplicator/"><u>Effizientes DVD Backup: Konvertierung Von DVD Zu ISO Und Umgekehrt Mit WinX DVD Duplicator</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-s18-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo S18 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-in-no-time-using-our-top-16-hacks/"><u>Quick Solutions: Repair AirDrop Issues in No Time Using Our Top 16 Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-using-premiere-for-video-upload-for-2024/"><u>Step-by-Step Using Premiere for Video Upload for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egies-for-boosting-your-youtube-shorts-audience-for-2024/"><u>Strategies for Boosting Your YouTube Shorts Audience for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-successfully-downloading-and-setting-up-itunes-for-windows-11-x86-and-x64/"><u>Ultimate Tutorial: Successfully Downloading and Setting Up iTunes for Windows 11 (X86 & X64)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wie-man-dvds-offline-spielen-lasst-ohne-sie-herunterladen-zu-mussen-einfuhrung-in-den-kostengunstigen-dvd-decoder/"><u>Wie Man DVDs Offline Spielen Lässt, Ohne Sie Herunterladen Zu Müssen - Einführung in Den Kostengünstigen DVD-Decoder</u></a></li>
+</ul></div>
+
