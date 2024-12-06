@@ -1,7 +1,7 @@
 ---
 title: "MOVAVI 免費線上服務: AU轉WAV音效修改工具"
-date: 2024-11-05T17:16:20.413Z
-updated: 2024-11-06T17:14:56.789Z
+date: 2024-11-30T22:09:55.607Z
+updated: 2024-12-06T02:15:30.112Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c3066e7cdb610eb41a93c8a8ff.jpeg
@@ -176,13 +176,25 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -191,6 +203,10 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -210,23 +226,9 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -236,25 +238,11 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -263,6 +251,10 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -366,6 +358,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -423,19 +419,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -451,6 +434,10 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -497,10 +484,7 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -517,10 +501,7 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Vérifiez les paramètres de performance de votre Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
@@ -557,6 +538,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -564,13 +549,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -607,18 +585,16 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-groundbreaking-examples-of-the-metaverse-unpacked/"><u>[New] 10 Groundbreaking Examples of the Metaverse Unpacked</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-navigating-gameplay-preservation-in-windows-10/"><u>[New] In 2024, Navigating Gameplay Preservation in Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-selective-slow-speed-video-capture-apps-androidiphone/"><u>[New] Selective Slow-Speed Video Capture Apps Android/iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-remove-background-using-picsart/"><u>[Updated] How to Remove Background Using Picsart</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-powerdirector-showcase-the-2024-edition-explored/"><u>[Updated] PowerDirector Showcase The 2024 Edition Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-x-mix-master-pro-for-computer-users-for-2024/"><u>[Updated] X-Mix Master Pro for Computer Users for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-finest-choices-free-streaming-tools-suitable-everywhere/"><u>2024 Approved Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-a-guide-for-effective-single-stream-livestreams-for-2024/"><u>From Novice to Expert A Guide for Effective Single-Stream Livestreams for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/global-leaders-in-real-time-gaming-streams-for-2024/"><u>Global Leaders in Real-Time Gaming Streams for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-photos-with-realism-facial-motion-blur-via-picsart/"><u>In 2024, Infuse Photos with Realism Facial Motion Blur via Picsart</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/losung-fur-iphone-speichermangel-beim-airdrop-transfer-wie-sie-den-problem-nicht-genug-speicherplatz-uberwinden/"><u>Lösung Für iPhone Speichermangel Beim AirDrop-Transfer - Wie Sie Den Problem 'Nicht Genug Speicherplatz' Überwinden</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-video-kits-to-set-the-tone-right-away/"><u>[New] Free Video Kits to Set the Tone Right Away</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grasping-av1-starters-guidebook/"><u>[New] Grasping AV1 Starter's Guidebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-trailblazing-drones-the-best-to-always-behind-you-for-2024/"><u>[New] Trailblazing Drones The Best to Always Behind You for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-cost-effective-way-to-capture-every-frame-with-free-tools/"><u>[Updated] 2024 Approved The Cost-Effective Way to Capture Every Frame with Free Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-breakneck-broadcast-channel-your-youtube-list/"><u>[Updated] In 2024, Breakneck Broadcast Channel Your YouTube List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>[Updated] In 2024, Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-pro-streamlining-your-win11-zoom-sessions/"><u>2024 Approved From Novice to Pro Streamlining Your Win11 Zoom Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hyper-v-setup-tutorial-for-windows-11-users-easy-activation-and-configuration-steps/"><u>Hyper-V Setup Tutorial for Windows 11 Users - Easy Activation and Configuration Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-a70-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel A70 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>In 2024, Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-linking-chromecast-with-amazon-fire-tv/"><u>Step-by-Step Tutorial on Linking Chromecast with Amazon Fire TV</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Shrinking Your Videos: Seamless WhatsApp Transmissions From PCs, Online Tools, and Mobile Phones"
-date: 2024-11-13T22:51:16.220Z
-updated: 2024-11-16T17:40:18.809Z
+date: 2024-12-01T19:49:00.532Z
+updated: 2024-12-05T21:03:47.388Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499dd05b4708d5bc6f8d46016ec.png
@@ -45,6 +45,10 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -156,29 +160,19 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -250,6 +244,10 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
@@ -301,13 +299,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -339,6 +330,10 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -346,10 +341,7 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
@@ -357,13 +349,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -388,10 +373,7 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
@@ -403,13 +385,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -452,16 +427,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -515,6 +487,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -544,6 +520,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -557,6 +537,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -601,22 +585,16 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-find-your-custom-box-top-10-online-stores-offering-tailored-packaging/"><u>[New] Find Your Custom Box Top 10 Online Stores Offering Tailored Packaging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-showdown-full-review-and-ratings/"><u>[New] GoPro Showdown Full Review and Ratings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-husqvarna-h501s-drone-unboxed-review-essentials/"><u>[New] Husqvarna H501S Drone Unboxed - Review Essentials</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-improve-engagement-with-skillful-use-of-jump-cuts/"><u>[Updated] 2024 Approved Improve Engagement with Skillful Use of Jump Cuts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-go-viral-or-not-at-all-mobile-live-streaming-without-millions-of-subscribers/"><u>[Updated] Go Viral or Not at All Mobile Live-Streaming Without Millions of Subscribers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flash-frame-filmmaking-script/"><u>2024 Approved Flash Frame Filmmaking Script</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>2024 Approved How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-monitor-not-shown-as-full-screen-in-win11/"><u>Fix: Monitor Not Shown as Full Screen in Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-base-windows-to-high-end-win11-sleekness-for-2024/"><u>From Base Windows to High-End Win11 Sleekness for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-13-mini-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 13 mini Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hue-harmony-masterclass-for-audience-enthusiasts/"><u>In 2024, Hue Harmony Masterclass for Audience Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disk-space-limit-in-windows-os/"><u>Overcoming Disk Space Limit in Windows OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-clearing-up-100-storage-on-your-windows-11-pc/"><u>Step-by-Step Tutorial: Clearing Up 100% Storage on Your Windows 11 PC</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nokia-g310-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nokia G310</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ideal-screener-tech-elevating-your-youtube-presence/"><u>[Updated] 2024 Approved Ideal Screener Tech Elevating Your YouTube Presence</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>[Updated] In 2024, Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-artistry-instantaneous-image-tapestry-creation/"><u>2024 Approved Social Media Artistry Instantaneous Image Tapestry Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-basic-color-correction-in-photos-for-2024/"><u>Expert Tips on Basic Color Correction in Photos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-end-streaming-gear-for-professionals-for-2024/"><u>High-End Streaming Gear for Professionals for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fading-beats-an-fl-studio-approach/"><u>In 2024, Fading Beats An FL Studio Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-fisheye-sphere-capture/"><u>In 2024, Innovative Techniques for Fisheye Sphere Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/nano-drone-showdown-the-best-of-the-year-for-2024/"><u>Nano Drone Showdown The Best of the Year for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unrivaled-windows-video-calls-top-8-apps/"><u>Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
 </ul></div>
 
