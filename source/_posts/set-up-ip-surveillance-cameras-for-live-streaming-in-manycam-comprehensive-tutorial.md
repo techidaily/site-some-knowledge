@@ -1,7 +1,7 @@
 ---
 title: Set Up IP Surveillance Cameras for Live Streaming in ManyCam - Comprehensive Tutorial
-date: 2024-09-12T05:19:36.467Z
-updated: 2024-09-13T05:19:36.467Z
+date: 2024-12-17T03:45:30.308Z
+updated: 2024-12-18T12:52:23.801Z
 tags:
   - product
   - solution
@@ -14,28 +14,12 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 ManyCam Special – Up to 25% OFF Upgrade Now 
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## We're here to help!
 
 Search For ![Searching...](https://help.manycam.com/wp-content/themes/manycam_help_newdesign/img/loading.svg) Search 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. [Home](https://tools.techidaily.com/manycam/products/)
@@ -619,10 +603,7 @@ Forum
 ManyCam offers a variety of video sources that you can use in your broadcast. You can add a single video source or combine multiple video sources, depending on your workflow (see how to [add multiple video sources](https://tools.techidaily.com/manycam/products/)).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Add an IP camera
@@ -631,16 +612,13 @@ To get started, select **IP Cameras > Add new** from the list of ManyCam video s
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip-e1665037383754.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To add a new camera to the list, click the **Add IP Camera** button in the IP Camera Settings window that opens, and define a new IP camera in the dialog which will appear.
 
 #### ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip-new.png)Automatically detect and add IP camera within your local network
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If supported by your IP camera, ManyCam will be able to find it automatically. ManyCam can find IP cameras within your local network only. To proceed, click on the chain icon as shown in the image below.
 
@@ -657,6 +635,10 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_4.png)
 
 The only mandatory field is **URL**, which is the actual address of your IP camera. The name is used only for your IP cameras list — you may give your camera any name you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What IP camera URL should I use?
 
@@ -692,13 +674,6 @@ The buffer for an IP camera video feed is the amount of video content, in second
 
 ![](https://help.manycam.com/wp-content/uploads/2017/05/ManyCam_ip_5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The default buffer cache is set to **1000 ms** (=1 second), which commonly works great, however, finding the value that works best with your connection bandwidth might require some tweaking.
 
 ### Troubleshooting
@@ -710,24 +685,15 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 
  Updated on October 6, 2022 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
  Was this article helpful? 
 
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Articles
 
@@ -737,19 +703,6 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
 * [How to add a PDF file as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add images & videos as a video source](https://tools.techidaily.com/manycam/products/)
 * [How to add a webcam as a video source](https://tools.techidaily.com/manycam/products/)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -773,5 +726,21 @@ The default buffer cache is set to **1000 ms** (=1 second), which commonly works
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-game-developers-top-recording-tools/"><u>[New] 2024 Approved Game Developers' Top Recording Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[New] 2024 Approved Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>[Updated] Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dash-by-wonder-workshop-ready-to-roll-into-action-and-ignite-curiosity/"><u>Dash by Wonder Workshop - Ready to Roll Into Action and Ignite Curiosity!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-downloading-and-setup-the-comprehensive-guide-to-installing-epson-xp-410-drivers-on-windows/"><u>Easy Downloading & Setup: The Comprehensive Guide to Installing Epson XP-410 Drivers on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-6s-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 6s Without Apple ID Password?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-dvd-ripper-pro-authentifizierungsschlussel-fur-den-gesamten-offiziellen-vertrieb-erwerben-sie-ihre-seriennummer-2021/"><u>MacX DVD Ripper Pro: Authentifizierungsschlüssel Für Den Gesamten Offiziellen Vertrieb - Erwerben Sie Ihre Seriennummer 2021</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-for-converting-high-and-standard-definition-videos-to-mobile-format-using-macx-mobile-video-converter-on-your-mac/"><u>Step-by-Step Guide for Converting High & Standard Definition Videos to Mobile Format Using MacX Mobile Video Converter on Your Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-first-timers-handbook-10-key-strategies-for-conquering-the-previously-named-twitter-platform/"><u>The First-Timer’s Handbook: 10 Key Strategies for Conquering the Previously Named Twitter Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-top-safari-browser-add-ons-and-applications-for-seamless-youtube-video-retrieval/"><u>The Ultimate Guide: Top Safari Browser Add-Ons & Applications for Seamless YouTube Video Retrieval</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-realme-v30-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Realme V30 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-mastering-macx-hd-video-converter-pro-on-windows-step-by-step-guide-to-transform-hd-and-sd-videos/"><u>Ultimate Tutorial: Mastering MacX HD Video Converter Pro on Windows – Step-by-Step Guide to Transform HD & SD Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-vlc-the-comprehensive-guide-to-vlc-media-player/"><u>Understanding VLC: The Comprehensive Guide to VLC Media Player</u></a></li>
+<li><a href="https://solve-help.techidaily.com/vergessene-partitionen-auferstehen-lassen-tipps-und-tricks-zur-datenwiederherstellung-von-einem-usb-flashspeichergerat/"><u>Vergessene Partitionen Auferstehen Lassen: Tipps Und Tricks Zur Datenwiederherstellung Von Einem USB-Flashspeichergerät</u></a></li>
+</ul></div>
 
