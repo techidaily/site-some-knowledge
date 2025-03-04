@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Excellent Typography Trick Sets"
-date: 2024-08-30T09:07:17.638Z
-updated: 2024-08-31T09:07:17.638Z
+date: 2025-03-02T23:36:26.679Z
+updated: 2025-03-03T23:36:07.315Z
 tags: 
   - screen-recording
   - ai video
@@ -40,29 +40,12 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 5\. CounterPro Preset
 
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
@@ -81,18 +64,12 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 As the saying goes, the more the merrier and the more presets you have, the more attractive you can make your texts in your video. There are literally unlimited text presets for animation composer free download as well as premium download available. We have handpicked the best text animation presets that you can download and apply to the text of your video on After Effects.
@@ -125,4 +102,24 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-face-edits-leading-iphone-and-android-apps/"><u>[New] Expert Face Edits Leading iPhone & Android Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-your-path-to-metaverse-dominance-with-7-key-devices/"><u>[New] Your Path to Metaverse Dominance with 7 Key Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-websites-for-extracting-text-visual-upgrades/"><u>[Updated] Ideal Websites for Extracting Text Visual Upgrades</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-incorporating-youtube-harmonies-within-video-sequences/"><u>[Updated] Incorporating YouTube Harmonies Within Video Sequences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-choices-best-windows-8-podcasting/"><u>2024 Approved Excellent Choices Best Windows 8 Podcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-list-top-5-affordable-screen-recorders-for-windows/"><u>2024 Approved Exclusive List Top 5 Affordable Screen Recorders for Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-generate-hits-adobe-made-memes/"><u>2024 Approved Generate Hits Adobe-Made Memes</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/download-the-official-winx-dvd-ripper-platinum-software-with-a-complimentary-2024-license/"><u>Download the Official WinX DVD Ripper Platinum Software with a Complimentary 2024 License!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-crafted-the-best-8-convertor-list-for-sub-to-srt-for-2024/"><u>Expertly Crafted The Best 8 Convertor List for Sub to Srt for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-huawei-nova-y91-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Huawei Nova Y91 Fingerprint Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-v30-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme V30 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-methods-for-time-loop-illusions/"><u>In 2024, Innovative Methods for Time Loop Illusions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13 Pro Max? How to Fix</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/revive-your-data-effective-techniques-for-retrieving-information-from-formerly-deleted-sections-in-windows-nix/"><u>Revive Your Data: Effective Techniques for Retrieving Information From Formerly Deleted Sections in Windows Nix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-windows-11-solutions-for-non-responsive-search-function/"><u>Troubleshooting Windows 11: Solutions for Non-Responsive Search Function</u></a></li>
+<li><a href="https://win-answers.techidaily.com/untangling-the-puzzle-of-anthems-persistent-startup-problem-solutions-inside/"><u>Untangling the Puzzle of Anthem's Persistent Startup Problem - Solutions Inside!</u></a></li>
+</ul></div>
 

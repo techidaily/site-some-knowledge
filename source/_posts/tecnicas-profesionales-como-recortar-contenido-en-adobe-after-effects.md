@@ -1,7 +1,7 @@
 ---
 title: "Técnicas Profesionales: Cómo Recortar Contenido en Adobe After Effects"
-date: 2025-02-05T17:02:29.364Z
-updated: 2025-02-13T00:20:30.949Z
+date: 2025-02-27T23:13:26.798Z
+updated: 2025-03-03T23:31:39.766Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/6079315b4a8f6d3d142f95147af6d1bac63be2253674b8368d017bb33131f4f4.jpg
@@ -176,10 +176,6 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -213,10 +209,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -274,10 +266,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -310,10 +298,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -325,10 +309,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -363,10 +343,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -425,15 +401,7 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -487,10 +455,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -538,10 +502,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -585,20 +545,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-revolutionizing-pc-captures-a-review-of-apowersofts-tool/"><u>[New] In 2024, Revolutionizing PC Captures A Review of Apowersoft’s Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-reach-and-impact-on-facebook-using-wirecast-for-live-broadcasts/"><u>[New] Maximizing Reach & Impact on Facebook - Using Wirecast for Live Broadcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-expression-top-talkers-on-google-podcasts/"><u>[Updated] Excellence in Expression Top Talkers on Google Podcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fresh-talents-guide-to-2024s-entry-level-cams/"><u>[Updated] Fresh Talent's Guide to 2024’S Entry-Level Cams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-guiding-principles-for-integrating-videos-in-education/"><u>[Updated] Guiding Principles for Integrating Videos in Education</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-guiding-you-to-untainted-stock-visuals/"><u>[Updated] Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-anonymous-to-iconic-solo-podcast-blueprint-for-fame/"><u>2024 Approved From Anonymous to Iconic Solo Podcast Blueprint for Fame</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-fixes-to-get-your-alienware-command-center-up-and-running-again/"><u>Common Fixes to Get Your Alienware Command Center Up and Running Again</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-setup-17-tools-for-swift-image-enhancement-and-cleaning-for-2024/"><u>Ideal Setup 17 Tools for Swift Image Enhancement and Cleaning for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>In 2024, Flavorful Footage The Ultimate Guide to Delicious Food Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-taking-a-step-back-in-time-with-instagram-videos/"><u>In 2024, Taking a Step Back in Time with Instagram Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-10-gif-maker-services-transforming-jpgs-at-no-cost/"><u>Prime 10 GIF Maker Services Transforming JPGs at No Cost</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-diy-filming-ideas-for-aspiring-directors/"><u>Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oneplus-11-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For OnePlus 11 5G Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-the-iphone-16-pro-isnt-a-necessary-upgrade-from-iphone-14-insights-by-zdnet/"><u>Why the iPhone 16 Pro Isn't a Necessary Upgrade From iPhone 14 | Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-channels-popularity-with-12-key-growth-techniques/"><u>[New] 2024 Approved Elevate Your Channel's Popularity with 12 Key Growth Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-az-record-pro-detailed-app-analyses-and-backup-choices/"><u>[New] AZ Record Pro Detailed App Analyses & Backup Choices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-a-compreayers-guide-to-growth-updating-youtube-metadata/"><u>[New] In 2024, A Compreayer's Guide to Growth Updating YouTube Metadata</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-youtubes-featured-slot-a-detailed-explanimation-for-2024/"><u>[Updated] Navigating YouTube's Featured Slot A Detailed Explanimation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-quality-web-resources-for-glossy-3d-letters/"><u>2024 Approved High-Quality Web Resources for Glossy 3D Letters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-imovie-music-mosaic-creating-audio-visual-harmony/"><u>2024 Approved IMovie Music Mosaic Creating Audio-Visual Harmony</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-filmless-to-film-rich-digitizing-yesteryears-images-for-2024/"><u>From Filmless to Film-Rich Digitizing Yesteryears' Images for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-accelerate-your-computers-performance-with-top-third-party-applications-and-utilities-exploring-options-by-yl-tech-solutions/"><u>How to Accelerate Your Computer's Performance with Top Third-Party Applications & Utilities - Exploring Options by YL Tech Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-10-virtual-photo-backdrop-modifiers-for-2024/"><u>Ideal 10 Virtual Photo Backdrop Modifiers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>In 2024, Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-flight-fun-best-easy-to-use-drones/"><u>In 2024, First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-title-crafting-with-top-10-ai-tools/"><u>In 2024, Innovative Title Crafting with Top 10 AI Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242719-quick-fixes-to-enhance-performance-supercharge-your-iphone-1515-pro-in-just-a-few-steps/"><u>Quick Fixes to Enhance Performance: Supercharge Your iPhone 15/15 Pro in Just a Few Steps!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/charge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts-for-2024/"><u>Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blindness-of-algorithmic-writing/"><u>The Blindness of Algorithmic Writing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-5-free-screen-recorders-on-windows-10-2023-update-for-2024/"><u>Top 5 Free Screen Recorders on Windows 10-2023 Update for 2024</u></a></li>
 </ul></div>
 

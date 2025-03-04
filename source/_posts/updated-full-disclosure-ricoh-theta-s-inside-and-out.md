@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Full Disclosure  Ricoh Theta S Inside & Out\""
-date: 2024-08-30T09:13:07.465Z
-updated: 2024-08-31T09:13:07.465Z
+date: 2025-03-02T00:52:03.702Z
+updated: 2025-03-03T19:40:57.836Z
 tags: 
   - screen-recording
   - ai video
@@ -83,9 +83,6 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Part 3 Basic specs of Ricoh Theta S
 
 | **Full name**            | Ricoh Theta S                                             |                       |                                                                                                                                                                       |
@@ -102,9 +99,6 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image Resolution**     | 5376 x 2688 (14.5 MP, Other), 2048 x 1024 (2.1 MP, Other) | **Video resolution**  | 1920x1080 (30p) 1280x720 (15p)                                                                                                                                        |
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4 Should I buy Ricoh Theta S
 
 Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
@@ -113,16 +107,11 @@ Theta S is one of the most useful products for photography lovers whether they a
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +119,23 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-flawlessbackgroundfixer-premium-photo-editing-app/"><u>[New] FlawlessBackgroundFixer Premium Photo Editing App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-nine-crucial-methods-to-log-computer-speakers-and-microphones-for-2024/"><u>[New] Nine Crucial Methods to Log Computer Speakers and Microphones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-6-web-spaces-for-corporate-social-connections/"><u>[New] Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-play-your-iphone-videos-backward/"><u>2024 Approved How to Play Your iPhone Videos Backward</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-the-front-row-ranked-no-8-image-synthesis-app/"><u>2024 Approved In the Front Row Ranked No. 8 Image Synthesis App</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/engage-your-audience-discover-the-top-5-tiktok-caption-styles-for-2024/"><u>Engage Your Audience Discover the Top 5 TikTok Caption Styles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/find-your-favorite-download-free-slide-show-patterns-today-for-2024/"><u>Find Your Favorite, Download-Free Slide Show Patterns Today for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-cluttered-to-clear-a-canva-guide-for-borders-removal-for-2024/"><u>From Cluttered to Clear A Canva Guide for Borders Removal for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-nvidia-1080-ti-cards-up-to-date-free-download-and-installation-steps/"><u>Get Your NVIDIA 1080 Ti Cards Up to Date: Free Download & Installation Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gimbal-excellence-markets-top-choices-for-2024/"><u>Gimbal Excellence Market's Top Choices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>In 2024, Innovation in Visuals A Guide to the Leading 5 Monitors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-requirement-aspect-ratio/"><u>In 2024, Twitter Video Requirement - Aspect Ratio</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 13 Pro Max Properly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/slug-line-creation-techniques-for-online-copy/"><u>Slug Line Creation Techniques for Online Copy</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Impressive Array of Mobile Text Options"
-date: 2024-08-30T09:10:19.806Z
-updated: 2024-08-31T09:10:19.806Z
+date: 2025-02-28T18:50:35.698Z
+updated: 2025-03-03T23:07:45.590Z
 tags: 
   - screen-recording
   - ai video
@@ -34,9 +34,6 @@ You get 110 animated elements that you can apply to the text in your video. The 
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
@@ -55,21 +52,12 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
 
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Kinetic Text Animation
 
 Kinetic text effect is a part of dynamic text effects and there is a high demand for kinetic text animation. In this pack, you get 56 text animations and all the effects have full HD resolution. The effect will literally transform your video content and help you to get a proper branding on the video. There are different types of animations available and you videos will not look boring by any chance.
@@ -82,12 +70,6 @@ You get eleven styles of elements in the pack, and you can customize the designs
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 As the saying goes, the more the merrier and the more presets you have, the more attractive you can make your texts in your video. There are literally unlimited text presets for animation composer free download as well as premium download available. We have handpicked the best text animation presets that you can download and apply to the text of your video on After Effects.
@@ -120,4 +102,21 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-gaming-with-style-perfecting-your-steam-footage-for-2024/"><u>[New] Gaming with Style - Perfecting Your Steam Footage for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-analysis-of-powerdirector-24-features/"><u>[New] In-Depth Analysis of PowerDirector '24 Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-swift-introduction-the-art-of-green-screening/"><u>[Updated] In 2024, Swift Introduction The Art of Green Screening</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-tips-to-use-zoom-on-chromebook/"><u>2024 Approved Best Tips to Use Zoom on Chromebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exceptional-facial-editing-software-iphoneandroid/"><u>2024 Approved Exceptional Facial Editing Software, iPhone/Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-blur-facesbackgroundimages-in-photoshop/"><u>2024 Approved How to Blur Faces/Background/Images in Photoshop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-identifying-ideal-frame-rates-in-slow-mo-vids/"><u>2024 Approved Identifying Ideal Frame Rates in Slow-Mo Vids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-performance-and-free-up-space-how-to-empty-cache-on-your-android-smartphonetablet/"><u>Boost Performance & Free Up Space: How to Empty Cache on Your Android Smartphone/Tablet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-v2-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic V2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fixing-windows-11-photo-app-glitches-quickly/"><u>In 2024, Fixing Windows 11 Photo App Glitches Quickly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/inch-towards-a-million-instagrams-1k-goal-for-you-for-2024/"><u>Inch Towards a Million Instagram's 1K Goal for You for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-strategies-for-effective-documentary-scripts-for-2024/"><u>Innovative Strategies for Effective Documentary Scripts for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/m4a/"><u>M4Aファイルのビットレート変換テクニック集紹介</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-money-from-youtube-shorts-key-elements-and-profit-possibilities-for-2024/"><u>Making Money From YouTube Shorts Key Elements & Profit Possibilities for 2024</u></a></li>
+</ul></div>
 

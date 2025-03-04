@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Filmmaker's Checklist  On-the-Go Gear Guide\""
-date: 2024-08-30T09:11:04.358Z
-updated: 2024-08-31T09:11:04.358Z
+date: 2025-02-24T16:26:26.490Z
+updated: 2025-03-03T21:27:07.225Z
 tags: 
   - screen-recording
   - ai video
@@ -34,18 +34,12 @@ First off, I've got a mobile phone, mirrorless camera, action camera, gimbal, tr
 
 The next gadget that I want to get my hands on, A DRONE. I'm still saving, and surely, I will get that soon. First, let me explain why I got those types of equipment…
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Vlogging Camera (Mirrorless Camera)
 
 Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cinematic shots. It is specially made for beginners; it has a lot of cool features and at a reasonable price. What I love about this is the flip screen, and I found it very exceptional for vlogging. You can also use 4k resolution with this camera. For me, the only issue with this camera is the image stabilization but it's not that significant, because of the **[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**. This app offers the stabilization option that provides a smoothness level and it will be better than the raw or original clip footage of your video. Lastly, it is compact, handy and I highly recommend this.
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
@@ -56,9 +50,6 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 4\. Action Camera
 
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
@@ -71,17 +62,6 @@ In any case, we needed a few accessories to support our equipment better. Simple
 
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Laptop, desktop, or phone for editing
 
 In my own experience, every time I go out and visit different places, I always have my laptop with me, so that I can easily transfer my files and start the editing process. Constantly, when I have spare time or I'm not doing anything while resting during the trip, I start editing to make progress gradually. This can save my time. I'm going to show you how I transfer my files and edit my video by **STABILIZING** your video that makes it better in **Wondershare Filmora.**
@@ -120,9 +100,6 @@ select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
 there you go. analyzing the video means its working 100% you will see the difference from shaky to smooth and stabilize video
@@ -143,32 +120,18 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4STABILIZING THE VIDEO
 
 choose the TOOLS
@@ -177,9 +140,6 @@ select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
 there you go. analyzing the video means its working 100% you will see the difference from shaky to smooth and stabilize video
@@ -212,4 +172,26 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-phones-apps-for-masterful-gopro-edits/"><u>[New] Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tuning-your-audio-transitions-in-depth-insights-for-using-audacity/"><u>[New] Fine-Tuning Your Audio Transitions In-Depth Insights for Using Audacity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-tasks-during-your-podcast-sessions/"><u>[New] Ideal Tasks During Your Podcast Sessions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-expert-advice-creating-and-uploading-vr-videos-to-boost-fb-visibility/"><u>[Updated] 2024 Approved Expert Advice Creating & Uploading VR Videos to Boost FB Visibility</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-addressing-youtube-shorts-no-image-upload-issue/"><u>[Updated] Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capturing-the-perfect-screen-time-with-snapchat-for-2024/"><u>[Updated] Capturing the Perfect Screen Time with Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-game-based-youtube-earning-guide/"><u>[Updated] Game-Based YouTube Earning Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-book-trailers-displayed/"><u>[Updated] Innovative Book Trailers Displayed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-box-open-strategies/"><u>[Updated] Innovative Box-Open Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exceptional-online-tv-services-featuring-community-broadcasts/"><u>2024 Approved Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-most-popular-vr-game-experiences-on-oculus/"><u>2024 Approved The Most Popular VR Game Experiences on Oculus</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-user-experience-the-cookiebot-difference/"><u>Elevate User Experience: The Cookiebot Difference</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-powerful-programs-for-efficient-screen-grabbing-without-windows/"><u>Five Powerful Programs for Efficient Screen Grabbing Without Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-change-powerpoint-video-speed-for-2024/"><u>How to Change PowerPoint Video Speed for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-overwatchs-voice-chat-working-again/"><u>How to Get Overwatch's Voice Chat Working Again</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-worlds-unveiled-jaunt-vr-in-focus/"><u>In 2024, Immersive Worlds Unveiled Jaunt VR in Focus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-music-mosaic-creating-audio-visual-harmony/"><u>In 2024, IMovie Music Mosaic Creating Audio-Visual Harmony</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-professional-streaming-made-simple-in-obs-studio-android-edition/"><u>In 2024, Professional Streaming Made Simple in OBS Studio, Android Edition</u></a></li>
+</ul></div>
 

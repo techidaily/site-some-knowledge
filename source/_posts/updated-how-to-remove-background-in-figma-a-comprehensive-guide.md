@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How To Remove Background In Figma  A Comprehensive Guide\""
-date: 2024-08-30T09:13:04.110Z
-updated: 2024-08-31T09:13:04.110Z
+date: 2025-02-25T00:46:27.340Z
+updated: 2025-03-03T16:09:49.595Z
 tags: 
   - screen-recording
   - ai video
@@ -60,9 +60,6 @@ Step1 First, open a browser, visit the [Figma website](https://www.figma.com), a
 
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
 
 Step2 Next, search for **"**[**PixCut Background Remover**](https://www.figma.com/community/plugin/990188175789012011)**"** using the search option and select it from the result. Click **"Run,"** choose the **"Select App key"** option from the drop-down menu, and you will be asked for your **"Appkey."**
@@ -79,9 +76,6 @@ The program will start running the plugin, and the background of your image will
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -111,12 +105,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -127,9 +115,6 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -156,16 +141,10 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -196,4 +175,19 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-leading-links-to-googles-advertising-networks-on-videos/"><u>[New] 2024 Approved Leading Links to Google's Advertising Networks on Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-authenticity-in-your-digital-instagram-family/"><u>[New] Decoding Authenticity in Your Digital Instagram Family</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-shoot-a-time-lapse-video-with-gopro-hero5-black/"><u>[New] In 2024, How to Shoot a Time-Lapse Video with GoPro Hero5 Black</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-social-sites-for-effective-youtube-video-promotion/"><u>[New] Social Sites for Effective YouTube Video Promotion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outubes-revenue-per-million-views-an-insight-for-2024/"><u>[New] YouTube's Revenue Per Million Views An Insight for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>[Updated] Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-animated-bouncing-text/"><u>[Updated] How to Create Animated Bouncing Text</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-audio-and-visuals-add-apple-music-to-videos/"><u>2024 Approved Harmonizing Audio and Visuals Add Apple Music to Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>2024 Approved In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
+<li><a href="https://discover-best.techidaily.com/artificial-intelligence-in-multimedia-elevate-your-images-and-videos-through-resizing-stabilization-conversion-and-editing-processes/"><u>Artificial Intelligence in Multimedia: Elevate Your Images & Videos Through Resizing, Stabilization, Conversion, and Editing Processes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-zero-to-hero-effective-livestream-strategies-without-millions-of-viewers-for-2024/"><u>From Zero to Hero Effective Livestream Strategies without Millions of Viewers for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-naturally-17-commonplace-spanish-phrases/"><u>Speak Naturally: 17 Commonplace Spanish Phrases</u></a></li>
+</ul></div>
 
